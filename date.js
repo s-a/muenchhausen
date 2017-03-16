@@ -1,5 +1,4 @@
 var RJSON = require( "relaxed-json" );
-var Globalize = require( "globalize" );
 
 var MDate = function(options) {
 	this.culture = (options ? options.data.root.culture : "en");
@@ -18,7 +17,7 @@ function randomDate(start, end, startHour, endHour) {
 MDate.prototype.now = function(context, options) {
 
 	var setup = RJSON.parse("{" + (arguments[0] || "") + "}");
-	return Globalize(this.culture).formatDate(new Date()) + (setup.suffix ? setup.suffix : "");
+	return options.data.root.Globalize(this.culture).formatDate(new Date()) + (setup.suffix ? setup.suffix : "");
 };
 
 function randomDate(){
@@ -30,10 +29,10 @@ function randomDate(){
    return new Date(timestamp);
 }
 
-MDate.prototype.random = function() {
+MDate.prototype.random = function(context, options) {
 	var date = randomDate();
 	var setup = RJSON.parse("{" + (arguments[0] || "") + "}");
-	return Globalize(this.culture).formatDate(date);
+	return options.data.root.Globalize(this.culture).formatDate(date);
 };
 
 module.exports = MDate;

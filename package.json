@@ -48,6 +48,7 @@
     "creditcard-generator": "0.0.7",
     "globalize": "^1.2.2",
     "handlebars": "^4.0.6",
+    "n-cli": "^1.2.10",
     "relaxed-json": "^1.0.1"
   }
 }
