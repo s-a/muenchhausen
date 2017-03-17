@@ -21,6 +21,7 @@
   "devDependencies": {
     "eslint": "^3.1.1",
     "eslint-config-xo-space": "^0.14.0",
+    "glob": "^7.1.1",
     "gulp": "^3.9.0",
     "gulp-coveralls": "^0.1.0",
     "gulp-eslint": "^2.0.0",
@@ -30,6 +31,7 @@
     "gulp-mocha": "^2.0.0",
     "gulp-nsp": "^2.1.0",
     "gulp-plumber": "^1.0.0",
+    "jsdox": "^0.4.10",
     "should": "^11.2.1"
   },
   "eslintConfig": {
@@ -43,7 +45,7 @@
     "prepublish": "gulp prepublish",
     "test": "gulp",
     "docs:lib": "jsdox lib/index.js && cp ./output/index.md ./API.md",
-    "docs": "npm run docs:lib",
+    "docs": "npm run docs:lib"
   },
   "license": "MIT",
   "dependencies": {
