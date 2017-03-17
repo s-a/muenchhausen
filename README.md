@@ -25,5 +25,5 @@ MIT © [s-a](https://github.com/s-a)
 [travis-url]: https://travis-ci.org/s-a/muenchhausen
 [daviddm-image]: https://david-dm.org/s-a/muenchhausen.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/s-a/muenchhausen
-[coveralls-image]: https://coveralls.io/repos/s-a/muenchhausen/badge.svg
-[coveralls-url]: https://coveralls.io/r/s-a/muenchhausen
+[coveralls-image]: https://coveralls.io/repos/github/s-a/muenchhausen/badge.svg?branch=master
+[coveralls-url]: https://coveralls.io/github/s-a/muenchhausen?branch=master
