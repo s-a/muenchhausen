@@ -41,7 +41,9 @@
   "repository": "s-a/muenchhausen",
   "scripts": {
     "prepublish": "gulp prepublish",
-    "test": "gulp"
+    "test": "gulp",
+    "docs:lib": "jsdox lib/index.js && cp ./output/index.md ./API.md",
+    "docs": "npm run docs:lib",
   },
   "license": "MIT",
   "dependencies": {
