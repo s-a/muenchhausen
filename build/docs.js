@@ -1,8 +1,8 @@
 "use strict";
 
 
-fs = require("fs");
-path = require("path");
+var fs = require("fs");
+var path = require("path");
 
 
 var glob = require("glob")
@@ -29,8 +29,14 @@ var processFile = function processFile(file, done) {
 		segments[i] = (segments[i] === "lib" ? "Muenchhausen" : segments[i])
 	}
 
-
-	var output = "./docs/" + segments.join(".") + ".md";
+	var f = path.basename(file);
+	var output = path.join(".", "docs", segments.join("."), f) + ".md";
+	if (f.toLowerCase() === "index.js"){
+		f = "";
+		output = path.join(".", "docs", segments.join("."), f) + ".md";
+	} else {
+		output = path.join(".", "docs", segments.join(".")) + "." + f + ".md";
+	}
 	console.log(file, output)
 	var templateDir = "./node_modules/jsdox/templates/";
 	var jsdox = require("jsdox");

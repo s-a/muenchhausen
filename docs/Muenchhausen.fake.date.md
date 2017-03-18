@@ -6,23 +6,23 @@
 
 * * *
 
-### now(randomizeSettings) 
+### now(templateString) 
 
-Current date.
-
-**Parameters**
-
-**randomizeSettings**: `Object`, Example: `"today is: {{{date.now}}}"`
-
-
-
-### random(randomizeSettings) 
-
-Random date based on configuration options.
+current date based on template using configuration options.
 
 **Parameters**
 
-**randomizeSettings**: `Object`, Example: `"a random date: {{{date.random 'suffix:.ad,min:20770901'}}}\trandom: {{{date.random}}}"`
+**templateString**: `String`, a template string. For example `"now:{{{date.now 'suffix:am, min:20200901'}}}"`
+
+
+
+### random(templateString) 
+
+random date based on template using configuration options.
+
+**Parameters**
+
+**templateString**: `String`, a template string. For example `"now:{{{date.random 'suffix:am, min:20200901'}}}"`
 
 
 
