@@ -24,7 +24,7 @@ describe("Validate fake methods", function () {
       it(fn + " function should have function ." + name + "() or property ." + name, function () {
           var x = f(context, context.options);
           var type = (typeof x[name]);
-          type.should.be.equalOneOf("function", "string", "object");
+          type.should.be.equalOneOf("function", "string", "object", "number");
       });
   }
 
