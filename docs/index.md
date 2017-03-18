@@ -2,6 +2,7 @@
 
 - [Muenchhausen](Muenchhausen.md)
 - [Muenchhausen.fake](Muenchhausen.fake.md)
+- [Muenchhausen.fake.number](Muenchhausen.fake.number.md)
 - [Muenchhausen.fake.emoji](Muenchhausen.fake.emoji.md)
 - [Muenchhausen.fake.date](Muenchhausen.fake.date.md)
 - [Muenchhausen.extension](Muenchhausen.extension.md)
