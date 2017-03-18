@@ -7,13 +7,13 @@
 $ npm install --save muenchhausen
 ```
 
-## Usage
+## Client
 
-```js
-var muenchhausen = require('muenchhausen');
+A shell client is avialable at [muenchhausen-client](https://github.com/s-a/muenchhausen-client). 
 
-muenchhausen('Rainbow');
-```
+## API
+ A detailed API description is available at [https://s-a.github.io/muenchhausen/](https://s-a.github.io/muenchhausen/)
+
 ## License
 
 MIT © [s-a](https://github.com/s-a)
