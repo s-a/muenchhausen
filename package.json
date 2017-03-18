@@ -44,8 +44,8 @@
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp",
-    "docs:lib": "jsdox lib/index.js && cp ./output/index.md ./API.md",
-    "docs": "npm run docs:lib"
+    "docs": "node build/docs.js",
+    "debug": "iron-node node_modules/mocha/bin/_mocha"
   },
   "license": "MIT",
   "dependencies": {
