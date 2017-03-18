@@ -55,6 +55,7 @@
     "globalize": "^1.2.2",
     "handlebars": "^4.0.6",
     "n-cli": "^1.2.10",
+    "node-emoji": "^1.5.1",
     "relaxed-json": "^1.0.1"
   }
 }
