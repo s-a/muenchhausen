@@ -3,12 +3,9 @@
 
 var fs = require("fs");
 var path = require("path");
-
-
-var glob = require("glob")
+var glob = require("glob");
 var options = {};
 var all = []; 
-// options is optional
 var xfiles;
 var processFiles = function processFiles(done) {
 	if(xfiles.length === 0){ 
@@ -50,7 +47,7 @@ var processFile = function processFile(file, done) {
 };
 
 glob("./lib/**/*.js", options, function (er, files) {
- 	xfiles = files;
+	xfiles = files;
 	processFiles(function(){
 		var md = "# muenchhausen API\n\n";
 

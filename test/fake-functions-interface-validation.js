@@ -7,7 +7,6 @@ var muenchhausen = new Muenchhausen();
 var Globalize = require( "globalize" );
 Globalize.load( require( "cldr-data" ).entireSupplemental() );
 
-
 var context = {
   options : {
     data : {
