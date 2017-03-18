@@ -12,7 +12,7 @@ $ npm install --save muenchhausen
 A shell client is avialable at [muenchhausen-client](https://github.com/s-a/muenchhausen-client). 
 
 ## API
- A detailed API description is available at [https://s-a.github.io/muenchhausen/](https://s-a.github.io/muenchhausen/)
+ A detailed API description is available at [https://github.com/s-a/muenchhausen/blob/master/docs/index.md](https://github.com/s-a/muenchhausen/blob/master/docs/index.md)
 
 ## License
 
