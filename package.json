@@ -33,6 +33,7 @@
     "gulp-mocha": "^2.0.0",
     "gulp-nsp": "^2.1.0",
     "gulp-plumber": "^1.0.0",
+    "handlebars": "^4.0.6",
     "jsdox": "^0.4.10",
     "microtime": "^2.1.2",
     "should": "^11.2.1"

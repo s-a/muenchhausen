@@ -37,7 +37,7 @@ var processFile = function processFile(file, done) {
 	console.log(file, output)
 	var templateDir = "./node_modules/jsdox/templates/";
 	var jsdox = require("jsdox");
-	jsdox.generateForDir(file, path.join(output, ".."), templateDir, function(str){
+	jsdox.generateForDir(file, path.join(output, ".."), templateDir, function(){
 		fs.rename("./docs/index.md", output, function(err) {
 			all.push(output);
 			if ( err ) console.error("ERROR: " + err);
@@ -57,12 +57,9 @@ glob("./lib/**/*.js", options, function (er, files) {
 		}
 		
 		md += "- " + all.sort(function(a, b) {
-	    	return a < b;
+			return a < b;
 		}).join("\n- ")
 		console.log("index.md written")
 		fs.writeFileSync("docs/index.md", md);
-	 
 	});
-
-
 })
