@@ -1,6 +1,6 @@
 {
   "name": "muenchhausen",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "fake data",
   "homepage": "https://github.com/s-a/muenchhausen",
   "author": {
@@ -19,8 +19,10 @@
     "testing"
   ],
   "devDependencies": {
+    "benchmark": "^2.1.3",
     "eslint": "^3.1.1",
     "eslint-config-xo-space": "^0.14.0",
+    "faker": "^4.1.0",
     "glob": "^7.1.1",
     "gulp": "^3.9.0",
     "gulp-coveralls": "^0.1.0",
@@ -32,6 +34,7 @@
     "gulp-nsp": "^2.1.0",
     "gulp-plumber": "^1.0.0",
     "jsdox": "^0.4.10",
+    "microtime": "^2.1.2",
     "should": "^11.2.1"
   },
   "eslintConfig": {
@@ -43,17 +46,19 @@
   "repository": "s-a/muenchhausen",
   "scripts": {
     "prepublish": "gulp prepublish",
+    "dev": "node index.js",
     "test": "gulp",
     "docs": "node build/docs.js",
     "debug": "iron-node node_modules/mocha/bin/_mocha",
-    "bump": "node node_modules/mocha/bin/_mocha && npm version patch && git push && git push --tags && npm publish"
+    "bump": "node node_modules/mocha/bin/_mocha && npm version patch && git push && git push --tags && npm publish",
+    "benchmark": "node scripts/benchmark.js"
   },
   "license": "MIT",
   "dependencies": {
     "cldr-data": "^30.0.4",
     "creditcard-generator": "0.0.7",
     "globalize": "^1.2.2",
-    "handlebars": "^4.0.6",
+    "line-by-line": "^0.1.5",
     "n-cli": "^1.2.10",
     "node-emoji": "^1.5.1",
     "relaxed-json": "^1.0.1"

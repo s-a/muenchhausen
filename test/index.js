@@ -8,7 +8,7 @@ describe("muenchhausen", function () {
 
     var muenchhausen = new Muenchhausen("de");
 
-    var merchandiseTVSpotText = "{{{date.now.text 'suffix:this'}}}-{{{date.random.value 'suffix:format,min:20200901'}}}  {{{date.random}}}";
+    var merchandiseTVSpotText = "{{{date.now.text suffix:this}}}-{{{date.random.value suffix:format,min:20200901}}}  {{{date.random}}}";
     var news = muenchhausen.render(merchandiseTVSpotText);
     //console.log(news);
 
