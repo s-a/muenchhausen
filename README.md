@@ -7,6 +7,14 @@
 $ npm install --save muenchhausen
 ```
 
+## Usage
+```javascript
+var muenchhausen = new Muenchhausen("de");
+var merchandiseTVSpotText = "{{{date.now.text suffix:this}}}-{{{date.random.value suffix:format,min:20200901}}}  {{{date.random}}}";
+var news = muenchhausen.render(merchandiseTVSpotText);
+console.log(news);
+```
+
 ## Client
 
 A shell client is avialable at [muenchhausen-client](https://github.com/s-a/muenchhausen-client). 
