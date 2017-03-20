@@ -1,5 +1,4 @@
 var Benchmark = require("benchmark");
-var suite = new Benchmark.Suite;
 var Muenchhausen = require("./../lib");
 var muenchhausen = new Muenchhausen("de");
 var faker = require("faker");
@@ -20,20 +19,46 @@ function systeminfo(done){
 	}).catch(error => console.error(error))
 };
 
+function testSuite(functionBundle){
+
+	var suite1 = new Benchmark.Suite();
+	suite1
+		.add(functionBundle.name1, functionBundle.f1)
+		.add(functionBundle.name2, functionBundle.f2)
+		.on("cycle", function(event) {
+			console.log(String(event.target));
+		})
+		.on("complete", function() {
+		  	console.log("Fastest is " + this.filter("fastest").map("name"));
+			console.log("");
+		})
+		.run({ "async": false }); 
+
+	return suite1
+}
+
 systeminfo(function(){
-	suite
-		.add("muenchhausen.date.future", function() {
+
+	testSuite({
+		name1 : "muenchhausen.date.future",
+		f1 : function() {
 			muenchhausen.render("$(date.future.value)"); 
-		})
-		.add("faker.date.future", function() {
+		},
+		name2 : "faker.date.future",
+		f2 : function() {
 			faker.fake("{{date.future}}");
-		})
-	.on("cycle", function(event) {
-		console.log(String(event.target));
-	})
-	.on("complete", function() {
-	  	console.log("Fastest is " + this.filter("fastest").map("name"));
-		console.log("");
-	})
-	.run({ "async": true }); 
+		}
+	});	
+
+	testSuite({
+		name1 : "muenchhausen.date.random",
+		f1 : function() {
+			muenchhausen.render("$(date.random.value)"); 
+		},
+		name2 : "faker.date.future",
+		f2 : function() {
+			faker.fake("{{date.future}}");
+		}
+	});
+
 });
