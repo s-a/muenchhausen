@@ -5,9 +5,9 @@ var faker = require("faker");
 faker.locale = "de"; 
 
 function systeminfo(done){
-	var os = require('os');
+	var os = require("os");
 	var m = new Muenchhausen("en");
-	var si = require('systeminformation');
+	var si = require("systeminformation");
 	si.cpu().then(function(cpu){
 		si.versions().then(function(version){
 			console.log();
@@ -16,8 +16,8 @@ function systeminfo(done){
 			console.log("***CPU:*** " + cpu.manufacturer + " " + cpu.brand + " speed: " + cpu.speed + " cores: " + cpu.cores + "  ");
 			console.log("");
 			done();
-		}).catch(error => console.error(error));
-	}).catch(error => console.error(error))
+		}).catch(function(error){ console.error(error) });
+	}).catch(function(error){ console.error(error) });
 };
 
 function testSuite(functionBundle){
@@ -30,7 +30,7 @@ function testSuite(functionBundle){
 			console.log("- `" + String(event.target) + "`  ");
 		})
 		.on("complete", function() {
-		  	console.log("  - Fastest is `" + this.filter("fastest").map("name") + "`  ") ;
+			console.log("  - Fastest is `" + this.filter("fastest").map("name") + "`  ") ;
 			console.log("  ");
 		})
 		.run({ "async": false }); 
@@ -50,6 +50,17 @@ systeminfo(function(){
 			faker.fake("{{date.future}}");
 		}
 	});	
+
+	testSuite({
+		name1 : "muenchhausen.date.past",
+		f1 : function() {
+			muenchhausen.render("$(date.past.value)"); 
+		},
+		name2 : "faker.date.past",
+		f2 : function() {
+			faker.fake("{{date.past}}");
+		}
+	});
 
 	testSuite({
 		name1 : "muenchhausen.date.random",
