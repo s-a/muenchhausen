@@ -22,6 +22,21 @@ A shell client is avialable at [muenchhausen-client](https://github.com/s-a/muen
 ## API
  A detailed API description is available at [https://github.com/s-a/muenchhausen/blob/master/docs/index.md](https://github.com/s-a/muenchhausen/blob/master/docs/index.md)
 
+
+## Benchmark
+
+time: Monday, March 20, 2017 at 9:42:52 AM GMT+01:00
+node: v6.9.2 on win32 x64 v10.0.14393 with 8461197312 total memory.
+cpu: Intel® Core™ i5-4460 speed: 3.2 cores:4
+
+muenchhausen.date.future x 125,132 ops/sec ±0.22% (94 runs sampled)
+faker.date.future x 78,834 ops/sec ±1.95% (90 runs sampled)
+Fastest is muenchhausen.date.future
+
+muenchhausen.date.random x 148,154 ops/sec ±1.27% (94 runs sampled)
+faker.date.future x 79,741 ops/sec ±1.97% (89 runs sampled)
+Fastest is muenchhausen.date.random
+
 ## License
 
 MIT © [s-a](https://github.com/s-a)
