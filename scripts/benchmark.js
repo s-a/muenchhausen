@@ -10,9 +10,17 @@ function systeminfo(done){
 	var si = require('systeminformation');
 	si.cpu().then(function(cpu){
 		si.versions().then(function(version){
-			console.log("time: " + m.render("$(date.now format:{ datetime: full })"));
-			console.log("node: v" + version.node + " on " + os.platform() + " " + os.arch() + " v" + os.release() + " with " + os.totalmem() + " total memory.");
-			console.log("cpu: " + cpu.manufacturer + " " + cpu.brand + " speed: " + cpu.speed + " cores:" + cpu.cores);
+			console.log("### Time");
+			console.log("");
+			console.log(m.render("$(date.now format:{ datetime: full })  "));
+			console.log("");
+			console.log("### Node");
+			console.log("");
+			console.log("v" + version.node + " on " + os.platform() + " " + os.arch() + " v" + os.release() + " with " + os.totalmem() + " total memory.  ");
+			console.log("");
+			console.log("### CPU");
+			console.log("");
+			console.log(cpu.manufacturer + " " + cpu.brand + " speed: " + cpu.speed + " cores: " + cpu.cores + "  ");
 			console.log("");
 			done();
 		}).catch(error => console.error(error));
@@ -26,11 +34,11 @@ function testSuite(functionBundle){
 		.add(functionBundle.name1, functionBundle.f1)
 		.add(functionBundle.name2, functionBundle.f2)
 		.on("cycle", function(event) {
-			console.log(String(event.target));
+			console.log("`" + String(event.target) + "`  ");
 		})
 		.on("complete", function() {
-		  	console.log("Fastest is " + this.filter("fastest").map("name"));
-			console.log("");
+		  	console.log("Fastest is `" + this.filter("fastest").map("name") + "`  ") ;
+			console.log("  ");
 		})
 		.run({ "async": false }); 
 
