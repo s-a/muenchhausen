@@ -25,27 +25,17 @@ A shell client is avialable at [muenchhausen-client](https://github.com/s-a/muen
 
 ## Benchmark
 
-### Time
+*Time* Monday, March 20, 2017 at 9:55:42 AM GMT+01:00  
+*Node* v6.9.2 on win32 x64 v10.0.14393 with 8461197312 total memory.  
+*CPU* Intel® Core™ i5-4460 speed: 3.2 cores: 4  
 
-Monday, March 20, 2017 at 9:51:44 AM GMT+01:00
+- `muenchhausen.date.future x 127,224 ops/sec ±0.34% (93 runs sampled)`
+- `faker.date.future x 80,739 ops/sec ±1.99% (89 runs sampled)`
+ - Fastest is `muenchhausen.date.future`
 
-### Node
-
-v6.9.2 on win32 x64 v10.0.14393 with 8461197312 total memory.
-
-### CPU
-
-Intel® Core™ i5-4460 speed: 3.2 cores: 4
-
-#### Suite
-
-`muenchhausen.date.future x 136,703 ops/sec ±0.23% (93 runs sampled)`
-`faker.date.future x 75,686 ops/sec ±1.74% (91 runs sampled)`
-Fastest is `muenchhausen.date.future`
-
-`muenchhausen.date.random x 160,478 ops/sec ±1.36% (91 runs sampled)`
-`faker.date.future x 75,847 ops/sec ±1.83% (89 runs sampled)`
-Fastest is `muenchhausen.date.random`
+- `muenchhausen.date.random x 151,673 ops/sec ±1.79% (87 runs sampled)`  
+- `faker.date.future x 80,570 ops/sec ±1.96% (90 runs sampled)`  
+  - Fastest is `muenchhausen.date.random`
 
 
 ## License

@@ -10,17 +10,10 @@ function systeminfo(done){
 	var si = require('systeminformation');
 	si.cpu().then(function(cpu){
 		si.versions().then(function(version){
-			console.log("### Time");
-			console.log("");
-			console.log(m.render("$(date.now format:{ datetime: full })  "));
-			console.log("");
-			console.log("### Node");
-			console.log("");
-			console.log("v" + version.node + " on " + os.platform() + " " + os.arch() + " v" + os.release() + " with " + os.totalmem() + " total memory.  ");
-			console.log("");
-			console.log("### CPU");
-			console.log("");
-			console.log(cpu.manufacturer + " " + cpu.brand + " speed: " + cpu.speed + " cores: " + cpu.cores + "  ");
+			console.log();
+			console.log("*Time* " + m.render("$(date.now format:{ datetime: full })  "));
+			console.log("*Node* " + "v" + version.node + " on " + os.platform() + " " + os.arch() + " v" + os.release() + " with " + os.totalmem() + " total memory.  ");
+			console.log("*CPU* " + cpu.manufacturer + " " + cpu.brand + " speed: " + cpu.speed + " cores: " + cpu.cores + "  ");
 			console.log("");
 			done();
 		}).catch(error => console.error(error));
