@@ -1,0 +1,25 @@
+{
+    "weekdays": [
+        "Sonntag",
+        "Montag",
+        "Dienstag",
+        "Mittwoch",
+        "Donnerstag",
+        "Freitag",
+        "Samstag"
+    ],
+    "month": [
+        "Januar",
+        "Februar",
+        "März",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "Oktober",
+        "November",
+        "Dezember"
+    ]
+}

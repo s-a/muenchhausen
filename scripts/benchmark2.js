@@ -1,8 +1,8 @@
 var Benchmark = require("benchmark");
 var Muenchhausen = require("./../lib");
-var muenchhausen = new Muenchhausen("de");
+var muenchhausen = new Muenchhausen("en");
 var faker = require("faker");
-faker.locale = "de"; 
+faker.locale = "en"; 
 
 function systeminfo(done){
 	var os = require("os");
@@ -43,70 +43,25 @@ function testSuite(functionBundle){
 systeminfo(function(){
 
 	testSuite({
-		name1 : "muenchhausen.date.future",
-		f1 : function() {
-			muenchhausen.render("$(date.future.value)"); 
-		},
-		name2 : "faker.date.future",
-		f2 : function() {
-			faker.fake("{{date.future}}");
-		}
-	});	
-
-	testSuite({
-		name1 : "muenchhausen.date.past",
-		f1 : function() {
-			muenchhausen.render("$(date.past.value)"); 
-		},
-		name2 : "faker.date.past",
-		f2 : function() {
-			faker.fake("{{date.past}}");
-		}
-	});
-
-	testSuite({
-		name1 : "muenchhausen.date.random",
-		f1 : function() {
-			muenchhausen.render("$(date.random.value)"); 
-		},
-		name2 : "faker.date.future",
-		f2 : function() {
-			faker.fake("{{date.future}}");
-		}
-	});
-
-	testSuite({
-		name1 : "muenchhausen.date.month",
-		f1 : function() {
-			muenchhausen.render("$(date.month)"); 
-		},
-		name2 : "faker.date.month",
-		f2 : function() {
-			faker.fake("{{date.month}}");
-		}
-	});
-
-	testSuite({
 		name1 : "muenchhausen.date.weekday",
 		f1 : function() {
-			muenchhausen.render("$(date.weekday)"); 
+			muenchhausen.render("$(date.weekday.text)"); 
 		},
 		name2 : "faker.date.weekday",
 		f2 : function() {
 			faker.fake("{{date.weekday}}");
 		}
-	});
-
+	});	 
 	testSuite({
-		name1 : "muenchhausen.phone.international",
+		name1 : "muenchhausen.date.month",
 		f1 : function() {
-			muenchhausen.fake.phone.international({culture:"en"}).value;
+			muenchhausen.render("$(date.month.text)"); 
 		},
-		name2 : "faker.phone",
+		name2 : "faker.date.month",
 		f2 : function() {
-			var f = faker.phone.phoneNumberFormat();
+			faker.fake("{{date.month}}");
 		}
-	});
+	});	 
 
 
 });
