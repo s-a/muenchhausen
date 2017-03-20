@@ -1,4 +1,5 @@
 {
+    "dateformat" : "dd.MM.yyyy hh:mm:ss",
     "weekdays": [
         "Sonntag",
         "Montag",

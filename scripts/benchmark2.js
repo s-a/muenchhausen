@@ -43,25 +43,15 @@ function testSuite(functionBundle){
 systeminfo(function(){
 
 	testSuite({
-		name1 : "muenchhausen.date.weekday",
+		name1 : "muenchhausen.date.now",
 		f1 : function() {
-			muenchhausen.render("$(date.weekday.text)"); 
+			muenchhausen.render("$(date.now.text)"); 
 		},
-		name2 : "faker.date.weekday",
+		name2 : "faker.date.future",
 		f2 : function() {
-			faker.fake("{{date.weekday}}");
+			faker.fake("{{date.future}}");
 		}
-	});	 
-	testSuite({
-		name1 : "muenchhausen.date.month",
-		f1 : function() {
-			muenchhausen.render("$(date.month.text)"); 
-		},
-		name2 : "faker.date.month",
-		f2 : function() {
-			faker.fake("{{date.month}}");
-		}
-	});	 
+	}); 
 
 
 });
