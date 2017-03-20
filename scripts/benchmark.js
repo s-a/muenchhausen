@@ -39,6 +39,7 @@ function testSuite(functionBundle){
 	return suite1
 }
 
+
 systeminfo(function(){
 
 	testSuite({
@@ -95,5 +96,17 @@ systeminfo(function(){
 			faker.fake("{{date.weekday}}");
 		}
 	});
+
+	testSuite({
+		name1 : "muenchhausen.phone.international",
+		f1 : function() {
+			muenchhausen.fake.phone.international({culture:"en"}).value;
+		},
+		name2 : "faker.phone",
+		f2 : function() {
+			var f = faker.phone.phoneNumberFormat();
+		}
+	});
+
 
 });
