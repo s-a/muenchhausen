@@ -10,7 +10,7 @@ console.log(
 	generator.GenCC("Mastercard", 1, Math.random)
 )
 */
-var merchandiseTVSpotText = "{{{date.now.value suffix : this}}}-{{{date.random suffix : format, min : 20200901}}}  {{{date.random}}}";
+var merchandiseTVSpotText = "$(date.now.value suffix : this)-$(date.random suffix : format, min : 20200901)  $(date.random)";
 var Muenchhausen = require("./lib/index.js");
 var muenchhausen = new Muenchhausen("de");
 var news = muenchhausen.render(merchandiseTVSpotText);
