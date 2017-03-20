@@ -8,13 +8,15 @@ var faker = require("faker");
 faker.locale = "de"; 
 
 console.log(
-	faker.fake("{{date.future}}")
+	"m:" + muenchhausen.render("$(date.future.value)") + "; " +
+	"f:" + faker.fake("{{date.future}}")
 )
+
 
 // add tests
 suite
 	.add("muenchhausen.date.future", function() {
-		muenchhausen.render("{{{date.future.value}}}");
+		muenchhausen.render("$(date.future.value)"); 
 	})
 	.add("faker.date.future", function() {
 
