@@ -14,6 +14,8 @@ var merchandiseTVSpotText = "$(date.now.value suffix : this)-$(date.random suffi
 var Muenchhausen = require("./lib/index.js");
 var muenchhausen = new Muenchhausen("de");
 var news = muenchhausen.render(merchandiseTVSpotText);
+
+console.log(muenchhausen.fake.date.month({"culture":"de"}).text());
 console.log(news);
 
 //console.log(methods);

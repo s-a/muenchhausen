@@ -52,7 +52,7 @@
     "docs": "node scripts/docs.js",
     "debug": "iron-node node_modules/mocha/bin/_mocha",
     "bump": "node node_modules/mocha/bin/_mocha && npm version patch && git push && git push --tags && npm publish",
-    "benchmark": "node scripts/benchmark.js"
+    "benchmark": "node scripts/benchmark.js > docs/BENCHMARK.md"
   },
   "license": "MIT",
   "dependencies": {
