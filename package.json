@@ -59,6 +59,7 @@
     "cldr-data": "^30.0.4",
     "creditcard-generator": "0.0.7",
     "globalize": "^1.2.2",
+    "google-libphonenumber": "^2.0.13",
     "line-by-line": "^0.1.5",
     "n-cli": "^1.2.10",
     "node-emoji": "^1.5.1",
