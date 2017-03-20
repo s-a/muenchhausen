@@ -12,7 +12,7 @@ random number based on template using configuration options. For more details of
 
 **Parameters**
 
-**templateString**: `String`, a template string. For example `rnd:{{{date.random}}} rnd:{{{date.random 'min : 1, max : 111, format:{style: decimal, minimumFractionDigits: 0, maximumFractionDigits: 0}'}}}`
+**templateString**: `String`, a template string. For example `rnd:$(date.random) rnd:$(date.random min : 1, max : 111, format:{style: decimal, minimumFractionDigits: 0, maximumFractionDigits: 0})`
 
 
 
