@@ -35,7 +35,8 @@
     "gulp-plumber": "^1.0.0",
     "handlebars": "^4.0.6",
     "jsdox": "^0.4.10",
-    "should": "^11.2.1"
+    "should": "^11.2.1",
+    "systeminformation": "^3.17.0"
   },
   "eslintConfig": {
     "extends": "xo-space",
@@ -48,7 +49,7 @@
     "prepublish": "gulp prepublish",
     "dev": "node index.js",
     "test": "gulp",
-    "docs": "node build/docs.js",
+    "docs": "node scripts/docs.js",
     "debug": "iron-node node_modules/mocha/bin/_mocha",
     "bump": "node node_modules/mocha/bin/_mocha && npm version patch && git push && git push --tags && npm publish",
     "benchmark": "node scripts/benchmark.js"
