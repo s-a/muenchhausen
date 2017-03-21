@@ -15,13 +15,13 @@
         ""
     ],
     "weekdays": [
+        "pühapäev",
         "esmaspäev",
         "teisipäev",
         "kolmapäev",
         "neljapäev",
         "reede",
-        "laupäev",
-        "pühapäev"
+        "laupäev"
     ],
     "shortDatePattern": "dd.MM.yyyy",
     "longDatePattern": "dddd, d. MMMM yyyy",

@@ -15,13 +15,13 @@
         ""
     ],
     "weekdays": [
+        "토요일",
         "일요일",
         "월요일",
         "화요일",
         "수요일",
         "목요일",
-        "금요일",
-        "토요일"
+        "금요일"
     ],
     "shortDatePattern": "yyyy-MM-dd",
     "longDatePattern": "yyyy\u0027년\u0027 M\u0027월\u0027 d\u0027일\u0027 dddd",

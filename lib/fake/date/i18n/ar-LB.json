@@ -15,13 +15,13 @@
         ""
     ],
     "weekdays": [
+        "الأحد",
         "الإثنين",
         "الثلاثاء",
         "الأربعاء",
         "الخميس",
         "الجمعة",
-        "السبت",
-        "الأحد"
+        "السبت"
     ],
     "shortDatePattern": "dd/MM/yyyy",
     "longDatePattern": "dd MMMM, yyyy",

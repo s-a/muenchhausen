@@ -15,13 +15,13 @@
         ""
     ],
     "weekdays": [
+        "שבת",
         "יום ראשון",
         "יום שני",
         "יום שלישי",
         "יום רביעי",
         "יום חמישי",
-        "יום שישי",
-        "שבת"
+        "יום שישי"
     ],
     "shortDatePattern": "dd/MM/yyyy",
     "longDatePattern": "dddd dd MMMM yyyy",

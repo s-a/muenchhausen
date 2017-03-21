@@ -15,13 +15,13 @@
         ""
     ],
     "weekdays": [
+        "nedjelja",
         "ponedjeljak",
         "utorak",
         "srijeda",
         "četvrtak",
         "petak",
-        "subota",
-        "nedjelja"
+        "subota"
     ],
     "shortDatePattern": "d.M.yyyy.",
     "longDatePattern": "d. MMMM yyyy.",

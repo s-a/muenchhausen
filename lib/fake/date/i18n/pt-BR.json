@@ -15,13 +15,13 @@
         ""
     ],
     "weekdays": [
+        "sábado",
         "domingo",
         "segunda-feira",
         "terça-feira",
         "quarta-feira",
         "quinta-feira",
-        "sexta-feira",
-        "sábado"
+        "sexta-feira"
     ],
     "shortDatePattern": "dd/MM/yyyy",
     "longDatePattern": "dddd, d\u0027 de \u0027MMMM\u0027 de \u0027yyyy",

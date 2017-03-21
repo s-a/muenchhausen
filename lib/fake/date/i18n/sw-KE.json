@@ -15,13 +15,13 @@
         ""
     ],
     "weekdays": [
+        "Jumamosi",
         "Jumapili",
         "Jumatatu",
         "Jumanne",
         "Jumatano",
         "Alhamisi",
-        "Ijumaa",
-        "Jumamosi"
+        "Ijumaa"
     ],
     "shortDatePattern": "dd/MM/yyyy",
     "longDatePattern": "dddd, d MMMM yyyy",

@@ -15,13 +15,13 @@
         ""
     ],
     "weekdays": [
+        "e diel",
         "e hënë",
         "e martë",
         "e mërkurë",
         "e enjte",
         "e premte",
-        "e shtunë",
-        "e diel"
+        "e shtunë"
     ],
     "shortDatePattern": "d.M.yyyy",
     "longDatePattern": "dddd, d MMMM yyyy",

@@ -15,13 +15,13 @@
         ""
     ],
     "weekdays": [
+        "zondag",
         "maandag",
         "dinsdag",
         "woensdag",
         "donderdag",
         "vrijdag",
-        "zaterdag",
-        "zondag"
+        "zaterdag"
     ],
     "shortDatePattern": "d/MM/yyyy",
     "longDatePattern": "dddd d MMMM yyyy",

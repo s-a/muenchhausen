@@ -15,13 +15,13 @@
         ""
     ],
     "weekdays": [
+        "duminică",
         "luni",
         "marți",
         "miercuri",
         "joi",
         "vineri",
-        "sâmbătă",
-        "duminică"
+        "sâmbătă"
     ],
     "shortDatePattern": "dd.MM.yyyy",
     "longDatePattern": "dddd, d MMMM yyyy",

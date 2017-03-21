@@ -15,13 +15,13 @@
         ""
     ],
     "weekdays": [
+        "Dydd Sul",
         "Dydd Llun",
         "Dydd Mawrth",
         "Dydd Mercher",
         "Dydd Iau",
         "Dydd Gwener",
-        "Dydd Sadwrn",
-        "Dydd Sul"
+        "Dydd Sadwrn"
     ],
     "shortDatePattern": "dd/MM/yyyy",
     "longDatePattern": "dddd, d MMMM yyyy",

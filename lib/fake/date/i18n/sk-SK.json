@@ -15,13 +15,13 @@
         ""
     ],
     "weekdays": [
+        "nedeľa",
         "pondelok",
         "utorok",
         "streda",
         "štvrtok",
         "piatok",
-        "sobota",
-        "nedeľa"
+        "sobota"
     ],
     "shortDatePattern": "d.M.yyyy",
     "longDatePattern": "dddd, d. MMMM yyyy",

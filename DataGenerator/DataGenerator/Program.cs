@@ -212,10 +212,14 @@ namespace DataGenerator
 
                 //weekdays
                 DayOfWeek firstDay = CultureInfo.CurrentCulture.DateTimeFormat.FirstDayOfWeek;
-                for (int dayIndex = 0; dayIndex < 7; dayIndex++)
+                var currentDay = ((DayOfWeek)(((int)firstDay + 6) % 7));
+                string day = CultureInfo.CurrentCulture.DateTimeFormat.GetDayName(currentDay);
+                ifile.weekdays.Add(day);
+
+                for (int dayIndex = 0; dayIndex < 6; dayIndex++)
                 {
-                    var currentDay = ((DayOfWeek)(((int)firstDay + dayIndex) % 7));
-                    string day = CultureInfo.CurrentCulture.DateTimeFormat.GetDayName(currentDay);
+                    currentDay = ((DayOfWeek)(((int)firstDay + dayIndex) % 7));
+                     day = CultureInfo.CurrentCulture.DateTimeFormat.GetDayName(currentDay);
                     ifile.weekdays.Add(day);
                     // Output the day
                     //file2.WriteLine(json);

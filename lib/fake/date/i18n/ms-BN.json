@@ -15,13 +15,13 @@
         ""
     ],
     "weekdays": [
+        "Ahad",
         "Isnin",
         "Selasa",
         "Rabu",
         "Khamis",
         "Jumaat",
-        "Sabtu",
-        "Ahad"
+        "Sabtu"
     ],
     "shortDatePattern": "d/MM/yyyy",
     "longDatePattern": "dd MMMM yyyy",

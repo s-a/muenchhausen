@@ -15,13 +15,13 @@
         ""
     ],
     "weekdays": [
+        "आयतार",
         "सोमार",
         "मंगळार",
         "बुधवार",
         "बिरेस्तार",
         "सुक्रार",
-        "शेनवार",
-        "आयतार"
+        "शेनवार"
     ],
     "shortDatePattern": "dd-MM-yyyy",
     "longDatePattern": "dd MMMM yyyy",

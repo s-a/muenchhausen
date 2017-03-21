@@ -15,13 +15,13 @@
         ""
     ],
     "weekdays": [
+        "igandea",
         "astelehena",
         "asteartea",
         "asteazkena",
         "osteguna",
         "ostirala",
-        "larunbata",
-        "igandea"
+        "larunbata"
     ],
     "shortDatePattern": "yyyy/MM/dd",
     "longDatePattern": "yyyy(\u0027e\u0027)\u0027ko\u0027 MMMM d, dddd",

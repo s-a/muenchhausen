@@ -15,13 +15,13 @@
         ""
     ],
     "weekdays": [
+        "ਐਤਵਾਰ",
         "ਸੋਮਵਾਰ",
         "ਮੰਗਲਵਾਰ",
         "ਬੁੱਧਵਾਰ",
         "ਵੀਰਵਾਰ",
         "ਸ਼ੁੱਕਰਵਾਰ",
-        "ਸ਼ਨਿੱਚਰਵਾਰ",
-        "ਐਤਵਾਰ"
+        "ਸ਼ਨਿੱਚਰਵਾਰ"
     ],
     "shortDatePattern": "dd-MM-yy",
     "longDatePattern": "dd MMMM yyyy dddd",

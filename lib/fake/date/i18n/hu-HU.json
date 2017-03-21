@@ -15,13 +15,13 @@
         ""
     ],
     "weekdays": [
+        "vasárnap",
         "hétfő",
         "kedd",
         "szerda",
         "csütörtök",
         "péntek",
-        "szombat",
-        "vasárnap"
+        "szombat"
     ],
     "shortDatePattern": "yyyy. MM. dd.",
     "longDatePattern": "yyyy. MMMM d., dddd",

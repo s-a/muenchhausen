@@ -15,13 +15,13 @@
         ""
     ],
     "weekdays": [
+        "土曜日",
         "日曜日",
         "月曜日",
         "火曜日",
         "水曜日",
         "木曜日",
-        "金曜日",
-        "土曜日"
+        "金曜日"
     ],
     "shortDatePattern": "yyyy/MM/dd",
     "longDatePattern": "yyyy\u0027年\u0027M\u0027月\u0027d\u0027日\u0027",

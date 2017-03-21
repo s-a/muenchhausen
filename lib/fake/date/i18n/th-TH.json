@@ -15,13 +15,13 @@
         ""
     ],
     "weekdays": [
+        "อาทิตย์",
         "จันทร์",
         "อังคาร",
         "พุธ",
         "พฤหัสบดี",
         "ศุกร์",
-        "เสาร์",
-        "อาทิตย์"
+        "เสาร์"
     ],
     "shortDatePattern": "d/M/yyyy",
     "longDatePattern": "d MMMM yyyy",
