@@ -6,66 +6,49 @@
 
 * * *
 
-### now(templateString) 
+### now() 
 
-current date based on template using configuration options. For more details of different format see https://github.com/globalizejs/globalize/blob/master/doc/api/date/date-formatter.md
-
-**Parameters**
-
-**templateString**: `String`, a template string. For example `"now:$(date.now format : { skeleton: GyMMMEdhms })"`
+current date formated based on current culture. A custom format is optional possible.
+JavaScript example: .now({"format" : "yyyy-MM-ddThh:mm:ss"})
+Template example: `"now:$(date.now format:'yyyy-MM-ddThh:mm:ss')"`
 
 
 
-### random(templateString) 
+### random() 
 
-random date based on template using configuration options. For more details of different format see https://github.com/globalizejs/globalize/blob/master/doc/api/date/date-formatter.md
-min and max are in format : `yyyymmddhhssnn`
-
-**Parameters**
-
-**templateString**: `String`, a template string. For example `rnd:$(date.random min : 10200901, max : 20200901, format : { skeleton: GyMMMEdhms })`
+random date formated based on current culture. A custom format as well as min and max dates are optional possible.
+JavaScript example: .random({"min" : "19080901", "max" : "23450901"})
+Template example: `"random:$(date.random min:19080901, max:23450901)"`
 
 
 
-### future(templateString) 
+### future() 
 
-future date based on template using configuration options. For more details of different format see https://github.com/globalizejs/globalize/blob/master/doc/api/date/date-formatter.md
-min and max are in format : `yyyymmddhhssnn`
-
-**Parameters**
-
-**templateString**: `String`, a template string. For example `rnd:$(date.future max : 20200901, format : { skeleton: GyMMMEdhms })`
+random date in future formated based on current culture. A custom format as well as min and max dates are optional possible.
+JavaScript example: .future()
+Template example: `"future:$(date.future max:23450901)"`
 
 
 
-### past(templateString) 
+### past() 
 
-past date based on template using configuration options. For more details of different format see https://github.com/globalizejs/globalize/blob/master/doc/api/date/date-formatter.md
-min and max are in format : `yyyymmddhhssnn`
-
-**Parameters**
-
-**templateString**: `String`, a template string. For example `rnd:$(date.past min : 198800901, format : { skeleton: GyMMMEdhms })`
+random date from past formated based on current culture. A custom format as well as min and max dates are optional possible.
+JavaScript example: .past()
+Template example: `"past:$(date.past min:19080901)"`
 
 
 
-### month(templateString) 
+### month() 
 
-random month name based on current culture
-
-**Parameters**
-
-**templateString**: `String`, a template string. For example `rnd:$(date.month)`
+random month name based on current culture 
+Template example: `rnd:$(date.month)`
 
 
 
-### weekday(templateString) 
+### weekday() 
 
-random weekday name based on current culture
-
-**Parameters**
-
-**templateString**: `String`, a template string. For example `rnd:$(date.month)`
+random weekday name based on current culture 
+Template example: `rnd:$(date.weekday)`
 
 
 
