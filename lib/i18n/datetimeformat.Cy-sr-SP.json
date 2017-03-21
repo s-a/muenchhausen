@@ -1,0 +1,30 @@
+{
+    "month": [
+        "Ionawr",
+        "Chwefror",
+        "Mawrth",
+        "Ebrill",
+        "Mai",
+        "Mehefin",
+        "Gorffennaf",
+        "Awst",
+        "Medi",
+        "Hydref",
+        "Tachwedd",
+        "Rhagfyr",
+        ""
+    ],
+    "weekdays": [
+        "Dydd Sul",
+        "Dydd Llun",
+        "Dydd Mawrth",
+        "Dydd Mercher",
+        "Dydd Iau",
+        "Dydd Gwener",
+        "Dydd Sadwrn"
+    ],
+    "shortDatePattern": "dd/MM/yyyy",
+    "longDatePattern": "dddd, d MMMM yyyy",
+    "shortTimePattern": "HH:mm",
+    "longTimePattern": "HH:mm:ss"
+}

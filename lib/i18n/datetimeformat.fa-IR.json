@@ -1,0 +1,30 @@
+{
+    "month": [
+        "فروردین",
+        "اردیبهشت",
+        "خرداد",
+        "تیر",
+        "مرداد",
+        "شهریور",
+        "مهر",
+        "آبان",
+        "آذر",
+        "دی",
+        "بهمن",
+        "اسفند",
+        ""
+    ],
+    "weekdays": [
+        "جمعه",
+        "شنبه",
+        "يكشنبه",
+        "دوشنبه",
+        "سه شنبه",
+        "چهارشنبه",
+        "پنجشنبه"
+    ],
+    "shortDatePattern": "dd/MM/yyyy",
+    "longDatePattern": "dddd, d MMMM yyyy",
+    "shortTimePattern": "hh:mm tt",
+    "longTimePattern": "hh:mm:ss tt"
+}

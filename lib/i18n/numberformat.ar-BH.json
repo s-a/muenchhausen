@@ -1,0 +1,49 @@
+{
+    "numberFormatInfo": {
+        "CurrencyDecimalDigits": 3,
+        "CurrencyDecimalSeparator": ".",
+        "IsReadOnly": false,
+        "CurrencyGroupSizes": [
+            3
+        ],
+        "NumberGroupSizes": [
+            3
+        ],
+        "PercentGroupSizes": [
+            3
+        ],
+        "CurrencyGroupSeparator": ",",
+        "CurrencySymbol": "د.ب.‏",
+        "NaNSymbol": "NaN",
+        "CurrencyNegativePattern": 3,
+        "NumberNegativePattern": 3,
+        "PercentPositivePattern": 0,
+        "PercentNegativePattern": 0,
+        "NegativeInfinitySymbol": "-∞",
+        "NegativeSign": "-",
+        "NumberDecimalDigits": 3,
+        "NumberDecimalSeparator": ".",
+        "NumberGroupSeparator": ",",
+        "CurrencyPositivePattern": 2,
+        "PositiveInfinitySymbol": "∞",
+        "PositiveSign": "+",
+        "PercentDecimalDigits": 3,
+        "PercentDecimalSeparator": ".",
+        "PercentGroupSeparator": ",",
+        "PercentSymbol": "%",
+        "PerMilleSymbol": "‰",
+        "NativeDigits": [
+            "٠",
+            "١",
+            "٢",
+            "٣",
+            "٤",
+            "٥",
+            "٦",
+            "٧",
+            "٨",
+            "٩"
+        ],
+        "DigitSubstitution": 0
+    }
+}

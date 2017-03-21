@@ -1,0 +1,30 @@
+{
+    "month": [
+        "Xaneiro",
+        "Febreiro",
+        "Marzo",
+        "Abril",
+        "Maio",
+        "Xuño",
+        "Xullo",
+        "Agosto",
+        "Setembro",
+        "Outubro",
+        "Novembro",
+        "Decembro",
+        ""
+    ],
+    "weekdays": [
+        "domingo",
+        "luns",
+        "martes",
+        "mércores",
+        "xoves",
+        "venres",
+        "sábado"
+    ],
+    "shortDatePattern": "dd/MM/yyyy",
+    "longDatePattern": "dddd dd MMMM yyyy",
+    "shortTimePattern": "HH:mm",
+    "longTimePattern": "HH:mm:ss"
+}
