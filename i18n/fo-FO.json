@@ -1,1 +1,26 @@
-{"month":["januar","februar","mars","apríl","mai","juni","juli","august","september","oktober","november","desember",""],"weekdays":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]}
+{
+    "month": [
+        "januar",
+        "februar",
+        "mars",
+        "apríl",
+        "mai",
+        "juni",
+        "juli",
+        "august",
+        "september",
+        "oktober",
+        "november",
+        "desember",
+        ""
+    ],
+    "weekdays": [
+        "mánadagur",
+        "týsdagur",
+        "mikudagur",
+        "hósdagur",
+        "fríggjadagur",
+        "leygardagur",
+        "sunnudagur"
+    ]
+}

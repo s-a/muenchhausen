@@ -1,1 +1,26 @@
-{"month":["január","február","március","április","május","június","július","augusztus","szeptember","október","november","december",""],"weekdays":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]}
+{
+    "month": [
+        "január",
+        "február",
+        "március",
+        "április",
+        "május",
+        "június",
+        "július",
+        "augusztus",
+        "szeptember",
+        "október",
+        "november",
+        "december",
+        ""
+    ],
+    "weekdays": [
+        "hétfő",
+        "kedd",
+        "szerda",
+        "csütörtök",
+        "péntek",
+        "szombat",
+        "vasárnap"
+    ]
+}

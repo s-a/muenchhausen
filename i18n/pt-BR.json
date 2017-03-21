@@ -1,1 +1,26 @@
-{"month":["janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro",""],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]}
+{
+    "month": [
+        "janeiro",
+        "fevereiro",
+        "março",
+        "abril",
+        "maio",
+        "junho",
+        "julho",
+        "agosto",
+        "setembro",
+        "outubro",
+        "novembro",
+        "dezembro",
+        ""
+    ],
+    "weekdays": [
+        "domingo",
+        "segunda-feira",
+        "terça-feira",
+        "quarta-feira",
+        "quinta-feira",
+        "sexta-feira",
+        "sábado"
+    ]
+}

@@ -1,1 +1,26 @@
-{"month":["Janar","Shkurt","Mars","Prill","Maj","Qershor","Korrik","Gusht","Shtator","Tetor","Nëntor","Dhjetor",""],"weekdays":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]}
+{
+    "month": [
+        "Janar",
+        "Shkurt",
+        "Mars",
+        "Prill",
+        "Maj",
+        "Qershor",
+        "Korrik",
+        "Gusht",
+        "Shtator",
+        "Tetor",
+        "Nëntor",
+        "Dhjetor",
+        ""
+    ],
+    "weekdays": [
+        "e hënë",
+        "e martë",
+        "e mërkurë",
+        "e enjte",
+        "e premte",
+        "e shtunë",
+        "e diel"
+    ]
+}

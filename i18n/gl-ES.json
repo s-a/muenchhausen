@@ -1,1 +1,26 @@
-{"month":["Xaneiro","Febreiro","Marzo","Abril","Maio","Xuño","Xullo","Agosto","Setembro","Outubro","Novembro","Decembro",""],"weekdays":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]}
+{
+    "month": [
+        "Xaneiro",
+        "Febreiro",
+        "Marzo",
+        "Abril",
+        "Maio",
+        "Xuño",
+        "Xullo",
+        "Agosto",
+        "Setembro",
+        "Outubro",
+        "Novembro",
+        "Decembro",
+        ""
+    ],
+    "weekdays": [
+        "luns",
+        "martes",
+        "mércores",
+        "xoves",
+        "venres",
+        "sábado",
+        "domingo"
+    ]
+}

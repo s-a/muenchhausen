@@ -1,1 +1,26 @@
-{"month":["janúar","febrúar","mars","apríl","maí","júní","júlí","ágúst","september","október","nóvember","desember",""],"weekdays":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]}
+{
+    "month": [
+        "janúar",
+        "febrúar",
+        "mars",
+        "apríl",
+        "maí",
+        "júní",
+        "júlí",
+        "ágúst",
+        "september",
+        "október",
+        "nóvember",
+        "desember",
+        ""
+    ],
+    "weekdays": [
+        "mánudagur",
+        "þriðjudagur",
+        "miðvikudagur",
+        "fimmtudagur",
+        "föstudagur",
+        "laugardagur",
+        "sunnudagur"
+    ]
+}

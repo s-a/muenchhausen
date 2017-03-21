@@ -1,1 +1,26 @@
-{"month":["sausis","vasaris","kovas","balandis","gegužė","birželis","liepa","rugpjūtis","rugsėjis","spalis","lapkritis","gruodis",""],"weekdays":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]}
+{
+    "month": [
+        "sausis",
+        "vasaris",
+        "kovas",
+        "balandis",
+        "gegužė",
+        "birželis",
+        "liepa",
+        "rugpjūtis",
+        "rugsėjis",
+        "spalis",
+        "lapkritis",
+        "gruodis",
+        ""
+    ],
+    "weekdays": [
+        "pirmadienis",
+        "antradienis",
+        "trečiadienis",
+        "ketvirtadienis",
+        "penktadienis",
+        "šeštadienis",
+        "sekmadienis"
+    ]
+}

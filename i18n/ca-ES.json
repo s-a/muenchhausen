@@ -1,1 +1,26 @@
-{"month":["gener","febrer","març","abril","maig","juny","juliol","agost","setembre","octubre","novembre","desembre",""],"weekdays":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]}
+{
+    "month": [
+        "gener",
+        "febrer",
+        "març",
+        "abril",
+        "maig",
+        "juny",
+        "juliol",
+        "agost",
+        "setembre",
+        "octubre",
+        "novembre",
+        "desembre",
+        ""
+    ],
+    "weekdays": [
+        "dilluns",
+        "dimarts",
+        "dimecres",
+        "dijous",
+        "divendres",
+        "dissabte",
+        "diumenge"
+    ]
+}

@@ -1,1 +1,26 @@
-{"month":["tammikuu","helmikuu","maaliskuu","huhtikuu","toukokuu","kesäkuu","heinäkuu","elokuu","syyskuu","lokakuu","marraskuu","joulukuu",""],"weekdays":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]}
+{
+    "month": [
+        "tammikuu",
+        "helmikuu",
+        "maaliskuu",
+        "huhtikuu",
+        "toukokuu",
+        "kesäkuu",
+        "heinäkuu",
+        "elokuu",
+        "syyskuu",
+        "lokakuu",
+        "marraskuu",
+        "joulukuu",
+        ""
+    ],
+    "weekdays": [
+        "maanantaina",
+        "tiistaina",
+        "keskiviikkona",
+        "torstaina",
+        "perjantaina",
+        "lauantaina",
+        "sunnuntaina"
+    ]
+}

@@ -1,1 +1,26 @@
-{"month":["januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december",""],"weekdays":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]}
+{
+    "month": [
+        "januari",
+        "februari",
+        "mars",
+        "april",
+        "maj",
+        "juni",
+        "juli",
+        "augusti",
+        "september",
+        "oktober",
+        "november",
+        "december",
+        ""
+    ],
+    "weekdays": [
+        "måndag",
+        "tisdag",
+        "onsdag",
+        "torsdag",
+        "fredag",
+        "lördag",
+        "söndag"
+    ]
+}

@@ -1,1 +1,26 @@
-{"month":["januar","februar","marec","april","maj","junij","julij","avgust","september","oktober","november","december",""],"weekdays":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]}
+{
+    "month": [
+        "januar",
+        "februar",
+        "marec",
+        "april",
+        "maj",
+        "junij",
+        "julij",
+        "avgust",
+        "september",
+        "oktober",
+        "november",
+        "december",
+        ""
+    ],
+    "weekdays": [
+        "ponedeljek",
+        "torek",
+        "sreda",
+        "četrtek",
+        "petek",
+        "sobota",
+        "nedelja"
+    ]
+}
