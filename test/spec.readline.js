@@ -10,5 +10,12 @@ describe("large files", function () {
 			assert(true, line !== null && line !== undefined);
 			done();
 		});
+	});	
+
+	it("should fail read random line from large file fast!", function (done) {
+		rndline("./lib/random-line/access_logi", function (line) {
+			assert(true, line !== null && line !== undefined);
+			done();
+		});
 	});
 });
