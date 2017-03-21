@@ -1,0 +1,30 @@
+{
+    "month": [
+        "Januari",
+        "Februari",
+        "Machi",
+        "Aprili",
+        "Mei",
+        "Juni",
+        "Julai",
+        "Agosti",
+        "Septemba",
+        "Oktoba",
+        "Novemba",
+        "Desemba",
+        ""
+    ],
+    "weekdays": [
+        "Jumapili",
+        "Jumatatu",
+        "Jumanne",
+        "Jumatano",
+        "Alhamisi",
+        "Ijumaa",
+        "Jumamosi"
+    ],
+    "shortDatePattern": "dd/MM/yyyy",
+    "longDatePattern": "dddd, d MMMM yyyy",
+    "shortTimePattern": "HH:mm",
+    "longTimePattern": "HH:mm:ss"
+}

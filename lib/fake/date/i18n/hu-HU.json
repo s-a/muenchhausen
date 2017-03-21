@@ -1,0 +1,30 @@
+{
+    "month": [
+        "január",
+        "február",
+        "március",
+        "április",
+        "május",
+        "június",
+        "július",
+        "augusztus",
+        "szeptember",
+        "október",
+        "november",
+        "december",
+        ""
+    ],
+    "weekdays": [
+        "hétfő",
+        "kedd",
+        "szerda",
+        "csütörtök",
+        "péntek",
+        "szombat",
+        "vasárnap"
+    ],
+    "shortDatePattern": "yyyy. MM. dd.",
+    "longDatePattern": "yyyy. MMMM d., dddd",
+    "shortTimePattern": "H:mm",
+    "longTimePattern": "H:mm:ss"
+}

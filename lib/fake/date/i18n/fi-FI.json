@@ -1,0 +1,30 @@
+{
+    "month": [
+        "tammikuu",
+        "helmikuu",
+        "maaliskuu",
+        "huhtikuu",
+        "toukokuu",
+        "kesäkuu",
+        "heinäkuu",
+        "elokuu",
+        "syyskuu",
+        "lokakuu",
+        "marraskuu",
+        "joulukuu",
+        ""
+    ],
+    "weekdays": [
+        "maanantai",
+        "tiistai",
+        "keskiviikko",
+        "torstai",
+        "perjantai",
+        "lauantai",
+        "sunnuntai"
+    ],
+    "shortDatePattern": "d.M.yyyy",
+    "longDatePattern": "dddd d. MMMM yyyy",
+    "shortTimePattern": "H.mm",
+    "longTimePattern": "H.mm.ss"
+}

@@ -1,30 +1,30 @@
 # Benchmark
 
 Tested at [object Object]
- with node v7.3.0 on win32 x64 v10.0.10586 with 12776148992 total memory and
- Intel® Core™ i5-6200U 2.3 4 cores
+ with node v6.9.2 on win32 x64 v10.0.14393 with 8461197312 total memory and
+ Intel® Core™ i5-4460 3.2 4 cores
 
-- `muenchhausen.date.future x 130,054 ops/sec ±0.75% (92 runs sampled)`  
-- `faker.date.future x 84,552 ops/sec ±1.96% (88 runs sampled)`  
+- `muenchhausen.date.future x 123,149 ops/sec ±1.14% (90 runs sampled)`  
+- `faker.date.future x 67,905 ops/sec ±7.11% (85 runs sampled)`  
   - Fastest is `muenchhausen.date.future`  
   
-- `muenchhausen.date.past x 128,835 ops/sec ±0.84% (92 runs sampled)`  
-- `faker.date.past x 84,519 ops/sec ±2.20% (87 runs sampled)`  
+- `muenchhausen.date.past x 123,030 ops/sec ±1.31% (88 runs sampled)`  
+- `faker.date.past x 70,485 ops/sec ±1.96% (88 runs sampled)`  
   - Fastest is `muenchhausen.date.past`  
   
-- `muenchhausen.date.random x 161,962 ops/sec ±1.13% (91 runs sampled)`  
-- `faker.date.future x 83,096 ops/sec ±1.85% (91 runs sampled)`  
+- `muenchhausen.date.random x 152,092 ops/sec ±1.23% (93 runs sampled)`  
+- `faker.date.future x 70,506 ops/sec ±2.10% (88 runs sampled)`  
   - Fastest is `muenchhausen.date.random`  
   
-- `muenchhausen.date.month x 557,678 ops/sec ±1.04% (93 runs sampled)`  
-- `faker.date.month x 130,724 ops/sec ±2.19% (89 runs sampled)`  
+- `muenchhausen.date.month x 455,769 ops/sec ±1.90% (87 runs sampled)`  
+- `faker.date.month x 107,180 ops/sec ±1.80% (89 runs sampled)`  
   - Fastest is `muenchhausen.date.month`  
   
-- `muenchhausen.date.weekday x 469,716 ops/sec ±2.04% (91 runs sampled)`  
-- `faker.date.weekday x 129,604 ops/sec ±2.37% (92 runs sampled)`  
+- `muenchhausen.date.weekday x 353,795 ops/sec ±2.01% (88 runs sampled)`  
+- `faker.date.weekday x 103,542 ops/sec ±2.45% (88 runs sampled)`  
   - Fastest is `muenchhausen.date.weekday`  
   
-- `muenchhausen.phone.international x 838,687 ops/sec ±3.22% (86 runs sampled)`  
-- `faker.phone x 201,718 ops/sec ±0.20% (91 runs sampled)`  
+- `muenchhausen.phone.international x 659,800 ops/sec ±1.98% (86 runs sampled)`  
+- `faker.phone x 224,149 ops/sec ±0.45% (89 runs sampled)`  
   - Fastest is `muenchhausen.phone.international`  
   

@@ -1,0 +1,30 @@
+{
+    "month": [
+        "enero",
+        "febrero",
+        "marzo",
+        "abril",
+        "mayo",
+        "junio",
+        "julio",
+        "agosto",
+        "septiembre",
+        "octubre",
+        "noviembre",
+        "diciembre",
+        ""
+    ],
+    "weekdays": [
+        "lunes",
+        "martes",
+        "miércoles",
+        "jueves",
+        "viernes",
+        "sábado",
+        "domingo"
+    ],
+    "shortDatePattern": "d/M/yyyy",
+    "longDatePattern": "dddd, d \u0027de\u0027 MMMM \u0027de\u0027 yyyy",
+    "shortTimePattern": "HH:mm",
+    "longTimePattern": "HH:mm:ss"
+}

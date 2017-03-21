@@ -1,0 +1,30 @@
+{
+    "month": [
+        "sausis",
+        "vasaris",
+        "kovas",
+        "balandis",
+        "gegužė",
+        "birželis",
+        "liepa",
+        "rugpjūtis",
+        "rugsėjis",
+        "spalis",
+        "lapkritis",
+        "gruodis",
+        ""
+    ],
+    "weekdays": [
+        "pirmadienis",
+        "antradienis",
+        "trečiadienis",
+        "ketvirtadienis",
+        "penktadienis",
+        "šeštadienis",
+        "sekmadienis"
+    ],
+    "shortDatePattern": "yyyy-MM-dd",
+    "longDatePattern": "yyyy \u0027m\u0027. MMMM d \u0027d\u0027., dddd",
+    "shortTimePattern": "HH:mm",
+    "longTimePattern": "HH:mm:ss"
+}

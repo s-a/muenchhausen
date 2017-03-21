@@ -1,0 +1,30 @@
+{
+    "month": [
+        "Januari",
+        "Februari",
+        "Mac",
+        "April",
+        "Mei",
+        "Jun",
+        "Julai",
+        "Ogos",
+        "September",
+        "Oktober",
+        "November",
+        "Disember",
+        ""
+    ],
+    "weekdays": [
+        "Isnin",
+        "Selasa",
+        "Rabu",
+        "Khamis",
+        "Jumaat",
+        "Sabtu",
+        "Ahad"
+    ],
+    "shortDatePattern": "d/MM/yyyy",
+    "longDatePattern": "dddd, d MMMM yyyy",
+    "shortTimePattern": "h:mm tt",
+    "longTimePattern": "h:mm:ss tt"
+}

@@ -1,0 +1,30 @@
+{
+    "month": [
+        "janúar",
+        "febrúar",
+        "mars",
+        "apríl",
+        "maí",
+        "júní",
+        "júlí",
+        "ágúst",
+        "september",
+        "október",
+        "nóvember",
+        "desember",
+        ""
+    ],
+    "weekdays": [
+        "mánudagur",
+        "þriðjudagur",
+        "miðvikudagur",
+        "fimmtudagur",
+        "föstudagur",
+        "laugardagur",
+        "sunnudagur"
+    ],
+    "shortDatePattern": "d.M.yyyy",
+    "longDatePattern": "dddd, d. MMMM yyyy",
+    "shortTimePattern": "HH:mm",
+    "longTimePattern": "HH:mm:ss"
+}

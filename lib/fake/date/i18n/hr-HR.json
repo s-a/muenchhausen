@@ -1,0 +1,30 @@
+{
+    "month": [
+        "siječanj",
+        "veljača",
+        "ožujak",
+        "travanj",
+        "svibanj",
+        "lipanj",
+        "srpanj",
+        "kolovoz",
+        "rujan",
+        "listopad",
+        "studeni",
+        "prosinac",
+        ""
+    ],
+    "weekdays": [
+        "ponedjeljak",
+        "utorak",
+        "srijeda",
+        "četvrtak",
+        "petak",
+        "subota",
+        "nedjelja"
+    ],
+    "shortDatePattern": "d.M.yyyy.",
+    "longDatePattern": "d. MMMM yyyy.",
+    "shortTimePattern": "H:mm",
+    "longTimePattern": "H:mm:ss"
+}

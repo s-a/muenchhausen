@@ -1,0 +1,30 @@
+{
+    "month": [
+        "ianuarie",
+        "februarie",
+        "martie",
+        "aprilie",
+        "mai",
+        "iunie",
+        "iulie",
+        "august",
+        "septembrie",
+        "octombrie",
+        "noiembrie",
+        "decembrie",
+        ""
+    ],
+    "weekdays": [
+        "luni",
+        "marți",
+        "miercuri",
+        "joi",
+        "vineri",
+        "sâmbătă",
+        "duminică"
+    ],
+    "shortDatePattern": "dd.MM.yyyy",
+    "longDatePattern": "dddd, d MMMM yyyy",
+    "shortTimePattern": "HH:mm",
+    "longTimePattern": "HH:mm:ss"
+}

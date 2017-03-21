@@ -1,0 +1,30 @@
+{
+    "month": [
+        "Urtarrila",
+        "Otsaila",
+        "Martxoa",
+        "Apirila",
+        "Maiatza",
+        "Ekaina",
+        "Uztaila",
+        "Abuztua",
+        "Iraila",
+        "Urria",
+        "Azaroa",
+        "Abendua",
+        ""
+    ],
+    "weekdays": [
+        "astelehena",
+        "asteartea",
+        "asteazkena",
+        "osteguna",
+        "ostirala",
+        "larunbata",
+        "igandea"
+    ],
+    "shortDatePattern": "yyyy/MM/dd",
+    "longDatePattern": "yyyy(\u0027e\u0027)\u0027ko\u0027 MMMM d, dddd",
+    "shortTimePattern": "HH:mm",
+    "longTimePattern": "HH:mm:ss"
+}
