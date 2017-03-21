@@ -12,7 +12,7 @@ Constructor of a fake library.
 
 **Parameters**
 
-**culture**: `String`, a culture string like "de" or "en"
+**culture**: `String`, a culture string like "de-DE" or "en-GB". All available cultures are listed in https://github.com/s-a/muenchhausen/blob/master/lib/cultures.json
 
 
 
