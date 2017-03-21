@@ -20,46 +20,17 @@ namespace DataGenerator
         public string longTimePattern;
 
     }
+  class I18nNumber
+  {
 
-    class Program
+    public NumberFormatInfo numberFormatInfo;
+
+  }
+
+  class Program
     {
-        static string findUp(string currentFolder, string filename)
-        {
-            string fn = System.IO.Path.Combine(currentFolder, filename);
-            if (System.IO.File.Exists(fn))
-            {
-                return currentFolder;
-            }
-            else
-            {
-                string parentFolder = "";
-                try
-                {
-                    parentFolder = System.IO.Directory.GetParent(currentFolder).FullName;
-                }
-                catch (System.Exception e)
-                {
-                    throw new System.Exception("Cannot find " + filename + " in parent folders", e);
-                }
-                return findUp(parentFolder, filename);
-            }
-        }
 
-        static void saveObjectToJSON(Object obj, string filename)
-        {
-
-            string json = new JavaScriptSerializer().Serialize(obj);
-            System.IO.StreamWriter file2 = new System.IO.StreamWriter(filename);
-
-            json = JsonHelper.FormatJson(json);
-            file2.WriteLine(json);
-            file2.Close();
-            Console.WriteLine("wrote data to " + filename);
-        }
-
-        static void Main()
-        {
-            string[] s =  {
+    private static string[] s =  {
               "af-ZA",
               "sq-AL",
               "ar-DZ",
@@ -197,54 +168,117 @@ namespace DataGenerator
               "Lt-uz-UZ",
               "vi-VN"
           };
-
-            string rootPath = findUp(System.IO.Directory.GetCurrentDirectory(), "package.json");
-            Console.WriteLine(rootPath);
-
-            string d = System.IO.Path.Combine(rootPath, "lib", "cultures.json");
-            saveObjectToJSON(s, d);
-
-            foreach (string lng in s)
+    static string findUp(string currentFolder, string filename)
+    {
+        string fn = System.IO.Path.Combine(currentFolder, filename);
+        if (System.IO.File.Exists(fn))
+        {
+            return currentFolder;
+        }
+        else
+        {
+            string parentFolder = "";
+            try
             {
-                I18nFile ifile = new I18nFile();
-                CultureInfo cu = new CultureInfo(lng);
-                System.Threading.Thread.CurrentThread.CurrentCulture = cu;
-
-                //weekdays
-                DayOfWeek firstDay = CultureInfo.CurrentCulture.DateTimeFormat.FirstDayOfWeek;
-                var currentDay = ((DayOfWeek)(((int)firstDay + 6) % 7));
-                string day = CultureInfo.CurrentCulture.DateTimeFormat.GetDayName(currentDay);
-                ifile.weekdays.Add(day);
-
-                for (int dayIndex = 0; dayIndex < 6; dayIndex++)
-                {
-                    currentDay = ((DayOfWeek)(((int)firstDay + dayIndex) % 7));
-                     day = CultureInfo.CurrentCulture.DateTimeFormat.GetDayName(currentDay);
-                    ifile.weekdays.Add(day);
-                    // Output the day
-                    //file2.WriteLine(json);
-                }
-
-                // month
-                for (int m = 1; m < 14; m++)
-                {
-                    string monthName = CultureInfo.CurrentCulture.DateTimeFormat.GetMonthName(m);
-                    // Console.Write (m  +" "+ lng+ " " + monthName + "\n");
-                    ifile.month.Add(monthName);
-                }
-
-                ifile.shortDatePattern = CultureInfo.CurrentCulture.DateTimeFormat.ShortDatePattern;
-                ifile.longDatePattern = CultureInfo.CurrentCulture.DateTimeFormat.LongDatePattern;
-                ifile.shortTimePattern = CultureInfo.CurrentCulture.DateTimeFormat.ShortTimePattern;
-                ifile.longTimePattern = CultureInfo.CurrentCulture.DateTimeFormat.LongTimePattern;
-
-                string fn = System.IO.Path.Combine(rootPath, "lib", "fake", "date", "i18n", lng + ".json");               
-                saveObjectToJSON(ifile, fn);
+                parentFolder = System.IO.Directory.GetParent(currentFolder).FullName;
             }
-            Console.WriteLine("done");
-            Console.Read();
+            catch (System.Exception e)
+            {
+                throw new System.Exception("Cannot find " + filename + " in parent folders", e);
+            }
+            return findUp(parentFolder, filename);
         }
     }
+
+    static void saveObjectToJSON(Object obj, string filename)
+    {
+
+        string json = new JavaScriptSerializer().Serialize(obj);
+        System.IO.StreamWriter file2 = new System.IO.StreamWriter(filename);
+
+        json = JsonHelper.FormatJson(json);
+        file2.WriteLine(json);
+        file2.Close();
+        Console.WriteLine("wrote data to " + filename);
+    }
+
+
+    static void fake_date()
+    {
+      string rootPath = findUp(System.IO.Directory.GetCurrentDirectory(), "package.json");
+      Console.WriteLine(rootPath);
+
+      string d = System.IO.Path.Combine(rootPath, "lib", "cultures.json");
+      saveObjectToJSON(s, d);
+
+      foreach (string lng in s)
+      {
+        I18nFile ifile = new I18nFile();
+        CultureInfo cu = new CultureInfo(lng);
+        System.Threading.Thread.CurrentThread.CurrentCulture = cu;
+
+        //weekdays
+        DayOfWeek firstDay = CultureInfo.CurrentCulture.DateTimeFormat.FirstDayOfWeek;
+        var currentDay = ((DayOfWeek)(((int)firstDay + 6) % 7));
+        string day = CultureInfo.CurrentCulture.DateTimeFormat.GetDayName(currentDay);
+        ifile.weekdays.Add(day);
+
+        for (int dayIndex = 0; dayIndex < 6; dayIndex++)
+        {
+          currentDay = ((DayOfWeek)(((int)firstDay + dayIndex) % 7));
+          day = CultureInfo.CurrentCulture.DateTimeFormat.GetDayName(currentDay);
+          ifile.weekdays.Add(day);
+          // Output the day
+          //file2.WriteLine(json);
+        }
+
+        // month
+        for (int m = 1; m < 14; m++)
+        {
+          string monthName = CultureInfo.CurrentCulture.DateTimeFormat.GetMonthName(m);
+          // Console.Write (m  +" "+ lng+ " " + monthName + "\n");
+          ifile.month.Add(monthName);
+        }
+
+        ifile.shortDatePattern = CultureInfo.CurrentCulture.DateTimeFormat.ShortDatePattern;
+        ifile.longDatePattern = CultureInfo.CurrentCulture.DateTimeFormat.LongDatePattern;
+        ifile.shortTimePattern = CultureInfo.CurrentCulture.DateTimeFormat.ShortTimePattern;
+        ifile.longTimePattern = CultureInfo.CurrentCulture.DateTimeFormat.LongTimePattern;
+
+        string fn = System.IO.Path.Combine(rootPath, "lib", "i18n", "datetimeformat." + lng + ".json");
+        saveObjectToJSON(ifile, fn);
+      }
+      Console.WriteLine("done");
+    }
+
+    static void fake_number()
+    {
+      string rootPath = findUp(System.IO.Directory.GetCurrentDirectory(), "package.json");
+      Console.WriteLine(rootPath);
+
+      string d = System.IO.Path.Combine(rootPath, "lib", "cultures.json");
+      saveObjectToJSON(s, d);
+
+      foreach (string lng in s)
+      {
+        I18nNumber ifile = new I18nNumber();
+        CultureInfo cu = new CultureInfo(lng);
+        System.Threading.Thread.CurrentThread.CurrentCulture = cu;
+        ifile.numberFormatInfo = CultureInfo.CurrentCulture.NumberFormat;
+        string fn = System.IO.Path.Combine(rootPath, "lib", "i18n", "numberformat." + lng + ".json");
+        saveObjectToJSON(ifile, fn);
+      }
+      Console.WriteLine("done");
+      Console.ReadKey();
+    }
+
+    static void Main()
+    {
+
+      fake_date();
+      fake_number();
+    }
+}
 
     class JsonHelper
     {

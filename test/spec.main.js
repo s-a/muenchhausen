@@ -12,9 +12,9 @@ describe("muenchhausen main rendering", function () {
   });  
 
   it("should fail to render random data!", function () {
-  	var trigger = function(){
-    	var merchandiseTVSpotText = "$(date.now__OMG)";
-    	var news = muenchhausen.render(merchandiseTVSpotText);
+      var trigger = function(){
+      var merchandiseTVSpotText = "$(date.now__OMG)";
+      /*var news = */muenchhausen.render(merchandiseTVSpotText);
 	};
 	should.throws(trigger, "E_FAKE_METHOD_NOT_FOUND")
   });
