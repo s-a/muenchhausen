@@ -61,7 +61,6 @@
     "globalize": "^1.2.2",
     "google-libphonenumber": "^2.0.13",
     "line-by-line": "^0.1.5",
-    "n-cli": "^1.2.10",
     "node-emoji": "^1.5.1",
     "relaxed-json": "^1.0.1"
   }
