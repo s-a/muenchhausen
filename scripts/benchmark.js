@@ -43,6 +43,17 @@ function testSuite(functionBundle){
 systeminfo(function(){
 
 	testSuite({
+		name1 : "muenchhausen.number.random",
+		f1 : function() {
+			muenchhausen.render("$(number.random)"); 
+		},
+		name2 : "faker.random.number",
+		f2 : function() {
+			faker.fake("{{random.number}}");
+		}
+	});	
+
+	testSuite({
 		name1 : "muenchhausen.date.future",
 		f1 : function() {
 			muenchhausen.render("$(date.future.value)"); 
