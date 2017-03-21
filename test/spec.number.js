@@ -4,7 +4,7 @@ require("should");
 var Muenchhausen = require("../lib");
 var muenchhausen = new Muenchhausen("de-DE");
 
-describe.skip("muenchhausen number", function () {
+describe("muenchhausen number", function () {
   it("should render a number!", function () {
     var merchandiseTVSpotText = "$(number.random)";
     var news = muenchhausen.render(merchandiseTVSpotText);
