@@ -3,11 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web.Script.Serialization;
 
 namespace DataGenerator
 {
     using System;
     using System.Globalization;
+
+    class I18nFile
+    {
+      public List<string> month = new List<string>();
+      public List<string> weekdays = new List<string>(); 
+
+    }
 
     class Program
     {
@@ -152,16 +160,46 @@ namespace DataGenerator
                 "vi-VN"
             };
 
+            var json = new JavaScriptSerializer().Serialize(s);
+            System.IO.StreamWriter file = new System.IO.StreamWriter("..\\..\\..\\..\\i18n-cultures.json");
+            file.WriteLine(json);
+            file.Close();
+
             foreach (string lng in s)
             {
+                I18nFile ifile = new I18nFile();
                 CultureInfo cu = new CultureInfo(lng);
                 System.Threading.Thread.CurrentThread.CurrentCulture = cu;
-                Console.WriteLine(DateTime.Now.ToMonthName());
-                Console.WriteLine(DateTime.Now.ToShortMonthName());
-            }
 
-            Console.Read();
+                //weekdays
+                DayOfWeek firstDay = CultureInfo.CurrentCulture.DateTimeFormat.FirstDayOfWeek;
+                for (int dayIndex = 0; dayIndex < 7; dayIndex++)
+                {
+                  string currentDay = ((DayOfWeek)(((int)firstDay + dayIndex) % 7)).ToString();
+
+                  ifile.weekdays.Add(""+currentDay);
+          // Output the day
+          //file2.WriteLine(json);
         }
+
+        // month
+        for (int m = 1; m < 14; m++)
+            {
+              string monthName = CultureInfo.CurrentCulture.DateTimeFormat.GetMonthName(m);
+              // Console.Write (m  +" "+ lng+ " " + monthName + "\n");
+              ifile.month.Add(monthName);
+            }
+                 
+
+            json = new JavaScriptSerializer().Serialize(ifile);
+            System.IO.StreamWriter file2 = new System.IO.StreamWriter("..\\..\\..\\..\\i18n\\" + lng + ".json");
+            file2.WriteLine(json);
+            file2.Close();
+            //Console.WriteLine(DateTime.Now.ToShortMonthName());
+        }
+        Console.WriteLine("done");
+        Console.Read();
+      }
     }
 
     static class DateTimeExtensions
