@@ -1,9 +1,3 @@
-
-
-
-
-
-
 /*
 var generator = require("creditcard-generator");
 console.log(
