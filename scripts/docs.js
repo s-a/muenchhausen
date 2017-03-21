@@ -1,6 +1,5 @@
 "use strict";
 
-
 var fs = require("fs");
 var path = require("path");
 var glob = require("glob");
@@ -38,11 +37,11 @@ var processFile = function processFile(file, done) {
 	var templateDir = "./node_modules/jsdox/templates/";
 	var jsdox = require("jsdox");
 	jsdox.generateForDir(file, path.join(output, ".."), templateDir, function(){
-		fs.rename("./docs/index.md", output, function(err) {
-			all.push(output);
-			if ( err ) console.error("ERROR: " + err);
-			done();
-		});
+		var text = fs.readFileSync("./docs/index.md").toString()
+			.replace("# Global", "# " + segments.join("."));
+		fs.writeFileSync(output, text); 
+		fs.unlinkSync("./docs/index.md");
+		done();
 	}); 
 };
 
