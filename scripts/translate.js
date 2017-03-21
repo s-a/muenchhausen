@@ -1,10 +1,7 @@
 
 //console.log(methods);
 var translate = require("node-google-translate-skidz");
-
-
-
-var path = require("path");
+ 
 var glob = require("glob");
 var fs = require("fs");
 
@@ -22,9 +19,9 @@ var translateFile = function(filename, targetLanguage, done){
 	}
 	//console.log(f)
 	Object.keys(f).forEach(function(key1) {
-	    //console.log(key1, f[key1]);
-	  	i++;
-	  	var tr = function(filename, targetLanguage, key){
+		//console.log(key1, f[key1]);
+		i++;
+		var tr = function(filename, targetLanguage, key){
 			translate({
 				text: f[key1].join("."),
 				source: "en",
@@ -41,9 +38,9 @@ var translateFile = function(filename, targetLanguage, done){
 					done(fn, f)
 				}
 			});  
-	  	}
+		}
 
-	  	tr(filename, targetLanguage, key1);
+		tr(filename, targetLanguage, key1);
 	});
 };
 

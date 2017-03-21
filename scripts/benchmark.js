@@ -104,7 +104,7 @@ systeminfo(function(){
 		},
 		name2 : "faker.phone",
 		f2 : function() {
-			var f = faker.phone.phoneNumberFormat();
+			/*var f = */faker.phone.phoneNumberFormat();
 		}
 	});
 
