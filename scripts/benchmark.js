@@ -1,12 +1,12 @@
 var Benchmark = require("benchmark");
 var Muenchhausen = require("./../lib");
-var muenchhausen = new Muenchhausen("de");
+var muenchhausen = new Muenchhausen("de-DE");
 var faker = require("faker");
 faker.locale = "de"; 
 
 function systeminfo(done){
 	var os = require("os");
-	var m = new Muenchhausen("en");
+	var m = new Muenchhausen("en-GB");
 	var si = require("systeminformation");
 	si.cpu().then(function(cpu){
 		si.versions().then(function(version){

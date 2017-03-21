@@ -2,7 +2,7 @@
 
 require("should");
 var Muenchhausen = require("../lib");
-var muenchhausen = new Muenchhausen("de");
+var muenchhausen = new Muenchhausen("de-DE");
 
 describe("muenchhausen emojis", function () {
   it("should render 3 fake emojis!", function () {

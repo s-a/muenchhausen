@@ -2,7 +2,7 @@
 
 var assert = require("assert");
 var Muenchhausen = require("../lib");
-var muenchhausen = new Muenchhausen("de");
+var muenchhausen = new Muenchhausen("de-DE");
 
 describe("muenchhausen main rendering", function () {
   it("should render random data!", function () {
