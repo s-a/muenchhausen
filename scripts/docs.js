@@ -60,6 +60,6 @@ glob("./lib/**/*.js", options, function (er, files) {
 			return a < b;
 		}).join("\n- ")
 		console.log("index.md written")
-		fs.writeFileSync("docs/index.md", md);
+		fs.writeFileSync("docs/API.md", md);
 	});
 })
