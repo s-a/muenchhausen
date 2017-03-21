@@ -12,7 +12,7 @@ function systeminfo(done){
 		si.versions().then(function(version){
 			console.log("# Benchmark");
 			console.log("");
-			console.log("Tested at " + m.render("$(date.now format:{ datetime: full })"));
+			console.log("Tested at " + m.render("$(date.now)"));
 			console.log(" with node " + "v" + version.node + " on " + os.platform() + " " + os.arch() + " v" + os.release() + " with " + os.totalmem() + " total memory and");
 			console.log(" " + cpu.manufacturer + " " + cpu.brand + " " + cpu.speed + " " + cpu.cores + " cores");
 			console.log("");
