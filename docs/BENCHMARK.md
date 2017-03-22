@@ -3,49 +3,48 @@
 Tested at 22/02/2017
  with node v7.3.0 on win32 x64 v10.0.10586 with 12776148992 total memory and
  Intel® Core™ i5-6200U 2.3 4 cores.
-```bash
-$ muenchhausen.random.element (Object) x 21,153,644 ops/sec ±1.33% (88 runs sampled)
-$ faker.random.objectElement x 2,933,502 ops/sec ±1.26% (93 runs sampled)
-Fastest: muenchhausen.random.element (Object)
 
-$ muenchhausen.random.element (Array) x 21,934,272 ops/sec ±1.23% (91 runs sampled)
-$ faker.random.arrayElement x 6,551,671 ops/sec ±2.03% (88 runs sampled)
-Fastest: muenchhausen.random.element (Array)
+:clock10: muenchhausen.random.element (Object) x 21,681,383 ops/sec ±0.94% (89 runs sampled)
+:clock1: faker.random.objectElement x 3,068,057 ops/sec ±1.18% (93 runs sampled)
+:stopwatch: muenchhausen.random.element (Object)
 
-$ muenchhausen.boolean.random x 442,412 ops/sec ±2.58% (89 runs sampled)
-$ faker.random.boolean x 122,107 ops/sec ±3.95% (87 runs sampled)
-Fastest: muenchhausen.boolean.random
+:clock10: muenchhausen.random.element (Array) x 22,546,359 ops/sec ±0.77% (93 runs sampled)
+:clock1: faker.random.arrayElement x 6,670,794 ops/sec ±0.82% (92 runs sampled)
+:stopwatch: muenchhausen.random.element (Array)
 
-$ muenchhausen.decimal.random x 192,820 ops/sec ±3.17% (83 runs sampled)
-$ faker.finance.amount x 123,942 ops/sec ±2.44% (89 runs sampled)
-Fastest: muenchhausen.decimal.random
+:clock10: muenchhausen.boolean.random x 447,656 ops/sec ±1.06% (86 runs sampled)
+:clock1: faker.random.boolean x 130,301 ops/sec ±2.24% (87 runs sampled)
+:stopwatch: muenchhausen.boolean.random
 
-$ muenchhausen.number.random x 267,227 ops/sec ±2.13% (92 runs sampled)
-$ faker.random.number x 124,832 ops/sec ±2.94% (87 runs sampled)
-Fastest: muenchhausen.number.random
+:clock10: muenchhausen.decimal.random x 193,939 ops/sec ±2.51% (92 runs sampled)
+:clock1: faker.finance.amount x 127,408 ops/sec ±2.54% (90 runs sampled)
+:stopwatch: muenchhausen.decimal.random
 
-$ muenchhausen.date.future x 123,795 ops/sec ±0.37% (94 runs sampled)
-$ faker.date.future x 84,607 ops/sec ±2.89% (91 runs sampled)
-Fastest: muenchhausen.date.future
+:clock10: muenchhausen.number.random x 245,487 ops/sec ±1.99% (91 runs sampled)
+:clock1: faker.random.number x 126,151 ops/sec ±2.82% (91 runs sampled)
+:stopwatch: muenchhausen.number.random
 
-$ muenchhausen.date.past x 123,323 ops/sec ±0.20% (95 runs sampled)
-$ faker.date.past x 84,020 ops/sec ±2.15% (93 runs sampled)
-Fastest: muenchhausen.date.past
+:clock10: muenchhausen.date.future x 125,462 ops/sec ±0.23% (95 runs sampled)
+:clock1: faker.date.future x 87,152 ops/sec ±2.18% (91 runs sampled)
+:stopwatch: muenchhausen.date.future
 
-$ muenchhausen.date.random x 148,685 ops/sec ±1.75% (90 runs sampled)
-$ faker.date.future x 84,784 ops/sec ±2.10% (90 runs sampled)
-Fastest: muenchhausen.date.random
+:clock10: muenchhausen.date.past x 121,725 ops/sec ±1.64% (92 runs sampled)
+:clock1: faker.date.past x 85,242 ops/sec ±2.07% (91 runs sampled)
+:stopwatch: muenchhausen.date.past
 
-$ muenchhausen.date.month x 459,273 ops/sec ±2.58% (92 runs sampled)
-$ faker.date.month x 131,809 ops/sec ±2.17% (94 runs sampled)
-Fastest: muenchhausen.date.month
+:clock10: muenchhausen.date.random x 155,323 ops/sec ±0.27% (94 runs sampled)
+:clock1: faker.date.future x 78,475 ops/sec ±5.44% (80 runs sampled)
+:stopwatch: muenchhausen.date.random
 
-$ muenchhausen.date.weekday x 395,398 ops/sec ±1.73% (91 runs sampled)
-$ faker.date.weekday x 129,437 ops/sec ±2.99% (89 runs sampled)
-Fastest: muenchhausen.date.weekday
+:clock10: muenchhausen.date.month x 463,939 ops/sec ±0.95% (93 runs sampled)
+:clock1: faker.date.month x 131,744 ops/sec ±2.89% (91 runs sampled)
+:stopwatch: muenchhausen.date.month
 
-$ muenchhausen.phone.international x 849,530 ops/sec ±2.38% (91 runs sampled)
-$ faker.phone x 280,708 ops/sec ±0.23% (95 runs sampled)
-Fastest: muenchhausen.phone.international
+:clock10: muenchhausen.date.weekday x 394,379 ops/sec ±0.31% (95 runs sampled)
+:clock1: faker.date.weekday x 134,027 ops/sec ±1.89% (88 runs sampled)
+:stopwatch: muenchhausen.date.weekday
 
-```
+:clock10: muenchhausen.phone.international x 852,787 ops/sec ±3.20% (89 runs sampled)
+:clock1: faker.phone x 278,208 ops/sec ±0.15% (92 runs sampled)
+:stopwatch: muenchhausen.phone.international
+

@@ -15,7 +15,7 @@ function systeminfo(done){
 			console.log("Tested at " + m.render("$(date.now)"));
 			console.log(" with node " + "v" + version.node + " on " + os.platform() + " " + os.arch() + " v" + os.release() + " with " + os.totalmem() + " total memory and");
 			console.log(" " + cpu.manufacturer + " " + cpu.brand + " " + cpu.speed + " " + cpu.cores + " cores.");
-			console.log("```bash");
+			console.log("");
 			done();
 		}).catch(function(error){ console.error(error) });
 	}).catch(function(error){ console.error(error) });
@@ -28,10 +28,16 @@ function testSuite(functionBundle){
 		.add(functionBundle.name1, functionBundle.f1)
 		.add(functionBundle.name2, functionBundle.f2)
 		.on("cycle", function(event) {
-			console.log("$ " + String(event.target) + "");
+			var symbol;
+			if(String(event.target).indexOf("muenchhausen.") === -1){
+				symbol = ":clock1:";
+			} else {
+				symbol = ":clock10:";
+			}
+			console.log(symbol + " " + String(event.target) + "");
 		})
 		.on("complete", function() {
-			console.log("Fastest: " + this.filter("fastest").map("name") + "") ;
+			console.log(":stopwatch: " + this.filter("fastest").map("name") + "") ;
 			console.log("") ;
 		})
 		.run({ "async": false }); 
@@ -164,5 +170,4 @@ systeminfo(function(){
 		}
 	});
 
-	console.log("```");
 });
