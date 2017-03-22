@@ -25,7 +25,7 @@ describe("Validate fake methods", function () {
 		it(fn + " function should have property ." + name, function () {
 			var x = f({culture : "en-GB"});
 			var type = (typeof x[name]);
-			type.should.be.equalOneOf("string", "object", "number");
+			type.should.be.equalOneOf("string", "object", "number", "boolean");
 		});
 	}
 

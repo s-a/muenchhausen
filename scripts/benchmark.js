@@ -14,8 +14,8 @@ function systeminfo(done){
 			console.log("");
 			console.log("Tested at " + m.render("$(date.now)"));
 			console.log(" with node " + "v" + version.node + " on " + os.platform() + " " + os.arch() + " v" + os.release() + " with " + os.totalmem() + " total memory and");
-			console.log(" " + cpu.manufacturer + " " + cpu.brand + " " + cpu.speed + " " + cpu.cores + " cores");
-			console.log("");
+			console.log(" " + cpu.manufacturer + " " + cpu.brand + " " + cpu.speed + " " + cpu.cores + " cores.");
+			console.log("```bash");
 			done();
 		}).catch(function(error){ console.error(error) });
 	}).catch(function(error){ console.error(error) });
@@ -28,19 +28,30 @@ function testSuite(functionBundle){
 		.add(functionBundle.name1, functionBundle.f1)
 		.add(functionBundle.name2, functionBundle.f2)
 		.on("cycle", function(event) {
-			console.log("- `" + String(event.target) + "`  ");
+			console.log("$ " + String(event.target) + "");
 		})
 		.on("complete", function() {
-			console.log("  - Fastest is `" + this.filter("fastest").map("name") + "`  ") ;
-			console.log("  ");
+			console.log("Fastest: " + this.filter("fastest").map("name") + "") ;
 		})
 		.run({ "async": false }); 
+
 
 	return suite1
 }
 
 
 systeminfo(function(){
+
+	testSuite({
+		name1 : "muenchhausen.boolean.random", 
+		f1 : function() {
+			muenchhausen.render("$(boolean.random)"); 
+		},
+		name2 : "faker.random.boolean",
+		f2 : function() {
+			faker.fake("{{random.boolean}}");
+		}
+	});	
 
 	testSuite({
 		name1 : "muenchhausen.decimal.random", // == > should be muenchhausen.finance.amount.
@@ -122,7 +133,7 @@ systeminfo(function(){
 	testSuite({
 		name1 : "muenchhausen.phone.international",
 		f1 : function() {
-			muenchhausen.fake.phone.international({culture:"en"}).value;
+			muenchhausen.fake.phone.international({}).value;
 		},
 		name2 : "faker.phone",
 		f2 : function() {
@@ -130,5 +141,5 @@ systeminfo(function(){
 		}
 	});
 
-
+	console.log("```");
 });
