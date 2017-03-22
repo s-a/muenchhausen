@@ -32,6 +32,7 @@ function testSuite(functionBundle){
 		})
 		.on("complete", function() {
 			console.log("Fastest: " + this.filter("fastest").map("name") + "") ;
+			console.log("") ;
 		})
 		.run({ "async": false }); 
 
