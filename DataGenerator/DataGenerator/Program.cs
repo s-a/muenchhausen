@@ -7,29 +7,34 @@ using System.Web.Script.Serialization;
 
 namespace DataGenerator
 {
-    using System;
-    using System.Globalization;
+  using System;
+  using System.Globalization;
 
-    class I18nFile
-    {
-        public List<string> month = new List<string>();
-        public List<string> weekdays = new List<string>();
-        public string shortDatePattern;
-        public string longDatePattern;
-        public string shortTimePattern;
-        public string longTimePattern;
-
-    }
-  class I18nNumber
+  class I18nFile
   {
-
-    public NumberFormatInfo numberFormatInfo;
+      public List<string> month = new List<string>();
+      public List<string> weekdays = new List<string>();
+      public string shortDatePattern;
+      public string longDatePattern;
+      public string shortTimePattern;
+      public string longTimePattern;
 
   }
 
-  class Program
-    {
+  class I18nNumber
+  {
+    public NumberFormatInfo numberFormatInfo;
+  }
 
+  class I18nBoolean
+  {
+    public string _true = "True";
+    public string _false = "False";
+  }
+
+  class Program {
+
+    private static string rootPath;
     private static string[] s =  {
               "af-ZA",
               "sq-AL",
@@ -205,12 +210,6 @@ namespace DataGenerator
 
     static void fake_date()
     {
-      string rootPath = findUp(System.IO.Directory.GetCurrentDirectory(), "package.json");
-      Console.WriteLine(rootPath);
-
-      string d = System.IO.Path.Combine(rootPath, "lib", "cultures.json");
-      saveObjectToJSON(s, d);
-
       foreach (string lng in s)
       {
         I18nFile ifile = new I18nFile();
@@ -253,11 +252,6 @@ namespace DataGenerator
 
     static void fake_number()
     {
-      string rootPath = findUp(System.IO.Directory.GetCurrentDirectory(), "package.json");
-      Console.WriteLine(rootPath);
-
-      string d = System.IO.Path.Combine(rootPath, "lib", "cultures.json");
-      saveObjectToJSON(s, d);
 
       foreach (string lng in s)
       {
@@ -272,84 +266,34 @@ namespace DataGenerator
       Console.ReadKey();
     }
 
+
+    static void fake_boolean()
+    {
+      foreach (string lng in s)
+      {
+        I18nBoolean ifile = new I18nBoolean();
+        CultureInfo cu = new CultureInfo(lng);
+        System.Threading.Thread.CurrentThread.CurrentCulture = cu;
+        ifile._true = true.ToString(cu);
+        ifile._false = false.ToString(cu);
+        string fn = System.IO.Path.Combine(rootPath, "lib", "i18n", "bool", lng + ".json");
+        saveObjectToJSON(ifile, fn);
+      }
+      Console.WriteLine("done");
+      Console.ReadKey();
+    }
+
     static void Main()
     {
+      Program.rootPath = findUp(System.IO.Directory.GetCurrentDirectory(), "package.json");
+      Console.WriteLine(rootPath);
 
+      string d = System.IO.Path.Combine(rootPath, "lib", "cultures.json");
+      saveObjectToJSON(s, d);
+       
       fake_date();
       fake_number();
     }
-}
+  }
 
-    class JsonHelper
-    {
-        private const string INDENT_STRING = "    ";
-        public static string FormatJson(string str)
-        {
-            var indent = 0;
-            var quoted = false;
-            var sb = new StringBuilder();
-            for (var i = 0; i < str.Length; i++)
-            {
-                var ch = str[i];
-                switch (ch)
-                {
-                    case '{':
-                    case '[':
-                        sb.Append(ch);
-                        if (!quoted)
-                        {
-                            sb.AppendLine();
-                            Enumerable.Range(0, ++indent).ForEach(item => sb.Append(INDENT_STRING));
-                        }
-                        break;
-                    case '}':
-                    case ']':
-                        if (!quoted)
-                        {
-                            sb.AppendLine();
-                            Enumerable.Range(0, --indent).ForEach(item => sb.Append(INDENT_STRING));
-                        }
-                        sb.Append(ch);
-                        break;
-                    case '"':
-                        sb.Append(ch);
-                        bool escaped = false;
-                        var index = i;
-                        while (index > 0 && str[--index] == '\\')
-                            escaped = !escaped;
-                        if (!escaped)
-                            quoted = !quoted;
-                        break;
-                    case ',':
-                        sb.Append(ch);
-                        if (!quoted)
-                        {
-                            sb.AppendLine();
-                            Enumerable.Range(0, indent).ForEach(item => sb.Append(INDENT_STRING));
-                        }
-                        break;
-                    case ':':
-                        sb.Append(ch);
-                        if (!quoted)
-                            sb.Append(" ");
-                        break;
-                    default:
-                        sb.Append(ch);
-                        break;
-                }
-            }
-            return sb.ToString();
-        }
-    }
-
-    static class Extensions
-    {
-        public static void ForEach<T>(this IEnumerable<T> ie, Action<T> action)
-        {
-            foreach (var i in ie)
-            {
-                action(i);
-            }
-        }
-    }
 }
