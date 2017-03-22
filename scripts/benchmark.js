@@ -43,6 +43,17 @@ function testSuite(functionBundle){
 systeminfo(function(){
 
 	testSuite({
+		name1 : "muenchhausen.decimal.random", // == > should be muenchhausen.finance.amount.
+		f1 : function() {
+			muenchhausen.render("$(decimal.random)"); 
+		},
+		name2 : "faker.finance.amount",
+		f2 : function() {
+			faker.fake("{{finance.amount}}");
+		}
+	});	
+
+	testSuite({
 		name1 : "muenchhausen.number.random",
 		f1 : function() {
 			muenchhausen.render("$(number.random)"); 
