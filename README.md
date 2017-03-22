@@ -15,12 +15,38 @@ npm install --save muenchhausen
 
 `Muenchhausen` expects a culture string as parameter like "de-DE" or "en-GB". All available cultures are listed in [cultures.json](https://github.com/s-a/muenchhausen/blob/master/lib/cultures.json)
 
+### Render method
+
 ```javascript
 var muenchhausen = new Muenchhausen("de-DE");
 var merchandiseTVSpotText = "$(date.now.text suffix:this)-$(date.random.value suffix:format,min:20200901)  $(date.random)";
 var news = muenchhausen.render(merchandiseTVSpotText);
 console.log(news);
+
+/*
+	yields => 22/02/2017-Wed Jan 30 7219 23:35:07 GMT+0100 (Mitteleuropäische Zeit)  18/07/2984
+*/
 ```
+
+### Use separate functions programmatically
+
+
+```javascript
+var muenchhausen = new Muenchhausen("ja-JP");
+console.log(muenchhausen.fake.date.now({}).text());
+console.log(muenchhausen.fake.date.weekday().text());
+
+/*
+	yields => 
+		2017/02/22
+		金曜日
+
+*/
+```
+
+## Benchmarks
+
+See [/docs/BENCHMARK.md](docs/BENCHMARK.md)
 
 ## Client
 
@@ -29,10 +55,6 @@ A shell client is avialable at [muenchhausen-client](https://github.com/s-a/muen
 ## API
 
 A detailed API description is available at [/docs/](docs/)
-
-## Benchmarks
-
-See [/docs/BENCHMARK.md](docs/BENCHMARK.md)
 
 ## License
 
