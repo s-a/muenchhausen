@@ -1,0 +1,30 @@
+{
+    "month": [
+        "gener",
+        "febrer",
+        "març",
+        "abril",
+        "maig",
+        "juny",
+        "juliol",
+        "agost",
+        "setembre",
+        "octubre",
+        "novembre",
+        "desembre",
+        ""
+    ],
+    "weekdays": [
+        "diumenge",
+        "dilluns",
+        "dimarts",
+        "dimecres",
+        "dijous",
+        "divendres",
+        "dissabte"
+    ],
+    "shortDatePattern": "d/M/yyyy",
+    "longDatePattern": "dddd, d MMMM \u0027de\u0027 yyyy",
+    "shortTimePattern": "H:mm",
+    "longTimePattern": "H:mm:ss"
+}

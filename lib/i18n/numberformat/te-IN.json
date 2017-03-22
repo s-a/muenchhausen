@@ -1,0 +1,52 @@
+{
+    "numberFormatInfo": {
+        "CurrencyDecimalDigits": 2,
+        "CurrencyDecimalSeparator": ".",
+        "IsReadOnly": false,
+        "CurrencyGroupSizes": [
+            3,
+            2
+        ],
+        "NumberGroupSizes": [
+            3,
+            2
+        ],
+        "PercentGroupSizes": [
+            3,
+            2
+        ],
+        "CurrencyGroupSeparator": ",",
+        "CurrencySymbol": "₹",
+        "NaNSymbol": "NaN",
+        "CurrencyNegativePattern": 12,
+        "NumberNegativePattern": 1,
+        "PercentPositivePattern": 1,
+        "PercentNegativePattern": 1,
+        "NegativeInfinitySymbol": "-∞",
+        "NegativeSign": "-",
+        "NumberDecimalDigits": 2,
+        "NumberDecimalSeparator": ".",
+        "NumberGroupSeparator": ",",
+        "CurrencyPositivePattern": 0,
+        "PositiveInfinitySymbol": "∞",
+        "PositiveSign": "+",
+        "PercentDecimalDigits": 2,
+        "PercentDecimalSeparator": ".",
+        "PercentGroupSeparator": ",",
+        "PercentSymbol": "%",
+        "PerMilleSymbol": "‰",
+        "NativeDigits": [
+            "౦",
+            "౧",
+            "౨",
+            "౩",
+            "౪",
+            "౫",
+            "౬",
+            "౭",
+            "౮",
+            "౯"
+        ],
+        "DigitSubstitution": 1
+    }
+}

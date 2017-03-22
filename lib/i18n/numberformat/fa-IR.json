@@ -1,0 +1,49 @@
+{
+    "numberFormatInfo": {
+        "CurrencyDecimalDigits": 2,
+        "CurrencyDecimalSeparator": "/",
+        "IsReadOnly": false,
+        "CurrencyGroupSizes": [
+            3
+        ],
+        "NumberGroupSizes": [
+            3
+        ],
+        "PercentGroupSizes": [
+            3
+        ],
+        "CurrencyGroupSeparator": ",",
+        "CurrencySymbol": "ريال",
+        "NaNSymbol": "ناعدد",
+        "CurrencyNegativePattern": 6,
+        "NumberNegativePattern": 3,
+        "PercentPositivePattern": 0,
+        "PercentNegativePattern": 11,
+        "NegativeInfinitySymbol": "-∞",
+        "NegativeSign": "-",
+        "NumberDecimalDigits": 2,
+        "NumberDecimalSeparator": "/",
+        "NumberGroupSeparator": ",",
+        "CurrencyPositivePattern": 1,
+        "PositiveInfinitySymbol": "∞",
+        "PositiveSign": "+",
+        "PercentDecimalDigits": 2,
+        "PercentDecimalSeparator": "/",
+        "PercentGroupSeparator": ",",
+        "PercentSymbol": "%",
+        "PerMilleSymbol": "‰",
+        "NativeDigits": [
+            "۰",
+            "۱",
+            "۲",
+            "۳",
+            "۴",
+            "۵",
+            "۶",
+            "۷",
+            "۸",
+            "۹"
+        ],
+        "DigitSubstitution": 0
+    }
+}

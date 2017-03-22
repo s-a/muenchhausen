@@ -1,0 +1,30 @@
+{
+    "month": [
+        "Janvāris",
+        "Februāris",
+        "Marts",
+        "Aprīlis",
+        "Maijs",
+        "Jūnijs",
+        "Jūlijs",
+        "Augusts",
+        "Septembris",
+        "Oktobris",
+        "Novembris",
+        "Decembris",
+        ""
+    ],
+    "weekdays": [
+        "svētdiena",
+        "pirmdiena",
+        "otrdiena",
+        "trešdiena",
+        "ceturtdiena",
+        "piektdiena",
+        "sestdiena"
+    ],
+    "shortDatePattern": "dd.MM.yyyy",
+    "longDatePattern": "dddd, yyyy. \u0027gada\u0027 d. MMMM",
+    "shortTimePattern": "HH:mm",
+    "longTimePattern": "HH:mm:ss"
+}

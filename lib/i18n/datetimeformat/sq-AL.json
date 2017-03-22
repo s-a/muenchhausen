@@ -1,0 +1,30 @@
+{
+    "month": [
+        "Janar",
+        "Shkurt",
+        "Mars",
+        "Prill",
+        "Maj",
+        "Qershor",
+        "Korrik",
+        "Gusht",
+        "Shtator",
+        "Tetor",
+        "Nëntor",
+        "Dhjetor",
+        ""
+    ],
+    "weekdays": [
+        "e diel",
+        "e hënë",
+        "e martë",
+        "e mërkurë",
+        "e enjte",
+        "e premte",
+        "e shtunë"
+    ],
+    "shortDatePattern": "d.M.yyyy",
+    "longDatePattern": "dddd, d MMMM yyyy",
+    "shortTimePattern": "h:mm tt",
+    "longTimePattern": "h:mm:ss tt"
+}
