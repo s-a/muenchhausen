@@ -13,7 +13,7 @@
             3
         ],
         "CurrencyGroupSeparator": " ",
-        "CurrencySymbol": "Ft",
+        "CurrencySymbol": "HUF",
         "NaNSymbol": "NaN",
         "CurrencyNegativePattern": 8,
         "NumberNegativePattern": 1,

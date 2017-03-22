@@ -15,7 +15,7 @@
         "CurrencyGroupSeparator": ",",
         "CurrencySymbol": "MOP",
         "NaNSymbol": "非數值",
-        "CurrencyNegativePattern": 1,
+        "CurrencyNegativePattern": 0,
         "NumberNegativePattern": 1,
         "PercentPositivePattern": 1,
         "PercentNegativePattern": 1,

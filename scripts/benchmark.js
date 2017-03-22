@@ -44,6 +44,28 @@ function testSuite(functionBundle){
 systeminfo(function(){
 
 	testSuite({
+		name1 : "muenchhausen.random.element (Object)",
+		f1 : function() {
+			muenchhausen.fake.random.element({one: 1, two: 2, three: 3}); 
+		},
+		name2 : "faker.random.objectElement",
+		f2 : function() {
+			faker.random.objectElement({one: 1, two: 2, three: 3});
+		}
+	}); 
+
+	testSuite({
+		name1 : "muenchhausen.random.element (Array)",
+		f1 : function() {
+			muenchhausen.fake.random.element(["cell","work","home"]); 
+		},
+		name2 : "faker.random.arrayElement",
+		f2 : function() {
+			faker.random.arrayElement(["cell","work","home"]);
+		}
+	}); 
+
+	testSuite({
 		name1 : "muenchhausen.boolean.random", 
 		f1 : function() {
 			muenchhausen.render("$(boolean.random)"); 

@@ -15,13 +15,13 @@
         ""
     ],
     "weekdays": [
-        "sunnuntai",
-        "maanantai",
-        "tiistai",
-        "keskiviikko",
-        "torstai",
-        "perjantai",
-        "lauantai"
+        "sunnuntaina",
+        "maanantaina",
+        "tiistaina",
+        "keskiviikkona",
+        "torstaina",
+        "perjantaina",
+        "lauantaina"
     ],
     "shortDatePattern": "d.M.yyyy",
     "longDatePattern": "dddd d. MMMM yyyy",

@@ -12,7 +12,7 @@
         "PercentGroupSizes": [
             3
         ],
-        "CurrencyGroupSeparator": " ",
+        "CurrencyGroupSeparator": ".",
         "CurrencySymbol": "₡",
         "NaNSymbol": "NaN",
         "CurrencyNegativePattern": 1,
@@ -23,13 +23,13 @@
         "NegativeSign": "-",
         "NumberDecimalDigits": 2,
         "NumberDecimalSeparator": ",",
-        "NumberGroupSeparator": " ",
+        "NumberGroupSeparator": ".",
         "CurrencyPositivePattern": 0,
         "PositiveInfinitySymbol": "∞",
         "PositiveSign": "+",
         "PercentDecimalDigits": 2,
         "PercentDecimalSeparator": ",",
-        "PercentGroupSeparator": " ",
+        "PercentGroupSeparator": ".",
         "PercentSymbol": "%",
         "PerMilleSymbol": "‰",
         "NativeDigits": [

@@ -25,6 +25,6 @@
     ],
     "shortDatePattern": "d.M.yyyy",
     "longDatePattern": "dddd, d MMMM yyyy",
-    "shortTimePattern": "h:mm tt",
-    "longTimePattern": "h:mm:ss tt"
+    "shortTimePattern": "HH:mm",
+    "longTimePattern": "HH:mm:ss"
 }

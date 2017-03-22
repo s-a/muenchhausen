@@ -1,12 +1,12 @@
 var Benchmark = require("benchmark");
 var Muenchhausen = require("./../lib");
-var muenchhausen = new Muenchhausen("en");
+var muenchhausen = new Muenchhausen("en-GB");
 var faker = require("faker");
 faker.locale = "en"; 
 
 function systeminfo(done){
 	var os = require("os");
-	var m = new Muenchhausen("en");
+	var m = new Muenchhausen("en-GB");
 	var si = require("systeminformation");
 	si.cpu().then(function(cpu){
 		si.versions().then(function(version){
@@ -43,13 +43,13 @@ function testSuite(functionBundle){
 systeminfo(function(){
 
 	testSuite({
-		name1 : "muenchhausen.date.now",
+		name1 : "muenchhausen.random.element",
 		f1 : function() {
-			muenchhausen.render("$(date.now.text)"); 
+			muenchhausen.fake.random.element(["cell","work","home"]); 
 		},
-		name2 : "faker.date.future",
+		name2 : "faker.random.arrayElement",
 		f2 : function() {
-			faker.fake("{{date.future}}");
+			faker.random.arrayElement(["cell","work","home"]); //returns "work"
 		}
 	}); 
 

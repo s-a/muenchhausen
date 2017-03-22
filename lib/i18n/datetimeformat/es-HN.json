@@ -1,17 +1,17 @@
 {
     "month": [
-        "enero",
-        "febrero",
-        "marzo",
-        "abril",
-        "mayo",
-        "junio",
-        "julio",
-        "agosto",
-        "septiembre",
-        "octubre",
-        "noviembre",
-        "diciembre",
+        "Enero",
+        "Febrero",
+        "Marzo",
+        "Abril",
+        "Mayo",
+        "Junio",
+        "Julio",
+        "Agosto",
+        "Septiembre",
+        "Octubre",
+        "Noviembre",
+        "Diciembre",
         ""
     ],
     "weekdays": [
@@ -25,6 +25,6 @@
     ],
     "shortDatePattern": "d/M/yyyy",
     "longDatePattern": "dddd dd \u0027de\u0027 MMMM \u0027de\u0027 yyyy",
-    "shortTimePattern": "HH:mm",
-    "longTimePattern": "HH:mm:ss"
+    "shortTimePattern": "h:mm tt",
+    "longTimePattern": "h:mm:ss tt"
 }

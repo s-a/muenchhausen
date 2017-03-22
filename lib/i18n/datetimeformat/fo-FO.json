@@ -23,8 +23,8 @@
         "fríggjadagur",
         "leygardagur"
     ],
-    "shortDatePattern": "dd.MM.yyyy",
-    "longDatePattern": "dddd, d. MMMM yyyy",
+    "shortDatePattern": "dd-MM-yyyy",
+    "longDatePattern": "dddd dd MMMM yyyy",
     "shortTimePattern": "HH:mm",
     "longTimePattern": "HH:mm:ss"
 }
