@@ -13,10 +13,18 @@
   ],
   "main": "lib/index.js",
   "keywords": [
-    "fake",
-    "mock",
     "test",
-    "testing"
+    "testing",
+    "testing-tools",
+    "test-automation",
+    "tests",
+    "mock",
+    "mocking",
+    "mockup",
+    "mocks",
+    "fake",
+    "fake-content",
+    "fake-data"
   ],
   "devDependencies": {
     "benchmark": "^2.1.3",
