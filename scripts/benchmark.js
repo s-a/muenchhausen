@@ -34,10 +34,11 @@ function testSuite(functionBundle){
 			} else {
 				symbol = ":clock10:";
 			}
-			console.log(symbol + " " + String(event.target) + "");
+			console.log(symbol + " " + String(event.target) + "  ");
 		})
 		.on("complete", function() {
-			console.log(":stopwatch: " + this.filter("fastest").map("name") + "") ;
+			console.log("" + this.filter("fastest").map("name") + "  ") ;
+			console.log("") ;
 			console.log("") ;
 		})
 		.run({ "async": false }); 
