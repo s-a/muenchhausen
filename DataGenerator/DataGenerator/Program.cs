@@ -245,7 +245,7 @@ namespace DataGenerator
         ifile.shortTimePattern = CultureInfo.CurrentCulture.DateTimeFormat.ShortTimePattern;
         ifile.longTimePattern = CultureInfo.CurrentCulture.DateTimeFormat.LongTimePattern;
 
-        string fn = System.IO.Path.Combine(rootPath, "lib", "i18n", "datetimeformat." + lng + ".json");
+        string fn = System.IO.Path.Combine(rootPath, "lib", "i18n", "datetimeformat", lng + ".json");
         saveObjectToJSON(ifile, fn);
       }
       Console.WriteLine("done");
@@ -265,7 +265,7 @@ namespace DataGenerator
         CultureInfo cu = new CultureInfo(lng);
         System.Threading.Thread.CurrentThread.CurrentCulture = cu;
         ifile.numberFormatInfo = CultureInfo.CurrentCulture.NumberFormat;
-        string fn = System.IO.Path.Combine(rootPath, "lib", "i18n", "numberformat." + lng + ".json");
+        string fn = System.IO.Path.Combine(rootPath, "lib", "i18n", "numberformat", lng + ".json");
         saveObjectToJSON(ifile, fn);
       }
       Console.WriteLine("done");
