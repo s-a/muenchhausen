@@ -4,7 +4,6 @@ var muenchhausen = new Muenchhausen("de-DE");
 var faker = require("faker");
 faker.locale = "de"; 
 var package = require("./../package.json");
-console.log(package.devDependencies.faker)
 function systeminfo(done){
 	var os = require("os");
 	var m = new Muenchhausen("en-GB");
