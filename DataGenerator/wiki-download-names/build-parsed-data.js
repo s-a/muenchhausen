@@ -27,5 +27,5 @@ eachJsonFile(function (obj, filename) {
 		fs.mkdirSync(dir);
 	}
 	console.log(newFilename);
-	fs.writeFileSync(newFilename, JSON.stringify(obj));
+	fs.writeFileSync(newFilename, JSON.stringify(obj, null, "\t"));
 })
