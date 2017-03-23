@@ -15,9 +15,6 @@ function eachJsonFile(handler) {
 	})
 }
 
-var eachDirPart = function (dir, handler){
-	dir.split("")
-}
 
 eachJsonFile(function (obj, filename) {
 	var newFilename = path.join("..", "..", "lib", "i18n", filename.toLowerCase());
