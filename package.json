@@ -43,6 +43,7 @@
     "gulp-plumber": "^1.0.0",
     "handlebars": "^4.0.6",
     "jsdox": "^0.4.10",
+    "line-by-line": "^0.1.5",
     "should": "^11.2.1",
     "systeminformation": "^3.17.0"
   },
