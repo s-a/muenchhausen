@@ -3,7 +3,8 @@ var Muenchhausen = require("./../lib");
 var muenchhausen = new Muenchhausen("de-DE");
 var faker = require("faker");
 faker.locale = "de"; 
-
+var package = require("./../package.json");
+console.log(package.devDependencies.faker)
 function systeminfo(done){
 	var os = require("os");
 	var m = new Muenchhausen("en-GB");
@@ -11,11 +12,15 @@ function systeminfo(done){
 	si.cpu().then(function(cpu){
 		si.versions().then(function(version){
 			console.log("# Benchmark");
-			console.log("");
+			console.log("  ");
 			console.log("Tested at " + m.render("$(date.now)"));
 			console.log(" with node " + "v" + version.node + " on " + os.platform() + " " + os.arch() + " v" + os.release() + " with " + os.totalmem() + " total memory and");
 			console.log(" " + cpu.manufacturer + " " + cpu.brand + " " + cpu.speed + " " + cpu.cores + " cores.");
-			console.log("");
+			console.log("  ");
+			console.log("## Versions");
+			console.log(" - Muenchhausen " + package.version);
+			console.log(" - faker.js " + package.devDependencies.faker);
+			console.log("  ");
 			done();
 		}).catch(function(error){ console.error(error) });
 	}).catch(function(error){ console.error(error) });
@@ -49,6 +54,19 @@ function testSuite(functionBundle){
 
 
 systeminfo(function(){
+
+	testSuite({
+		name1 : "muenchhausen.fake.person.firstname",
+		f1 : function() {
+			muenchhausen.fake.person.firstname({}); 
+		},
+		name2 : "faker.name.firstName",
+		f2 : function() {
+			faker.name.firstName();
+		}
+	});  
+	
+
 
 	testSuite({
 		name1 : "muenchhausen.random.element (Object)",

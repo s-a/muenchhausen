@@ -23,7 +23,7 @@ describe("Validate fake methods", function () {
 
 	function testExpectedProperty(name, fn, f){
 		it(fn + " function should have property ." + name, function () {
-			var x = f({culture : "en-GB"});
+			var x = f({});
 			var type = (typeof x[name]);
 			type.should.be.equalOneOf("string", "object", "number", "boolean");
 		});

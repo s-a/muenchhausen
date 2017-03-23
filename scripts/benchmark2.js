@@ -43,15 +43,14 @@ function testSuite(functionBundle){
 systeminfo(function(){
 
 	testSuite({
-		name1 : "muenchhausen.random.element",
+		name1 : "muenchhausen.fake.person.firstname",
 		f1 : function() {
-			muenchhausen.fake.random.element(["cell","work","home"]); 
+			muenchhausen.fake.person.firstname({}); 
 		},
-		name2 : "faker.random.arrayElement",
+		name2 : "faker.name.firstName",
 		f2 : function() {
-			faker.random.arrayElement(["cell","work","home"]); //returns "work"
+			faker.name.firstName();
 		}
-	}); 
-
-
+	});  
+	
 });
