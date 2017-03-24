@@ -1,6 +1,4 @@
-
-
-# MUENCHHAUSEN [![Muenchhausen Logo](/resources/logo-sm.png)]()
+# MUENCHHAUSEN [![Muenchhausen Logo](/resources/logo-sm.png)](/)
 
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url] [![Codacy Badge](https://api.codacy.com/project/badge/Grade/504801d3fc0d4d259a9160cc6b8cf492)](https://www.codacy.com/app/stephanahlf/muenchhausen?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=s-a/muenchhausen&amp;utm_campaign=Badge_Grade)
 > fake data
@@ -15,7 +13,12 @@ npm install --save muenchhausen
 
 `Muenchhausen` expects a culture string as parameter like "de-DE" or "en-GB". All available cultures are listed in [cultures.json](https://github.com/s-a/muenchhausen/blob/master/lib/cultures.json)
 
-### Render method
+```javascript
+var Muenchhausen = require("muenchhausen");
+var muenchhausen = new Muenchhausen("de-DE");
+```
+
+### Render
 
 ```javascript
 var muenchhausen = new Muenchhausen("de-DE");
@@ -24,12 +27,11 @@ var news = muenchhausen.render(merchandiseTVSpotText);
 console.log(news);
 
 /*
-	yields => 22/02/2017-Wed Jan 30 7219 23:35:07 GMT+0100 (Mitteleuropäische Zeit)  18/07/2984
+yields => 22/02/2017-Wed Jan 30 7219 23:35:07 GMT+0100 (Mitteleuropäische Zeit)  18/07/2984
 */
 ```
 
-### Use separate functions programmatically
-
+### Programmatically
 
 ```javascript
 var muenchhausen = new Muenchhausen("ja-JP");
@@ -37,16 +39,15 @@ console.log(muenchhausen.fake.date.now({}).text());
 console.log(muenchhausen.fake.date.weekday().text());
 
 /*
-	yields => 
-		2017/02/22
-		金曜日
-
+yields =>
+2017/02/22
+金曜日
 */
 ```
 
 ## Benchmarks
 
-See [/docs/BENCHMARK.md](docs/BENCHMARK.md)
+[/docs/BENCHMARK.md](docs/BENCHMARK.md)
 
 ## Client
 
@@ -54,7 +55,11 @@ A shell client is avialable at [muenchhausen-client](https://github.com/s-a/muen
 
 ## API
 
-A detailed API description is available at [/docs/](docs/)
+[/docs/](docs/)
+
+## Contribute
+
+[/CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## License
 

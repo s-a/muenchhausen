@@ -54,6 +54,19 @@ function testSuite(functionBundle){
 
 systeminfo(function(){
 
+	
+	testSuite({
+		name1 : "muenchhausen.fake.company.name",
+		f1 : function() {
+			muenchhausen.fake.company.name({}); 
+		},
+		name2 : "faker.company.companyName",
+		f2 : function() {
+			faker.company.companyName(0);
+		}
+	});  
+
+
 	testSuite({
 		name1 : "muenchhausen.fake.person.firstname",
 		f1 : function() {

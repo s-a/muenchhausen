@@ -17,11 +17,10 @@
 **Screenshot(s):** [Screenshot(s) or animated gifs of the error situtaion]
 
 ### Version(s)
- 
-### Error LOG
- 
 
-=====================  
+### Error LOG
+
+=====================
 **Notes from the maintainer:**
 You are welcome to add a feature or fix bug via sending [pull request](CONTRIBUTING.md),
 it'll be faster than just opening a request issue. Thanks!!
