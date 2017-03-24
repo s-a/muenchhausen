@@ -43,24 +43,24 @@ function testSuite(functionBundle){
 systeminfo(function(){
 
 	testSuite({
-		name1 : "muenchhausen.fake.company.name",
+		name1 : "muenchhausen.fake.person.lastname",
 		f1 : function() {
-			muenchhausen.fake.company.name({}); 
+			muenchhausen.fake.person.lastname({}); 
 		},
-		name2 : "faker.company.companyName",
+		name2 : "faker.name.lastName",
 		f2 : function() {
-			faker.company.companyName(0);
+			 faker.name.lastName();
 		}
 	});  
 
 	testSuite({
-		name1 : "muenchhausen.fake.person.firstname",
+		name1 : "muenchhausen.fake.person.firstname+muenchhausen.fake.person.lastname",
 		f1 : function() {
-			muenchhausen.fake.person.firstname({}); 
+			muenchhausen.fake.person.firstname({}) + muenchhausen.fake.person.lastname({}); 
 		},
-		name2 : "faker.name.firstName",
+		name2 : "faker.name.findName",
 		f2 : function() {
-			faker.name.firstName();
+			faker.name.findName();
 		}
 	});  
 	
