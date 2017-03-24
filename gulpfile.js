@@ -50,10 +50,12 @@ gulp.task("watch", function () {
 });
 
 gulp.task("coveralls", ["test"], function () {
-  if (!process.env.CI) {
+  var nodeVersion = process.version.toLowerCase().replace("v", "").split(".")[0];
+  console.log(nodeVersion, process.env.TRAVIS);
+  var travisOnNode6 = (process.env.TRAVIS || "").toString().toLowerCase() === "true" &&  nodeVersion === 6;
+  if (!travisOnNode6) {
     return;
   }
-
   return gulp.src(path.join(__dirname, "coverage/lcov.info"))
     .pipe(coveralls());
 });
