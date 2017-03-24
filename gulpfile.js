@@ -52,7 +52,7 @@ gulp.task("watch", function () {
 gulp.task("coveralls", ["test"], function () {
   var nodeVersion = process.version.toLowerCase().replace("v", "").split(".")[0];
   console.log(nodeVersion, process.env.TRAVIS);
-  var travisOnNode6 = (process.env.TRAVIS || "").toString().toLowerCase() === "true" &&  nodeVersion === 6;
+  var travisOnNode6 = (process.env.TRAVIS || "").toString().toLowerCase() === "true" &&  nodeVersion === "6";
   if (!travisOnNode6) {
     return;
   }
