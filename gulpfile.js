@@ -50,12 +50,15 @@ gulp.task("watch", function () {
 });
 
 gulp.task("coveralls", ["test"], function () {
-  if (!process.env.CI) {
-    return;
+  var nodeVersion = process.version.toLowerCase().replace("v", "").split(".")[0];
+  console.log(nodeVersion, process.env.TRAVIS);
+  if ((process.env.TRAVIS || "").toString().toLowerCase() === "true" &&  nodeVersion === 6){
+    if (!process.env.CI) {
+      return;
+    }
+    return gulp.src(path.join(__dirname, "coverage/lcov.info"))
+      .pipe(coveralls());
   }
-
-  return gulp.src(path.join(__dirname, "coverage/lcov.info"))
-    .pipe(coveralls());
 });
 
 gulp.task("prepublish", ["nsp"]);
