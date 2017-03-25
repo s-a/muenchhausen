@@ -79,7 +79,7 @@ In generall it contains a simple node module. Methods prefixed with `_` are priv
   - [ ] write a benchmark or more and run `npm run benchmark` which will update [BENCHMARK.md](/docs/BENCHMARK.md).
 - [x] new doc(s).
   - [ ] Add jsdox descptions to your public function headers and `npm run docs` will update [/docs](/docs/) folder.
-- [x] Good housewife test.
+- [x] Error and code coverage test.
   - [ ] run `npm test` to start gulp taks. Fix eslint error and check your code coverage described in muenchhausen/coverage/lcov-report/index.html.
 
 ## License
