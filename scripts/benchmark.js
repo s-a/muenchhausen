@@ -41,8 +41,7 @@ function testSuite(functionBundle){
 			console.log(symbol + " " + String(event.target) + "  ");
 		})
 		.on("complete", function() {
-			console.log("" + this.filter("fastest").map("name") + "  ") ;
-			console.log("") ;
+			console.log(":+1: " + this.filter("fastest").map("name") + "  ") ;
 			console.log("") ;
 		})
 		.run({ "async": false }); 
