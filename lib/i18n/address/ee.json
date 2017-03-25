@@ -1,0 +1,9002 @@
+[
+	{
+		"lon": "27.2825037",
+		"lat": "59.3391451",
+		"number": "4",
+		"street": "Tuule tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Sompa linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.8052317",
+		"lat": "59.5206707",
+		"number": "2",
+		"street": "Kimsi tee",
+		"city": "\"Viimsi vald",
+		"district": "Pringi küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9012723",
+		"lat": "59.5012274",
+		"number": "54",
+		"street": "Silva tee",
+		"city": "\"Viimsi vald",
+		"district": "Randvere küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.8319818",
+		"lat": "59.1926457",
+		"number": "3",
+		"street": "Lai tänav",
+		"city": "\"Ambla vald",
+		"district": "Ambla alevik\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "27.2789776",
+		"lat": "57.730337",
+		"number": "4",
+		"street": "Turu tänav",
+		"city": "\"Vastseliina vald",
+		"district": "Vastseliina alevik\"",
+		"postcode": "Võru maakond"
+	},
+	{
+		"lon": "24.6183804",
+		"lat": "59.3461578",
+		"number": "33",
+		"street": "Kuuse tänav",
+		"city": "\"Saue vald",
+		"district": "Laagri alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.8917869",
+		"lat": "58.7065804",
+		"number": "8",
+		"street": "Kuuse tänav",
+		"city": "\"Põltsamaa vald",
+		"district": "Adavere alevik\"",
+		"postcode": "Jõgeva maakond"
+	},
+	{
+		"lon": "24.8152629",
+		"lat": "59.514764",
+		"number": "6",
+		"street": "Sanglepa tee",
+		"city": "\"Viimsi vald",
+		"district": "Haabneeme alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.8615049",
+		"lat": "58.2374345",
+		"number": "7",
+		"street": "Karja tänav",
+		"city": "\"Tarvastu vald",
+		"district": "Mustla alevik\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "26.2540164",
+		"lat": "58.1485833",
+		"number": "12",
+		"street": "Piiri tänav",
+		"city": "\"Rõngu vald",
+		"district": "Rõngu alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "25.8539002",
+		"lat": "58.2331003",
+		"number": "4",
+		"street": "Põllu tänav",
+		"city": "\"Tarvastu vald",
+		"district": "Mustla alevik\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "25.881602",
+		"lat": "59.0348722",
+		"number": "46",
+		"street": "Lai tänav",
+		"city": "\"Järva-Jaani vald",
+		"district": "Järva-Jaani alev\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "27.5084354",
+		"lat": "59.4166902",
+		"number": "38",
+		"street": "Liiva tänav",
+		"city": "\"Toila vald",
+		"district": "Toila alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "25.3055067",
+		"lat": "58.3284473",
+		"number": "4",
+		"street": "Kase tänav",
+		"city": "\"Kõpu vald",
+		"district": "Kõpu alevik\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "24.8014986",
+		"lat": "59.5432679",
+		"number": "9",
+		"street": "Vesiroosi tee",
+		"city": "\"Viimsi vald",
+		"district": "Püünsi küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9097572",
+		"lat": "59.458127",
+		"number": "9",
+		"street": "Äia tee",
+		"city": "\"Jõelähtme vald",
+		"district": "Iru küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.7490696",
+		"lat": "59.2794007",
+		"number": "4",
+		"street": "Alfredi tee",
+		"city": "\"Saku vald",
+		"district": "Lokuti küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9523455",
+		"lat": "59.4097816",
+		"number": "2",
+		"street": "Ilumetsa ling",
+		"city": "\"Rae vald",
+		"district": "Kopli küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "22.1821925",
+		"lat": "58.4987964",
+		"number": "2",
+		"street": "Järvekalda tänav",
+		"city": "\"Mustjala vald",
+		"district": "Merise küla\"",
+		"postcode": "Saare maakond"
+	},
+	{
+		"lon": "25.1405807",
+		"lat": "58.8305417",
+		"number": "9",
+		"street": "Viljandi maantee",
+		"city": "\"Käru vald",
+		"district": "Käru alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.4356765",
+		"lat": "58.9100574",
+		"number": "10a",
+		"street": "Nõmme tänav",
+		"city": "\"Märjamaa vald",
+		"district": "Märjamaa alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "25.9690955",
+		"lat": "59.5799376",
+		"number": "4",
+		"street": "Kalda tänav",
+		"city": "\"Vihula vald",
+		"district": "Võsu alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.5316132",
+		"lat": "57.8339242",
+		"number": "8b",
+		"street": "Põik tänav",
+		"city": "\"Antsla vald",
+		"district": "Antsla linn\"",
+		"postcode": "Võru maakond"
+	},
+	{
+		"lon": "24.2328348",
+		"lat": "59.07985",
+		"number": "10",
+		"street": "Lille tänav",
+		"city": "\"Nissi vald",
+		"district": "Turba alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.0076136",
+		"lat": "58.8637395",
+		"number": "6",
+		"street": "Tööstuse tänav",
+		"city": "\"Kehtna vald",
+		"district": "Lelle alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.6115717",
+		"lat": "58.3033858",
+		"number": "21",
+		"street": "Veski tee",
+		"city": "\"Tahkuranna vald",
+		"district": "Reiu küla\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "26.658137",
+		"lat": "58.431929",
+		"number": "18",
+		"street": "Jõerahu tänav",
+		"city": "\"Tähtvere vald",
+		"district": "Vorbuse küla\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "24.795306",
+		"lat": "59.5370885",
+		"number": "8",
+		"street": "Paakspuu tee",
+		"city": "\"Viimsi vald",
+		"district": "Pringi küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.8788541",
+		"lat": "58.234525",
+		"number": "1",
+		"street": "Tiigi tänav",
+		"city": "\"Tarvastu vald",
+		"district": "Mustla alevik\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "22.0364065",
+		"lat": "58.356348",
+		"number": "15",
+		"street": "Lümanda maantee",
+		"city": "\"Kihelkonna vald",
+		"district": "Kihelkonna alevik\"",
+		"postcode": "Saare maakond"
+	},
+	{
+		"lon": "26.7308206",
+		"lat": "58.3067866",
+		"number": "5",
+		"street": "Kasejõe tänav",
+		"city": "\"Ülenurme vald",
+		"district": "Ülenurme alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "24.2412189",
+		"lat": "59.3864332",
+		"number": "2",
+		"street": "Tamme tänav",
+		"city": "\"Keila vald",
+		"district": "Laulasmaa küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.4597796",
+		"lat": "58.1008216",
+		"number": "5",
+		"street": "Võõpsu maantee",
+		"city": "\"Räpina vald",
+		"district": "Räpina linn\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "27.2756981",
+		"lat": "59.4001207",
+		"number": "15a",
+		"street": "Torujõe tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.9837421",
+		"lat": "57.9062981",
+		"number": "5",
+		"street": "Kesk tänav",
+		"city": "\"Võru vald",
+		"district": "Parksepa alevik\"",
+		"postcode": "Võru maakond"
+	},
+	{
+		"lon": "23.9846204",
+		"lat": "58.3362738",
+		"number": "19",
+		"street": "Metsa tänav",
+		"city": "\"Tõstamaa vald",
+		"district": "Tõstamaa alevik\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "26.8708579",
+		"lat": "59.4499407",
+		"number": "8",
+		"street": "Männi tänav",
+		"city": "\"Aseri vald",
+		"district": "Aseri alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.8830524",
+		"lat": "59.5421595",
+		"number": "6",
+		"street": "Kuusiku tee",
+		"city": "\"Viimsi vald",
+		"district": "Leppneeme küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.7923413",
+		"lat": "58.3519604",
+		"number": "19",
+		"street": "Aruheina tee",
+		"city": "\"Luunja vald",
+		"district": "Veibri küla\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "26.6025334",
+		"lat": "58.5475971",
+		"number": "17",
+		"street": "Pargi tänav",
+		"city": "\"Tabivere vald",
+		"district": "Tabivere alevik\"",
+		"postcode": "Jõgeva maakond"
+	},
+	{
+		"lon": "25.880712",
+		"lat": "58.2351374",
+		"number": "3",
+		"street": "Kooli tänav",
+		"city": "\"Tarvastu vald",
+		"district": "Mustla alevik\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "24.6501555",
+		"lat": "59.2914442",
+		"number": "8",
+		"street": "Üksnurme tee",
+		"city": "\"Saku vald",
+		"district": "Saku alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9170517",
+		"lat": "59.3561539",
+		"number": "13/9",
+		"street": "Ehituse tänav",
+		"city": "\"Rae vald",
+		"district": "Jüri alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.8323279",
+		"lat": "59.191416",
+		"number": "15",
+		"street": "Jõe tänav",
+		"city": "\"Ambla vald",
+		"district": "Ambla alevik\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "26.2608005",
+		"lat": "59.438371",
+		"number": "18",
+		"street": "Veskijärve tänav",
+		"city": "\"Haljala vald",
+		"district": "Haljala alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.1610261",
+		"lat": "59.5293873",
+		"number": "8",
+		"street": "Pärituule tee",
+		"city": "\"Jõelähtme vald",
+		"district": "Neeme küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.5389724",
+		"lat": "58.0853738",
+		"number": "20",
+		"street": "Aia tänav",
+		"city": "\"Räpina vald",
+		"district": "Võõpsu alevik\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "26.6968232",
+		"lat": "58.2303303",
+		"number": "22",
+		"street": "Võru maantee",
+		"city": "\"Kambja vald",
+		"district": "Kambja alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "24.944435",
+		"lat": "58.7494145",
+		"number": "29",
+		"street": "Tallinna maantee",
+		"city": "\"Kehtna vald",
+		"district": "Eidapere alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "25.864983",
+		"lat": "58.2345634",
+		"number": "41",
+		"street": "Posti tänav",
+		"city": "\"Tarvastu vald",
+		"district": "Mustla alevik\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "27.2814524",
+		"lat": "59.396254",
+		"number": "5",
+		"street": "Niidu tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.3415553",
+		"lat": "59.3983493",
+		"number": "1",
+		"street": "Jõhvi maantee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Kukruse linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.2478591",
+		"lat": "59.3209577",
+		"number": "8",
+		"street": "Metsa tänav",
+		"city": "\"Keila vald",
+		"district": "Klooga alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.6056214",
+		"lat": "59.29714",
+		"number": "10",
+		"street": "Pohla tänav",
+		"city": "\"Aegviidu vald",
+		"district": "Aegviidu alev\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "23.8363371",
+		"lat": "58.6898295",
+		"number": "3",
+		"street": "Tallinna maantee",
+		"city": "\"Lihula vald",
+		"district": "Lihula linn\"",
+		"postcode": "Lääne maakond"
+	},
+	{
+		"lon": "26.2501767",
+		"lat": "58.1487284",
+		"number": "7",
+		"street": "Pargi tänav",
+		"city": "\"Rõngu vald",
+		"district": "Rõngu alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "26.583778",
+		"lat": "59.1719019",
+		"number": "28",
+		"street": "Tartu maantee",
+		"city": "\"Vinni vald",
+		"district": "Roela alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.457498",
+		"lat": "58.8891645",
+		"number": "1",
+		"street": "Ülejõe tänav",
+		"city": "\"Väätsa vald",
+		"district": "Väätsa alevik\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "27.4200645",
+		"lat": "59.3280086",
+		"number": "25a",
+		"street": "Maleva tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.8878253",
+		"lat": "59.534708",
+		"number": "3",
+		"street": "Teigari tee",
+		"city": "\"Viimsi vald",
+		"district": "Tammneeme küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.7223895",
+		"lat": "58.3148475",
+		"number": "4",
+		"street": "Võru maantee",
+		"city": "\"Ülenurme vald",
+		"district": "Ülenurme alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "24.6152127",
+		"lat": "58.3883475",
+		"number": "6",
+		"street": "Uuekalda tänav",
+		"city": "\"Sauga vald",
+		"district": "Tammiste küla\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "24.233646",
+		"lat": "59.0803175",
+		"number": "5",
+		"street": "Saare tänav",
+		"city": "\"Nissi vald",
+		"district": "Turba alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.8978287",
+		"lat": "59.4846232",
+		"number": "4",
+		"street": "Räägu tee",
+		"city": "\"Viimsi vald",
+		"district": "Äigrumäe küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.2500615",
+		"lat": "59.3449373",
+		"number": "22",
+		"street": "Ranna tee",
+		"city": "\"Keila vald",
+		"district": "Kloogaranna küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.4798097",
+		"lat": "58.657402",
+		"number": "7",
+		"street": "Metsa tänav",
+		"city": "\"Halinga vald",
+		"district": "Libatse küla\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "25.0718378",
+		"lat": "59.3642869",
+		"number": "7",
+		"street": "Harju tee",
+		"city": "\"Raasiku vald",
+		"district": "Aruküla alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.4755169",
+		"lat": "59.2416152",
+		"number": "5",
+		"street": "Kooli tee",
+		"city": "\"Vinni vald",
+		"district": "Viru-Jaagupi alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.2449541",
+		"lat": "58.1452968",
+		"number": "3",
+		"street": "Nooruse tänav",
+		"city": "\"Rõngu vald",
+		"district": "Rõngu alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "24.7170259",
+		"lat": "59.2271131",
+		"number": "13",
+		"street": "Tagadi tee",
+		"city": "\"Saku vald",
+		"district": "Kurtna küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.2334167",
+		"lat": "59.0783673",
+		"number": "5",
+		"street": "Lasteaia tänav",
+		"city": "\"Nissi vald",
+		"district": "Turba alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.5376135",
+		"lat": "58.2674207",
+		"number": "10",
+		"street": "Kaare tänav",
+		"city": "\"Nõo vald",
+		"district": "Nõo alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "27.412042",
+		"lat": "59.3244363",
+		"number": "17",
+		"street": "Lehola tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.8471824",
+		"lat": "59.3792867",
+		"number": "4",
+		"street": "Graniidi tee",
+		"city": "\"Rae vald",
+		"district": "Rae küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.177688",
+		"lat": "59.3635826",
+		"number": "26",
+		"street": "Roosi tänav",
+		"city": "\"Raasiku vald",
+		"district": "Raasiku alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "22.0372439",
+		"lat": "58.3606784",
+		"number": "4a",
+		"street": "Kiriku tänav",
+		"city": "\"Kihelkonna vald",
+		"district": "Kihelkonna alevik\"",
+		"postcode": "Saare maakond"
+	},
+	{
+		"lon": "24.8928307",
+		"lat": "59.491961",
+		"number": "15",
+		"street": "Raudrohu tee",
+		"city": "\"Viimsi vald",
+		"district": "Metsakasti küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.950227",
+		"lat": "59.4858273",
+		"number": "25",
+		"street": "Ojakääru tee",
+		"city": "\"Viimsi vald",
+		"district": "Muuga küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.4497944",
+		"lat": "59.3122145",
+		"number": "4a",
+		"street": "Lasteaia tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.596394",
+		"lat": "58.5540262",
+		"number": "15",
+		"street": "Kalda tänav",
+		"city": "\"Tabivere vald",
+		"district": "Tabivere alevik\"",
+		"postcode": "Jõgeva maakond"
+	},
+	{
+		"lon": "24.4737918",
+		"lat": "59.3259648",
+		"number": "9",
+		"street": "Jaarli tee",
+		"city": "\"Harku vald",
+		"district": "Tutermaa küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.440614",
+		"lat": "59.4509469",
+		"number": "3",
+		"street": "Mingi tänav",
+		"city": "\"Harku vald",
+		"district": "Muraste küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.4868593",
+		"lat": "58.0552287",
+		"number": "10a",
+		"street": "Oru tänav",
+		"city": "\"Otepää vald",
+		"district": "Otepää linn\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "24.6685734",
+		"lat": "58.4195935",
+		"number": "2",
+		"street": "Kasetuka tee",
+		"city": "\"Sauga vald",
+		"district": "Pulli küla\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "26.1913491",
+		"lat": "57.8619299",
+		"number": "6",
+		"street": "Roosi tänav",
+		"city": "\"Tõlliste vald",
+		"district": "Tsirguliina alevik\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "27.2552879",
+		"lat": "59.376658",
+		"number": "81",
+		"street": "Ehitajate tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.7681417",
+		"lat": "59.3720345",
+		"number": "8",
+		"street": "Raudtee tänav",
+		"city": "\"Vaivara vald",
+		"district": "Vaivara küla\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.8376656",
+		"lat": "59.5020833",
+		"number": "3",
+		"street": "Pargi tee",
+		"city": "\"Viimsi vald",
+		"district": "Viimsi alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.3705442",
+		"lat": "59.3624371",
+		"number": "9",
+		"street": "Roo tänav",
+		"city": "\"Sõmeru vald",
+		"district": "Roodevälja küla\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "27.2890232",
+		"lat": "59.3376861",
+		"number": "14",
+		"street": "Kelluka tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Sompa linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.8331943",
+		"lat": "59.3519939",
+		"number": "18a",
+		"street": "Lembitu tänav",
+		"city": "\"Sonda vald",
+		"district": "Sonda alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.6571885",
+		"lat": "59.3042958",
+		"number": "15",
+		"street": "Kesk tänav",
+		"city": "\"Saku vald",
+		"district": "Saku alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.530727",
+		"lat": "59.4369184",
+		"number": "16",
+		"street": "Tammede allee",
+		"city": "\"Harku vald",
+		"district": "Tabasalu alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.2216427",
+		"lat": "59.3207789",
+		"number": "5",
+		"street": "Lepa tänav",
+		"city": "\"Keila vald",
+		"district": "Klooga alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.8867731",
+		"lat": "59.5397649",
+		"number": "3",
+		"street": "Kalevi tee",
+		"city": "\"Viimsi vald",
+		"district": "Tammneeme küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.1375362",
+		"lat": "58.8254615",
+		"number": "2",
+		"street": "Oru tänav",
+		"city": "\"Käru vald",
+		"district": "Käru alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "26.698634",
+		"lat": "58.2394447",
+		"number": "3",
+		"street": "Pihlaka tänav",
+		"city": "\"Kambja vald",
+		"district": "Kambja alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "25.9749384",
+		"lat": "59.2634462",
+		"number": "34",
+		"street": "Hommiku puiestee",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "24.9301824",
+		"lat": "59.4027719",
+		"number": "17",
+		"street": "Betooni tänav",
+		"city": "\"Rae vald",
+		"district": "Lagedi alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.5704976",
+		"lat": "58.3699078",
+		"number": "13",
+		"street": "Kullerkupu tänav",
+		"city": "\"Sauga vald",
+		"district": "Tammiste küla\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "22.0372676",
+		"lat": "58.3602284",
+		"number": "4",
+		"street": "Kiriku tänav",
+		"city": "\"Kihelkonna vald",
+		"district": "Kihelkonna alevik\"",
+		"postcode": "Saare maakond"
+	},
+	{
+		"lon": "27.5818334",
+		"lat": "59.4035392",
+		"number": "2",
+		"street": "Narva maantee",
+		"city": "\"Toila vald",
+		"district": "Voka alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "23.8356268",
+		"lat": "58.6798688",
+		"number": "11",
+		"street": "Veski tänav",
+		"city": "\"Lihula vald",
+		"district": "Lihula linn\"",
+		"postcode": "Lääne maakond"
+	},
+	{
+		"lon": "24.2278386",
+		"lat": "59.3197638",
+		"number": "7",
+		"street": "Pargi tänav",
+		"city": "\"Keila vald",
+		"district": "Klooga alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.7185809",
+		"lat": "58.2791074",
+		"number": "17",
+		"street": "Põdra tee",
+		"city": "\"Ülenurme vald",
+		"district": "Uhti küla\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "25.9695925",
+		"lat": "59.5808992",
+		"number": "3",
+		"street": "Kalda tänav",
+		"city": "\"Vihula vald",
+		"district": "Võsu alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.6182504",
+		"lat": "59.2986273",
+		"number": "7",
+		"street": "Kosenõmme tänav",
+		"city": "\"Aegviidu vald",
+		"district": "Aegviidu alev\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.5729324",
+		"lat": "59.3718246",
+		"number": "9",
+		"street": "Virmalise tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Oru linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.2405145",
+		"lat": "58.9872725",
+		"number": "6",
+		"street": "Vahtra tänav",
+		"city": "\"Rakke vald",
+		"district": "Rakke alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "24.9143189",
+		"lat": "59.4974419",
+		"number": "15",
+		"street": "Kurekella tee",
+		"city": "\"Viimsi vald",
+		"district": "Randvere küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.2407884",
+		"lat": "59.08004",
+		"number": "13",
+		"street": "Tööstuse tänav",
+		"city": "\"Nissi vald",
+		"district": "Turba alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.0580655",
+		"lat": "58.9451233",
+		"number": "2",
+		"street": "Põllu tänav",
+		"city": "\"Lohusuu vald",
+		"district": "Lohusuu alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.8399553",
+		"lat": "59.3738629",
+		"number": "24",
+		"street": "Veski tee",
+		"city": "\"Rae vald",
+		"district": "Assaku alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.5212342",
+		"lat": "57.8225542",
+		"number": "43b",
+		"street": "Lõuna tänav",
+		"city": "\"Antsla vald",
+		"district": "Antsla linn\"",
+		"postcode": "Võru maakond"
+	},
+	{
+		"lon": "26.5172103",
+		"lat": "58.275866",
+		"number": "8",
+		"street": "Veski tänav",
+		"city": "\"Nõo vald",
+		"district": "Nõo alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "25.3596417",
+		"lat": "58.1275374",
+		"number": "7",
+		"street": "Viljandi tee",
+		"city": "\"Abja vald",
+		"district": "Abja-Paluoja linn\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "24.6484587",
+		"lat": "59.3057859",
+		"number": "14",
+		"street": "Kasteheina tee",
+		"city": "\"Saku vald",
+		"district": "Saku alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.7522424",
+		"lat": "59.2793149",
+		"number": "3",
+		"street": "Valteri tee",
+		"city": "\"Saku vald",
+		"district": "Lokuti küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.4299001",
+		"lat": "59.3615537",
+		"number": "11",
+		"street": "Papli tänav",
+		"city": "\"Sõmeru vald",
+		"district": "Sõmeru alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "27.4693128",
+		"lat": "58.0966296",
+		"number": "1a",
+		"street": "Kalevi tänav",
+		"city": "\"Räpina vald",
+		"district": "Räpina linn\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "27.4533558",
+		"lat": "59.3133289",
+		"number": "6",
+		"street": "Hobuseraua tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "22.6874139",
+		"lat": "58.5768038",
+		"number": "20",
+		"street": "Orissaare maantee",
+		"city": "\"Leisi vald",
+		"district": "Leisi alevik\"",
+		"postcode": "Saare maakond"
+	},
+	{
+		"lon": "24.8207133",
+		"lat": "59.5104833",
+		"number": "13",
+		"street": "Rohuneeme tee",
+		"city": "\"Viimsi vald",
+		"district": "Haabneeme alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.0711599",
+		"lat": "59.3649078",
+		"number": "6",
+		"street": "Lepa tänav",
+		"city": "\"Raasiku vald",
+		"district": "Aruküla alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "23.0913744",
+		"lat": "58.5550966",
+		"number": "7",
+		"street": "Mäe tänav",
+		"city": "\"Orissaare vald",
+		"district": "Orissaare alevik\"",
+		"postcode": "Saare maakond"
+	},
+	{
+		"lon": "25.5469888",
+		"lat": "58.0999687",
+		"number": "27",
+		"street": "Kivi tänav",
+		"city": "\"Karksi vald",
+		"district": "Karksi-Nuia linn\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "25.07263",
+		"lat": "59.3661475",
+		"number": "3a",
+		"street": "Männiku tee",
+		"city": "\"Raasiku vald",
+		"district": "Aruküla alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.7351277",
+		"lat": "58.3149855",
+		"number": "93",
+		"street": "Mõisniku tänav",
+		"city": "\"Ülenurme vald",
+		"district": "Ülenurme alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "24.9443747",
+		"lat": "59.0667223",
+		"number": "46",
+		"street": "Tallinna maantee",
+		"city": "\"Juuru vald",
+		"district": "Juuru alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "26.8543026",
+		"lat": "58.9848972",
+		"number": "3",
+		"street": "Metsa tänav",
+		"city": "\"Avinurme vald",
+		"district": "Avinurme alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.7682625",
+		"lat": "59.1726577",
+		"number": "20",
+		"street": "Kiriku tee",
+		"city": "\"Kohila vald",
+		"district": "Urge küla\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "26.2536671",
+		"lat": "58.1481399",
+		"number": "8",
+		"street": "Piiri tänav",
+		"city": "\"Rõngu vald",
+		"district": "Rõngu alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "27.2997016",
+		"lat": "59.4103499",
+		"number": "114",
+		"street": "Olevi tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.3908331",
+		"lat": "59.3401093",
+		"number": "6",
+		"street": "Keila tee",
+		"city": "\"Keila vald",
+		"district": "Karjaküla alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "23.8304827",
+		"lat": "58.6846524",
+		"number": "38",
+		"street": "Tallinna maantee",
+		"city": "\"Lihula vald",
+		"district": "Lihula linn\"",
+		"postcode": "Lääne maakond"
+	},
+	{
+		"lon": "25.175394",
+		"lat": "59.3681987",
+		"number": "4",
+		"street": "Heina tänav",
+		"city": "\"Raasiku vald",
+		"district": "Raasiku alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.0062086",
+		"lat": "58.8622743",
+		"number": "1",
+		"street": "Rohu tänav",
+		"city": "\"Kehtna vald",
+		"district": "Lelle alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.9087472",
+		"lat": "59.5106351",
+		"number": "9",
+		"street": "Mesilase tee",
+		"city": "\"Viimsi vald",
+		"district": "Randvere küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "23.5232821",
+		"lat": "58.930158",
+		"number": "7",
+		"street": "Nelgi tänav",
+		"city": "\"Ridala vald",
+		"district": "Paralepa alevik\"",
+		"postcode": "Lääne maakond"
+	},
+	{
+		"lon": "24.2376527",
+		"lat": "59.082881",
+		"number": "4",
+		"street": "Aia tänav",
+		"city": "\"Nissi vald",
+		"district": "Turba alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.53879",
+		"lat": "58.0847567",
+		"number": "2",
+		"street": "Karja tänav",
+		"city": "\"Räpina vald",
+		"district": "Võõpsu alevik\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "24.6604747",
+		"lat": "59.3072026",
+		"number": "4",
+		"street": "Tuule tänav",
+		"city": "\"Saku vald",
+		"district": "Saku alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9182558",
+		"lat": "59.3585729",
+		"number": "2",
+		"street": "Ehituse tänav",
+		"city": "\"Rae vald",
+		"district": "Jüri alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.8825589",
+		"lat": "59.0371919",
+		"number": "30",
+		"street": "Lai tänav",
+		"city": "\"Järva-Jaani vald",
+		"district": "Järva-Jaani alev\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "26.8055871",
+		"lat": "58.3440414",
+		"number": "9",
+		"street": "Järveoja tee",
+		"city": "\"Luunja vald",
+		"district": "Veibri küla\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "23.8329491",
+		"lat": "58.694202",
+		"number": "4d",
+		"street": "Penijõe tee",
+		"city": "\"Lihula vald",
+		"district": "Lihula linn\"",
+		"postcode": "Lääne maakond"
+	},
+	{
+		"lon": "26.8670183",
+		"lat": "58.9848818",
+		"number": "14",
+		"street": "Võidu tänav",
+		"city": "\"Avinurme vald",
+		"district": "Avinurme alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "25.8564602",
+		"lat": "58.2381758",
+		"number": "15",
+		"street": "Pikk tänav",
+		"city": "\"Tarvastu vald",
+		"district": "Mustla alevik\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "26.2466509",
+		"lat": "58.1229717",
+		"number": "8",
+		"street": "Raigaste tee",
+		"city": "\"Rõngu vald",
+		"district": "Raigaste küla\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "26.1977808",
+		"lat": "57.8622049",
+		"number": "34",
+		"street": "Nooruse tänav",
+		"city": "\"Tõlliste vald",
+		"district": "Tsirguliina alevik\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "24.9177099",
+		"lat": "59.4954842",
+		"number": "7",
+		"street": "Aiaotsa tee",
+		"city": "\"Viimsi vald",
+		"district": "Randvere küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "23.5238618",
+		"lat": "58.930028",
+		"number": "5",
+		"street": "Nelgi tänav",
+		"city": "\"Ridala vald",
+		"district": "Paralepa alevik\"",
+		"postcode": "Lääne maakond"
+	},
+	{
+		"lon": "24.8243129",
+		"lat": "59.5120955",
+		"number": "9",
+		"street": "Kolhoosi tee",
+		"city": "\"Viimsi vald",
+		"district": "Haabneeme alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.2397679",
+		"lat": "59.247364",
+		"number": "11",
+		"street": "Lennu tänav",
+		"city": "\"Vasalemma vald",
+		"district": "Ämari alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.0641229",
+		"lat": "58.9460276",
+		"number": "48",
+		"street": "Kala tänav",
+		"city": "\"Lohusuu vald",
+		"district": "Lohusuu alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.2309918",
+		"lat": "58.9951058",
+		"number": "9",
+		"street": "Rahu tänav",
+		"city": "\"Rakke vald",
+		"district": "Rakke alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.6495205",
+		"lat": "58.367095",
+		"number": "14",
+		"street": "Pähna tänav",
+		"city": "\"Ülenurme vald",
+		"district": "Õssu küla\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "24.8715166",
+		"lat": "59.3791503",
+		"number": "19",
+		"street": "Räägusilla põik",
+		"city": "\"Rae vald",
+		"district": "Rae küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.2204367",
+		"lat": "58.0520532",
+		"number": "13",
+		"street": "Alliku tänav",
+		"city": "\"Puka vald",
+		"district": "Puka alevik\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "24.90197",
+		"lat": "59.4117221",
+		"number": "5",
+		"street": "Kapteni tee",
+		"city": "\"Rae vald",
+		"district": "Soodevahe küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.254897",
+		"lat": "59.3739554",
+		"number": "3",
+		"street": "Piiri tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.5342966",
+		"lat": "58.2746397",
+		"number": "3",
+		"street": "Oja tänav",
+		"city": "\"Nõo vald",
+		"district": "Nõo alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "25.8406837",
+		"lat": "59.1960005",
+		"number": "13",
+		"street": "Tapa maantee",
+		"city": "\"Ambla vald",
+		"district": "Ambla alevik\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "24.8450522",
+		"lat": "59.385551",
+		"number": "7",
+		"street": "Pae tee",
+		"city": "\"Rae vald",
+		"district": "Rae küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.5916293",
+		"lat": "58.3866676",
+		"number": "26",
+		"street": "Luste tee",
+		"city": "\"Sauga vald",
+		"district": "Tammiste küla\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "24.8726064",
+		"lat": "59.5497711",
+		"number": "24",
+		"street": "Võrkoja tee",
+		"city": "\"Viimsi vald",
+		"district": "Leppneeme küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.6814937",
+		"lat": "59.2414726",
+		"number": "42",
+		"street": "Viljandi maantee",
+		"city": "\"Saku vald",
+		"district": "Kiisa alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.3910162",
+		"lat": "59.3390958",
+		"number": "3",
+		"street": "Keila tee",
+		"city": "\"Keila vald",
+		"district": "Karjaküla alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.4796355",
+		"lat": "59.4413671",
+		"number": "13b",
+		"street": "Tuule tee",
+		"city": "\"Harku vald",
+		"district": "Ilmandu küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.2549467",
+		"lat": "59.3757159",
+		"number": "87",
+		"street": "Ehitajate tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.9562245",
+		"lat": "59.4095092",
+		"number": "1",
+		"street": "Vahtramäe tee",
+		"city": "\"Rae vald",
+		"district": "Kopli küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.0365004",
+		"lat": "58.9615892",
+		"number": "31",
+		"street": "Küti tänav",
+		"city": "\"Koeru vald",
+		"district": "Koeru alevik\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "24.8412402",
+		"lat": "58.9629685",
+		"number": "4/8",
+		"street": "Staadioni tänav",
+		"city": "\"Kehtna vald",
+		"district": "Kaerepere alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "25.0789075",
+		"lat": "59.3689036",
+		"number": "1",
+		"street": "Jaama tänav",
+		"city": "\"Raasiku vald",
+		"district": "Aruküla alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.0709627",
+		"lat": "59.3695888",
+		"number": "21",
+		"street": "Nurme tänav",
+		"city": "\"Raasiku vald",
+		"district": "Aruküla alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.5097057",
+		"lat": "59.420886",
+		"number": "1b",
+		"street": "Uus tänav",
+		"city": "\"Toila vald",
+		"district": "Toila alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.8050846",
+		"lat": "58.7701962",
+		"number": "40",
+		"street": "Rahu tänav",
+		"city": "\"Järvakandi vald",
+		"district": "Järvakandi alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "25.7787049",
+		"lat": "58.9718458",
+		"number": "11a",
+		"street": "Pikk tänav",
+		"city": "\"Kareda vald",
+		"district": "Esna küla\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "26.7829946",
+		"lat": "58.3804218",
+		"number": "41",
+		"street": "Salu tee",
+		"city": "\"Luunja vald",
+		"district": "Lohkva küla\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "24.4198186",
+		"lat": "59.4663857",
+		"number": "1",
+		"street": "Ranna-Jüri tee",
+		"city": "\"Harku vald",
+		"district": "Suurupi küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.9609692",
+		"lat": "59.5765447",
+		"number": "36",
+		"street": "Mere tänav",
+		"city": "\"Vihula vald",
+		"district": "Võsu alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.854698",
+		"lat": "59.1794128",
+		"number": "11",
+		"street": "Rakvere maantee",
+		"city": "\"Vinni vald",
+		"district": "Tudu alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.1986226",
+		"lat": "57.8676414",
+		"number": "12",
+		"street": "Kesk tänav",
+		"city": "\"Tõlliste vald",
+		"district": "Tsirguliina alevik\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "24.912138",
+		"lat": "59.4974021",
+		"number": "4",
+		"street": "Kraaviaia tee",
+		"city": "\"Viimsi vald",
+		"district": "Randvere küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.8887407",
+		"lat": "59.493011",
+		"number": "4",
+		"street": "Pirni tee",
+		"city": "\"Viimsi vald",
+		"district": "Metsakasti küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.6468551",
+		"lat": "59.346841",
+		"number": "5",
+		"street": "Vetevana tee",
+		"city": "\"Saku vald",
+		"district": "Tänassilma küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.8578707",
+		"lat": "59.1806002",
+		"number": "9",
+		"street": "Vabriku tänav",
+		"city": "\"Vinni vald",
+		"district": "Tudu alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.0034094",
+		"lat": "59.2723571",
+		"number": "4",
+		"street": "Lauda tee",
+		"city": "\"Rae vald",
+		"district": "Vaidasoo küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.2837704",
+		"lat": "59.3363556",
+		"number": "13b",
+		"street": "Terase tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Sompa linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4570907",
+		"lat": "59.3093853",
+		"number": "111",
+		"street": "Ahtme maantee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "23.5731124",
+		"lat": "58.9407374",
+		"number": "6",
+		"street": "Linna tee",
+		"city": "\"Ridala vald",
+		"district": "Uuemõisa alevik\"",
+		"postcode": "Lääne maakond"
+	},
+	{
+		"lon": "25.5992869",
+		"lat": "59.2904783",
+		"number": "3",
+		"street": "Poolemõisa tänav",
+		"city": "\"Aegviidu vald",
+		"district": "Aegviidu alev\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.5319789",
+		"lat": "57.8354867",
+		"number": "35",
+		"street": "Kooli tee",
+		"city": "\"Antsla vald",
+		"district": "Antsla linn\"",
+		"postcode": "Võru maakond"
+	},
+	{
+		"lon": "27.3481286",
+		"lat": "59.3964628",
+		"number": "30a",
+		"street": "Õnne tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Kukruse linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.9008133",
+		"lat": "59.5015639",
+		"number": "52",
+		"street": "Silva tee",
+		"city": "\"Viimsi vald",
+		"district": "Randvere küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.2804175",
+		"lat": "57.7344045",
+		"number": "3",
+		"street": "Niidu tänav",
+		"city": "\"Vastseliina vald",
+		"district": "Vastseliina alevik\"",
+		"postcode": "Võru maakond"
+	},
+	{
+		"lon": "26.4172135",
+		"lat": "59.358977",
+		"number": "19",
+		"street": "Pikk tänav",
+		"city": "\"Sõmeru vald",
+		"district": "Sõmeru alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.5842868",
+		"lat": "58.6861572",
+		"number": "10",
+		"street": "Oskar Lutsu tänav",
+		"city": "\"Palamuse vald",
+		"district": "Palamuse alevik\"",
+		"postcode": "Jõgeva maakond"
+	},
+	{
+		"lon": "24.8593755",
+		"lat": "59.5039032",
+		"number": "42",
+		"street": "Vehema tee",
+		"city": "\"Viimsi vald",
+		"district": "Pärnamäe küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.7280966",
+		"lat": "58.3249058",
+		"number": "32",
+		"street": "Kaasiku tänav",
+		"city": "\"Ülenurme vald",
+		"district": "Ülenurme alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "25.7521054",
+		"lat": "59.1355839",
+		"number": "2",
+		"street": "Kangrumäe tänav",
+		"city": "\"Ambla vald",
+		"district": "Aravete alevik\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.6034355",
+		"lat": "59.2968863",
+		"number": "12",
+		"street": "Sinika tänav",
+		"city": "\"Aegviidu vald",
+		"district": "Aegviidu alev\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.2913404",
+		"lat": "59.4040792",
+		"number": "44b",
+		"street": "Pärna tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.9453625",
+		"lat": "58.8233992",
+		"number": "62a",
+		"street": "Kalda tänav",
+		"city": "\"Kasepää vald",
+		"district": "Raja küla\"",
+		"postcode": "Jõgeva maakond"
+	},
+	{
+		"lon": "23.0864746",
+		"lat": "58.5564458",
+		"number": "5",
+		"street": "Laulu tänav",
+		"city": "\"Orissaare vald",
+		"district": "Orissaare alevik\"",
+		"postcode": "Saare maakond"
+	},
+	{
+		"lon": "22.7738667",
+		"lat": "58.8309136",
+		"number": "15",
+		"street": "Spordi tänav",
+		"city": "\"Käina vald",
+		"district": "Käina alevik\"",
+		"postcode": "Hiiu maakond"
+	},
+	{
+		"lon": "26.5337814",
+		"lat": "58.2721202",
+		"number": "8",
+		"street": "Vana-Nõo tänav",
+		"city": "\"Nõo vald",
+		"district": "Nõo alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "27.4320091",
+		"lat": "59.3274064",
+		"number": "39",
+		"street": "Estonia puiestee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.1851598",
+		"lat": "57.8647674",
+		"number": "1",
+		"street": "Piiri tänav",
+		"city": "\"Tõlliste vald",
+		"district": "Tsirguliina alevik\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "24.6608893",
+		"lat": "59.3028087",
+		"number": "2",
+		"street": "Kesk tänav",
+		"city": "\"Saku vald",
+		"district": "Saku alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "22.7807267",
+		"lat": "58.8267766",
+		"number": "6",
+		"street": "Mere tänav",
+		"city": "\"Käina vald",
+		"district": "Käina alevik\"",
+		"postcode": "Hiiu maakond"
+	},
+	{
+		"lon": "23.8336562",
+		"lat": "58.6835721",
+		"number": "7",
+		"street": "Soo tänav",
+		"city": "\"Lihula vald",
+		"district": "Lihula linn\"",
+		"postcode": "Lääne maakond"
+	},
+	{
+		"lon": "25.1722826",
+		"lat": "59.3649417",
+		"number": "10",
+		"street": "Tulbi tänav",
+		"city": "\"Raasiku vald",
+		"district": "Raasiku alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.0246343",
+		"lat": "58.9669528",
+		"number": "19",
+		"street": "Jaani tee",
+		"city": "\"Koeru vald",
+		"district": "Koeru alevik\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "23.5901819",
+		"lat": "58.9409683",
+		"number": "3",
+		"street": "Pähkli tänav",
+		"city": "\"Ridala vald",
+		"district": "Uuemõisa alevik\"",
+		"postcode": "Lääne maakond"
+	},
+	{
+		"lon": "24.931503",
+		"lat": "59.4881296",
+		"number": "10",
+		"street": "Tammekännu tee",
+		"city": "\"Viimsi vald",
+		"district": "Muuga küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "23.5262452",
+		"lat": "58.5784266",
+		"number": "11",
+		"street": "Tööstuse tänav",
+		"city": "\"Hanila vald",
+		"district": "Virtsu alevik\"",
+		"postcode": "Lääne maakond"
+	},
+	{
+		"lon": "26.8830323",
+		"lat": "59.44599",
+		"number": "19",
+		"street": "Õie tänav",
+		"city": "\"Aseri vald",
+		"district": "Aseri alevik",
+		"postcode": "Aseri vald"
+	},
+	{
+		"lon": "24.9073787",
+		"lat": "59.4581829",
+		"number": "8",
+		"street": "Iru tee",
+		"city": "\"Jõelähtme vald",
+		"district": "Iru küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.7299512",
+		"lat": "58.97155",
+		"number": "2",
+		"street": "Mõisa tee",
+		"city": "\"Rapla vald",
+		"district": "Kuusiku alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "27.6924807",
+		"lat": "59.3398179",
+		"number": "4",
+		"street": "Rahu tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Viivikonna linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.2449947",
+		"lat": "58.1364426",
+		"number": "2",
+		"street": "Küla tänav",
+		"city": "\"Rõngu vald",
+		"district": "Rõngu alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "27.301123",
+		"lat": "59.1028721",
+		"number": "8",
+		"street": "Tamme tänav",
+		"city": "\"Iisaku vald",
+		"district": "Iisaku alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.9047286",
+		"lat": "59.5015586",
+		"number": "29",
+		"street": "Keiu tee",
+		"city": "\"Viimsi vald",
+		"district": "Randvere küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.8206056",
+		"lat": "59.351576",
+		"number": "40",
+		"street": "Lembitu tänav",
+		"city": "\"Sonda vald",
+		"district": "Sonda alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.2896224",
+		"lat": "59.2345618",
+		"number": "1",
+		"street": "Võsa tänav",
+		"city": "\"Vasalemma vald",
+		"district": "Vasalemma alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.8294495",
+		"lat": "59.1930978",
+		"number": "9",
+		"street": "Lai tänav",
+		"city": "\"Ambla vald",
+		"district": "Ambla alevik\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "26.2392735",
+		"lat": "58.9918932",
+		"number": "8",
+		"street": "Kaste tänav",
+		"city": "\"Rakke vald",
+		"district": "Rakke alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.4151653",
+		"lat": "59.363636",
+		"number": "1/5",
+		"street": "Iirise tänav",
+		"city": "\"Sõmeru vald",
+		"district": "Näpi alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "24.9643374",
+		"lat": "59.4414399",
+		"number": "5",
+		"street": "Suurekivi põik",
+		"city": "\"Jõelähtme vald",
+		"district": "Liivamäe küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.2516462",
+		"lat": "59.3451521",
+		"number": "13",
+		"street": "Purje tee",
+		"city": "\"Keila vald",
+		"district": "Kloogaranna küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.6101566",
+		"lat": "59.2977734",
+		"number": "3",
+		"street": "Vaarika tänav",
+		"city": "\"Aegviidu vald",
+		"district": "Aegviidu alev\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.268162",
+		"lat": "59.4331052",
+		"number": "8",
+		"street": "Võsu maantee",
+		"city": "\"Haljala vald",
+		"district": "Haljala alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "24.4489204",
+		"lat": "59.3163728",
+		"number": "2",
+		"street": "Alajaama tee",
+		"city": "\"Harku vald",
+		"district": "Tutermaa küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.235839",
+		"lat": "58.9915869",
+		"number": "8",
+		"street": "Lille tänav",
+		"city": "\"Rakke vald",
+		"district": "Rakke alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.5225529",
+		"lat": "57.8268054",
+		"number": "8",
+		"street": "Raudtee tänav",
+		"city": "\"Antsla vald",
+		"district": "Antsla linn\"",
+		"postcode": "Võru maakond"
+	},
+	{
+		"lon": "26.5303603",
+		"lat": "57.8256064",
+		"number": "2",
+		"street": "Saare tänav",
+		"city": "\"Antsla vald",
+		"district": "Antsla linn\"",
+		"postcode": "Võru maakond"
+	},
+	{
+		"lon": "24.9550537",
+		"lat": "59.4830472",
+		"number": "28",
+		"street": "Kallasmaa tee",
+		"city": "\"Viimsi vald",
+		"district": "Muuga küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.8563059",
+		"lat": "59.375588",
+		"number": "4",
+		"street": "Järve tee",
+		"city": "\"Rae vald",
+		"district": "Assaku alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.4553886",
+		"lat": "58.0978481",
+		"number": "8",
+		"street": "Võhandu tänav",
+		"city": "\"Räpina vald",
+		"district": "Räpina linn\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "25.5137324",
+		"lat": "58.8757796",
+		"number": "20",
+		"street": "Raja tänav",
+		"city": "\"Väätsa vald",
+		"district": "Reopalu küla\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "24.8248522",
+		"lat": "59.5236418",
+		"number": "44",
+		"street": "Nirgi tee",
+		"city": "\"Viimsi vald",
+		"district": "Haabneeme alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.6542502",
+		"lat": "58.3690585",
+		"number": "39",
+		"street": "Kesa tee",
+		"city": "\"Ülenurme vald",
+		"district": "Õssu küla\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "25.1395575",
+		"lat": "59.4690836",
+		"number": "14",
+		"street": "Tuleraua tee",
+		"city": "\"Jõelähtme vald",
+		"district": "Manniva küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.4586395",
+		"lat": "58.0960747",
+		"number": "23b",
+		"street": "Võhandu tänav",
+		"city": "\"Räpina vald",
+		"district": "Räpina linn\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "27.5850454",
+		"lat": "59.4035744",
+		"number": "10",
+		"street": "Narva maantee",
+		"city": "\"Toila vald",
+		"district": "Voka alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.3749929",
+		"lat": "57.8560527",
+		"number": "9",
+		"street": "Antsla tee",
+		"city": "\"Tõlliste vald",
+		"district": "Tagula küla\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "27.4005529",
+		"lat": "59.3246684",
+		"number": "51b",
+		"street": "Tartu maantee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.8653494",
+		"lat": "58.2992941",
+		"number": "5",
+		"street": "Oja tänav",
+		"city": "\"Haaslava vald",
+		"district": "Roiu alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "25.0717596",
+		"lat": "59.3639675",
+		"number": "6",
+		"street": "Toominga tänav",
+		"city": "\"Raasiku vald",
+		"district": "Aruküla alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9402411",
+		"lat": "59.4863637",
+		"number": "43",
+		"street": "Tammekännu tee",
+		"city": "\"Viimsi vald",
+		"district": "Muuga küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.5139729",
+		"lat": "58.8787079",
+		"number": "2",
+		"street": "Raja tänav",
+		"city": "\"Väätsa vald",
+		"district": "Reopalu küla\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.0089919",
+		"lat": "58.8659694",
+		"number": "5",
+		"street": "Jaama tänav",
+		"city": "\"Kehtna vald",
+		"district": "Lelle alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "27.507626",
+		"lat": "59.4244211",
+		"number": "58",
+		"street": "Pikk tänav",
+		"city": "\"Toila vald",
+		"district": "Toila alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.6796769",
+		"lat": "59.2314968",
+		"number": "6",
+		"street": "Hageri tee",
+		"city": "\"Saku vald",
+		"district": "Kiisa alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.5367185",
+		"lat": "57.8314482",
+		"number": "22",
+		"street": "Põik tänav",
+		"city": "\"Antsla vald",
+		"district": "Antsla linn\"",
+		"postcode": "Võru maakond"
+	},
+	{
+		"lon": "24.8416713",
+		"lat": "59.5020728",
+		"number": "14",
+		"street": "Aiandi tee",
+		"city": "\"Viimsi vald",
+		"district": "Viimsi alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9230966",
+		"lat": "59.3650317",
+		"number": "2",
+		"street": "Vikita tee",
+		"city": "\"Rae vald",
+		"district": "Karla küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.8795967",
+		"lat": "59.3727859",
+		"number": "2",
+		"street": "Roheline tänav",
+		"city": "\"Vaivara vald",
+		"district": "Sinimäe alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "25.0591859",
+		"lat": "59.36165",
+		"number": "3",
+		"street": "Võidu tänav",
+		"city": "\"Raasiku vald",
+		"district": "Aruküla alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.1954332",
+		"lat": "57.8584684",
+		"number": "19",
+		"street": "Jõe tänav",
+		"city": "\"Tõlliste vald",
+		"district": "Tsirguliina alevik\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "26.9909229",
+		"lat": "59.370828",
+		"number": "8",
+		"street": "Puiestee tänav",
+		"city": "\"Sonda vald",
+		"district": "Erra alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.27757",
+		"lat": "59.4002435",
+		"number": "32a",
+		"street": "Keskallee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "25.1411554",
+		"lat": "58.8246111",
+		"number": "20a",
+		"street": "Viljandi maantee",
+		"city": "\"Käru vald",
+		"district": "Käru alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.8881149",
+		"lat": "59.4941023",
+		"number": "10",
+		"street": "Kreegi tee",
+		"city": "\"Viimsi vald",
+		"district": "Metsakasti küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9098989",
+		"lat": "59.5113476",
+		"number": "14",
+		"street": "Taru tee",
+		"city": "\"Viimsi vald",
+		"district": "Randvere küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.6719442",
+		"lat": "58.3690055",
+		"number": "8a",
+		"street": "Lepiku tee",
+		"city": "\"Ülenurme vald",
+		"district": "Õssu küla\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "24.7488235",
+		"lat": "59.2894696",
+		"number": "2",
+		"street": "Augusti tee",
+		"city": "\"Saku vald",
+		"district": "Lokuti küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.4564524",
+		"lat": "59.3100667",
+		"number": "107",
+		"street": "Ahtme maantee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.5864376",
+		"lat": "58.6809036",
+		"number": "9b",
+		"street": "Viru tänav",
+		"city": "\"Palamuse vald",
+		"district": "Palamuse alevik\"",
+		"postcode": "Jõgeva maakond"
+	},
+	{
+		"lon": "24.8125604",
+		"lat": "59.5202689",
+		"number": "27",
+		"street": "Pihlaka tee",
+		"city": "\"Viimsi vald",
+		"district": "Haabneeme alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "23.5234941",
+		"lat": "58.9299414",
+		"number": "6",
+		"street": "Tulika tänav",
+		"city": "\"Ridala vald",
+		"district": "Paralepa alevik\"",
+		"postcode": "Lääne maakond"
+	},
+	{
+		"lon": "25.0587753",
+		"lat": "59.0118348",
+		"number": "34",
+		"street": "Kasvandu tee",
+		"city": "\"Kaiu vald",
+		"district": "Kaiu alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "25.6055231",
+		"lat": "59.2957634",
+		"number": "1a",
+		"street": "Pohla tänav",
+		"city": "\"Aegviidu vald",
+		"district": "Aegviidu alev\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.8837907",
+		"lat": "59.4947187",
+		"number": "27",
+		"street": "Pirni tee",
+		"city": "\"Viimsi vald",
+		"district": "Metsakasti küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9094888",
+		"lat": "59.5144811",
+		"number": "16",
+		"street": "Krati tee",
+		"city": "\"Viimsi vald",
+		"district": "Randvere küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9493217",
+		"lat": "59.4847854",
+		"number": "9b",
+		"street": "Randoja tee",
+		"city": "\"Viimsi vald",
+		"district": "Muuga küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.5830988",
+		"lat": "59.4205715",
+		"number": "20",
+		"street": "Nõmme tee",
+		"city": "\"Harku vald",
+		"district": "Tiskre küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.5974108",
+		"lat": "59.3212941",
+		"number": "7",
+		"street": "Vidriku tee",
+		"city": "\"Saku vald",
+		"district": "Jälgimäe küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "22.2462137",
+		"lat": "58.1635515",
+		"number": "1",
+		"street": "Kasekese tänav",
+		"city": "\"Salme vald",
+		"district": "Salme alevik\"",
+		"postcode": "Saare maakond"
+	},
+	{
+		"lon": "24.8265721",
+		"lat": "59.3710609",
+		"number": "25",
+		"street": "Veski tee",
+		"city": "\"Rae vald",
+		"district": "Assaku alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9837812",
+		"lat": "59.3663189",
+		"number": "2d",
+		"street": "Leivajõe tee",
+		"city": "\"Rae vald",
+		"district": "Pajupea küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9311767",
+		"lat": "59.4032754",
+		"number": "8",
+		"street": "Kivi tänav",
+		"city": "\"Rae vald",
+		"district": "Lagedi alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.8804741",
+		"lat": "59.0421263",
+		"number": "9",
+		"street": "Põllu tänav",
+		"city": "\"Järva-Jaani vald",
+		"district": "Järva-Jaani alev\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "24.5713127",
+		"lat": "58.369101",
+		"number": "7",
+		"street": "Kullerkupu tänav",
+		"city": "\"Sauga vald",
+		"district": "Tammiste küla\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "26.4863937",
+		"lat": "58.0607395",
+		"number": "28",
+		"street": "Kalda tänav",
+		"city": "\"Otepää vald",
+		"district": "Otepää linn\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "27.5117759",
+		"lat": "59.4183785",
+		"number": "16",
+		"street": "Pikk tänav",
+		"city": "\"Toila vald",
+		"district": "Toila alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.6184321",
+		"lat": "58.3893952",
+		"number": "4",
+		"street": "Kesa tee",
+		"city": "\"Sauga vald",
+		"district": "Tammiste küla\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "26.943257",
+		"lat": "58.8232379",
+		"number": "53",
+		"street": "Kalda tänav",
+		"city": "\"Kasepää vald",
+		"district": "Raja küla\"",
+		"postcode": "Jõgeva maakond"
+	},
+	{
+		"lon": "24.8982647",
+		"lat": "59.5251068",
+		"number": "6",
+		"street": "Tammetõru tee",
+		"city": "\"Viimsi vald",
+		"district": "Tammneeme küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.4183265",
+		"lat": "59.3198275",
+		"number": "40",
+		"street": "Altserva tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.8867637",
+		"lat": "59.5368007",
+		"number": "20",
+		"street": "Teigari tee",
+		"city": "\"Viimsi vald",
+		"district": "Tammneeme küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.8033741",
+		"lat": "59.5247515",
+		"number": "26",
+		"street": "Kasteheina tee",
+		"city": "\"Viimsi vald",
+		"district": "Pringi küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.8478616",
+		"lat": "59.345015",
+		"number": "16a",
+		"street": "Metsa tänav",
+		"city": "\"Sonda vald",
+		"district": "Sonda alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.3838095",
+		"lat": "58.2232441",
+		"number": "7",
+		"street": "Kaseküla tänav",
+		"city": "\"Rõngu vald",
+		"district": "Käärdi alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "24.5034247",
+		"lat": "58.0873577",
+		"number": "1",
+		"street": "Pärnu maantee",
+		"city": "\"Häädemeeste vald",
+		"district": "Häädemeeste alevik\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "26.7276097",
+		"lat": "58.310321",
+		"number": "29",
+		"street": "Paruni tänav",
+		"city": "\"Ülenurme vald",
+		"district": "Ülenurme alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "26.6928574",
+		"lat": "58.3265302",
+		"number": "4",
+		"street": "Puu tee",
+		"city": "\"Ülenurme vald",
+		"district": "Soinaste küla\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "26.4880396",
+		"lat": "58.0604572",
+		"number": "9a",
+		"street": "Pikk tänav",
+		"city": "\"Otepää vald",
+		"district": "Otepää linn\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "24.6656041",
+		"lat": "59.3041172",
+		"number": "10",
+		"street": "Silla tänav",
+		"city": "\"Saku vald",
+		"district": "Saku alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.1856063",
+		"lat": "59.3706008",
+		"number": "1",
+		"street": "Saare tänav",
+		"city": "\"Raasiku vald",
+		"district": "Raasiku alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9531393",
+		"lat": "59.0564761",
+		"number": "16",
+		"street": "Side tänav",
+		"city": "\"Juuru vald",
+		"district": "Juuru alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.9392264",
+		"lat": "58.7529243",
+		"number": "9",
+		"street": "Männi tänav",
+		"city": "\"Kehtna vald",
+		"district": "Eidapere alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "26.5958112",
+		"lat": "58.5515724",
+		"number": "3",
+		"street": "Põllu tänav",
+		"city": "\"Tabivere vald",
+		"district": "Tabivere alevik\"",
+		"postcode": "Jõgeva maakond"
+	},
+	{
+		"lon": "26.4233573",
+		"lat": "59.3599909",
+		"number": "4",
+		"street": "Staadioni tänav",
+		"city": "\"Sõmeru vald",
+		"district": "Sõmeru alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.5645095",
+		"lat": "59.0651897",
+		"number": "2",
+		"street": "Pargi tänav",
+		"city": "\"Laekvere vald",
+		"district": "Laekvere alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "24.8018892",
+		"lat": "59.5254682",
+		"number": "32",
+		"street": "Rannakaare tee",
+		"city": "\"Viimsi vald",
+		"district": "Pringi küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.5942597",
+		"lat": "58.3874542",
+		"number": "25",
+		"street": "Ristiku tee",
+		"city": "\"Sauga vald",
+		"district": "Tammiste küla\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "24.3604483",
+		"lat": "59.4395289",
+		"number": "40",
+		"street": "Luige tee",
+		"city": "\"Harku vald",
+		"district": "Vääna-Jõesuu küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9022389",
+		"lat": "58.9439019",
+		"number": "9a",
+		"street": "Keava tee",
+		"city": "\"Kehtna vald",
+		"district": "Keava alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.8567874",
+		"lat": "59.3892076",
+		"number": "38",
+		"street": "Tulbi tee",
+		"city": "\"Rae vald",
+		"district": "Rae küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.3452796",
+		"lat": "59.4025283",
+		"number": "13",
+		"street": "Paate tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Kukruse linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.5360926",
+		"lat": "58.0802593",
+		"number": "4",
+		"street": "Jõe tänav",
+		"city": "\"Räpina vald",
+		"district": "Võõpsu alevik\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "23.8181273",
+		"lat": "58.6846823",
+		"number": "62a",
+		"street": "Tallinna maantee",
+		"city": "\"Lihula vald",
+		"district": "Lihula linn\"",
+		"postcode": "Lääne maakond"
+	},
+	{
+		"lon": "24.9129559",
+		"lat": "59.4981715",
+		"number": "6",
+		"street": "Karjaaia tee",
+		"city": "\"Viimsi vald",
+		"district": "Randvere küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.8146075",
+		"lat": "59.522463",
+		"number": "13a",
+		"street": "Vardi tee",
+		"city": "\"Viimsi vald",
+		"district": "Haabneeme alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.4574064",
+		"lat": "58.8909446",
+		"number": "12",
+		"street": "Järve tänav",
+		"city": "\"Väätsa vald",
+		"district": "Väätsa alevik\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "24.8250237",
+		"lat": "59.3689897",
+		"number": "44",
+		"street": "Veski tee",
+		"city": "\"Rae vald",
+		"district": "Assaku alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.8358253",
+		"lat": "59.3413382",
+		"number": "12",
+		"street": "Kangrumäe tee",
+		"city": "\"Rae vald",
+		"district": "Kurna küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9051607",
+		"lat": "58.9468066",
+		"number": "2",
+		"street": "Paemurru tänav",
+		"city": "\"Kehtna vald",
+		"district": "Keava alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.9497567",
+		"lat": "59.43449",
+		"number": "1e",
+		"street": "Liivakandi tee",
+		"city": "\"Jõelähtme vald",
+		"district": "Loo alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.2758961",
+		"lat": "59.3365282",
+		"number": "10",
+		"street": "Valli tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Sompa linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.4698622",
+		"lat": "59.249322",
+		"number": "39",
+		"street": "Kesk tänav",
+		"city": "\"Vinni vald",
+		"district": "Viru-Jaagupi alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "24.7200408",
+		"lat": "58.9703607",
+		"number": "3",
+		"street": "Roheline tänav",
+		"city": "\"Rapla vald",
+		"district": "Kuusiku alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "27.5076847",
+		"lat": "59.4237075",
+		"number": "52",
+		"street": "Pikk tänav",
+		"city": "\"Toila vald",
+		"district": "Toila alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.5839438",
+		"lat": "59.4205352",
+		"number": "18",
+		"street": "Nõmme tee",
+		"city": "\"Harku vald",
+		"district": "Tiskre küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.4871344",
+		"lat": "59.4484552",
+		"number": "22",
+		"street": "Kadaka tee",
+		"city": "\"Harku vald",
+		"district": "Ilmandu küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.8837131",
+		"lat": "59.5443717",
+		"number": "2",
+		"street": "Roosimetsa tee",
+		"city": "\"Viimsi vald",
+		"district": "Leppneeme küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.5333645",
+		"lat": "58.0804071",
+		"number": "2",
+		"street": "Spordi tänav",
+		"city": "\"Räpina vald",
+		"district": "Võõpsu alevik\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "26.657092",
+		"lat": "58.3659275",
+		"number": "16",
+		"street": "Kesa tee",
+		"city": "\"Ülenurme vald",
+		"district": "Õssu küla\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "26.7048853",
+		"lat": "58.2428749",
+		"number": "6",
+		"street": "Puiestee tänav",
+		"city": "\"Kambja vald",
+		"district": "Kambja alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "22.1794881",
+		"lat": "58.5014303",
+		"number": "5",
+		"street": "Õnneheina tänav",
+		"city": "\"Mustjala vald",
+		"district": "Merise küla\"",
+		"postcode": "Saare maakond"
+	},
+	{
+		"lon": "25.4386634",
+		"lat": "58.1628146",
+		"number": "8",
+		"street": "Viljandi maantee",
+		"city": "\"Halliste vald",
+		"district": "Halliste alevik\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "24.4829776",
+		"lat": "59.4507894",
+		"number": "32",
+		"street": "Kadaka tee",
+		"city": "\"Harku vald",
+		"district": "Ilmandu küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.9433256",
+		"lat": "58.8131313",
+		"number": "52",
+		"street": "Tartu maantee",
+		"city": "\"Kasepää vald",
+		"district": "Kükita küla\"",
+		"postcode": "Jõgeva maakond"
+	},
+	{
+		"lon": "25.8685776",
+		"lat": "58.2345394",
+		"number": "49",
+		"street": "Posti tänav",
+		"city": "\"Tarvastu vald",
+		"district": "Mustla alevik\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "24.8188183",
+		"lat": "59.5085604",
+		"number": "13",
+		"street": "Kaluri tee",
+		"city": "\"Viimsi vald",
+		"district": "Haabneeme alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9381973",
+		"lat": "58.7528969",
+		"number": "4",
+		"street": "Tuule tänav",
+		"city": "\"Kehtna vald",
+		"district": "Eidapere alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.8969673",
+		"lat": "59.355629",
+		"number": "19",
+		"street": "Aruküla tee",
+		"city": "\"Rae vald",
+		"district": "Jüri alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.2288218",
+		"lat": "59.0789186",
+		"number": "3",
+		"street": "Puiestee tänav",
+		"city": "\"Nissi vald",
+		"district": "Turba alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "22.7816904",
+		"lat": "58.8261431",
+		"number": "8",
+		"street": "Luige tänav",
+		"city": "\"Käina vald",
+		"district": "Käina alevik\"",
+		"postcode": "Hiiu maakond"
+	},
+	{
+		"lon": "24.2966883",
+		"lat": "59.2475088",
+		"number": "37",
+		"street": "Pärna tänav",
+		"city": "\"Vasalemma vald",
+		"district": "Vasalemma alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.492292",
+		"lat": "58.0545857",
+		"number": "30",
+		"street": "Pühajärve tee",
+		"city": "\"Otepää vald",
+		"district": "Otepää linn\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "27.3086372",
+		"lat": "59.1013904",
+		"number": "28",
+		"street": "Tartu maantee",
+		"city": "\"Iisaku vald",
+		"district": "Iisaku alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.9408417",
+		"lat": "59.4856794",
+		"number": "70",
+		"street": "Tammekännu tee",
+		"city": "\"Viimsi vald",
+		"district": "Muuga küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.5358841",
+		"lat": "58.080551",
+		"number": "2",
+		"street": "Jõe tänav",
+		"city": "\"Räpina vald",
+		"district": "Võõpsu alevik\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "26.7593336",
+		"lat": "57.9827259",
+		"number": "12",
+		"street": "Tehnika tänav",
+		"city": "\"Kanepi vald",
+		"district": "Kanepi alevik\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "25.0825911",
+		"lat": "59.3683882",
+		"number": "12",
+		"street": "Tamme tänav",
+		"city": "\"Raasiku vald",
+		"district": "Aruküla alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.1945548",
+		"lat": "59.3806741",
+		"number": "55",
+		"street": "Jägala maantee",
+		"city": "\"Raasiku vald",
+		"district": "Raasiku alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.887816",
+		"lat": "59.0394928",
+		"number": "34",
+		"street": "Kalda tänav",
+		"city": "\"Järva-Jaani vald",
+		"district": "Järva-Jaani alev\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "26.305188",
+		"lat": "58.3386133",
+		"number": "9",
+		"street": "Õhtu tänav",
+		"city": "\"Puhja vald",
+		"district": "Puhja alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "22.2421717",
+		"lat": "58.1641774",
+		"number": "12",
+		"street": "Kastani tänav",
+		"city": "\"Salme vald",
+		"district": "Salme alevik\"",
+		"postcode": "Saare maakond"
+	},
+	{
+		"lon": "26.5290268",
+		"lat": "57.8350593",
+		"number": "22",
+		"street": "Veski tänav",
+		"city": "\"Antsla vald",
+		"district": "Antsla linn\"",
+		"postcode": "Võru maakond"
+	},
+	{
+		"lon": "25.60199",
+		"lat": "59.2877706",
+		"number": "23",
+		"street": "Jaama tänav",
+		"city": "\"Aegviidu vald",
+		"district": "Aegviidu alev\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.368433",
+		"lat": "59.3623481",
+		"number": "1",
+		"street": "Roo tänav",
+		"city": "\"Sõmeru vald",
+		"district": "Roodevälja küla\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "27.2778051",
+		"lat": "59.4012344",
+		"number": "14",
+		"street": "Ringi tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.2311142",
+		"lat": "58.0547206",
+		"number": "27",
+		"street": "Kesk tänav",
+		"city": "\"Puka vald",
+		"district": "Puka alevik\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "24.7915745",
+		"lat": "59.5410793",
+		"number": "8",
+		"street": "Voldemari tee",
+		"city": "\"Viimsi vald",
+		"district": "Pringi küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.8477318",
+		"lat": "59.5042272",
+		"number": "8",
+		"street": "Suur-Kaare tee",
+		"city": "\"Viimsi vald",
+		"district": "Pärnamäe küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.8824752",
+		"lat": "59.5437099",
+		"number": "4",
+		"street": "Mäe tee",
+		"city": "\"Viimsi vald",
+		"district": "Leppneeme küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.8346893",
+		"lat": "59.5134424",
+		"number": "19",
+		"street": "Randvere tee",
+		"city": "\"Viimsi vald",
+		"district": "Haabneeme alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.4164448",
+		"lat": "59.4277167",
+		"number": "2",
+		"street": "Kopli tee",
+		"city": "\"Harku vald",
+		"district": "Liikva küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.6032475",
+		"lat": "58.390427",
+		"number": "11",
+		"street": "Takja tänav",
+		"city": "\"Sauga vald",
+		"district": "Tammiste küla\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "25.6080542",
+		"lat": "59.2972617",
+		"number": "8",
+		"street": "Mustika tänav",
+		"city": "\"Aegviidu vald",
+		"district": "Aegviidu alev\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.5292274",
+		"lat": "58.913068",
+		"number": "19",
+		"street": "Jõhvika tee",
+		"city": "\"Paide vald",
+		"district": "Viraksaare küla\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "24.2574093",
+		"lat": "59.3482287",
+		"number": "6a",
+		"street": "Metsa tee",
+		"city": "\"Keila vald",
+		"district": "Kloogaranna küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.7514296",
+		"lat": "59.1394088",
+		"number": "4",
+		"street": "Sepa tänav",
+		"city": "\"Ambla vald",
+		"district": "Aravete alevik\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.6142718",
+		"lat": "59.2866408",
+		"number": "27",
+		"street": "Tamme tänav",
+		"city": "\"Aegviidu vald",
+		"district": "Aegviidu alev\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.0043723",
+		"lat": "58.8616461",
+		"number": "42",
+		"street": "Viljandi maantee",
+		"city": "\"Kehtna vald",
+		"district": "Lelle alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.9043157",
+		"lat": "59.3518199",
+		"number": "10",
+		"street": "Suve tänav",
+		"city": "\"Rae vald",
+		"district": "Jüri alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9758159",
+		"lat": "59.2891206",
+		"number": "5",
+		"street": "Tuuliku tee",
+		"city": "\"Rae vald",
+		"district": "Vaida alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.7041093",
+		"lat": "58.3266353",
+		"number": "27",
+		"street": "Tamme tänav",
+		"city": "\"Ülenurme vald",
+		"district": "Tõrvandi alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "24.2394805",
+		"lat": "59.0818292",
+		"number": "3",
+		"street": "Pargi tänav",
+		"city": "\"Nissi vald",
+		"district": "Turba alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.5077348",
+		"lat": "58.082465",
+		"number": "10",
+		"street": "Metsa tänav",
+		"city": "\"Häädemeeste vald",
+		"district": "Häädemeeste alevik\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "26.5379913",
+		"lat": "58.7354082",
+		"number": "3",
+		"street": "Keskasula tänav",
+		"city": "\"Jõgeva vald",
+		"district": "Kuremaa alevik\"",
+		"postcode": "Jõgeva maakond"
+	},
+	{
+		"lon": "28.0956918",
+		"lat": "59.4118281",
+		"number": "16",
+		"street": "Allika tänav",
+		"city": "\"Vaivara vald",
+		"district": "Tõrvajõe küla\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.8902682",
+		"lat": "59.3744218",
+		"number": "64",
+		"street": "Kullese tee",
+		"city": "\"Rae vald",
+		"district": "Rae küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.290601",
+		"lat": "59.406498",
+		"number": "3",
+		"street": "Mõisa tee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.848086",
+		"lat": "59.4989454",
+		"number": "38",
+		"street": "Tulbiaia tee",
+		"city": "\"Viimsi vald",
+		"district": "Viimsi alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.94515",
+		"lat": "58.8190402",
+		"number": "136",
+		"street": "Kalda tänav",
+		"city": "\"Kasepää vald",
+		"district": "Raja küla\"",
+		"postcode": "Jõgeva maakond"
+	},
+	{
+		"lon": "24.6490059",
+		"lat": "59.3138569",
+		"number": "6",
+		"street": "Eha tee",
+		"city": "\"Saku vald",
+		"district": "Juuliku küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.0277596",
+		"lat": "58.9682916",
+		"number": "6",
+		"street": "Põhja tänav",
+		"city": "\"Koeru vald",
+		"district": "Koeru alevik\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "24.8886404",
+		"lat": "59.4944408",
+		"number": "1",
+		"street": "Mäepealse tee",
+		"city": "\"Viimsi vald",
+		"district": "Metsakasti küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.3312454",
+		"lat": "59.3346682",
+		"number": "2a",
+		"street": "Kose maantee",
+		"city": "\"Anija vald",
+		"district": "Kehra linn\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.8356481",
+		"lat": "59.3464051",
+		"number": "23",
+		"street": "Sepa tänav",
+		"city": "\"Sonda vald",
+		"district": "Sonda alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.830168",
+		"lat": "58.9791648",
+		"number": "3",
+		"street": "Tartu maantee",
+		"city": "\"Avinurme vald",
+		"district": "Avinurme alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4147235",
+		"lat": "59.3394205",
+		"number": "3",
+		"street": "Aru tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "25.3260151",
+		"lat": "59.2425453",
+		"number": "3",
+		"street": "Pargi tänav",
+		"city": "\"Anija vald",
+		"district": "Alavere küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9551951",
+		"lat": "59.3204958",
+		"number": "2",
+		"street": "Halli tee",
+		"city": "\"Rae vald",
+		"district": "Veskitaguse küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.5629398",
+		"lat": "58.1108702",
+		"number": "2",
+		"street": "Tehase tänav",
+		"city": "\"Karksi vald",
+		"district": "Karksi-Nuia linn\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "24.7775544",
+		"lat": "59.1712326",
+		"number": "1",
+		"street": "Männimetsa tee",
+		"city": "\"Kohila vald",
+		"district": "Urge küla\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.7992192",
+		"lat": "59.5331594",
+		"number": "22",
+		"street": "Rannavälja tee",
+		"city": "\"Viimsi vald",
+		"district": "Pringi küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "22.2460161",
+		"lat": "58.1651864",
+		"number": "11",
+		"street": "Liiva tänav",
+		"city": "\"Salme vald",
+		"district": "Salme alevik\"",
+		"postcode": "Saare maakond"
+	},
+	{
+		"lon": "26.5224452",
+		"lat": "57.8276478",
+		"number": "7",
+		"street": "Pargi tänav",
+		"city": "\"Antsla vald",
+		"district": "Antsla linn\"",
+		"postcode": "Võru maakond"
+	},
+	{
+		"lon": "26.2447581",
+		"lat": "58.9874526",
+		"number": "20",
+		"street": "Friedrich Robert Faehlmanni tee",
+		"city": "\"Rakke vald",
+		"district": "Rakke alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "27.5157698",
+		"lat": "59.4244448",
+		"number": "12",
+		"street": "Ranna tänav",
+		"city": "\"Toila vald",
+		"district": "Toila alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "25.4422691",
+		"lat": "59.4892927",
+		"number": "2",
+		"street": "Otsa tee",
+		"city": "\"Kuusalu vald",
+		"district": "Sõitme küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.0011147",
+		"lat": "58.8605899",
+		"number": "5a",
+		"street": "Pärnu maantee",
+		"city": "\"Kehtna vald",
+		"district": "Lelle alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "25.8874725",
+		"lat": "59.0383411",
+		"number": "38",
+		"street": "Kalda tänav",
+		"city": "\"Järva-Jaani vald",
+		"district": "Järva-Jaani alev\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "26.258072",
+		"lat": "59.4413899",
+		"number": "24",
+		"street": "Võsu maantee",
+		"city": "\"Haljala vald",
+		"district": "Haljala alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "24.853843",
+		"lat": "58.9788833",
+		"number": "4",
+		"street": "Pargi tänav",
+		"city": "\"Rapla vald",
+		"district": "Valtu küla\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.2511181",
+		"lat": "59.3449383",
+		"number": "15",
+		"street": "Purje tee",
+		"city": "\"Keila vald",
+		"district": "Kloogaranna küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.4985329",
+		"lat": "59.4348491",
+		"number": "15",
+		"street": "Merihobu tee",
+		"city": "\"Harku vald",
+		"district": "Rannamõisa küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.3102111",
+		"lat": "59.1002199",
+		"number": "38",
+		"street": "Tartu maantee",
+		"city": "\"Iisaku vald",
+		"district": "Iisaku alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "25.6131597",
+		"lat": "59.2955543",
+		"number": "1",
+		"street": "Kuusiku tee",
+		"city": "\"Aegviidu vald",
+		"district": "Aegviidu alev\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.6404155",
+		"lat": "59.2711822",
+		"number": "59",
+		"street": "Piibe maantee",
+		"city": "\"Aegviidu vald",
+		"district": "Aegviidu alev\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "22.0346904",
+		"lat": "58.3623684",
+		"number": "10",
+		"street": "Oja tänav",
+		"city": "\"Kihelkonna vald",
+		"district": "Kihelkonna alevik\"",
+		"postcode": "Saare maakond"
+	},
+	{
+		"lon": "27.2910586",
+		"lat": "59.3354213",
+		"number": "4",
+		"street": "Oblika tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Sompa linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.508528",
+		"lat": "58.0841682",
+		"number": "4",
+		"street": "Metsa tänav",
+		"city": "\"Häädemeeste vald",
+		"district": "Häädemeeste alevik\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "26.7597243",
+		"lat": "57.9838048",
+		"number": "8",
+		"street": "Tehnika tänav",
+		"city": "\"Kanepi vald",
+		"district": "Kanepi alevik\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "22.7735216",
+		"lat": "58.8259861",
+		"number": "3",
+		"street": "Ranna tänav",
+		"city": "\"Käina vald",
+		"district": "Käina alevik\"",
+		"postcode": "Hiiu maakond"
+	},
+	{
+		"lon": "25.4017809",
+		"lat": "59.4852941",
+		"number": "10",
+		"street": "Kaljusaare tee",
+		"city": "\"Kuusalu vald",
+		"district": "Mäepea küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.2960838",
+		"lat": "59.4076294",
+		"number": "26",
+		"street": "Mõisa tee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "23.0938725",
+		"lat": "58.5544696",
+		"number": "3",
+		"street": "Põllu tee",
+		"city": "\"Orissaare vald",
+		"district": "Orissaare alevik\"",
+		"postcode": "Saare maakond"
+	},
+	{
+		"lon": "24.8556519",
+		"lat": "59.3870885",
+		"number": "17",
+		"street": "Roosipõõsa tee",
+		"city": "\"Rae vald",
+		"district": "Rae küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.9473098",
+		"lat": "58.8065775",
+		"number": "7",
+		"street": "Koidu tänav",
+		"city": "\"Kasepää vald",
+		"district": "Kükita küla\"",
+		"postcode": "Jõgeva maakond"
+	},
+	{
+		"lon": "26.2266033",
+		"lat": "58.0558503",
+		"number": "1",
+		"street": "Koidu tänav",
+		"city": "\"Puka vald",
+		"district": "Puka alevik\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "24.9040965",
+		"lat": "59.4108826",
+		"number": "9",
+		"street": "Radisti tee",
+		"city": "\"Rae vald",
+		"district": "Soodevahe küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.2571512",
+		"lat": "59.3744844",
+		"number": "12",
+		"street": "Kuu tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "25.8542908",
+		"lat": "58.2374726",
+		"number": "17",
+		"street": "Lille tänav",
+		"city": "\"Tarvastu vald",
+		"district": "Mustla alevik\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "25.070067",
+		"lat": "59.3641485",
+		"number": "18",
+		"street": "Harju tee",
+		"city": "\"Raasiku vald",
+		"district": "Aruküla alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "23.5914077",
+		"lat": "58.9396086",
+		"number": "27",
+		"street": "Tennise tänav",
+		"city": "\"Ridala vald",
+		"district": "Uuemõisa alevik\"",
+		"postcode": "Lääne maakond"
+	},
+	{
+		"lon": "27.512609",
+		"lat": "59.4245336",
+		"number": "7",
+		"street": "Nõlva tänav",
+		"city": "\"Toila vald",
+		"district": "Toila alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.5128693",
+		"lat": "59.4163955",
+		"number": "7",
+		"street": "Pikk tänav",
+		"city": "\"Toila vald",
+		"district": "Toila alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.8438489",
+		"lat": "59.3505127",
+		"number": "2",
+		"street": "Jaama tänav",
+		"city": "\"Sonda vald",
+		"district": "Sonda alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.6700716",
+		"lat": "59.3054187",
+		"number": "1",
+		"street": "Ülase tänav",
+		"city": "\"Saku vald",
+		"district": "Saku alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9123426",
+		"lat": "59.4964439",
+		"number": "4",
+		"street": "Nurmenuku tee",
+		"city": "\"Viimsi vald",
+		"district": "Randvere küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.2317914",
+		"lat": "59.3398346",
+		"number": "36",
+		"street": "Adruvahi tee",
+		"city": "\"Keila vald",
+		"district": "Kloogaranna küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.6417466",
+		"lat": "59.3480253",
+		"number": "10",
+		"street": "Suur-Tooma tänav",
+		"city": "\"Saue vald",
+		"district": "Laagri alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "23.9950748",
+		"lat": "58.3326158",
+		"number": "3",
+		"street": "Sadama tee",
+		"city": "\"Tõstamaa vald",
+		"district": "Tõstamaa alevik\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "24.7987331",
+		"lat": "59.5615612",
+		"number": "16",
+		"street": "Uuetalu tee",
+		"city": "\"Viimsi vald",
+		"district": "Rohuneeme küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9093339",
+		"lat": "59.5138064",
+		"number": "17",
+		"street": "Vaablase tee",
+		"city": "\"Viimsi vald",
+		"district": "Randvere küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.8923541",
+		"lat": "59.5230846",
+		"number": "6",
+		"street": "Tädu tee",
+		"city": "\"Viimsi vald",
+		"district": "Tammneeme küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.2766966",
+		"lat": "59.2375787",
+		"number": "9",
+		"street": "Tööstuse tänav",
+		"city": "\"Vasalemma vald",
+		"district": "Vasalemma alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.4120644",
+		"lat": "59.2848784",
+		"number": "9",
+		"street": "Tartu maantee",
+		"city": "\"Vinni vald",
+		"district": "Pajusti alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "24.8192555",
+		"lat": "59.5145511",
+		"number": "18a",
+		"street": "Männi tee",
+		"city": "\"Viimsi vald",
+		"district": "Haabneeme alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.5839251",
+		"lat": "59.1694501",
+		"number": "25",
+		"street": "Tartu maantee",
+		"city": "\"Vinni vald",
+		"district": "Roela alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "24.8104965",
+		"lat": "59.5197628",
+		"number": "41",
+		"street": "Lumemarja tee",
+		"city": "\"Viimsi vald",
+		"district": "Haabneeme alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.818528",
+		"lat": "59.5014393",
+		"number": "44",
+		"street": "Miiduranna tee",
+		"city": "\"Viimsi vald",
+		"district": "Miiduranna küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.8479257",
+		"lat": "59.4967352",
+		"number": "8",
+		"street": "Priimula tee",
+		"city": "\"Viimsi vald",
+		"district": "Viimsi alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.8700927",
+		"lat": "59.445811",
+		"number": "14",
+		"street": "Nurme tänav",
+		"city": "\"Aseri vald",
+		"district": "Aseri alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "25.6056693",
+		"lat": "59.296442",
+		"number": "5",
+		"street": "Pohla tänav",
+		"city": "\"Aegviidu vald",
+		"district": "Aegviidu alev\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.6002958",
+		"lat": "59.1703861",
+		"number": "8",
+		"street": "Aida tänav",
+		"city": "\"Vinni vald",
+		"district": "Roela alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "24.2415284",
+		"lat": "59.2481996",
+		"number": "4",
+		"street": "Ämari tee",
+		"city": "\"Vasalemma vald",
+		"district": "Ämari alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.1947652",
+		"lat": "59.3539127",
+		"number": "2",
+		"street": "Sügise tänav",
+		"city": "\"Kohtla-Nõmme vald",
+		"district": "Kohtla-Nõmme alev\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "22.1827758",
+		"lat": "58.4965162",
+		"number": "1",
+		"street": "Karusambla tänav",
+		"city": "\"Mustjala vald",
+		"district": "Merise küla\"",
+		"postcode": "Saare maakond"
+	},
+	{
+		"lon": "27.2883989",
+		"lat": "59.4008548",
+		"number": "3",
+		"street": "Kalevi tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2424194",
+		"lat": "59.3837463",
+		"number": "4a",
+		"street": "Kaevuri tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "25.3174419",
+		"lat": "59.3344969",
+		"number": "12",
+		"street": "Niidu tänav",
+		"city": "\"Anija vald",
+		"district": "Kehra linn\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9038903",
+		"lat": "59.5055152",
+		"number": "9",
+		"street": "Tülli tee",
+		"city": "\"Viimsi vald",
+		"district": "Randvere küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.5098233",
+		"lat": "59.4198785",
+		"number": "22",
+		"street": "Pikk tänav",
+		"city": "\"Toila vald",
+		"district": "Toila alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.8181985",
+		"lat": "59.5172084",
+		"number": "1",
+		"street": "Hundi tee",
+		"city": "\"Viimsi vald",
+		"district": "Haabneeme alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.8004938",
+		"lat": "59.546353",
+		"number": "4",
+		"street": "Lagle tee",
+		"city": "\"Viimsi vald",
+		"district": "Püünsi küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.4686677",
+		"lat": "58.1021635",
+		"number": "9",
+		"street": "Väike tänav",
+		"city": "\"Räpina vald",
+		"district": "Räpina linn\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "24.9484443",
+		"lat": "58.1479941",
+		"number": "31",
+		"street": "Pärnu tänav",
+		"city": "\"Saarde vald",
+		"district": "Kilingi-Nõmme linn\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "27.4651087",
+		"lat": "58.0994215",
+		"number": "29",
+		"street": "Pärna tänav",
+		"city": "\"Räpina vald",
+		"district": "Räpina linn\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "27.459802",
+		"lat": "58.0942649",
+		"number": "19",
+		"street": "Kooli tänav",
+		"city": "\"Räpina vald",
+		"district": "Räpina linn\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "27.4623829",
+		"lat": "58.109352",
+		"number": "30",
+		"street": "Meeksi maantee",
+		"city": "\"Räpina vald",
+		"district": "Räpina linn\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "24.5364039",
+		"lat": "58.6209207",
+		"number": "94",
+		"street": "Kergu maantee",
+		"city": "\"Halinga vald",
+		"district": "Pärnu-Jaagupi alev\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "27.4623131",
+		"lat": "58.1027121",
+		"number": "7",
+		"street": "Kastani tänav",
+		"city": "\"Räpina vald",
+		"district": "Räpina linn\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "27.4514641",
+		"lat": "58.1033917",
+		"number": "6",
+		"street": "Tartu maantee",
+		"city": "\"Räpina vald",
+		"district": "Räpina linn\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "27.4622679",
+		"lat": "58.0964791",
+		"number": "1",
+		"street": "Hariduse tänav",
+		"city": "\"Räpina vald",
+		"district": "Räpina linn\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "24.942194",
+		"lat": "58.1500349",
+		"number": "12",
+		"street": "Veski tänav",
+		"city": "\"Saarde vald",
+		"district": "Kilingi-Nõmme linn\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "27.46141",
+		"lat": "58.1026357",
+		"number": "4",
+		"street": "Kastani tänav",
+		"city": "\"Räpina vald",
+		"district": "Räpina linn\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "24.5028006",
+		"lat": "58.6085736",
+		"number": "33",
+		"street": "Pärnu maantee",
+		"city": "\"Halinga vald",
+		"district": "Pärnu-Jaagupi alev\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "27.4613656",
+		"lat": "58.1061265",
+		"number": "26",
+		"street": "Meeksi maantee",
+		"city": "\"Räpina vald",
+		"district": "Räpina linn\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "27.463151",
+		"lat": "58.0975963",
+		"number": "1",
+		"street": "Pargi tänav",
+		"city": "\"Räpina vald",
+		"district": "Räpina linn\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "27.4705207",
+		"lat": "58.0975386",
+		"number": "1",
+		"street": "Kalevi tänav",
+		"city": "\"Räpina vald",
+		"district": "Räpina linn\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "25.4575154",
+		"lat": "58.8901168",
+		"number": "14",
+		"street": "Mäe tänav",
+		"city": "\"Väätsa vald",
+		"district": "Väätsa alevik\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "26.7028326",
+		"lat": "58.3264165",
+		"number": "29",
+		"street": "Tamme tänav",
+		"city": "\"Ülenurme vald",
+		"district": "Tõrvandi alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "24.5023287",
+		"lat": "58.6041228",
+		"number": "1",
+		"street": "Uus tänav",
+		"city": "\"Halinga vald",
+		"district": "Pärnu-Jaagupi alev\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "27.459238",
+		"lat": "58.0977857",
+		"number": "14",
+		"street": "Pargi tänav",
+		"city": "\"Räpina vald",
+		"district": "Räpina linn\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "24.5748105",
+		"lat": "58.3658256",
+		"number": "14",
+		"street": "Sinilille tänav",
+		"city": "\"Sauga vald",
+		"district": "Tammiste küla\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "24.9447651",
+		"lat": "58.1521734",
+		"number": "4",
+		"street": "Kase tänav",
+		"city": "\"Saarde vald",
+		"district": "Kilingi-Nõmme linn\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "24.9416387",
+		"lat": "58.1459761",
+		"number": "17",
+		"street": "Õhtu tänav",
+		"city": "\"Saarde vald",
+		"district": "Kilingi-Nõmme linn\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "24.9450045",
+		"lat": "58.1460182",
+		"number": "5",
+		"street": "Õhtu tänav",
+		"city": "\"Saarde vald",
+		"district": "Kilingi-Nõmme linn\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "24.5013861",
+		"lat": "58.0817429",
+		"number": "24",
+		"street": "Pärnu maantee",
+		"city": "\"Häädemeeste vald",
+		"district": "Häädemeeste alevik\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "24.9655939",
+		"lat": "58.151846",
+		"number": "4",
+		"street": "Kõrge tänav",
+		"city": "\"Saarde vald",
+		"district": "Kilingi-Nõmme linn\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "24.9590982",
+		"lat": "58.151556",
+		"number": "16",
+		"street": "Põllu tänav",
+		"city": "\"Saarde vald",
+		"district": "Kilingi-Nõmme linn\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "24.2535271",
+		"lat": "59.3679238",
+		"number": "21",
+		"street": "Tammiku tee",
+		"city": "\"Keila vald",
+		"district": "Laulasmaa küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.3191258",
+		"lat": "59.3396164",
+		"number": "13",
+		"street": "Põhja tänav",
+		"city": "\"Anija vald",
+		"district": "Kehra linn\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9449935",
+		"lat": "58.1448777",
+		"number": "13a",
+		"street": "Järve tänav",
+		"city": "\"Saarde vald",
+		"district": "Kilingi-Nõmme linn\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "25.0603077",
+		"lat": "59.3628316",
+		"number": "2a",
+		"street": "Võidu tänav",
+		"city": "\"Raasiku vald",
+		"district": "Aruküla alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.4450858",
+		"lat": "59.4432771",
+		"number": "5",
+		"street": "Soodla tee",
+		"city": "\"Kuusalu vald",
+		"district": "Kuusalu alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.3337846",
+		"lat": "59.329868",
+		"number": "11",
+		"street": "Kooli tänav",
+		"city": "\"Anija vald",
+		"district": "Kehra linn\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.8184407",
+		"lat": "59.5196674",
+		"number": "12",
+		"street": "Käärti tee",
+		"city": "\"Viimsi vald",
+		"district": "Haabneeme alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.3354092",
+		"lat": "59.3273336",
+		"number": "30",
+		"street": "Kooli tänav",
+		"city": "\"Anija vald",
+		"district": "Kehra linn\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.333881",
+		"lat": "59.3412244",
+		"number": "3",
+		"street": "Paberi tänav",
+		"city": "\"Anija vald",
+		"district": "Kehra linn\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.3385256",
+		"lat": "59.33328",
+		"number": "7",
+		"street": "Kase tänav",
+		"city": "\"Anija vald",
+		"district": "Kehra linn\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.5263774",
+		"lat": "59.4353226",
+		"number": "5",
+		"street": "Käbi tee",
+		"city": "\"Harku vald",
+		"district": "Tabasalu alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.3323623",
+		"lat": "59.3308269",
+		"number": "7",
+		"street": "Spordi tänav",
+		"city": "\"Anija vald",
+		"district": "Kehra linn\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.6559654",
+		"lat": "59.3041234",
+		"number": "23",
+		"street": "Nurme tänav",
+		"city": "\"Saku vald",
+		"district": "Saku alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.4423738",
+		"lat": "59.4429662",
+		"number": "18",
+		"street": "Soodla tee",
+		"city": "\"Kuusalu vald",
+		"district": "Kuusalu alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.471698",
+		"lat": "58.5385287",
+		"number": "15",
+		"street": "Tallinna tänav",
+		"city": "\"Suure-Jaani vald",
+		"district": "Suure-Jaani linn\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "24.8440592",
+		"lat": "59.5143414",
+		"number": "36",
+		"street": "Paenurme tee",
+		"city": "\"Viimsi vald",
+		"district": "Lubja küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9117266",
+		"lat": "59.4913992",
+		"number": "10",
+		"street": "Vesiniidu tee",
+		"city": "\"Viimsi vald",
+		"district": "Randvere küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.4661865",
+		"lat": "58.5359487",
+		"number": "1",
+		"street": "Pärnu tänav",
+		"city": "\"Suure-Jaani vald",
+		"district": "Suure-Jaani linn\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "24.8169058",
+		"lat": "59.5248458",
+		"number": "3",
+		"street": "Kasemetsa tee",
+		"city": "\"Viimsi vald",
+		"district": "Haabneeme alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.6048101",
+		"lat": "59.3169001",
+		"number": "6",
+		"street": "Mõisavahe tee",
+		"city": "\"Saku vald",
+		"district": "Jälgimäe küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.4783278",
+		"lat": "58.5381133",
+		"number": "25a",
+		"street": "Lembitu puiestee",
+		"city": "\"Suure-Jaani vald",
+		"district": "Suure-Jaani linn\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "25.3629302",
+		"lat": "58.1266556",
+		"number": "9",
+		"street": "Abja tee",
+		"city": "\"Abja vald",
+		"district": "Abja-Paluoja linn\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "25.3466502",
+		"lat": "58.1273211",
+		"number": "32",
+		"street": "Aia tänav",
+		"city": "\"Abja vald",
+		"district": "Abja-Paluoja linn\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "25.5452479",
+		"lat": "58.1059638",
+		"number": "2",
+		"street": "Ettevõtluse tänav",
+		"city": "\"Karksi vald",
+		"district": "Karksi-Nuia linn\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "25.5561979",
+		"lat": "58.0932687",
+		"number": "5",
+		"street": "Tööstuse tänav",
+		"city": "\"Karksi vald",
+		"district": "Karksi-Nuia linn\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "25.5463421",
+		"lat": "58.1010507",
+		"number": "22",
+		"street": "Lepiku tänav",
+		"city": "\"Karksi vald",
+		"district": "Karksi-Nuia linn\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "25.556549",
+		"lat": "58.0955058",
+		"number": "1a",
+		"street": "Tööstuse tänav",
+		"city": "\"Karksi vald",
+		"district": "Karksi-Nuia linn\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "25.3440772",
+		"lat": "58.1227106",
+		"number": "6",
+		"street": "Veski tänav",
+		"city": "\"Abja vald",
+		"district": "Abja-Paluoja linn\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "25.4760291",
+		"lat": "58.5338034",
+		"number": "1",
+		"street": "Sõpruse tänav",
+		"city": "\"Suure-Jaani vald",
+		"district": "Nuutre küla\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "25.558132",
+		"lat": "58.0980533",
+		"number": "2",
+		"street": "Niine tänav",
+		"city": "\"Karksi vald",
+		"district": "Karksi-Nuia linn\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "25.4674655",
+		"lat": "58.5358263",
+		"number": "8",
+		"street": "Tallinna tänav",
+		"city": "\"Suure-Jaani vald",
+		"district": "Suure-Jaani linn\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "25.4724965",
+		"lat": "58.5362797",
+		"number": "7a",
+		"street": "Jaama tänav",
+		"city": "\"Suure-Jaani vald",
+		"district": "Suure-Jaani linn\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "25.5157271",
+		"lat": "58.482116",
+		"number": "8",
+		"street": "Õuna tänav",
+		"city": "\"Suure-Jaani vald",
+		"district": "Sürgavere küla\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "25.5488982",
+		"lat": "58.0958447",
+		"number": "8",
+		"street": "Arumäe tänav",
+		"city": "\"Karksi vald",
+		"district": "Karksi-Nuia linn\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "25.4785961",
+		"lat": "58.5373754",
+		"number": "20",
+		"street": "Lembitu puiestee",
+		"city": "\"Suure-Jaani vald",
+		"district": "Suure-Jaani linn\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "25.3400292",
+		"lat": "58.1245499",
+		"number": "75",
+		"street": "Pärnu maantee",
+		"city": "\"Abja vald",
+		"district": "Abja-Paluoja linn\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "25.5595829",
+		"lat": "58.0971223",
+		"number": "10",
+		"street": "Lilli tee",
+		"city": "\"Karksi vald",
+		"district": "Karksi-Nuia linn\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "25.3625665",
+		"lat": "58.1264234",
+		"number": "7",
+		"street": "Abja tee",
+		"city": "\"Abja vald",
+		"district": "Abja-Paluoja linn\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "25.5403074",
+		"lat": "58.1041581",
+		"number": "4",
+		"street": "Väike tänav",
+		"city": "\"Karksi vald",
+		"district": "Karksi-Nuia linn\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "27.4213673",
+		"lat": "59.3612407",
+		"number": "7a",
+		"street": "Vaarika tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4080455",
+		"lat": "59.3521689",
+		"number": "6",
+		"street": "Kaasiku tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4074077",
+		"lat": "59.3645446",
+		"number": "4",
+		"street": "Loode tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.3991809",
+		"lat": "59.3615278",
+		"number": "20",
+		"street": "A. H. Tammsaare tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.197377",
+		"lat": "59.3529387",
+		"number": "10",
+		"street": "Karikakra tänav",
+		"city": "\"Kohtla-Nõmme vald",
+		"district": "Kohtla-Nõmme alev\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4201923",
+		"lat": "59.3633486",
+		"number": "6",
+		"street": "Raja tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4257528",
+		"lat": "59.3627546",
+		"number": "9",
+		"street": "Kirsi tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4296085",
+		"lat": "59.3632455",
+		"number": "16",
+		"street": "Kirde tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.008254",
+		"lat": "59.3595675",
+		"number": "1",
+		"street": "Liini tänav",
+		"city": "\"Sonda vald",
+		"district": "Erra-Liiva küla\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.1929137",
+		"lat": "59.3553839",
+		"number": "6",
+		"street": "Kooli tänav",
+		"city": "\"Kohtla-Nõmme vald",
+		"district": "Kohtla-Nõmme alev\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.1840928",
+		"lat": "59.354185",
+		"number": "2b",
+		"street": "Väljaku tänav",
+		"city": "\"Kohtla-Nõmme vald",
+		"district": "Kohtla-Nõmme alev\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.1871982",
+		"lat": "59.355948",
+		"number": "4",
+		"street": "Männiku tänav",
+		"city": "\"Kohtla-Nõmme vald",
+		"district": "Kohtla-Nõmme alev\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.428768",
+		"lat": "59.3621235",
+		"number": "4",
+		"street": "Salme tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4173012",
+		"lat": "59.3585561",
+		"number": "5",
+		"street": "Narva maantee",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.3117747",
+		"lat": "59.1023968",
+		"number": "3",
+		"street": "Tervise põik",
+		"city": "\"Iisaku vald",
+		"district": "Iisaku alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4284503",
+		"lat": "59.3612967",
+		"number": "4",
+		"street": "Soo tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4044683",
+		"lat": "59.3605405",
+		"number": "23",
+		"street": "Jaama tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4188519",
+		"lat": "59.3618338",
+		"number": "20",
+		"street": "Oru tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4409221",
+		"lat": "59.3633475",
+		"number": "45",
+		"street": "Soo tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4413058",
+		"lat": "59.3625612",
+		"number": "44",
+		"street": "Soo tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "25.8919812",
+		"lat": "58.711412",
+		"number": "1",
+		"street": "Tallinna maantee",
+		"city": "\"Põltsamaa vald",
+		"district": "Adavere alevik\"",
+		"postcode": "Jõgeva maakond"
+	},
+	{
+		"lon": "27.4049708",
+		"lat": "59.3575867",
+		"number": "6",
+		"street": "Jaama tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.3890318",
+		"lat": "59.3579284",
+		"number": "36/11",
+		"street": "Sompa tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2225655",
+		"lat": "59.3634172",
+		"number": "19",
+		"street": "Savi tänav",
+		"city": "\"Kohtla-Nõmme vald",
+		"district": "Kohtla-Nõmme alev\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4008979",
+		"lat": "59.3575556",
+		"number": "18",
+		"street": "Sompa tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4226124",
+		"lat": "59.3546983",
+		"number": "40a",
+		"street": "Pargi tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4245506",
+		"lat": "59.3556157",
+		"number": "2e",
+		"street": "Malmi tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.1949301",
+		"lat": "59.3607621",
+		"number": "4",
+		"street": "Seene tänav",
+		"city": "\"Kohtla-Nõmme vald",
+		"district": "Kohtla-Nõmme alev\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4031294",
+		"lat": "59.35824",
+		"number": "4a",
+		"street": "Kivi tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4091224",
+		"lat": "59.3612414",
+		"number": "26a",
+		"street": "Jaama tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.3954868",
+		"lat": "59.3589774",
+		"number": "13a",
+		"street": "Pae tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4898243",
+		"lat": "59.3238316",
+		"number": "2",
+		"street": "Põllu tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Kose küla\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.386851",
+		"lat": "59.357678",
+		"number": "38b",
+		"street": "Sompa tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4064825",
+		"lat": "59.3643047",
+		"number": "4",
+		"street": "Sihi tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4637255",
+		"lat": "59.3611943",
+		"number": "9",
+		"street": "Küti tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2081515",
+		"lat": "59.3598288",
+		"number": "25",
+		"street": "Kase tänav",
+		"city": "\"Kohtla-Nõmme vald",
+		"district": "Kohtla-Nõmme alev\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.3971677",
+		"lat": "59.357651",
+		"number": "4",
+		"street": "A. H. Tammsaare tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4330625",
+		"lat": "59.3565797",
+		"number": "8",
+		"street": "Malmi tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4050431",
+		"lat": "59.3581686",
+		"number": "8",
+		"street": "Sompa tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4132403",
+		"lat": "59.3649423",
+		"number": "3",
+		"street": "Muru tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2044358",
+		"lat": "59.3559655",
+		"number": "33",
+		"street": "Õuna tänav",
+		"city": "\"Kohtla-Nõmme vald",
+		"district": "Kohtla-Nõmme alev\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4664663",
+		"lat": "59.3634388",
+		"number": "194",
+		"street": "Narva maantee",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.1945389",
+		"lat": "59.3602424",
+		"number": "10",
+		"street": "Seene tänav",
+		"city": "\"Kohtla-Nõmme vald",
+		"district": "Kohtla-Nõmme alev\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4027657",
+		"lat": "59.3580925",
+		"number": "4",
+		"street": "Kivi tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.941274",
+		"lat": "58.823814",
+		"number": "15",
+		"street": "Liiva tänav",
+		"city": "\"Kasepää vald",
+		"district": "Raja küla\"",
+		"postcode": "Jõgeva maakond"
+	},
+	{
+		"lon": "25.4273522",
+		"lat": "58.817228",
+		"number": "15",
+		"street": "Sõpruse tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.4209332",
+		"lat": "58.8090564",
+		"number": "24",
+		"street": "Tallinna tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.4297954",
+		"lat": "58.8134658",
+		"number": "34",
+		"street": "Paide tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "23.8232814",
+		"lat": "58.6769103",
+		"number": "1a",
+		"street": "Valuste tee",
+		"city": "\"Lihula vald",
+		"district": "Lihula linn\"",
+		"postcode": "Lääne maakond"
+	},
+	{
+		"lon": "25.4219624",
+		"lat": "58.8090807",
+		"number": "22",
+		"street": "Tallinna tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.4139281",
+		"lat": "58.8087977",
+		"number": "1",
+		"street": "Vainu tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.4327462",
+		"lat": "58.7782209",
+		"number": "8",
+		"street": "Aia tänav",
+		"city": "\"Türi vald",
+		"district": "Särevere alevik\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.4345922",
+		"lat": "58.8169692",
+		"number": "64",
+		"street": "Kungla tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.4383713",
+		"lat": "58.8054984",
+		"number": "1a",
+		"street": "Pargi puiestee",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.5643454",
+		"lat": "58.7618937",
+		"number": "10",
+		"street": "Põllu tänav",
+		"city": "\"Türi vald",
+		"district": "Oisu alevik\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.4174165",
+		"lat": "58.8071101",
+		"number": "3",
+		"street": "Uus tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.4288048",
+		"lat": "58.8168189",
+		"number": "14",
+		"street": "Tähe tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.4163464",
+		"lat": "58.8129744",
+		"number": "16",
+		"street": "Eduard Vilde tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.4332277",
+		"lat": "58.816916",
+		"number": "60",
+		"street": "Paide tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.828279",
+		"lat": "59.2526283",
+		"number": "2",
+		"street": "Roheline tänav",
+		"city": "\"Tapa vald",
+		"district": "Lehtse alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.4258819",
+		"lat": "58.8125166",
+		"number": "4",
+		"street": "Pikk tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.823016",
+		"lat": "59.2521306",
+		"number": "8",
+		"street": "Rägavere tee",
+		"city": "\"Tapa vald",
+		"district": "Lehtse alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.4038702",
+		"lat": "58.8041493",
+		"number": "18",
+		"street": "Marjamaa põik",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.5696161",
+		"lat": "58.7608753",
+		"number": "1",
+		"street": "Väike tänav",
+		"city": "\"Türi vald",
+		"district": "Oisu alevik\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.3817484",
+		"lat": "58.8025489",
+		"number": "24",
+		"street": "Männiku tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.4136348",
+		"lat": "58.8118627",
+		"number": "4a",
+		"street": "Eduard Vilde tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.5628699",
+		"lat": "58.7583496",
+		"number": "6",
+		"street": "Estonia puiestee",
+		"city": "\"Türi vald",
+		"district": "Oisu alevik\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.4085281",
+		"lat": "58.8040528",
+		"number": "1",
+		"street": "Metsa tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.4198209",
+		"lat": "58.7927416",
+		"number": "17",
+		"street": "Mäekalda tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.4219471",
+		"lat": "58.8033512",
+		"number": "18",
+		"street": "Pärna tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.4061394",
+		"lat": "58.8049479",
+		"number": "11",
+		"street": "Nõmme tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.411614",
+		"lat": "58.8163703",
+		"number": "51",
+		"street": "Tolli tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.4227991",
+		"lat": "58.8137163",
+		"number": "2a",
+		"street": "Lembitu tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.4209935",
+		"lat": "58.8096058",
+		"number": "26",
+		"street": "Tallinna tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.403235",
+		"lat": "58.8033949",
+		"number": "3",
+		"street": "Marjamaa põik",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.4292172",
+		"lat": "58.8114842",
+		"number": "22",
+		"street": "Paide tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "24.7659645",
+		"lat": "59.1663294",
+		"number": "18",
+		"street": "Luha tänav",
+		"city": "\"Kohila vald",
+		"district": "Kohila alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.8349007",
+		"lat": "58.9635176",
+		"number": "1",
+		"street": "Toominga tänav",
+		"city": "\"Kehtna vald",
+		"district": "Kaerepere alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.7633418",
+		"lat": "59.1655566",
+		"number": "25",
+		"street": "Välja tänav",
+		"city": "\"Kohila vald",
+		"district": "Kohila alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.7949896",
+		"lat": "59.0036471",
+		"number": "3",
+		"street": "Pargi tänav",
+		"city": "\"Rapla vald",
+		"district": "Rapla linn\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.8014151",
+		"lat": "58.9991419",
+		"number": "23",
+		"street": "Mahlamäe tänav",
+		"city": "\"Rapla vald",
+		"district": "Rapla linn\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.7969015",
+		"lat": "59.0064965",
+		"number": "1",
+		"street": "Jõe tänav",
+		"city": "\"Rapla vald",
+		"district": "Rapla linn\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.8045286",
+		"lat": "58.9972624",
+		"number": "8",
+		"street": "Soo tänav",
+		"city": "\"Rapla vald",
+		"district": "Rapla linn\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.4338569",
+		"lat": "58.9061374",
+		"number": "20",
+		"street": "Oru tänav",
+		"city": "\"Märjamaa vald",
+		"district": "Märjamaa alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.7502246",
+		"lat": "59.1644288",
+		"number": "4",
+		"street": "Metsa tänav",
+		"city": "\"Kohila vald",
+		"district": "Kohila alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.8038306",
+		"lat": "58.7740386",
+		"number": "23",
+		"street": "Nõlva tänav",
+		"city": "\"Järvakandi vald",
+		"district": "Järvakandi alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.7541855",
+		"lat": "59.1621104",
+		"number": "1",
+		"street": "Metsa põik",
+		"city": "\"Kohila vald",
+		"district": "Kohila alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.7994064",
+		"lat": "59.0044969",
+		"number": "18a",
+		"street": "Jõe tänav",
+		"city": "\"Rapla vald",
+		"district": "Rapla linn\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.7518476",
+		"lat": "59.1633159",
+		"number": "12",
+		"street": "Metsa tänav",
+		"city": "\"Kohila vald",
+		"district": "Kohila alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.424258",
+		"lat": "58.8991419",
+		"number": "10",
+		"street": "Metsa tänav",
+		"city": "\"Märjamaa vald",
+		"district": "Märjamaa alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.4306009",
+		"lat": "58.904461",
+		"number": "4",
+		"street": "Oru tänav",
+		"city": "\"Märjamaa vald",
+		"district": "Märjamaa alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.8064351",
+		"lat": "58.9978524",
+		"number": "7",
+		"street": "Soo tänav",
+		"city": "\"Rapla vald",
+		"district": "Rapla linn\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.4407487",
+		"lat": "58.9044883",
+		"number": "33",
+		"street": "Kasti tee",
+		"city": "\"Märjamaa vald",
+		"district": "Märjamaa alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.78661",
+		"lat": "59.0009661",
+		"number": "14",
+		"street": "Tammemäe tänav",
+		"city": "\"Rapla vald",
+		"district": "Rapla linn\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.4237384",
+		"lat": "58.9005474",
+		"number": "3",
+		"street": "Metsa tänav",
+		"city": "\"Märjamaa vald",
+		"district": "Märjamaa alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.4309975",
+		"lat": "58.9062437",
+		"number": "1",
+		"street": "Veetorni tänav",
+		"city": "\"Märjamaa vald",
+		"district": "Märjamaa alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.7619624",
+		"lat": "59.1587348",
+		"number": "5",
+		"street": "Toome tänav",
+		"city": "\"Kohila vald",
+		"district": "Kohila alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.8010514",
+		"lat": "58.9977015",
+		"number": "10",
+		"street": "Lepiku tänav",
+		"city": "\"Rapla vald",
+		"district": "Rapla linn\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.7998766",
+		"lat": "58.774067",
+		"number": "44",
+		"street": "Uus tänav",
+		"city": "\"Järvakandi vald",
+		"district": "Järvakandi alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.8014766",
+		"lat": "58.7750747",
+		"number": "26",
+		"street": "Nõlva tänav",
+		"city": "\"Järvakandi vald",
+		"district": "Järvakandi alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.8074688",
+		"lat": "58.9981502",
+		"number": "40",
+		"street": "Mahlamäe tänav",
+		"city": "\"Rapla vald",
+		"district": "Rapla linn\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.43736",
+		"lat": "58.9122502",
+		"number": "26",
+		"street": "Nõmme tänav",
+		"city": "\"Märjamaa vald",
+		"district": "Märjamaa alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.4151201",
+		"lat": "58.9004112",
+		"number": "32",
+		"street": "Sihi tänav",
+		"city": "\"Märjamaa vald",
+		"district": "Märjamaa alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.4388754",
+		"lat": "58.9101263",
+		"number": "3",
+		"street": "Vahtra tänav",
+		"city": "\"Märjamaa vald",
+		"district": "Märjamaa alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.8131604",
+		"lat": "58.7686303",
+		"number": "34",
+		"street": "Põllu tänav",
+		"city": "\"Järvakandi vald",
+		"district": "Järvakandi alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.7984936",
+		"lat": "58.9963147",
+		"number": "22a",
+		"street": "Koidu tänav",
+		"city": "\"Rapla vald",
+		"district": "Rapla linn\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.8140876",
+		"lat": "58.7723084",
+		"number": "5",
+		"street": "Uus tänav",
+		"city": "\"Järvakandi vald",
+		"district": "Järvakandi alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.7847339",
+		"lat": "58.9997411",
+		"number": "24",
+		"street": "Põllu tänav",
+		"city": "\"Rapla vald",
+		"district": "Rapla linn\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.7883789",
+		"lat": "59.0034028",
+		"number": "9",
+		"street": "Palli tänav",
+		"city": "\"Rapla vald",
+		"district": "Rapla linn\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "25.4249537",
+		"lat": "58.7989569",
+		"number": "10",
+		"street": "Nooruse tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "24.4464131",
+		"lat": "58.9089364",
+		"number": "24",
+		"street": "Liiva tänav",
+		"city": "\"Märjamaa vald",
+		"district": "Märjamaa alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.761272",
+		"lat": "59.1670527",
+		"number": "4",
+		"street": "Nurme tänav",
+		"city": "\"Kohila vald",
+		"district": "Kohila alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.4390266",
+		"lat": "58.9127813",
+		"number": "4",
+		"street": "Õie tänav",
+		"city": "\"Märjamaa vald",
+		"district": "Märjamaa alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.7531264",
+		"lat": "59.162063",
+		"number": "20",
+		"street": "Metsa tänav",
+		"city": "\"Kohila vald",
+		"district": "Kohila alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.7922236",
+		"lat": "59.0081081",
+		"number": "6",
+		"street": "Alu tee",
+		"city": "\"Rapla vald",
+		"district": "Rapla linn\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.4213681",
+		"lat": "58.9029252",
+		"number": "2",
+		"street": "Sihi tänav",
+		"city": "\"Märjamaa vald",
+		"district": "Märjamaa alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.7468991",
+		"lat": "59.1767142",
+		"number": "4",
+		"street": "Jõe tänav",
+		"city": "\"Kohila vald",
+		"district": "Kohila alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.4407157",
+		"lat": "58.9026553",
+		"number": "39",
+		"street": "Kasti tee",
+		"city": "\"Märjamaa vald",
+		"district": "Märjamaa alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.7519806",
+		"lat": "59.1628166",
+		"number": "14",
+		"street": "Metsa tänav",
+		"city": "\"Kohila vald",
+		"district": "Kohila alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.7916748",
+		"lat": "59.0047893",
+		"number": "5",
+		"street": "Hariduse tänav",
+		"city": "\"Rapla vald",
+		"district": "Rapla linn\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "26.5607698",
+		"lat": "58.3882618",
+		"number": "11",
+		"street": "Järve tee",
+		"city": "\"Tähtvere vald",
+		"district": "Ilmatsalu alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "24.4228741",
+		"lat": "58.901697",
+		"number": "79",
+		"street": "Pärnu maantee",
+		"city": "\"Märjamaa vald",
+		"district": "Märjamaa alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.7626085",
+		"lat": "59.1661568",
+		"number": "19",
+		"street": "Välja tänav",
+		"city": "\"Kohila vald",
+		"district": "Kohila alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.8082011",
+		"lat": "58.9968672",
+		"number": "72g",
+		"street": "Viljandi maantee",
+		"city": "\"Rapla vald",
+		"district": "Rapla linn\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.4190885",
+		"lat": "58.897485",
+		"number": "5",
+		"street": "Tehnika tänav",
+		"city": "\"Märjamaa vald",
+		"district": "Märjamaa alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.7916117",
+		"lat": "59.0037952",
+		"number": "6",
+		"street": "Palli tänav",
+		"city": "\"Rapla vald",
+		"district": "Rapla linn\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.7546571",
+		"lat": "59.1750414",
+		"number": "23",
+		"street": "Tööstuse tänav",
+		"city": "\"Kohila vald",
+		"district": "Kohila alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.4236909",
+		"lat": "58.8963847",
+		"number": "16",
+		"street": "Pargi tänav",
+		"city": "\"Märjamaa vald",
+		"district": "Märjamaa alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.4365736",
+		"lat": "58.9053023",
+		"number": "7",
+		"street": "Lauluväljaku tänav",
+		"city": "\"Märjamaa vald",
+		"district": "Märjamaa alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.7419851",
+		"lat": "59.1741092",
+		"number": "6",
+		"street": "Kannikese tänav",
+		"city": "\"Kohila vald",
+		"district": "Kohila alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.8267243",
+		"lat": "58.9931526",
+		"number": "81",
+		"street": "Viljandi maantee",
+		"city": "\"Rapla vald",
+		"district": "Rapla linn\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.8032543",
+		"lat": "59.0048348",
+		"number": "34",
+		"street": "Kalda tänav",
+		"city": "\"Rapla vald",
+		"district": "Rapla linn\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "26.4892613",
+		"lat": "58.0573847",
+		"number": "12",
+		"street": "Virulombi tänav",
+		"city": "\"Otepää vald",
+		"district": "Otepää linn\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "26.4933481",
+		"lat": "58.0569825",
+		"number": "1",
+		"street": "Pühajärve tee",
+		"city": "\"Otepää vald",
+		"district": "Otepää linn\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "26.2518777",
+		"lat": "59.1312342",
+		"number": "16",
+		"street": "Jakob Liivi tänav",
+		"city": "\"Väike-Maarja vald",
+		"district": "Väike-Maarja alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.9176308",
+		"lat": "59.6088892",
+		"number": "72",
+		"street": "Neeme tee",
+		"city": "\"Vihula vald",
+		"district": "Käsmu küla\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.1770792",
+		"lat": "59.093284",
+		"number": "9",
+		"street": "Kalda tänav",
+		"city": "\"Väike-Maarja vald",
+		"district": "Kiltsi alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.9584063",
+		"lat": "59.2552034",
+		"number": "5",
+		"street": "Sügise tänav",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.9608532",
+		"lat": "59.5721141",
+		"number": "33",
+		"street": "Piibelehe tänav",
+		"city": "\"Vihula vald",
+		"district": "Võsu alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.2462275",
+		"lat": "59.1262533",
+		"number": "5",
+		"street": "Aia tänav",
+		"city": "\"Väike-Maarja vald",
+		"district": "Väike-Maarja alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.9681217",
+		"lat": "59.260232",
+		"number": "7",
+		"street": "Linda tänav",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.9732689",
+		"lat": "59.5814081",
+		"number": "21",
+		"street": "Liiva tänav",
+		"city": "\"Vihula vald",
+		"district": "Võsu alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.957949",
+		"lat": "59.2679687",
+		"number": "2",
+		"street": "Leina tänav",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.1776858",
+		"lat": "59.0921989",
+		"number": "5",
+		"street": "Uus tänav",
+		"city": "\"Väike-Maarja vald",
+		"district": "Kiltsi alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.4731889",
+		"lat": "58.0647853",
+		"number": "41",
+		"street": "Palupera tee",
+		"city": "\"Otepää vald",
+		"district": "Otepää linn\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "26.1013837",
+		"lat": "59.1599306",
+		"number": "10",
+		"street": "A. H. Tammsaare tänav",
+		"city": "\"Tamsalu vald",
+		"district": "Tamsalu linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.1190245",
+		"lat": "59.164227",
+		"number": "1",
+		"street": "Pärna tänav",
+		"city": "\"Tamsalu vald",
+		"district": "Tamsalu linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.9516916",
+		"lat": "59.2616316",
+		"number": "22",
+		"street": "Pargi tänav",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.1386082",
+		"lat": "59.3408941",
+		"number": "8",
+		"street": "Põllu tänav",
+		"city": "\"Kadrina vald",
+		"district": "Kadrina alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.9535449",
+		"lat": "59.2597514",
+		"number": "27",
+		"street": "1. Mai puiestee",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.112227",
+		"lat": "59.1652986",
+		"number": "19",
+		"street": "Koidu tänav",
+		"city": "\"Tamsalu vald",
+		"district": "Tamsalu linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.2556586",
+		"lat": "59.1299877",
+		"number": "1",
+		"street": "Kesk tänav",
+		"city": "\"Väike-Maarja vald",
+		"district": "Väike-Maarja alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.4943591",
+		"lat": "58.0551559",
+		"number": "3",
+		"street": "Kopli tänav",
+		"city": "\"Otepää vald",
+		"district": "Otepää linn\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "26.1089643",
+		"lat": "59.1639365",
+		"number": "10",
+		"street": "Tehnika tänav",
+		"city": "\"Tamsalu vald",
+		"district": "Tamsalu linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.9561433",
+		"lat": "59.5754767",
+		"number": "54",
+		"street": "Mere tänav",
+		"city": "\"Vihula vald",
+		"district": "Võsu alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.2564544",
+		"lat": "59.1301286",
+		"number": "4",
+		"street": "Kesk tänav",
+		"city": "\"Väike-Maarja vald",
+		"district": "Väike-Maarja alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.4962535",
+		"lat": "58.0606447",
+		"number": "5",
+		"street": "Palupera tee",
+		"city": "\"Otepää vald",
+		"district": "Otepää linn\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "25.9648361",
+		"lat": "59.2595362",
+		"number": "3",
+		"street": "Spordi tänav",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.9598813",
+		"lat": "59.2603723",
+		"number": "14",
+		"street": "Kooli tänav",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.9744846",
+		"lat": "59.5782623",
+		"number": "18b",
+		"street": "Kooli tänav",
+		"city": "\"Vihula vald",
+		"district": "Võsu alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.967628",
+		"lat": "59.2672045",
+		"number": "20",
+		"street": "Veski tänav",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.4742221",
+		"lat": "58.0439798",
+		"number": "4",
+		"street": "Vahtra tänav",
+		"city": "\"Otepää vald",
+		"district": "Otepää linn\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "25.951708",
+		"lat": "59.5753154",
+		"number": "66",
+		"street": "Mere tänav",
+		"city": "\"Vihula vald",
+		"district": "Võsu alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.9655189",
+		"lat": "59.2713718",
+		"number": "2a",
+		"street": "Kivi tänav",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.9643416",
+		"lat": "59.2721872",
+		"number": "8",
+		"street": "Kivi tänav",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.1179221",
+		"lat": "59.1607492",
+		"number": "6",
+		"street": "Nurme tänav",
+		"city": "\"Tamsalu vald",
+		"district": "Tamsalu linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.0996367",
+		"lat": "59.1585273",
+		"number": "6",
+		"street": "Kandle tänav",
+		"city": "\"Tamsalu vald",
+		"district": "Tamsalu linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.1048027",
+		"lat": "59.1648649",
+		"number": "5",
+		"street": "Vasara tänav",
+		"city": "\"Tamsalu vald",
+		"district": "Tamsalu linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.4881792",
+		"lat": "58.0563924",
+		"number": "31",
+		"street": "Pikk tänav",
+		"city": "\"Otepää vald",
+		"district": "Otepää linn\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "25.9770119",
+		"lat": "59.5822578",
+		"number": "7",
+		"street": "Vergi tee",
+		"city": "\"Vihula vald",
+		"district": "Võsu alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.9492042",
+		"lat": "59.2547544",
+		"number": "18",
+		"street": "Eha tänav",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.5282465",
+		"lat": "57.8253759",
+		"number": "25a",
+		"street": "Pärna tänav",
+		"city": "\"Antsla vald",
+		"district": "Antsla linn\"",
+		"postcode": "Võru maakond"
+	},
+	{
+		"lon": "26.4694154",
+		"lat": "58.0657265",
+		"number": "7",
+		"street": "Pedaja tee",
+		"city": "\"Otepää vald",
+		"district": "Otepää linn\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "26.4887563",
+		"lat": "58.0608589",
+		"number": "10",
+		"street": "Pikk tänav",
+		"city": "\"Otepää vald",
+		"district": "Otepää linn\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "26.1079349",
+		"lat": "59.1706697",
+		"number": "6",
+		"street": "Toome tänav",
+		"city": "\"Tamsalu vald",
+		"district": "Tamsalu linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.9653421",
+		"lat": "59.2645553",
+		"number": "2",
+		"street": "Roheline tänav",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.5210082",
+		"lat": "57.8308289",
+		"number": "5",
+		"street": "Metsa tänav",
+		"city": "\"Antsla vald",
+		"district": "Antsla linn\"",
+		"postcode": "Võru maakond"
+	},
+	{
+		"lon": "26.2595329",
+		"lat": "59.1278645",
+		"number": "4",
+		"street": "Kolde tänav",
+		"city": "\"Väike-Maarja vald",
+		"district": "Väike-Maarja alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.5346575",
+		"lat": "57.8330043",
+		"number": "15",
+		"street": "Põik tänav",
+		"city": "\"Antsla vald",
+		"district": "Antsla linn\"",
+		"postcode": "Võru maakond"
+	},
+	{
+		"lon": "26.4960604",
+		"lat": "58.0528583",
+		"number": "9",
+		"street": "Tehvandi tänav",
+		"city": "\"Otepää vald",
+		"district": "Otepää linn\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "26.1437577",
+		"lat": "59.3365227",
+		"number": "8",
+		"street": "Pikk tänav",
+		"city": "\"Kadrina vald",
+		"district": "Kadrina alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.1158495",
+		"lat": "59.1614493",
+		"number": "5",
+		"street": "Otto Müntheri tänav",
+		"city": "\"Tamsalu vald",
+		"district": "Tamsalu linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.7657794",
+		"lat": "58.4242695",
+		"number": "4",
+		"street": "Hariduse tänav",
+		"city": "\"Tartu vald",
+		"district": "Kõrveküla alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "26.4904523",
+		"lat": "58.0596449",
+		"number": "10",
+		"street": "Kastani tänav",
+		"city": "\"Otepää vald",
+		"district": "Otepää linn\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "25.9460457",
+		"lat": "59.2594263",
+		"number": "2",
+		"street": "Ristiku tänav",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.9635969",
+		"lat": "59.2707128",
+		"number": "18",
+		"street": "Hiie tänav",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.5463196",
+		"lat": "57.8281191",
+		"number": "19",
+		"street": "Tsooru maantee",
+		"city": "\"Antsla vald",
+		"district": "Antsla linn\"",
+		"postcode": "Võru maakond"
+	},
+	{
+		"lon": "26.4897634",
+		"lat": "58.0554735",
+		"number": "6",
+		"street": "Tiigi tänav",
+		"city": "\"Otepää vald",
+		"district": "Otepää linn\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "25.9437863",
+		"lat": "59.259248",
+		"number": "43",
+		"street": "Ambla maantee",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.960063",
+		"lat": "59.2720509",
+		"number": "27",
+		"street": "Taara puiestee",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.9551124",
+		"lat": "59.573986",
+		"number": "9",
+		"street": "Aia tänav",
+		"city": "\"Vihula vald",
+		"district": "Võsu alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.9731521",
+		"lat": "59.2604616",
+		"number": "19",
+		"street": "Jaani tänav",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.2541478",
+		"lat": "59.1196618",
+		"number": "14",
+		"street": "Tagaküla tee",
+		"city": "\"Väike-Maarja vald",
+		"district": "Väike-Maarja alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.5262902",
+		"lat": "57.8308649",
+		"number": "3",
+		"street": "Metsa tänav",
+		"city": "\"Antsla vald",
+		"district": "Antsla linn\"",
+		"postcode": "Võru maakond"
+	},
+	{
+		"lon": "26.4899806",
+		"lat": "58.0577293",
+		"number": "9",
+		"street": "Virulombi tänav",
+		"city": "\"Otepää vald",
+		"district": "Otepää linn\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "25.9550306",
+		"lat": "59.2699596",
+		"number": "5",
+		"street": "Taara puiestee",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.975435",
+		"lat": "59.2604465",
+		"number": "15",
+		"street": "Männiku tänav",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.1158409",
+		"lat": "59.1622683",
+		"number": "4",
+		"street": "Sõpruse tänav",
+		"city": "\"Tamsalu vald",
+		"district": "Tamsalu linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.0888867",
+		"lat": "59.1618118",
+		"number": "4",
+		"street": "Lubja tänav",
+		"city": "\"Tamsalu vald",
+		"district": "Tamsalu linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.946458",
+		"lat": "59.2602272",
+		"number": "41",
+		"street": "Ambla maantee",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.2530245",
+		"lat": "59.1292779",
+		"number": "4",
+		"street": "Simuna maantee",
+		"city": "\"Väike-Maarja vald",
+		"district": "Väike-Maarja alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.4783368",
+		"lat": "58.0630184",
+		"number": "22",
+		"street": "Kaasiku tänav",
+		"city": "\"Otepää vald",
+		"district": "Otepää linn\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "26.1088678",
+		"lat": "59.1677733",
+		"number": "4",
+		"street": "Metsa tänav",
+		"city": "\"Tamsalu vald",
+		"district": "Tamsalu linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.9484965",
+		"lat": "59.26078",
+		"number": "39",
+		"street": "1. Mai puiestee",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.9637496",
+		"lat": "59.2726228",
+		"number": "34",
+		"street": "Taara puiestee",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.9572634",
+		"lat": "59.2729527",
+		"number": "24",
+		"street": "Võidu puiestee",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.9568128",
+		"lat": "59.5751907",
+		"number": "83",
+		"street": "Mere tänav",
+		"city": "\"Vihula vald",
+		"district": "Võsu alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.1404277",
+		"lat": "59.3352831",
+		"number": "4",
+		"street": "Uus tänav",
+		"city": "\"Kadrina vald",
+		"district": "Kadrina alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.5157458",
+		"lat": "57.8216421",
+		"number": "55",
+		"street": "Lõuna tänav",
+		"city": "\"Antsla vald",
+		"district": "Antsla linn\"",
+		"postcode": "Võru maakond"
+	},
+	{
+		"lon": "26.4881768",
+		"lat": "58.0598868",
+		"number": "13",
+		"street": "Pikk tänav",
+		"city": "\"Otepää vald",
+		"district": "Otepää linn\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "25.9570301",
+		"lat": "59.2607526",
+		"number": "28",
+		"street": "1. Mai puiestee",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.9607707",
+		"lat": "59.2671413",
+		"number": "4",
+		"street": "Põllu tänav",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.522117",
+		"lat": "57.8188561",
+		"number": "1",
+		"street": "Tööstuse tänav",
+		"city": "\"Antsla vald",
+		"district": "Antsla linn\"",
+		"postcode": "Võru maakond"
+	},
+	{
+		"lon": "26.1510082",
+		"lat": "59.3422501",
+		"number": "43a",
+		"street": "Põllu tänav",
+		"city": "\"Kadrina vald",
+		"district": "Kadapiku küla\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.8051072",
+		"lat": "58.3660966",
+		"number": "28",
+		"street": "Sinilinnu tee",
+		"city": "\"Luunja vald",
+		"district": "Lohkva küla\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "24.9527813",
+		"lat": "59.3778465",
+		"number": "1",
+		"street": "Kurekella tee",
+		"city": "\"Rae vald",
+		"district": "Vaskjala küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9445645",
+		"lat": "59.3777732",
+		"number": "3a",
+		"street": "Kurekaela tee",
+		"city": "\"Rae vald",
+		"district": "Vaskjala küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.1117026",
+		"lat": "57.8559421",
+		"number": "25/1",
+		"street": "Kesk tänav",
+		"city": "\"Tõlliste vald",
+		"district": "Sooru küla\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "24.4483623",
+		"lat": "58.4321836",
+		"number": "5",
+		"street": "Printsu tee",
+		"city": "\"Sauga vald",
+		"district": "Eametsa küla\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "25.6176669",
+		"lat": "59.2867085",
+		"number": "11a",
+		"street": "Kase tänav",
+		"city": "\"Aegviidu vald",
+		"district": "Aegviidu alev\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.6112614",
+		"lat": "59.3522082",
+		"number": "3",
+		"street": "Veskitammi tänav",
+		"city": "\"Saue vald",
+		"district": "Laagri alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.3018749",
+		"lat": "59.1070922",
+		"number": "13",
+		"street": "Metsa tänav",
+		"city": "\"Iisaku vald",
+		"district": "Iisaku alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.1308019",
+		"lat": "59.3427503",
+		"number": "2a",
+		"street": "Rakvere tee",
+		"city": "\"Kadrina vald",
+		"district": "Kadrina alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.8607037",
+		"lat": "58.2328425",
+		"number": "3",
+		"street": "Põik tänav",
+		"city": "\"Tarvastu vald",
+		"district": "Mustla alevik\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "24.9029514",
+		"lat": "59.4993893",
+		"number": "1",
+		"street": "Metsavahe tee",
+		"city": "\"Viimsi vald",
+		"district": "Randvere küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9298356",
+		"lat": "59.3150786",
+		"number": "1",
+		"street": "Baasi tee",
+		"city": "\"Rae vald",
+		"district": "Patika küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.7995025",
+		"lat": "59.5303898",
+		"number": "31a",
+		"street": "Rannavälja põik",
+		"city": "\"Viimsi vald",
+		"district": "Pringi küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.1212258",
+		"lat": "57.7834959",
+		"number": "10",
+		"street": "Mooni tänav",
+		"city": "\"Karula vald",
+		"district": "Raavitsa küla\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "26.5578377",
+		"lat": "59.0697949",
+		"number": "3",
+		"street": "Kaare tänav",
+		"city": "\"Laekvere vald",
+		"district": "Laekvere alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "27.0466458",
+		"lat": "58.9469939",
+		"number": "39",
+		"street": "Avinurme tee",
+		"city": "\"Lohusuu vald",
+		"district": "Lohusuu alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.8436478",
+		"lat": "58.9647122",
+		"number": "2",
+		"street": "Männiku põik",
+		"city": "\"Kehtna vald",
+		"district": "Kaerepere alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "26.6589775",
+		"lat": "58.4306597",
+		"number": "2",
+		"street": "Jõekääru tänav",
+		"city": "\"Tähtvere vald",
+		"district": "Vorbuse küla\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "24.4963555",
+		"lat": "58.2483204",
+		"number": "7",
+		"street": "Nurga tee",
+		"city": "\"Tahkuranna vald",
+		"district": "Tahkuranna küla\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "26.2728826",
+		"lat": "57.95636",
+		"number": "1",
+		"street": "Kooli tee",
+		"city": "\"Sangaste vald",
+		"district": "Keeni küla\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "22.1221857",
+		"lat": "58.0680111",
+		"number": "1",
+		"street": "Arengu tee",
+		"city": "\"Salme vald",
+		"district": "Rahuste küla\"",
+		"postcode": "Saare maakond"
+	},
+	{
+		"lon": "24.7814818",
+		"lat": "59.0035438",
+		"number": "5",
+		"street": "Vastla tänav",
+		"city": "\"Rapla vald",
+		"district": "Sulupere küla\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "26.6344929",
+		"lat": "58.3625072",
+		"number": "5",
+		"street": "Männisalu tee",
+		"city": "\"Tähtvere vald",
+		"district": "Haage küla\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "26.266082",
+		"lat": "59.43213",
+		"number": "2",
+		"street": "Rakvere maantee",
+		"city": "\"Haljala vald",
+		"district": "Haljala alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "24.5829994",
+		"lat": "59.4285726",
+		"number": "12",
+		"street": "Sepa tee",
+		"city": "\"Harku vald",
+		"district": "Tiskre küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.4169906",
+		"lat": "58.8141667",
+		"number": "23",
+		"street": "Lutsu tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "26.2413638",
+		"lat": "59.433292",
+		"number": "19",
+		"street": "Tallinna maantee",
+		"city": "\"Haljala vald",
+		"district": "Haljala alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.1359339",
+		"lat": "58.8250211",
+		"number": "11",
+		"street": "Oru tänav",
+		"city": "\"Käru vald",
+		"district": "Käru alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "24.9085391",
+		"lat": "59.5103222",
+		"number": "2",
+		"street": "Kreiukse tee",
+		"city": "\"Viimsi vald",
+		"district": "Randvere küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.2729063",
+		"lat": "59.4263964",
+		"number": "25",
+		"street": "Rakvere maantee",
+		"city": "\"Haljala vald",
+		"district": "Haljala alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.9551743",
+		"lat": "59.2410155",
+		"number": "35",
+		"street": "Loode tänav",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "24.9495453",
+		"lat": "59.4292602",
+		"number": "18",
+		"street": "Saha tee",
+		"city": "\"Jõelähtme vald",
+		"district": "Loo alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.2982503",
+		"lat": "59.4080016",
+		"number": "2",
+		"street": "Karja põik",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2962722",
+		"lat": "59.4075342",
+		"number": "16",
+		"street": "Karja põik",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "25.0465558",
+		"lat": "58.6481789",
+		"number": "14",
+		"street": "Kase tänav",
+		"city": "\"Vändra vald (alev)",
+		"district": "Vändra alev\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "25.4188074",
+		"lat": "58.8070065",
+		"number": "47",
+		"street": "Koidula tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "27.4145175",
+		"lat": "59.3252935",
+		"number": "9",
+		"street": "Lehola tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.9013898",
+		"lat": "58.9475307",
+		"number": "14",
+		"street": "Põrsaku tee",
+		"city": "\"Kehtna vald",
+		"district": "Keava alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "25.4221271",
+		"lat": "58.8066481",
+		"number": "39",
+		"street": "Koidula tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "27.2841377",
+		"lat": "59.4090241",
+		"number": "11",
+		"street": "Põhja allee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.904436",
+		"lat": "58.4908387",
+		"number": "18",
+		"street": "Orava tee",
+		"city": "\"Tori vald",
+		"district": "Jõesuu küla\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "22.2315942",
+		"lat": "58.4607418",
+		"number": "3",
+		"street": "Rahtla tänav",
+		"city": "\"Mustjala vald",
+		"district": "Mustjala küla\"",
+		"postcode": "Saare maakond"
+	},
+	{
+		"lon": "27.1903334",
+		"lat": "59.3593718",
+		"number": "17",
+		"street": "Kooli tänav",
+		"city": "\"Kohtla-Nõmme vald",
+		"district": "Kohtla-Nõmme alev\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "25.975511",
+		"lat": "59.5831318",
+		"number": "36",
+		"street": "Kalda tänav",
+		"city": "\"Vihula vald",
+		"district": "Võsu alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.9724528",
+		"lat": "58.7847792",
+		"number": "128",
+		"street": "Sõpruse tänav",
+		"city": "\"Kasepää vald",
+		"district": "Kasepää küla\"",
+		"postcode": "Jõgeva maakond"
+	},
+	{
+		"lon": "24.6837551",
+		"lat": "59.2380506",
+		"number": "3",
+		"street": "Männi põik",
+		"city": "\"Saku vald",
+		"district": "Kiisa alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.4182229",
+		"lat": "59.3509541",
+		"number": "4",
+		"street": "Puru tee",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "23.5692656",
+		"lat": "58.9387076",
+		"number": "15b",
+		"street": "Linna tee",
+		"city": "\"Ridala vald",
+		"district": "Uuemõisa alevik\"",
+		"postcode": "Lääne maakond"
+	},
+	{
+		"lon": "27.5784697",
+		"lat": "59.3746686",
+		"number": "3",
+		"street": "Kase tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Oru linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.0501257",
+		"lat": "58.9590332",
+		"number": "25",
+		"street": "Ülejõe tänav",
+		"city": "\"Lohusuu vald",
+		"district": "Lohusuu alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "25.0370148",
+		"lat": "58.6483643",
+		"number": "5",
+		"street": "Kooli tänav",
+		"city": "\"Vändra vald (alev)",
+		"district": "Vändra alev\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "25.0338293",
+		"lat": "58.6500597",
+		"number": "34",
+		"street": "Vana tänav",
+		"city": "\"Vändra vald (alev)",
+		"district": "Vändra alev\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "26.9882865",
+		"lat": "59.3796245",
+		"number": "4",
+		"street": "Põllu tänav",
+		"city": "\"Sonda vald",
+		"district": "Erra alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "25.0431039",
+		"lat": "58.6510065",
+		"number": "28",
+		"street": "Pikk tänav",
+		"city": "\"Vändra vald (alev)",
+		"district": "Vändra alev\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "27.466889",
+		"lat": "58.1054728",
+		"number": "5",
+		"street": "Karja tänav",
+		"city": "\"Räpina vald",
+		"district": "Räpina linn\"",
+		"postcode": "Põlva maakond"
+	},
+	{
+		"lon": "24.5159437",
+		"lat": "59.4355093",
+		"number": "3",
+		"street": "Vankri tee",
+		"city": "\"Harku vald",
+		"district": "Rannamõisa küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.312711",
+		"lat": "59.1096134",
+		"number": "11",
+		"street": "Põllu tänav",
+		"city": "\"Iisaku vald",
+		"district": "Iisaku alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "25.0372081",
+		"lat": "58.6481672",
+		"number": "7",
+		"street": "Kooli tänav",
+		"city": "\"Vändra vald (alev)",
+		"district": "Vändra alev\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "24.5638811",
+		"lat": "59.4230534",
+		"number": "5",
+		"street": "Pääsukese tänav",
+		"city": "\"Harku vald",
+		"district": "Tabasalu alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.4298666",
+		"lat": "59.3215894",
+		"number": "3",
+		"street": "Kastani tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "25.0433458",
+		"lat": "58.6537541",
+		"number": "2a",
+		"street": "Rahu tänav",
+		"city": "\"Vändra vald (alev)",
+		"district": "Vändra alev\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "25.0365142",
+		"lat": "58.6592466",
+		"number": "37",
+		"street": "Lohu tänav",
+		"city": "\"Vändra vald (alev)",
+		"district": "Vändra alev\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "24.4925116",
+		"lat": "58.4186787",
+		"number": "8",
+		"street": "Tiigi tänav",
+		"city": "\"Sauga vald",
+		"district": "Sauga alevik\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "27.3094824",
+		"lat": "59.1015998",
+		"number": "26",
+		"street": "Tartu maantee",
+		"city": "\"Iisaku vald",
+		"district": "Iisaku alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "25.0421366",
+		"lat": "58.6526505",
+		"number": "68",
+		"street": "Vana tänav",
+		"city": "\"Vändra vald (alev)",
+		"district": "Vändra alev\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "24.6846191",
+		"lat": "59.2388531",
+		"number": "4",
+		"street": "Pargi tänav",
+		"city": "\"Saku vald",
+		"district": "Kiisa alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.4061988",
+		"lat": "59.3619562",
+		"number": "2",
+		"street": "Metsavahe tänav",
+		"city": "\"Sõmeru vald",
+		"district": "Näpi alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.1870459",
+		"lat": "59.1000918",
+		"number": "12",
+		"street": "Oru tänav",
+		"city": "\"Väike-Maarja vald",
+		"district": "Vao küla\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.5855209",
+		"lat": "58.8807925",
+		"number": "1",
+		"street": "Allika tänav",
+		"city": "\"Paide vald",
+		"district": "Kriilevälja küla\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "26.0057811",
+		"lat": "59.1103802",
+		"number": "9",
+		"street": "Pärna tänav",
+		"city": "\"Tamsalu vald",
+		"district": "Vajangu küla\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "25.3424091",
+		"lat": "59.478524",
+		"number": "4",
+		"street": "Pargi tänav",
+		"city": "\"Kuusalu vald",
+		"district": "Valkla küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.5890941",
+		"lat": "58.2749614",
+		"number": "2",
+		"street": "Rooli tee",
+		"city": "\"Tahkuranna vald",
+		"district": "Laadi küla\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "24.531799",
+		"lat": "59.4297198",
+		"number": "5",
+		"street": "Kodu tänav",
+		"city": "\"Harku vald",
+		"district": "Tabasalu alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.9675787",
+		"lat": "59.2712794",
+		"number": "26",
+		"street": "Valgejõe puiestee",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "24.4206846",
+		"lat": "58.9006385",
+		"number": "76b",
+		"street": "Pärnu maantee",
+		"city": "\"Märjamaa vald",
+		"district": "Märjamaa alev\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "25.5866392",
+		"lat": "58.8828712",
+		"number": "5",
+		"street": "Luha tänav",
+		"city": "\"Paide vald",
+		"district": "Kriilevälja küla\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "26.526207",
+		"lat": "57.8281274",
+		"number": "10",
+		"street": "Jaani tänav",
+		"city": "\"Antsla vald",
+		"district": "Antsla linn\"",
+		"postcode": "Võru maakond"
+	},
+	{
+		"lon": "25.6140379",
+		"lat": "59.2853582",
+		"number": "7",
+		"street": "Raudtee tänav",
+		"city": "\"Aegviidu vald",
+		"district": "Aegviidu alev\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.7958484",
+		"lat": "59.1771524",
+		"number": "2",
+		"street": "Aia tänav",
+		"city": "\"Kohila vald",
+		"district": "Prillimäe alevik\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "26.2513772",
+		"lat": "58.1450659",
+		"number": "10a",
+		"street": "Tartu maantee",
+		"city": "\"Rõngu vald",
+		"district": "Rõngu alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "24.6646761",
+		"lat": "59.3046135",
+		"number": "3",
+		"street": "Pärna tänav",
+		"city": "\"Saku vald",
+		"district": "Saku alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.4066666",
+		"lat": "58.8220481",
+		"number": "23a",
+		"street": "Tehnika tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "25.9734541",
+		"lat": "59.2618289",
+		"number": "14",
+		"street": "Piiri tänav",
+		"city": "\"Tapa vald",
+		"district": "Tapa linn\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "23.5253559",
+		"lat": "58.5820715",
+		"number": "1",
+		"street": "Vee tänav",
+		"city": "\"Hanila vald",
+		"district": "Virtsu alevik\"",
+		"postcode": "Lääne maakond"
+	},
+	{
+		"lon": "24.2493281",
+		"lat": "59.3841137",
+		"number": "29",
+		"street": "Saare tänav",
+		"city": "\"Keila vald",
+		"district": "Laulasmaa küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "23.8360341",
+		"lat": "58.6886212",
+		"number": "13",
+		"street": "Tallinna maantee",
+		"city": "\"Lihula vald",
+		"district": "Lihula linn\"",
+		"postcode": "Lääne maakond"
+	},
+	{
+		"lon": "24.6621708",
+		"lat": "59.3032823",
+		"number": "16",
+		"street": "Aasa tänav",
+		"city": "\"Saku vald",
+		"district": "Saku alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.3191619",
+		"lat": "59.1079112",
+		"number": "17",
+		"street": "Metsa tänav",
+		"city": "\"Nissi vald",
+		"district": "Riisipere alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.5852918",
+		"lat": "59.1670794",
+		"number": "15",
+		"street": "Tartu maantee",
+		"city": "\"Vinni vald",
+		"district": "Roela alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.5366999",
+		"lat": "58.2784387",
+		"number": "4a",
+		"street": "Tartu tänav",
+		"city": "\"Nõo vald",
+		"district": "Nõo alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "24.6173959",
+		"lat": "59.3469334",
+		"number": "5",
+		"street": "Avamaa tänav",
+		"city": "\"Saue vald",
+		"district": "Laagri alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.3390701",
+		"lat": "59.3338808",
+		"number": "3",
+		"street": "Pargi tänav",
+		"city": "\"Anija vald",
+		"district": "Kehra linn\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.2626749",
+		"lat": "59.4381109",
+		"number": "27",
+		"street": "Võsu maantee",
+		"city": "\"Haljala vald",
+		"district": "Haljala alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "24.6092134",
+		"lat": "59.3539566",
+		"number": "1",
+		"street": "Sae tänav",
+		"city": "\"Saue vald",
+		"district": "Laagri alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.4226251",
+		"lat": "58.7941344",
+		"number": "60",
+		"street": "Viljandi tänav",
+		"city": "\"Türi vald",
+		"district": "Türi linn\"",
+		"postcode": "Järva maakond"
+	},
+	{
+		"lon": "22.6873775",
+		"lat": "58.5730111",
+		"number": "10",
+		"street": "Orissaare maantee",
+		"city": "\"Leisi vald",
+		"district": "Leisi alevik\"",
+		"postcode": "Saare maakond"
+	},
+	{
+		"lon": "25.4387865",
+		"lat": "59.4441529",
+		"number": "23",
+		"street": "Kuusalu tee",
+		"city": "\"Kuusalu vald",
+		"district": "Kuusalu alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.3939342",
+		"lat": "58.7650607",
+		"number": "22",
+		"street": "Linnumetsa tänav",
+		"city": "\"Jõgeva vald",
+		"district": "Jõgeva alevik\"",
+		"postcode": "Jõgeva maakond"
+	},
+	{
+		"lon": "26.9519257",
+		"lat": "58.8052576",
+		"number": "2",
+		"street": "Sõpruse tänav",
+		"city": "\"Kasepää vald",
+		"district": "Tiheda küla\"",
+		"postcode": "Jõgeva maakond"
+	},
+	{
+		"lon": "27.5331627",
+		"lat": "59.4182637",
+		"number": "27",
+		"street": "Lõokese tänav",
+		"city": "\"Toila vald",
+		"district": "Pühajõe küla\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.9446703",
+		"lat": "58.81606",
+		"number": "127",
+		"street": "Kalda tänav",
+		"city": "\"Kasepää vald",
+		"district": "Raja küla\"",
+		"postcode": "Jõgeva maakond"
+	},
+	{
+		"lon": "26.6025594",
+		"lat": "58.8689443",
+		"number": "1",
+		"street": "Tähkvere tee",
+		"city": "\"Torma vald",
+		"district": "Sadala alevik\"",
+		"postcode": "Jõgeva maakond"
+	},
+	{
+		"lon": "24.8079874",
+		"lat": "58.9953083",
+		"number": "1a/5",
+		"street": "Ööbiku tänav",
+		"city": "\"Rapla vald",
+		"district": "Rapla linn\"",
+		"postcode": "Rapla maakond"
+	},
+	{
+		"lon": "27.0429436",
+		"lat": "57.8111729",
+		"number": "18",
+		"street": "Valgjärve tänav",
+		"city": "\"Võru vald",
+		"district": "Kose alevik\"",
+		"postcode": "Võru maakond"
+	},
+	{
+		"lon": "26.9279045",
+		"lat": "57.732876",
+		"number": "2",
+		"street": "Metsa tänav",
+		"city": "\"Rõuge vald",
+		"district": "Rõuge alevik\"",
+		"postcode": "Võru maakond"
+	},
+	{
+		"lon": "24.8251355",
+		"lat": "59.5098073",
+		"number": "5",
+		"street": "Kaluri tee",
+		"city": "\"Viimsi vald",
+		"district": "Haabneeme alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.6892021",
+		"lat": "59.2395826",
+		"number": "20",
+		"street": "Asula tänav",
+		"city": "\"Saku vald",
+		"district": "Kiisa alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.8382513",
+		"lat": "59.496948",
+		"number": "8a",
+		"street": "Astri tee",
+		"city": "\"Viimsi vald",
+		"district": "Viimsi alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "25.5398459",
+		"lat": "58.565997",
+		"number": "17",
+		"street": "Keskuse tänav",
+		"city": "\"Suure-Jaani vald",
+		"district": "Reegoldi küla\"",
+		"postcode": "Viljandi maakond"
+	},
+	{
+		"lon": "24.6163437",
+		"lat": "59.3473324",
+		"number": "18",
+		"street": "Avamaa tänav",
+		"city": "\"Saue vald",
+		"district": "Laagri alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "26.3297393",
+		"lat": "57.9231708",
+		"number": "5",
+		"street": "Kooli tänav",
+		"city": "\"Sangaste vald",
+		"district": "Sangaste alevik\"",
+		"postcode": "Valga maakond"
+	},
+	{
+		"lon": "24.6629988",
+		"lat": "59.3027609",
+		"number": "14",
+		"street": "Aasa tänav",
+		"city": "\"Saku vald",
+		"district": "Saku alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9298679",
+		"lat": "59.3609336",
+		"number": "1",
+		"street": "Haava tänav",
+		"city": "\"Rae vald",
+		"district": "Vaskjala küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9200751",
+		"lat": "59.4962469",
+		"number": "29",
+		"street": "Ellerheina tee",
+		"city": "\"Viimsi vald",
+		"district": "Randvere küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9468842",
+		"lat": "59.4112987",
+		"number": "4",
+		"street": "Ilumäe tänav",
+		"city": "\"Rae vald",
+		"district": "Lagedi alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.8852769",
+		"lat": "59.5479941",
+		"number": "21a",
+		"street": "Lepalinnu tee",
+		"city": "\"Viimsi vald",
+		"district": "Leppneeme küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.5429951",
+		"lat": "59.3793292",
+		"number": "3",
+		"street": "Pääsukese tänav",
+		"city": "\"Saue vald",
+		"district": "Hüüru küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.6252872",
+		"lat": "59.3514665",
+		"number": "1",
+		"street": "Salati tänav",
+		"city": "\"Saue vald",
+		"district": "Laagri alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.6458109",
+		"lat": "59.3077497",
+		"number": "20",
+		"street": "Männituka tee",
+		"city": "\"Saku vald",
+		"district": "Saku alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.9356763",
+		"lat": "59.38839",
+		"number": "39",
+		"street": "Jüri tee",
+		"city": "\"Rae vald",
+		"district": "Lagedi alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.6069674",
+		"lat": "59.3584319",
+		"number": "19",
+		"street": "Harusambla tänav",
+		"city": "\"Saue vald",
+		"district": "Laagri alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.7971813",
+		"lat": "59.5492462",
+		"number": "18",
+		"street": "Püünsi tee",
+		"city": "\"Viimsi vald",
+		"district": "Püünsi küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.8411391",
+		"lat": "59.5476445",
+		"number": "9",
+		"street": "Koidu tee",
+		"city": "\"Viimsi vald",
+		"district": "Kelvingi küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.5757102",
+		"lat": "59.388075",
+		"number": "2",
+		"street": "Karikakra tänav",
+		"city": "\"Harku vald",
+		"district": "Harku alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.8401309",
+		"lat": "59.5497783",
+		"number": "23",
+		"street": "Koidu tee",
+		"city": "\"Viimsi vald",
+		"district": "Kelvingi küla\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "24.4471284",
+		"lat": "58.0042812",
+		"number": "4",
+		"street": "Mustamäe tee",
+		"city": "\"Häädemeeste vald",
+		"district": "Kabli küla\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "24.5003057",
+		"lat": "58.084206",
+		"number": "9",
+		"street": "Pärnu maantee",
+		"city": "\"Häädemeeste vald",
+		"district": "Häädemeeste alevik\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "24.5023041",
+		"lat": "58.0852586",
+		"number": "5",
+		"street": "Pärnu maantee",
+		"city": "\"Häädemeeste vald",
+		"district": "Häädemeeste alevik\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "27.4069011",
+		"lat": "59.3243815",
+		"number": "14d",
+		"street": "Sõpruse tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.295779",
+		"lat": "59.4086451",
+		"number": "86",
+		"street": "Olevi tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.5715512",
+		"lat": "59.3682911",
+		"number": "19",
+		"street": "Vikerkaare tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Oru linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2981641",
+		"lat": "59.4109442",
+		"number": "115",
+		"street": "Olevi tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.8476929",
+		"lat": "59.3731025",
+		"number": "6",
+		"street": "Heina tänav",
+		"city": "\"Rae vald",
+		"district": "Assaku alevik\"",
+		"postcode": "Harju maakond"
+	},
+	{
+		"lon": "27.2826167",
+		"lat": "59.3956397",
+		"number": "19",
+		"street": "Niidu tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4058161",
+		"lat": "59.3248303",
+		"number": "12f",
+		"street": "Sõpruse tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.9863062",
+		"lat": "57.9087143",
+		"number": "12",
+		"street": "Kesk tänav",
+		"city": "\"Võru vald",
+		"district": "Parksepa alevik\"",
+		"postcode": "Võru maakond"
+	},
+	{
+		"lon": "27.2832436",
+		"lat": "59.394798",
+		"number": "37",
+		"street": "Niidu tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.283246",
+		"lat": "59.3942324",
+		"number": "33",
+		"street": "Niidu tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2735918",
+		"lat": "59.4042858",
+		"number": "89a",
+		"street": "Endla tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4302834",
+		"lat": "59.3236473",
+		"number": "15",
+		"street": "Altserva tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "25.8215453",
+		"lat": "59.2503831",
+		"number": "16",
+		"street": "Pargi tänav",
+		"city": "\"Tapa vald",
+		"district": "Lehtse alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "27.4073256",
+		"lat": "59.3359126",
+		"number": "9a",
+		"street": "Looga tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4333364",
+		"lat": "59.32658",
+		"number": "43",
+		"street": "Estonia puiestee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2996114",
+		"lat": "59.3954826",
+		"number": "18",
+		"street": "Sinivoore tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4076669",
+		"lat": "59.3234942",
+		"number": "16f",
+		"street": "Sõpruse tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4198506",
+		"lat": "59.3321382",
+		"number": "16",
+		"street": "Estonia puiestee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.297208",
+		"lat": "59.4086694",
+		"number": "8",
+		"street": "Karja tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.8639518",
+		"lat": "59.4491532",
+		"number": "5",
+		"street": "Kooli tänav",
+		"city": "\"Aseri vald",
+		"district": "Aseri alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.415377",
+		"lat": "59.3601364",
+		"number": "8",
+		"street": "Veski tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4034336",
+		"lat": "59.3568626",
+		"number": "3",
+		"street": "Jaama tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.416704",
+		"lat": "59.3536861",
+		"number": "1",
+		"street": "Kaare tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4075093",
+		"lat": "59.3592167",
+		"number": "13",
+		"street": "Rakvere tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.8683805",
+		"lat": "59.4495301",
+		"number": "21",
+		"street": "Tehase tänav",
+		"city": "\"Aseri vald",
+		"district": "Aseri alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4180944",
+		"lat": "59.3542202",
+		"number": "10",
+		"street": "Säde tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.3040651",
+		"lat": "59.1027313",
+		"number": "4",
+		"street": "Metsa tänav",
+		"city": "\"Iisaku vald",
+		"district": "Iisaku alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.8649364",
+		"lat": "59.4483693",
+		"number": "8",
+		"street": "Kooli tänav",
+		"city": "\"Aseri vald",
+		"district": "Aseri alevik\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4140009",
+		"lat": "59.3589725",
+		"number": "2",
+		"street": "Veski tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4064348",
+		"lat": "59.3632242",
+		"number": "34",
+		"street": "Rahu tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4166281",
+		"lat": "59.3599479",
+		"number": "2v",
+		"street": "Koidu tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "24.5058345",
+		"lat": "58.6092819",
+		"number": "41",
+		"street": "Uus tänav",
+		"city": "\"Halinga vald",
+		"district": "Pärnu-Jaagupi alev\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "24.5091693",
+		"lat": "58.610251",
+		"number": "14",
+		"street": "Soo tänav",
+		"city": "\"Halinga vald",
+		"district": "Pärnu-Jaagupi alev\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "24.7863913",
+		"lat": "58.5829312",
+		"number": "5",
+		"street": "Jaama tänav",
+		"city": "\"Tootsi vald",
+		"district": "Tootsi alev\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "24.7857362",
+		"lat": "58.5836154",
+		"number": "1a",
+		"street": "Kooli tänav",
+		"city": "\"Tootsi vald",
+		"district": "Tootsi alev\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "24.509588",
+		"lat": "58.6134579",
+		"number": "63",
+		"street": "Uus tänav",
+		"city": "\"Halinga vald",
+		"district": "Pärnu-Jaagupi alev\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "27.4248694",
+		"lat": "59.3590896",
+		"number": "28",
+		"street": "Narva maantee",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2952753",
+		"lat": "59.4014538",
+		"number": "9a",
+		"street": "Uus tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4198738",
+		"lat": "59.359231",
+		"number": "13",
+		"street": "Narva maantee",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2831433",
+		"lat": "59.3373003",
+		"number": "4",
+		"street": "Aruserva tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Sompa linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2788115",
+		"lat": "59.4045941",
+		"number": "23",
+		"street": "Olevi tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.420547",
+		"lat": "59.359583",
+		"number": "2",
+		"street": "Oru tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2851731",
+		"lat": "59.3385454",
+		"number": "5",
+		"street": "Tuule tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Sompa linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.277517",
+		"lat": "59.4042212",
+		"number": "21",
+		"street": "Olevi tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4256829",
+		"lat": "59.3611852",
+		"number": "10",
+		"street": "Põllu tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.284811",
+		"lat": "59.3985073",
+		"number": "57",
+		"street": "Järveküla tee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4180386",
+		"lat": "59.3476407",
+		"number": "22",
+		"street": "Puru tee",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.281785",
+		"lat": "59.3999668",
+		"number": "21",
+		"street": "Keskallee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.411494",
+		"lat": "59.3492968",
+		"number": "19",
+		"street": "Kaare tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2488047",
+		"lat": "59.3972911",
+		"number": "6a",
+		"street": "Tehase tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.411494",
+		"lat": "59.3492968",
+		"number": "19",
+		"street": "Kaare tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2836979",
+		"lat": "59.401723",
+		"number": "16",
+		"street": "Keskallee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4240721",
+		"lat": "59.3589632",
+		"number": "26",
+		"street": "Narva maantee",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.297778",
+		"lat": "59.3389681",
+		"number": "5",
+		"street": "Kanarbiku tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Sompa linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4173363",
+		"lat": "59.3531928",
+		"number": "2",
+		"street": "Hariduse tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4137504",
+		"lat": "59.348671",
+		"number": "14",
+		"street": "Hariduse tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2851122",
+		"lat": "59.3378319",
+		"number": "10",
+		"street": "Aruserva tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Sompa linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4173363",
+		"lat": "59.3531928",
+		"number": "2",
+		"street": "Hariduse tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.3951743",
+		"lat": "59.3586965",
+		"number": "24a",
+		"street": "Kivi tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.3427058",
+		"lat": "59.4014203",
+		"number": "12",
+		"street": "Paate tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Kukruse linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4181043",
+		"lat": "59.3480576",
+		"number": "20",
+		"street": "Puru tee",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2771985",
+		"lat": "59.3991634",
+		"number": "9",
+		"street": "Torujõe tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4149434",
+		"lat": "59.3472293",
+		"number": "31",
+		"street": "Kaare tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2917857",
+		"lat": "59.4000061",
+		"number": "3",
+		"street": "Uus tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.412613",
+		"lat": "59.3477114",
+		"number": "29",
+		"street": "Kaare tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2880412",
+		"lat": "59.4020391",
+		"number": "7",
+		"street": "Keskallee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4218",
+		"lat": "59.3593175",
+		"number": "17",
+		"street": "Narva maantee",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2880873",
+		"lat": "59.3993589",
+		"number": "54",
+		"street": "Järveküla tee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4383539",
+		"lat": "59.361087",
+		"number": "80",
+		"street": "Narva maantee",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.287159",
+		"lat": "59.3988491",
+		"number": "52",
+		"street": "Järveküla tee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4154629",
+		"lat": "59.3476703",
+		"number": "9",
+		"street": "Hariduse tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4147414",
+		"lat": "59.363448",
+		"number": "42",
+		"street": "Jaama tänav",
+		"city": "\"Jõhvi vald",
+		"district": "Jõhvi linn\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2793012",
+		"lat": "59.3982501",
+		"number": "2",
+		"street": "Tuuslari tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "25.0360125",
+		"lat": "58.6472221",
+		"number": "2",
+		"street": "Jaama tänav",
+		"city": "\"Vändra vald (alev)",
+		"district": "Vändra alev\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "25.0334722",
+		"lat": "58.6523935",
+		"number": "19",
+		"street": "Pärnu-Paide maantee",
+		"city": "\"Vändra vald (alev)",
+		"district": "Vändra alev\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "25.0314626",
+		"lat": "58.6518731",
+		"number": "13",
+		"street": "Pärnu-Paide maantee",
+		"city": "\"Vändra vald (alev)",
+		"district": "Vändra alev\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "25.0323855",
+		"lat": "58.6542678",
+		"number": "3",
+		"street": "Pilve tänav",
+		"city": "\"Vändra vald (alev)",
+		"district": "Vändra alev\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "24.9462335",
+		"lat": "58.1480364",
+		"number": "25",
+		"street": "Pärnu tänav",
+		"city": "\"Saarde vald",
+		"district": "Kilingi-Nõmme linn\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "25.0505339",
+		"lat": "58.6558085",
+		"number": "93",
+		"street": "Vana tänav",
+		"city": "\"Vändra vald (alev)",
+		"district": "Vändra alev\"",
+		"postcode": "Pärnu maakond"
+	},
+	{
+		"lon": "27.2858672",
+		"lat": "59.3990693",
+		"number": "5",
+		"street": "Pisuhänna tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2866118",
+		"lat": "59.4047942",
+		"number": "35",
+		"street": "Pärna tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.280573",
+		"lat": "59.4037197",
+		"number": "23",
+		"street": "Pärna tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2841407",
+		"lat": "59.4041032",
+		"number": "21",
+		"street": "Kalevi tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2782468",
+		"lat": "59.40624",
+		"number": "18a",
+		"street": "Vahtra tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2782468",
+		"lat": "59.40624",
+		"number": "18a",
+		"street": "Vahtra tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2861096",
+		"lat": "59.4052452",
+		"number": "37",
+		"street": "Pärna tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2822799",
+		"lat": "59.4049066",
+		"number": "26",
+		"street": "Olevi tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.8696291",
+		"lat": "58.3003736",
+		"number": "3",
+		"street": "Männi tänav",
+		"city": "\"Haaslava vald",
+		"district": "Roiu alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "26.3083135",
+		"lat": "58.3342274",
+		"number": "14",
+		"street": "Nooruse tänav",
+		"city": "\"Puhja vald",
+		"district": "Puhja alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "26.3096801",
+		"lat": "58.3347763",
+		"number": "8",
+		"street": "Nooruse tänav",
+		"city": "\"Puhja vald",
+		"district": "Puhja alevik\"",
+		"postcode": "Tartu maakond"
+	},
+	{
+		"lon": "27.288253",
+		"lat": "59.4069334",
+		"number": "34",
+		"street": "Olevi tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2804084",
+		"lat": "59.4068711",
+		"number": "35",
+		"street": "Kalevi tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2921524",
+		"lat": "59.4072625",
+		"number": "7",
+		"street": "Mõisa tee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4189132",
+		"lat": "59.3334835",
+		"number": "12",
+		"street": "Estonia puiestee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4144791",
+		"lat": "59.3198908",
+		"number": "13",
+		"street": "Kiige tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2832119",
+		"lat": "59.4079036",
+		"number": "28",
+		"street": "Kalevi tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4193106",
+		"lat": "59.3330591",
+		"number": "13",
+		"street": "Estonia puiestee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4202224",
+		"lat": "59.3205027",
+		"number": "22",
+		"street": "Altserva tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2841377",
+		"lat": "59.4090241",
+		"number": "11",
+		"street": "Põhja allee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2903877",
+		"lat": "59.4069937",
+		"number": "36",
+		"street": "Olevi tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4089766",
+		"lat": "59.3265129",
+		"number": "3",
+		"street": "Sõpruse tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4227642",
+		"lat": "59.3308237",
+		"number": "25",
+		"street": "Estonia puiestee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2798571",
+		"lat": "59.4060247",
+		"number": "9",
+		"street": "Endla tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.5722541",
+		"lat": "59.3719175",
+		"number": "7",
+		"street": "Virmalise tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Oru linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4202445",
+		"lat": "59.3317131",
+		"number": "17",
+		"street": "Estonia puiestee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2805058",
+		"lat": "59.4062175",
+		"number": "10",
+		"street": "Endla tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.5701771",
+		"lat": "59.3720964",
+		"number": "5",
+		"street": "Virmalise tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Oru linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4232531",
+		"lat": "59.3314368",
+		"number": "22",
+		"street": "Estonia puiestee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2809661",
+		"lat": "59.4089026",
+		"number": "36",
+		"street": "Kalevi tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2959406",
+		"lat": "59.394852",
+		"number": "19",
+		"street": "Outokumpu tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2925213",
+		"lat": "59.4069339",
+		"number": "5",
+		"street": "Mõisa tee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4170388",
+		"lat": "59.3241767",
+		"number": "35",
+		"street": "Jaaniku tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2855414",
+		"lat": "59.4074794",
+		"number": "6",
+		"street": "Põhja allee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2922107",
+		"lat": "59.4062239",
+		"number": "8",
+		"street": "Mõisa tee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4076465",
+		"lat": "59.3265937",
+		"number": "8",
+		"street": "Sõpruse tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4239172",
+		"lat": "59.3300738",
+		"number": "7",
+		"street": "Toome puiestee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2986002",
+		"lat": "59.3977334",
+		"number": "5",
+		"street": "Sinivoore tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4258682",
+		"lat": "59.3253426",
+		"number": "7",
+		"street": "Maleva tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.285388",
+		"lat": "59.4090552",
+		"number": "15",
+		"street": "Põhja allee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2961421",
+		"lat": "59.3960278",
+		"number": "15",
+		"street": "Outokumpu tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.5698564",
+		"lat": "59.3713929",
+		"number": "4",
+		"street": "Virmalise tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Oru linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2868518",
+		"lat": "59.4085361",
+		"number": "12",
+		"street": "Põhja allee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4174745",
+		"lat": "59.3263895",
+		"number": "1",
+		"street": "Lehola tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4246115",
+		"lat": "59.3276671",
+		"number": "6",
+		"street": "Maleva tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2977597",
+		"lat": "59.3993563",
+		"number": "3",
+		"street": "Sinivoore tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4085378",
+		"lat": "59.3246511",
+		"number": "14a",
+		"street": "Sõpruse tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4260745",
+		"lat": "59.3286883",
+		"number": "18",
+		"street": "Toome puiestee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2949022",
+		"lat": "59.3977965",
+		"number": "7",
+		"street": "Outokumpu tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.407136",
+		"lat": "59.3256482",
+		"number": "10a",
+		"street": "Sõpruse tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4221931",
+		"lat": "59.3299014",
+		"number": "29",
+		"street": "Estonia puiestee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2785901",
+		"lat": "59.4054391",
+		"number": "6",
+		"street": "Endla tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2819715",
+		"lat": "59.4085061",
+		"number": "34",
+		"street": "Kalevi tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.423756",
+		"lat": "59.3283873",
+		"number": "10",
+		"street": "Maleva tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.407836",
+		"lat": "59.3251484",
+		"number": "12a",
+		"street": "Sõpruse tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.4254554",
+		"lat": "59.3293782",
+		"number": "20",
+		"street": "Toome puiestee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Ahtme linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2984684",
+		"lat": "59.3955399",
+		"number": "11",
+		"street": "Sinivoore tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.572887",
+		"lat": "59.3718637",
+		"number": "9",
+		"street": "Virmalise tänav",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Oru linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "27.2859361",
+		"lat": "59.4094059",
+		"number": "17",
+		"street": "Põhja allee",
+		"city": "\"Kohtla-Järve linn",
+		"district": "Järve linnaosa\"",
+		"postcode": "Ida-Viru maakond"
+	},
+	{
+		"lon": "26.2385491",
+		"lat": "58.98885",
+		"number": "21",
+		"street": "Friedrich Robert Faehlmanni tee",
+		"city": "\"Rakke vald",
+		"district": "Rakke alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	},
+	{
+		"lon": "26.2552469",
+		"lat": "58.9824997",
+		"number": "6",
+		"street": "Staadioni tänav",
+		"city": "\"Rakke vald",
+		"district": "Rakke alevik\"",
+		"postcode": "Lääne-Viru maakond"
+	}
+]

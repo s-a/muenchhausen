@@ -1,0 +1,9002 @@
+[
+	{
+		"lon": "170.9655665",
+		"lat": "-45.1010494",
+		"number": "2D",
+		"street": "Ure Street",
+		"city": "South Hill",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.1294798",
+		"lat": "-41.3697055",
+		"number": "571",
+		"street": "Main Road Hope",
+		"city": "Hope",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.5946307",
+		"lat": "-43.5352145",
+		"number": "114B",
+		"street": "Elizabeth Street",
+		"city": "Riccarton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6378542",
+		"lat": "-36.9190667",
+		"number": "47",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7119133",
+		"lat": "-43.5000174",
+		"number": "12",
+		"street": "Thurso Place",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.3610244",
+		"lat": "-36.2189677",
+		"number": "152",
+		"street": "Rangiora Road",
+		"city": "Kaiwaka",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.3588198",
+		"lat": "-45.645477",
+		"number": "630",
+		"street": "Three O'Clock Road",
+		"city": "Mount Stoker",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5805754",
+		"lat": "-36.1037843",
+		"number": "30A",
+		"street": "Thelma Road South",
+		"city": "Mangawhai Heads",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6960391",
+		"lat": "-36.7261912",
+		"number": "205/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7087773",
+		"lat": "-36.8663027",
+		"number": "63",
+		"street": "Huia Road",
+		"city": "Point Chevalier",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.5457834",
+		"lat": "-43.5588834",
+		"number": "140",
+		"street": "Awatea Road",
+		"city": "Hornby",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6382606",
+		"lat": "-36.9168325",
+		"number": "2",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5208929",
+		"lat": "-36.2964539",
+		"number": "19",
+		"street": "Worker Road",
+		"city": "Wellsford",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6696689",
+		"lat": "-36.7712305",
+		"number": "40",
+		"street": "Roland Road",
+		"city": "Greenhithe",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5406186",
+		"lat": "-34.9722065",
+		"number": "16",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6370358",
+		"lat": "-36.9194791",
+		"number": "65",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5579081",
+		"lat": "-36.1072193",
+		"number": "2215B",
+		"street": "Cove Road",
+		"city": "Waipu",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.5443407",
+		"lat": "-43.5581126",
+		"number": "116",
+		"street": "Awatea Road",
+		"city": "Hornby",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7118818",
+		"lat": "-43.5005028",
+		"number": "6",
+		"street": "Thurso Place",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4967035",
+		"lat": "-45.8820964",
+		"number": "117",
+		"street": "Carroll Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2545975",
+		"lat": "-41.2788336",
+		"number": "81",
+		"street": "Bisley Avenue",
+		"city": "Moana",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7365782",
+		"lat": "-41.2842859",
+		"number": "272C",
+		"street": "Karori Road",
+		"city": "Karori",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.5064775",
+		"lat": "-43.2662435",
+		"number": "320",
+		"street": "Barkers Road",
+		"city": "Loburn",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6372598",
+		"lat": "-36.919664",
+		"number": "48",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6961261",
+		"lat": "-36.726089",
+		"number": "302/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7782556",
+		"lat": "-45.0078093",
+		"number": "17",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.916073",
+		"lat": "-43.901412",
+		"number": "49A",
+		"street": "Cuttance Road",
+		"city": "Haast",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7306302",
+		"lat": "-36.8806662",
+		"number": "88",
+		"street": "Taylors Road",
+		"city": "Mount Albert",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2807009",
+		"lat": "-36.1669356",
+		"number": "290",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7555069",
+		"lat": "-36.7654381",
+		"number": "124",
+		"street": "East Coast Road",
+		"city": "Milford-Silverdale",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6608781",
+		"lat": "-43.534767",
+		"number": "11A",
+		"street": "Suffolk Street",
+		"city": "Phillipstown",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5807188",
+		"lat": "-36.1055674",
+		"number": "14",
+		"street": "Thelma Road South",
+		"city": "Mangawhai Heads",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6958367",
+		"lat": "-36.7190457",
+		"number": "97",
+		"street": "Naples Way",
+		"city": "Albany Heights",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6962186",
+		"lat": "-36.7262656",
+		"number": "311/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.3640368",
+		"lat": "-45.8939801",
+		"number": "77A",
+		"street": "Chain Hills Road",
+		"city": "Chain Hills-Mosgiel",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.3670866",
+		"lat": "-43.4075979",
+		"number": "480",
+		"street": "Downs Road",
+		"city": "West Eyreton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6958481",
+		"lat": "-36.7263342",
+		"number": "G07/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7666403",
+		"lat": "-41.2918234",
+		"number": "89A",
+		"street": "Fairlie Terrace",
+		"city": "Kelburn",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6710599",
+		"lat": "-43.5253257",
+		"number": "144",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.553018",
+		"lat": "-36.1688128",
+		"number": "307",
+		"street": "Cames Road",
+		"city": "Mangawhai",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6959817",
+		"lat": "-36.7263589",
+		"number": "112/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5222845",
+		"lat": "-45.8685196",
+		"number": "132",
+		"street": "Anzac Avenue",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7771734",
+		"lat": "-45.0074596",
+		"number": "18",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7452165",
+		"lat": "-36.8479992",
+		"number": "4",
+		"street": "Margaret Street",
+		"city": "Freemans Bay",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5118805",
+		"lat": "-45.8560611",
+		"number": "178",
+		"street": "Queen Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.652898",
+		"lat": "-43.5141421",
+		"number": "59",
+		"street": "Slater Street",
+		"city": "Richmond",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2387786",
+		"lat": "-42.7878715",
+		"number": "94",
+		"street": "Cheviot Heights",
+		"city": "Cheviot",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.1181612",
+		"lat": "-45.511269",
+		"number": "6230",
+		"street": "Middlemarch-Sutton Road",
+		"city": "Middlemarch",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4047714",
+		"lat": "-45.8959156",
+		"number": "11",
+		"street": "Chadwick Street",
+		"city": "Fairfield",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6712298",
+		"lat": "-43.5253163",
+		"number": "148",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7432805",
+		"lat": "-36.9121099",
+		"number": "43",
+		"street": "Somerset Road",
+		"city": "Mount Roskill",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.6876198",
+		"lat": "-45.8059701",
+		"number": "114",
+		"street": "Otakou Golf Course Road",
+		"city": "Otakou",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6961167",
+		"lat": "-36.7260696",
+		"number": "301/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2670343",
+		"lat": "-41.3029553",
+		"number": "13",
+		"street": "Marie Place",
+		"city": "Bishopdale",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.69799",
+		"lat": "-37.2272189",
+		"number": "20",
+		"street": "McGowan Road",
+		"city": "Karioitahi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7776493",
+		"lat": "-45.0075629",
+		"number": "22",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.6856947",
+		"lat": "-44.0203804",
+		"number": "4010",
+		"street": "Haast-Jackson Bay Road",
+		"city": "Jackson Bay/Okahu-Haast",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6725421",
+		"lat": "-43.5244194",
+		"number": "723",
+		"street": "Gloucester Street",
+		"city": "Avonside-Christchurch",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5389455",
+		"lat": "-34.9691718",
+		"number": "59",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4865139",
+		"lat": "-45.8965973",
+		"number": "35A",
+		"street": "Eastbourne Street",
+		"city": "Caversham",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4872918",
+		"lat": "-45.8611125",
+		"number": "63B",
+		"street": "Shetland Street",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2541567",
+		"lat": "-41.2802223",
+		"number": "74",
+		"street": "Bisley Avenue",
+		"city": "Moana",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7449115",
+		"lat": "-45.0770491",
+		"number": "4",
+		"street": "Glengarry Court",
+		"city": "Kawarau Falls",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.0841514",
+		"lat": "-45.9257584",
+		"number": "322",
+		"street": "Waipori Falls Road",
+		"city": "Waipori Falls",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5343252",
+		"lat": "-45.902986",
+		"number": "141",
+		"street": "Tomahawk Road",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7061912",
+		"lat": "-36.8941199",
+		"number": "3/1",
+		"street": "Hendon Avenue",
+		"city": "Mount Albert",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2817795",
+		"lat": "-36.1503039",
+		"number": "58",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5107906",
+		"lat": "-45.904464",
+		"number": "68A",
+		"street": "Ascot Street",
+		"city": "Saint Kilda",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "169.9632151",
+		"lat": "-44.4896028",
+		"number": "1",
+		"street": "T A Munro Lane",
+		"city": "Omarama",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4937131",
+		"lat": "-45.896965",
+		"number": "38C",
+		"street": "Wesley Street",
+		"city": "South Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5394104",
+		"lat": "-34.9700764",
+		"number": "50",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7248923",
+		"lat": "-36.7053362",
+		"number": "929",
+		"street": "East Coast Road",
+		"city": "Milford-Silverdale",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5787368",
+		"lat": "-36.1022368",
+		"number": "46",
+		"street": "Thelma Road South",
+		"city": "Mangawhai Heads",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5391151",
+		"lat": "-34.9713599",
+		"number": "43",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "169.0422037",
+		"lat": "-43.8587474",
+		"number": "34",
+		"street": "Haast-Jackson Bay Road",
+		"city": "Jackson Bay/Okahu-Haast",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2525395",
+		"lat": "-41.278821",
+		"number": "595",
+		"street": "Rocks Road",
+		"city": "Nelson",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6560753",
+		"lat": "-36.7923133",
+		"number": "40",
+		"street": "Buckley Avenue",
+		"city": "Hobsonville",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.0550069",
+		"lat": "-41.3246973",
+		"number": "337",
+		"street": "Redwood Valley Road",
+		"city": "Redwood Valley",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4940153",
+		"lat": "-45.8968536",
+		"number": "38A",
+		"street": "Wesley Street",
+		"city": "South Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.496728",
+		"lat": "-45.8821422",
+		"number": "119",
+		"street": "Carroll Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5073552",
+		"lat": "-45.9025513",
+		"number": "5A",
+		"street": "Market Street",
+		"city": "Saint Kilda",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7508007",
+		"lat": "-36.92504",
+		"number": "744",
+		"street": "Richardson Road",
+		"city": "Mount Albert-Hillsborough",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.742225",
+		"lat": "-41.2819543",
+		"number": "17",
+		"street": "Fancourt Street",
+		"city": "Karori",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.677682",
+		"lat": "-43.5499941",
+		"number": "20",
+		"street": "Cumnor Terrace",
+		"city": "Woolston",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5402791",
+		"lat": "-34.9718669",
+		"number": "22",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5389379",
+		"lat": "-41.5541802",
+		"number": "65",
+		"street": "Church Lane",
+		"city": "Wairau Valley",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7112297",
+		"lat": "-43.4996516",
+		"number": "15",
+		"street": "Thurso Place",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7496343",
+		"lat": "-36.8707386",
+		"number": "301/21-306/21",
+		"street": "Tawari Street",
+		"city": "Mount Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6609077",
+		"lat": "-43.5346297",
+		"number": "15A",
+		"street": "Suffolk Street",
+		"city": "Phillipstown",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4976567",
+		"lat": "-45.8843061",
+		"number": "658",
+		"street": "Princes Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2775339",
+		"lat": "-36.169187",
+		"number": "330",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5148268",
+		"lat": "-35.587531",
+		"number": "6696",
+		"street": "State Highway 12",
+		"city": "Omapere-Dargaville",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6889254",
+		"lat": "-37.2257001",
+		"number": "109",
+		"street": "Ridgley Road",
+		"city": "Karioitahi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.0955956",
+		"lat": "-45.9358806",
+		"number": "122",
+		"street": "Waipori Falls Road",
+		"city": "Waipori Falls",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.712521",
+		"lat": "-36.7099239",
+		"number": "108",
+		"street": "Fairview Avenue",
+		"city": "Fairview Heights",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6559748",
+		"lat": "-36.792327",
+		"number": "38",
+		"street": "Buckley Avenue",
+		"city": "Hobsonville",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.3931384",
+		"lat": "-45.8739086",
+		"number": "6",
+		"street": "Heasley Lane",
+		"city": "Wingatui",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5135638",
+		"lat": "-45.9040306",
+		"number": "2/63",
+		"street": "Royal Crescent",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.51869",
+		"lat": "-35.5891036",
+		"number": "6632",
+		"street": "State Highway 12",
+		"city": "Omapere-Dargaville",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.0642944",
+		"lat": "-41.2967509",
+		"number": "658",
+		"street": "Moutere Highway",
+		"city": "Appleby-Lower Moutere",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5809248",
+		"lat": "-36.1047427",
+		"number": "18",
+		"street": "Thelma Road South",
+		"city": "Mangawhai Heads",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.1722254",
+		"lat": "-42.5115526",
+		"number": "273",
+		"street": "Coulson Road",
+		"city": "Paroa-Karoro",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.724654",
+		"lat": "-36.7046162",
+		"number": "53",
+		"street": "Kate Sheppard Avenue",
+		"city": "Torbay",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.5462662",
+		"lat": "-43.5781447",
+		"number": "53",
+		"street": "Caulfield Avenue",
+		"city": "Halswell",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5564941",
+		"lat": "-45.8001652",
+		"number": "69",
+		"street": "O'Connell Road",
+		"city": "Mount Cargill",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6192951",
+		"lat": "-42.8353637",
+		"number": "169",
+		"street": "Bishells Road",
+		"city": "The Peaks",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5091739",
+		"lat": "-45.8746229",
+		"number": "5D",
+		"street": "Anzac Avenue",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2533934",
+		"lat": "-41.2795255",
+		"number": "41",
+		"street": "Bisley Avenue",
+		"city": "Moana",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.3928682",
+		"lat": "-45.8739574",
+		"number": "8",
+		"street": "Heasley Lane",
+		"city": "Wingatui",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2862506",
+		"lat": "-36.1613261",
+		"number": "215",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.406436",
+		"lat": "-45.9019709",
+		"number": "31",
+		"street": "Awa Toru Drive",
+		"city": "Fairfield",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5159829",
+		"lat": "-45.8690722",
+		"number": "12E",
+		"street": "Forth Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.197623",
+		"lat": "-35.1677723",
+		"number": "997",
+		"street": "Kaitaia-Awaroa Road",
+		"city": "Awaroa-Okahu",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.0830693",
+		"lat": "-45.925249",
+		"number": "334",
+		"street": "Waipori Falls Road",
+		"city": "Waipori Falls",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5122404",
+		"lat": "-45.8555082",
+		"number": "186",
+		"street": "Queen Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7195404",
+		"lat": "-36.7147558",
+		"number": "2/7",
+		"street": "Andersons Road",
+		"city": "Oteha",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6775586",
+		"lat": "-43.5494697",
+		"number": "14",
+		"street": "Cumnor Terrace",
+		"city": "Woolston",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6379624",
+		"lat": "-36.9168266",
+		"number": "1",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.5457395",
+		"lat": "-43.5582698",
+		"number": "91",
+		"street": "Awatea Road",
+		"city": "Hornby",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "169.4122192",
+		"lat": "-46.0787766",
+		"number": "339",
+		"street": "Ross Road",
+		"city": "Popotunoa",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5396944",
+		"lat": "-34.9722324",
+		"number": "23",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6393981",
+		"lat": "-36.9200088",
+		"number": "126",
+		"street": "Rosier Road",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.4410045",
+		"lat": "-36.8329186",
+		"number": "296B",
+		"street": "Oaia Road",
+		"city": "Muriwai",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7424842",
+		"lat": "-41.2816676",
+		"number": "20",
+		"street": "Fancourt Street",
+		"city": "Karori",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7134434",
+		"lat": "-43.4993266",
+		"number": "84",
+		"street": "Palmers Road",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4954199",
+		"lat": "-45.8979847",
+		"number": "71D",
+		"street": "Wesley Street",
+		"city": "South Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.3532441",
+		"lat": "-45.8779401",
+		"number": "20",
+		"street": "Victoria Street",
+		"city": "Mosgiel",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6374648",
+		"lat": "-36.918949",
+		"number": "45",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6521032",
+		"lat": "-43.5144518",
+		"number": "4",
+		"street": "Dudley Street",
+		"city": "Richmond",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7308908",
+		"lat": "-41.2875137",
+		"number": "10",
+		"street": "Burrows Avenue",
+		"city": "Karori",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4989194",
+		"lat": "-45.9009144",
+		"number": "188E",
+		"street": "Bay View Road",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.3639875",
+		"lat": "-36.2243205",
+		"number": "87",
+		"street": "Rangiora Road",
+		"city": "Kaiwaka",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5219693",
+		"lat": "-36.2974418",
+		"number": "20",
+		"street": "Port Albert Road",
+		"city": "Port Albert-Wellsford",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.0996424",
+		"lat": "-44.2746826",
+		"number": "6119",
+		"street": "Tekapo-Twizel Road",
+		"city": "Twizel-Lake Tekapo",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7171565",
+		"lat": "-43.5050363",
+		"number": "80",
+		"street": "Sinclair Street",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.672578",
+		"lat": "-43.525345",
+		"number": "707",
+		"street": "Gloucester Street",
+		"city": "Avonside-Christchurch",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6714778",
+		"lat": "-43.5250439",
+		"number": "171",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6608785",
+		"lat": "-43.5342733",
+		"number": "23",
+		"street": "Suffolk Street",
+		"city": "Phillipstown",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2861106",
+		"lat": "-36.1622091",
+		"number": "219",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.760244",
+		"lat": "-36.6355566",
+		"number": "5",
+		"street": "Rawhiti Road",
+		"city": "Manly",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4989748",
+		"lat": "-45.9009801",
+		"number": "188D",
+		"street": "Bay View Road",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.0726399",
+		"lat": "-41.3020206",
+		"number": "539",
+		"street": "Moutere Highway",
+		"city": "Appleby-Lower Moutere",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.760974",
+		"lat": "-36.8515589",
+		"number": "221",
+		"street": "Federal Street",
+		"city": "Auckland Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.0741226",
+		"lat": "-41.3018079",
+		"number": "523",
+		"street": "Moutere Highway",
+		"city": "Appleby-Lower Moutere",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2540425",
+		"lat": "-41.2797142",
+		"number": "67",
+		"street": "Bisley Avenue",
+		"city": "Moana",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5394496",
+		"lat": "-34.9696492",
+		"number": "55",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5129283",
+		"lat": "-45.8599761",
+		"number": "2/700",
+		"street": "Great King Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2876345",
+		"lat": "-36.1553513",
+		"number": "133",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5089378",
+		"lat": "-45.8746634",
+		"number": "5B",
+		"street": "Anzac Avenue",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4955484",
+		"lat": "-45.8979278",
+		"number": "71C",
+		"street": "Wesley Street",
+		"city": "South Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7505016",
+		"lat": "-36.9248785",
+		"number": "742A",
+		"street": "Richardson Road",
+		"city": "Mount Albert-Hillsborough",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6700683",
+		"lat": "-43.3587478",
+		"number": "87",
+		"street": "Beachvale Drive",
+		"city": "Kaiapoi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6390397",
+		"lat": "-36.9205756",
+		"number": "141",
+		"street": "Rosier Road",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6374577",
+		"lat": "-36.9196507",
+		"number": "46",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5807636",
+		"lat": "-36.1056988",
+		"number": "12",
+		"street": "Thelma Road South",
+		"city": "Mangawhai Heads",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5162277",
+		"lat": "-35.5891367",
+		"number": "6662",
+		"street": "State Highway 12",
+		"city": "Omapere-Dargaville",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4072476",
+		"lat": "-45.9020132",
+		"number": "43",
+		"street": "Awa Toru Drive",
+		"city": "Fairfield",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.539547",
+		"lat": "-34.9707151",
+		"number": "40",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6518306",
+		"lat": "-43.5141872",
+		"number": "88",
+		"street": "Hills Road",
+		"city": "Richmond-Marshland",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5364452",
+		"lat": "-45.9030355",
+		"number": "171A",
+		"street": "Tomahawk Road",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6375489",
+		"lat": "-36.9187433",
+		"number": "41",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.6946092",
+		"lat": "-45.8052445",
+		"number": "54",
+		"street": "Otakou Golf Course Road",
+		"city": "Otakou",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2519309",
+		"lat": "-41.2793284",
+		"number": "605",
+		"street": "Rocks Road",
+		"city": "Nelson",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4968458",
+		"lat": "-45.8843912",
+		"number": "13",
+		"street": "Melville Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.6887281",
+		"lat": "-45.8058007",
+		"number": "106",
+		"street": "Otakou Golf Course Road",
+		"city": "Otakou",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7115208",
+		"lat": "-43.5000296",
+		"number": "9",
+		"street": "Thurso Place",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6533431",
+		"lat": "-43.5133549",
+		"number": "80",
+		"street": "Slater Street",
+		"city": "Richmond",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7778666",
+		"lat": "-45.0079854",
+		"number": "32",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7769898",
+		"lat": "-45.0068526",
+		"number": "8",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7126255",
+		"lat": "-43.5002638",
+		"number": "10B",
+		"street": "Thurso Place",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7777798",
+		"lat": "-45.0083442",
+		"number": "36",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4872647",
+		"lat": "-45.8611357",
+		"number": "63C",
+		"street": "Shetland Street",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6959987",
+		"lat": "-36.7261085",
+		"number": "201/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.9154899",
+		"lat": "-43.9014567",
+		"number": "49B",
+		"street": "Cuttance Road",
+		"city": "Haast",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5130781",
+		"lat": "-45.8598865",
+		"number": "10/700",
+		"street": "Great King Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2667711",
+		"lat": "-41.3030837",
+		"number": "10",
+		"street": "Marie Place",
+		"city": "Bishopdale",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7494669",
+		"lat": "-36.8706999",
+		"number": "501/21-506/21",
+		"street": "Tawari Street",
+		"city": "Mount Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5118065",
+		"lat": "-45.8562038",
+		"number": "176",
+		"street": "Queen Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5092528",
+		"lat": "-45.8745633",
+		"number": "5E",
+		"street": "Anzac Avenue",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.2636249",
+		"lat": "-44.1750309",
+		"number": "43",
+		"street": "Winchester Hanging Rock Road",
+		"city": "Opihi-Winchester",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4956418",
+		"lat": "-45.8975709",
+		"number": "65B",
+		"street": "Wesley Street",
+		"city": "South Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.9722526",
+		"lat": "-45.0908722",
+		"number": "36A",
+		"street": "Exe Street",
+		"city": "Oamaru",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7500592",
+		"lat": "-36.9252808",
+		"number": "2/124",
+		"street": "Oakdale Road",
+		"city": "Mount Roskill",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.671011",
+		"lat": "-43.3589981",
+		"number": "74",
+		"street": "Beachvale Drive",
+		"city": "Kaiapoi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2853658",
+		"lat": "-36.15049",
+		"number": "65",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6958265",
+		"lat": "-36.7262862",
+		"number": "G05/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6962442",
+		"lat": "-36.7260562",
+		"number": "42",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6382016",
+		"lat": "-36.9178763",
+		"number": "22",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6708839",
+		"lat": "-43.5253131",
+		"number": "142",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5161549",
+		"lat": "-45.8691166",
+		"number": "12B",
+		"street": "Forth Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6958157",
+		"lat": "-36.7262617",
+		"number": "G04/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6024225",
+		"lat": "-43.5128431",
+		"number": "39",
+		"street": "Plynlimon Road",
+		"city": "Fendalton-Strowan",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.637901",
+		"lat": "-36.9188799",
+		"number": "43",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6961393",
+		"lat": "-36.7261063",
+		"number": "303/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6707323",
+		"lat": "-43.3590469",
+		"number": "72",
+		"street": "Beachvale Drive",
+		"city": "Kaiapoi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2544052",
+		"lat": "-41.2791225",
+		"number": "77",
+		"street": "Bisley Avenue",
+		"city": "Moana",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.69615",
+		"lat": "-36.7261257",
+		"number": "304/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5568784",
+		"lat": "-36.1066366",
+		"number": "2215A",
+		"street": "Cove Road",
+		"city": "Waipu",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.695597",
+		"lat": "-45.8051771",
+		"number": "44",
+		"street": "Otakou Golf Course Road",
+		"city": "Otakou",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.406886",
+		"lat": "-45.9019026",
+		"number": "33",
+		"street": "Awa Toru Drive",
+		"city": "Fairfield",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4872126",
+		"lat": "-45.8862906",
+		"number": "20",
+		"street": "Patrick Street",
+		"city": "The Glen",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.777427",
+		"lat": "-45.007207",
+		"number": "14",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.389617",
+		"lat": "-43.6151729",
+		"number": "10",
+		"street": "Burford Way",
+		"city": "Rolleston",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6718258",
+		"lat": "-43.3607721",
+		"number": "31",
+		"street": "Wakeman Way",
+		"city": "Kaiapoi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4960909",
+		"lat": "-45.8846502",
+		"number": "6",
+		"street": "Fernhill Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2385489",
+		"lat": "-42.7896294",
+		"number": "76",
+		"street": "Cheviot Heights",
+		"city": "Cheviot",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6725485",
+		"lat": "-43.524124",
+		"number": "731",
+		"street": "Gloucester Street",
+		"city": "Avonside-Christchurch",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.810075",
+		"lat": "-43.8695752",
+		"number": "214",
+		"street": "Office Road",
+		"city": "Fairton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7609805",
+		"lat": "-36.851301",
+		"number": "801/207-810/207",
+		"street": "Federal Street",
+		"city": "Auckland Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5401806",
+		"lat": "-34.9727153",
+		"number": "11",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5226294",
+		"lat": "-36.2972553",
+		"number": "13",
+		"street": "Port Albert Road",
+		"city": "Port Albert-Wellsford",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5393023",
+		"lat": "-34.971504",
+		"number": "39",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.3685981",
+		"lat": "-36.2248937",
+		"number": "38",
+		"street": "Rangiora Road",
+		"city": "Kaiwaka",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6514645",
+		"lat": "-43.5137045",
+		"number": "101",
+		"street": "Hills Road",
+		"city": "Richmond-Marshland",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.5562535",
+		"lat": "-43.2914297",
+		"number": "40",
+		"street": "Priors Road",
+		"city": "Fernside",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6379197",
+		"lat": "-36.9196181",
+		"number": "42",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7219588",
+		"lat": "-36.9131269",
+		"number": "9",
+		"street": "Parfitt Street",
+		"city": "Mount Roskill",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7061334",
+		"lat": "-36.8941725",
+		"number": "4/1",
+		"street": "Hendon Avenue",
+		"city": "Mount Albert",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7119797",
+		"lat": "-43.4994286",
+		"number": "20",
+		"street": "Thurso Place",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6705637",
+		"lat": "-43.5253158",
+		"number": "138",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.9716888",
+		"lat": "-45.0936027",
+		"number": "27C",
+		"street": "Usk Street",
+		"city": "Oamaru",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5396657",
+		"lat": "-34.9714027",
+		"number": "30",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.0629392",
+		"lat": "-41.3005156",
+		"number": "623",
+		"street": "Moutere Highway",
+		"city": "Appleby-Lower Moutere",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5405039",
+		"lat": "-34.9725381",
+		"number": "9",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.521905",
+		"lat": "-36.298001",
+		"number": "19",
+		"street": "Port Albert Road",
+		"city": "Port Albert-Wellsford",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "169.0347192",
+		"lat": "-43.8516457",
+		"number": "133",
+		"street": "Haast-Jackson Bay Road",
+		"city": "Jackson Bay/Okahu-Haast",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.5464398",
+		"lat": "-43.5609669",
+		"number": "160",
+		"street": "Awatea Road",
+		"city": "Hornby",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.254908",
+		"lat": "-41.2784628",
+		"number": "1",
+		"street": "Grenville Terrace",
+		"city": "Moana",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6385975",
+		"lat": "-36.9172524",
+		"number": "8",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5135234",
+		"lat": "-45.904075",
+		"number": "1/63",
+		"street": "Royal Crescent",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.2413843",
+		"lat": "-44.1725654",
+		"number": "225",
+		"street": "Winchester Hanging Rock Road",
+		"city": "Opihi-Winchester",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4967576",
+		"lat": "-45.877093",
+		"number": "49",
+		"street": "Canongate",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7245528",
+		"lat": "-36.7052082",
+		"number": "933",
+		"street": "East Coast Road",
+		"city": "Milford-Silverdale",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4956933",
+		"lat": "-45.8846578",
+		"number": "28",
+		"street": "Lees Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6720773",
+		"lat": "-43.5250388",
+		"number": "179",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.2560236",
+		"lat": "-44.1762456",
+		"number": "99",
+		"street": "Winchester Hanging Rock Road",
+		"city": "Opihi-Winchester",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.7276397",
+		"lat": "-45.7923092",
+		"number": "956",
+		"street": "Harington Point Road",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.637936",
+		"lat": "-36.9183223",
+		"number": "29",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7248989",
+		"lat": "-36.7213357",
+		"number": "12",
+		"street": "Falstone Lane",
+		"city": "Browns Bay",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5392529",
+		"lat": "-34.9718474",
+		"number": "35",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.3659766",
+		"lat": "-45.8708499",
+		"number": "3",
+		"street": "Ben Lomond Drive",
+		"city": "Mosgiel",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5068386",
+		"lat": "-45.9030749",
+		"number": "2",
+		"street": "Market Street",
+		"city": "Saint Kilda",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5806607",
+		"lat": "-36.104132",
+		"number": "30",
+		"street": "Thelma Road South",
+		"city": "Mangawhai Heads",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.6888958",
+		"lat": "-45.8057562",
+		"number": "104",
+		"street": "Otakou Golf Course Road",
+		"city": "Otakou",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5399181",
+		"lat": "-41.5557972",
+		"number": "53",
+		"street": "Church Lane",
+		"city": "Wairau Valley",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6961594",
+		"lat": "-36.7261451",
+		"number": "305/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6717991",
+		"lat": "-43.5253234",
+		"number": "156",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6957927",
+		"lat": "-36.7190741",
+		"number": "96",
+		"street": "Naples Way",
+		"city": "Albany Heights",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.671681",
+		"lat": "-43.5250445",
+		"number": "175",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5399477",
+		"lat": "-34.9719938",
+		"number": "25",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7426061",
+		"lat": "-41.2819153",
+		"number": "16",
+		"street": "Fancourt Street",
+		"city": "Karori",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6973061",
+		"lat": "-43.4327856",
+		"number": "46",
+		"street": "Styx River Place",
+		"city": "Brooklands",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.9782302",
+		"lat": "-42.7201587",
+		"number": "115",
+		"street": "Hoffman Street",
+		"city": "Hokitika",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.2641703",
+		"lat": "-44.1745921",
+		"number": "34",
+		"street": "Winchester Hanging Rock Road",
+		"city": "Opihi-Winchester",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.6027471",
+		"lat": "-45.85422",
+		"number": "32",
+		"street": "Raynbird Street",
+		"city": "Company Bay",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7124711",
+		"lat": "-36.7100156",
+		"number": "110",
+		"street": "Fairview Avenue",
+		"city": "Fairview Heights",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7171382",
+		"lat": "-43.5051629",
+		"number": "86",
+		"street": "Sinclair Street",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7239092",
+		"lat": "-36.771648",
+		"number": "2/42A",
+		"street": "Hogans Road",
+		"city": "Glenfield",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.3616828",
+		"lat": "-36.2211664",
+		"number": "130",
+		"street": "Rangiora Road",
+		"city": "Kaiwaka",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6142206",
+		"lat": "-43.454873",
+		"number": "126",
+		"street": "Englefield Road",
+		"city": "Belfast",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2896379",
+		"lat": "-36.1554746",
+		"number": "131",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7778487",
+		"lat": "-45.0069511",
+		"number": "5",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2545074",
+		"lat": "-41.2789589",
+		"number": "79",
+		"street": "Bisley Avenue",
+		"city": "Moana",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7243857",
+		"lat": "-36.7051328",
+		"number": "935",
+		"street": "East Coast Road",
+		"city": "Milford-Silverdale",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6725476",
+		"lat": "-43.5242646",
+		"number": "725",
+		"street": "Gloucester Street",
+		"city": "Avonside-Christchurch",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.8443263",
+		"lat": "-35.1750016",
+		"number": "77",
+		"street": "Daroux Drive",
+		"city": "Waipapa",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.1972393",
+		"lat": "-35.1679722",
+		"number": "1001",
+		"street": "Kaitaia-Awaroa Road",
+		"city": "Awaroa-Okahu",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7119641",
+		"lat": "-43.4995853",
+		"number": "18",
+		"street": "Thurso Place",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.653356",
+		"lat": "-43.513192",
+		"number": "84",
+		"street": "Slater Street",
+		"city": "Richmond",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6382416",
+		"lat": "-36.9187952",
+		"number": "34",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.129896",
+		"lat": "-44.2610456",
+		"number": "11",
+		"street": "Afghan Street",
+		"city": "Pleasant Point",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4953544",
+		"lat": "-45.8759288",
+		"number": "2/25",
+		"street": "Duncan Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7424237",
+		"lat": "-41.2823464",
+		"number": "11",
+		"street": "Fancourt Street",
+		"city": "Karori",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5021813",
+		"lat": "-45.8699197",
+		"number": "78C",
+		"street": "London Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6390561",
+		"lat": "-36.9203045",
+		"number": "137",
+		"street": "Rosier Road",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.1826721",
+		"lat": "-42.4864952",
+		"number": "10",
+		"street": "Arum Road",
+		"city": "Karoro",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.3601159",
+		"lat": "-43.4079762",
+		"number": "492",
+		"street": "Downs Road",
+		"city": "West Eyreton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.2488348",
+		"lat": "-43.8105149",
+		"number": "27",
+		"street": "Sarsfield Street",
+		"city": "Southbridge",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.661218",
+		"lat": "-36.9398564",
+		"number": "80",
+		"street": "Park Road",
+		"city": "Titirangi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5407379",
+		"lat": "-34.9723213",
+		"number": "14",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2673772",
+		"lat": "-41.3032386",
+		"number": "17",
+		"street": "Marie Place",
+		"city": "Bishopdale",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6699102",
+		"lat": "-43.3590892",
+		"number": "66",
+		"street": "Beachvale Drive",
+		"city": "Kaiapoi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5356277",
+		"lat": "-45.9023291",
+		"number": "149",
+		"street": "Tomahawk Road",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4179019",
+		"lat": "-45.9065853",
+		"number": "20",
+		"street": "Taylor Street",
+		"city": "Green Island",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.6974271",
+		"lat": "-45.8048845",
+		"number": "32",
+		"street": "Otakou Golf Course Road",
+		"city": "Otakou",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.0713121",
+		"lat": "-41.3017021",
+		"number": "530",
+		"street": "Moutere Highway",
+		"city": "Appleby-Lower Moutere",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7115205",
+		"lat": "-43.5003055",
+		"number": "4",
+		"street": "Thurso Place",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6382444",
+		"lat": "-36.9204222",
+		"number": "135C",
+		"street": "Rosier Road",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6704604",
+		"lat": "-43.359066",
+		"number": "70",
+		"street": "Beachvale Drive",
+		"city": "Kaiapoi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5161704",
+		"lat": "-45.863349",
+		"number": "378",
+		"street": "Leith Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5048024",
+		"lat": "-45.8717211",
+		"number": "197",
+		"street": "George Street",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7549674",
+		"lat": "-36.91166",
+		"number": "35A",
+		"street": "Hayr Road",
+		"city": "Three Kings",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5646311",
+		"lat": "-36.6291815",
+		"number": "64",
+		"street": "Sharon Road",
+		"city": "Waitoki",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "169.002039",
+		"lat": "-43.8627307",
+		"number": "443",
+		"street": "Haast-Jackson Bay Road",
+		"city": "Jackson Bay/Okahu-Haast",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6375621",
+		"lat": "-36.918674",
+		"number": "39",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6923653",
+		"lat": "-37.2306532",
+		"number": "86",
+		"street": "McGowan Road",
+		"city": "Karioitahi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7775255",
+		"lat": "-45.0074202",
+		"number": "20",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5161019",
+		"lat": "-45.8691016",
+		"number": "12C",
+		"street": "Forth Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6722808",
+		"lat": "-43.5253135",
+		"number": "166",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2523729",
+		"lat": "-41.2789579",
+		"number": "597",
+		"street": "Rocks Road",
+		"city": "Nelson",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5393372",
+		"lat": "-34.9719453",
+		"number": "33",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6133025",
+		"lat": "-43.4538963",
+		"number": "24",
+		"street": "Springwater Avenue",
+		"city": "Northwood",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7424832",
+		"lat": "-41.2824644",
+		"number": "9",
+		"street": "Fancourt Street",
+		"city": "Karori",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2547054",
+		"lat": "-41.2786594",
+		"number": "85",
+		"street": "Bisley Avenue",
+		"city": "Moana",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2699155",
+		"lat": "-36.176012",
+		"number": "435",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.5197448",
+		"lat": "-41.7565227",
+		"number": "727",
+		"street": "Cape Foulwind Road",
+		"city": "Carters Beach",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4965425",
+		"lat": "-45.8845146",
+		"number": "2",
+		"street": "Fernhill Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5640698",
+		"lat": "-36.6305702",
+		"number": "68A",
+		"street": "Sharon Road",
+		"city": "Waitoki",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6960917",
+		"lat": "-36.7263036",
+		"number": "211/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5075274",
+		"lat": "-45.90248",
+		"number": "7",
+		"street": "Market Street",
+		"city": "Saint Kilda",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7777878",
+		"lat": "-45.0081445",
+		"number": "34",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5389249",
+		"lat": "-34.9693123",
+		"number": "58",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6529084",
+		"lat": "-43.5139941",
+		"number": "63",
+		"street": "Slater Street",
+		"city": "Richmond",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4835376",
+		"lat": "-45.877879",
+		"number": "6",
+		"street": "Belleknowes Terrace",
+		"city": "Belleknowes",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6564685",
+		"lat": "-36.7922611",
+		"number": "50",
+		"street": "Buckley Avenue",
+		"city": "Hobsonville",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7425444",
+		"lat": "-41.2817805",
+		"number": "18",
+		"street": "Fancourt Street",
+		"city": "Karori",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.1038194",
+		"lat": "-45.7818461",
+		"number": "3349",
+		"street": "George King Memorial Drive",
+		"city": "Lee Stream-Outram Glen",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5216509",
+		"lat": "-45.8686795",
+		"number": "130",
+		"street": "Anzac Avenue",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.677592",
+		"lat": "-43.5496479",
+		"number": "16",
+		"street": "Cumnor Terrace",
+		"city": "Woolston",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7540224",
+		"lat": "-36.9119764",
+		"number": "22",
+		"street": "Clinker Street",
+		"city": "Three Kings",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5122713",
+		"lat": "-45.856107",
+		"number": "173",
+		"street": "Queen Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6382432",
+		"lat": "-36.9181743",
+		"number": "26",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.0654988",
+		"lat": "-41.3010046",
+		"number": "597",
+		"street": "Moutere Highway",
+		"city": "Appleby-Lower Moutere",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.5232635",
+		"lat": "-41.7552778",
+		"number": "699",
+		"street": "Cape Foulwind Road",
+		"city": "Carters Beach",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7053997",
+		"lat": "-37.1351197",
+		"number": "28A",
+		"street": "Torkar Road",
+		"city": "Clarks Beach",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.2425734",
+		"lat": "-44.1732794",
+		"number": "219",
+		"street": "Winchester Hanging Rock Road",
+		"city": "Opihi-Winchester",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7119176",
+		"lat": "-43.5001742",
+		"number": "10",
+		"street": "Thurso Place",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5071753",
+		"lat": "-45.9023376",
+		"number": "54B",
+		"street": "Grove Street",
+		"city": "Saint Kilda",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.0550578",
+		"lat": "-41.3234074",
+		"number": "339",
+		"street": "Redwood Valley Road",
+		"city": "Redwood Valley",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5390414",
+		"lat": "-34.9689306",
+		"number": "63",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.6891407",
+		"lat": "-45.8057862",
+		"number": "102",
+		"street": "Otakou Golf Course Road",
+		"city": "Otakou",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.1292063",
+		"lat": "-44.2608418",
+		"number": "5",
+		"street": "Afghan Street",
+		"city": "Pleasant Point",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6935152",
+		"lat": "-37.2300587",
+		"number": "72",
+		"street": "McGowan Road",
+		"city": "Karioitahi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.9477542",
+		"lat": "-39.1157526",
+		"number": "1",
+		"street": "Tasman Parade",
+		"city": "Oakura",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.3106535",
+		"lat": "-45.8419899",
+		"number": "45",
+		"street": "Tara Hills Drive",
+		"city": "Wyllies Crossing-Mosgiel",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7240884",
+		"lat": "-36.771874",
+		"number": "1/42",
+		"street": "Hogans Road",
+		"city": "Glenfield",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6608698",
+		"lat": "-43.5341525",
+		"number": "25",
+		"street": "Suffolk Street",
+		"city": "Phillipstown",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6725454",
+		"lat": "-43.5245678",
+		"number": "721",
+		"street": "Gloucester Street",
+		"city": "Avonside-Christchurch",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.0889211",
+		"lat": "-45.9265934",
+		"number": "281",
+		"street": "Waipori Falls Road",
+		"city": "Waipori Falls",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2535678",
+		"lat": "-41.2790632",
+		"number": "37",
+		"street": "Bisley Avenue",
+		"city": "Moana",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7101575",
+		"lat": "-36.7694952",
+		"number": "1",
+		"street": "Rahotu Way",
+		"city": "Bayview",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6958858",
+		"lat": "-36.7261494",
+		"number": "101/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6775302",
+		"lat": "-43.5492838",
+		"number": "12",
+		"street": "Cumnor Terrace",
+		"city": "Woolston",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7788111",
+		"lat": "-45.0083824",
+		"number": "25",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "169.1372307",
+		"lat": "-44.6953199",
+		"number": "1",
+		"street": "Bullock Creek Lane",
+		"city": "Wanaka",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2672637",
+		"lat": "-41.3031008",
+		"number": "15",
+		"street": "Marie Place",
+		"city": "Bishopdale",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6606542",
+		"lat": "-43.5347644",
+		"number": "11C",
+		"street": "Suffolk Street",
+		"city": "Phillipstown",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6705778",
+		"lat": "-43.3587096",
+		"number": "91",
+		"street": "Beachvale Drive",
+		"city": "Kaiapoi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5105723",
+		"lat": "-45.9044613",
+		"number": "68B",
+		"street": "Ascot Street",
+		"city": "Saint Kilda",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6956338",
+		"lat": "-37.2286687",
+		"number": "42",
+		"street": "McGowan Road",
+		"city": "Karioitahi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5160431",
+		"lat": "-45.8632905",
+		"number": "378D",
+		"street": "Leith Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.776163",
+		"lat": "-45.0070535",
+		"number": "8",
+		"street": "Shipton Court",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.3895253",
+		"lat": "-43.6154534",
+		"number": "17",
+		"street": "Farnborough Way",
+		"city": "Rolleston",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7423447",
+		"lat": "-41.2814139",
+		"number": "24",
+		"street": "Fancourt Street",
+		"city": "Karori",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.497447",
+		"lat": "-45.8772067",
+		"number": "23",
+		"street": "Clark Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5123957",
+		"lat": "-45.8559023",
+		"number": "177",
+		"street": "Queen Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6718988",
+		"lat": "-43.3606451",
+		"number": "27",
+		"street": "Wakeman Way",
+		"city": "Kaiapoi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5173642",
+		"lat": "-45.8545226",
+		"number": "30",
+		"street": "Bank Street",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6725783",
+		"lat": "-43.5253111",
+		"number": "709",
+		"street": "Gloucester Street",
+		"city": "Avonside-Christchurch",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.9723363",
+		"lat": "-45.0907396",
+		"number": "36B",
+		"street": "Exe Street",
+		"city": "Oamaru",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.556256",
+		"lat": "-45.80676",
+		"number": "211",
+		"street": "O'Connell Road",
+		"city": "Mount Cargill",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.1827546",
+		"lat": "-42.4863091",
+		"number": "8",
+		"street": "Arum Road",
+		"city": "Karoro",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7070695",
+		"lat": "-36.6253101",
+		"number": "99",
+		"street": "Messenger Road",
+		"city": "Stillwater",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2670298",
+		"lat": "-41.3033119",
+		"number": "12",
+		"street": "Marie Place",
+		"city": "Bishopdale",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.9783068",
+		"lat": "-42.7200817",
+		"number": "117",
+		"street": "Hoffman Street",
+		"city": "Hokitika",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7239999",
+		"lat": "-36.7717036",
+		"number": "1/42A",
+		"street": "Hogans Road",
+		"city": "Glenfield",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.670647",
+		"lat": "-43.3593647",
+		"number": "11",
+		"street": "Wakeman Way",
+		"city": "Kaiapoi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.7314688",
+		"lat": "-43.9156005",
+		"number": "15",
+		"street": "Wisteria Place",
+		"city": "Tinwald",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6533517",
+		"lat": "-43.5134951",
+		"number": "78",
+		"street": "Slater Street",
+		"city": "Richmond",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7782046",
+		"lat": "-45.0085934",
+		"number": "40",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5594569",
+		"lat": "-45.8066536",
+		"number": "227",
+		"street": "O'Connell Road",
+		"city": "Mount Cargill",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6725412",
+		"lat": "-43.5250543",
+		"number": "187",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5344361",
+		"lat": "-45.9013281",
+		"number": "100",
+		"street": "Tomahawk Road",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.6860618",
+		"lat": "-45.8065359",
+		"number": "121",
+		"street": "Otakou Golf Course Road",
+		"city": "Otakou",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5121245",
+		"lat": "-45.8556987",
+		"number": "184",
+		"street": "Queen Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2867659",
+		"lat": "-36.155555",
+		"number": "142",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4835478",
+		"lat": "-45.8837221",
+		"number": "17",
+		"street": "Aitken Place",
+		"city": "Mornington",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5813657",
+		"lat": "-36.1057241",
+		"number": "10",
+		"street": "Thelma Road South",
+		"city": "Mangawhai Heads",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6381501",
+		"lat": "-36.9190941",
+		"number": "1/38-3/38",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6518508",
+		"lat": "-43.5140095",
+		"number": "94",
+		"street": "Hills Road",
+		"city": "Richmond-Marshland",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6377951",
+		"lat": "-36.9192176",
+		"number": "49",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.1720474",
+		"lat": "-42.511804",
+		"number": "277",
+		"street": "Coulson Road",
+		"city": "Paroa-Karoro",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5798762",
+		"lat": "-36.1031792",
+		"number": "34",
+		"street": "Thelma Road South",
+		"city": "Mangawhai Heads",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5070193",
+		"lat": "-45.9023989",
+		"number": "54C",
+		"street": "Grove Street",
+		"city": "Saint Kilda",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6890351",
+		"lat": "-36.5772752",
+		"number": "6C",
+		"street": "Forest Glen",
+		"city": "Orewa",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6375114",
+		"lat": "-36.9170681",
+		"number": "5",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6135042",
+		"lat": "-36.8973686",
+		"number": "253",
+		"street": "Henderson Valley Road",
+		"city": "Henderson",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7779278",
+		"lat": "-45.0071541",
+		"number": "7",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6701819",
+		"lat": "-43.359085",
+		"number": "68",
+		"street": "Beachvale Drive",
+		"city": "Kaiapoi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.252702",
+		"lat": "-41.2786857",
+		"number": "593",
+		"street": "Rocks Road",
+		"city": "Nelson",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.512856",
+		"lat": "-45.8599561",
+		"number": "3/700",
+		"street": "Great King Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6380933",
+		"lat": "-36.9192953",
+		"number": "40",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.8826704",
+		"lat": "-43.9138505",
+		"number": "1542",
+		"street": "Haast-Jackson Bay Road",
+		"city": "Jackson Bay/Okahu-Haast",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "169.0045331",
+		"lat": "-43.8613367",
+		"number": "417",
+		"street": "Haast-Jackson Bay Road",
+		"city": "Jackson Bay/Okahu-Haast",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7119948",
+		"lat": "-43.4991088",
+		"number": "24",
+		"street": "Thurso Place",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7756312",
+		"lat": "-45.0068885",
+		"number": "3",
+		"street": "Shipton Court",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5394986",
+		"lat": "-34.9712698",
+		"number": "34",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6612263",
+		"lat": "-43.5342795",
+		"number": "24",
+		"street": "Suffolk Street",
+		"city": "Phillipstown",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6386281",
+		"lat": "-36.9178172",
+		"number": "20",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6723816",
+		"lat": "-43.5250563",
+		"number": "183",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7600435",
+		"lat": "-36.9168875",
+		"number": "104B",
+		"street": "Hillsborough Road",
+		"city": "Lynfield-Three Kings",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.6851152",
+		"lat": "-45.8074707",
+		"number": "131",
+		"street": "Otakou Golf Course Road",
+		"city": "Otakou",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.4926972",
+		"lat": "-41.8615422",
+		"number": "134",
+		"street": "Birds Ferry Road",
+		"city": "Virgin Flat",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6993954",
+		"lat": "-37.2264115",
+		"number": "10",
+		"street": "McGowan Road",
+		"city": "Karioitahi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.3527459",
+		"lat": "-45.8726963",
+		"number": "36A",
+		"street": "Factory Road",
+		"city": "Mosgiel",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6703828",
+		"lat": "-43.5253159",
+		"number": "136",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5406295",
+		"lat": "-34.9726587",
+		"number": "7",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.9700723",
+		"lat": "-45.0770057",
+		"number": "110",
+		"street": "Reservoir Road",
+		"city": "Oamaru",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2828368",
+		"lat": "-36.1659101",
+		"number": "277",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.6008459",
+		"lat": "-41.8947816",
+		"number": "5948",
+		"street": "Awatere Valley Road",
+		"city": "Awatere Valley",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5178471",
+		"lat": "-45.8542355",
+		"number": "17",
+		"street": "Gladstone Road",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.9783611",
+		"lat": "-42.7207775",
+		"number": "224",
+		"street": "Hampden Street",
+		"city": "Hokitika",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2712364",
+		"lat": "-36.1735635",
+		"number": "405",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.3699687",
+		"lat": "-36.2251637",
+		"number": "30",
+		"street": "Rangiora Road",
+		"city": "Kaiwaka",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7118981",
+		"lat": "-43.5003887",
+		"number": "8",
+		"street": "Thurso Place",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2684581",
+		"lat": "-42.8116214",
+		"number": "18",
+		"street": "Levin Street",
+		"city": "Cheviot",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4063971",
+		"lat": "-45.9017081",
+		"number": "29",
+		"street": "Awa Toru Drive",
+		"city": "Fairfield",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6721656",
+		"lat": "-43.5253131",
+		"number": "164",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5396013",
+		"lat": "-34.9701809",
+		"number": "49A",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.508237",
+		"lat": "-45.8622704",
+		"number": "80A",
+		"street": "Queen Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6959723",
+		"lat": "-36.7263374",
+		"number": "111/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2793208",
+		"lat": "-36.1691786",
+		"number": "321",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6522022",
+		"lat": "-43.5141964",
+		"number": "5",
+		"street": "Dudley Street",
+		"city": "Richmond",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5051093",
+		"lat": "-45.8710727",
+		"number": "1A/211",
+		"street": "George Street",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.9701079",
+		"lat": "-45.0815584",
+		"number": "43",
+		"street": "Reservoir Road",
+		"city": "Oamaru",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.9784132",
+		"lat": "-42.7204323",
+		"number": "114",
+		"street": "Hoffman Street",
+		"city": "Hokitika",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.5948032",
+		"lat": "-43.5354584",
+		"number": "112",
+		"street": "Elizabeth Street",
+		"city": "Riccarton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.0876259",
+		"lat": "-45.9264286",
+		"number": "292",
+		"street": "Waipori Falls Road",
+		"city": "Waipori Falls",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.724958",
+		"lat": "-36.7045188",
+		"number": "74",
+		"street": "Kate Sheppard Avenue",
+		"city": "Torbay",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6961023",
+		"lat": "-36.726322",
+		"number": "212/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6959266",
+		"lat": "-36.7262476",
+		"number": "106/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4991384",
+		"lat": "-45.9011672",
+		"number": "188A",
+		"street": "Bay View Road",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.5283101",
+		"lat": "-41.7552002",
+		"number": "4",
+		"street": "Bulls Road",
+		"city": "Cape Foulwind",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4965224",
+		"lat": "-45.8833039",
+		"number": "34",
+		"street": "Melville Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6375126",
+		"lat": "-36.9179682",
+		"number": "23",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7364452",
+		"lat": "-41.2843282",
+		"number": "272B",
+		"street": "Karori Road",
+		"city": "Karori",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5393669",
+		"lat": "-34.9711675",
+		"number": "36",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.3558153",
+		"lat": "-35.7238108",
+		"number": "90",
+		"street": "Konini Street",
+		"city": "Parahaki",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6907194",
+		"lat": "-37.2309733",
+		"number": "104",
+		"street": "McGowan Road",
+		"city": "Karioitahi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7465883",
+		"lat": "-36.8611146",
+		"number": "29",
+		"street": "Sussex Street",
+		"city": "Grey Lynn",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.3897638",
+		"lat": "-43.6155369",
+		"number": "19",
+		"street": "Farnborough Way",
+		"city": "Rolleston",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5398487",
+		"lat": "-34.9699152",
+		"number": "53",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6947333",
+		"lat": "-37.2293621",
+		"number": "68",
+		"street": "McGowan Road",
+		"city": "Karioitahi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.3895647",
+		"lat": "-43.6156228",
+		"number": "15",
+		"street": "Farnborough Way",
+		"city": "Rolleston",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7601697",
+		"lat": "-36.9169103",
+		"number": "104A",
+		"street": "Hillsborough Road",
+		"city": "Lynfield-Three Kings",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5020175",
+		"lat": "-45.8696602",
+		"number": "78A",
+		"street": "London Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.775379",
+		"lat": "-45.006803",
+		"number": "1",
+		"street": "Shipton Court",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6486718",
+		"lat": "-36.8264395",
+		"number": "18A",
+		"street": "Rewarewa Road",
+		"city": "Te Atatu Peninsula",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4941807",
+		"lat": "-45.8787002",
+		"number": "3",
+		"street": "Serpentine Avenue",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7506916",
+		"lat": "-36.9249531",
+		"number": "742C",
+		"street": "Richardson Road",
+		"city": "Mount Albert-Hillsborough",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7777787",
+		"lat": "-45.0077202",
+		"number": "24",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6960068",
+		"lat": "-36.7261289",
+		"number": "202/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.2636831",
+		"lat": "-44.1652033",
+		"number": "255",
+		"street": "Winchester-Geraldine Road",
+		"city": "Winchester-Geraldine",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7418022",
+		"lat": "-41.2817103",
+		"number": "25A",
+		"street": "Friend Street",
+		"city": "Karori",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5790023",
+		"lat": "-36.1025832",
+		"number": "40",
+		"street": "Thelma Road South",
+		"city": "Mangawhai Heads",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.5256751",
+		"lat": "-41.7580334",
+		"number": "62",
+		"street": "Bulls Road",
+		"city": "Cape Foulwind",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.1723676",
+		"lat": "-42.5116986",
+		"number": "275",
+		"street": "Coulson Road",
+		"city": "Paroa-Karoro",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.651821",
+		"lat": "-43.5141348",
+		"number": "90",
+		"street": "Hills Road",
+		"city": "Richmond-Marshland",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6959021",
+		"lat": "-36.7261872",
+		"number": "103/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "169.046822",
+		"lat": "-43.8645452",
+		"number": "52",
+		"street": "Haast Pass Highway",
+		"city": "Haast",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6529165",
+		"lat": "-43.5131517",
+		"number": "79",
+		"street": "Slater Street",
+		"city": "Richmond",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.5520545",
+		"lat": "-43.969028",
+		"number": "862",
+		"street": "Winslow Road",
+		"city": "Hinds-Winslow",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.389442",
+		"lat": "-43.6152439",
+		"number": "8",
+		"street": "Burford Way",
+		"city": "Rolleston",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6719888",
+		"lat": "-43.5253212",
+		"number": "160",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4936173",
+		"lat": "-45.8969994",
+		"number": "38D",
+		"street": "Wesley Street",
+		"city": "South Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6533136",
+		"lat": "-43.513127",
+		"number": "84A",
+		"street": "Slater Street",
+		"city": "Richmond",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6018937",
+		"lat": "-43.5126444",
+		"number": "33",
+		"street": "Plynlimon Road",
+		"city": "Fendalton-Strowan",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2685418",
+		"lat": "-42.8112304",
+		"number": "24",
+		"street": "Levin Street",
+		"city": "Cheviot",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6615165",
+		"lat": "-36.9399006",
+		"number": "78",
+		"street": "Park Road",
+		"city": "Titirangi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7129092",
+		"lat": "-43.4995324",
+		"number": "88",
+		"street": "Palmers Road",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2539282",
+		"lat": "-41.2798825",
+		"number": "63",
+		"street": "Bisley Avenue",
+		"city": "Moana",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7302881",
+		"lat": "-41.2875743",
+		"number": "11",
+		"street": "Richmond Avenue",
+		"city": "Karori",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7772898",
+		"lat": "-45.0076116",
+		"number": "26",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.3796127",
+		"lat": "-45.8775667",
+		"number": "241D",
+		"street": "Gladstone Road North",
+		"city": "Mosgiel",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6962105",
+		"lat": "-36.7262472",
+		"number": "310/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.0735606",
+		"lat": "-41.3014812",
+		"number": "526",
+		"street": "Moutere Highway",
+		"city": "Appleby-Lower Moutere",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.418298",
+		"lat": "-45.9068071",
+		"number": "22",
+		"street": "Taylor Street",
+		"city": "Green Island",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6382285",
+		"lat": "-36.9183407",
+		"number": "28",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6131827",
+		"lat": "-36.8976945",
+		"number": "259",
+		"street": "Henderson Valley Road",
+		"city": "Henderson",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5530802",
+		"lat": "-45.8052204",
+		"number": "152",
+		"street": "O'Connell Road",
+		"city": "Mount Cargill",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5123716",
+		"lat": "-45.8552561",
+		"number": "190",
+		"street": "Queen Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6379119",
+		"lat": "-36.9179998",
+		"number": "25",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4951962",
+		"lat": "-45.8977508",
+		"number": "65F",
+		"street": "Wesley Street",
+		"city": "South Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5405103",
+		"lat": "-34.972095",
+		"number": "18",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7063996",
+		"lat": "-36.6257254",
+		"number": "91",
+		"street": "Messenger Road",
+		"city": "Stillwater",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7249659",
+		"lat": "-36.7211787",
+		"number": "9",
+		"street": "Falstone Lane",
+		"city": "Browns Bay",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.4982801",
+		"lat": "-41.859831",
+		"number": "126",
+		"street": "Birds Ferry Road",
+		"city": "Virgin Flat",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5127453",
+		"lat": "-45.8598012",
+		"number": "9/700",
+		"street": "Great King Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.725488",
+		"lat": "-36.9171743",
+		"number": "66",
+		"street": "Webster Avenue",
+		"city": "Mount Roskill",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6374917",
+		"lat": "-36.9174035",
+		"number": "11",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6972921",
+		"lat": "-43.4331665",
+		"number": "25",
+		"street": "Styx River Place",
+		"city": "Brooklands",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5390285",
+		"lat": "-34.9708869",
+		"number": "44",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.638251",
+		"lat": "-36.9186405",
+		"number": "32",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.3622118",
+		"lat": "-36.2218492",
+		"number": "118",
+		"street": "Rangiora Road",
+		"city": "Kaiwaka",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.3605743",
+		"lat": "-36.2198088",
+		"number": "150",
+		"street": "Rangiora Road",
+		"city": "Kaiwaka",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.6893546",
+		"lat": "-45.8056668",
+		"number": "100",
+		"street": "Otakou Golf Course Road",
+		"city": "Otakou",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.766992",
+		"lat": "-36.7737111",
+		"number": "2C",
+		"street": "Dodson Avenue",
+		"city": "Milford",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4070988",
+		"lat": "-45.901655",
+		"number": "35",
+		"street": "Awa Toru Drive",
+		"city": "Fairfield",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6961525",
+		"lat": "-43.4342746",
+		"number": "3",
+		"street": "Styx River Place",
+		"city": "Brooklands",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.744435",
+		"lat": "-36.6908221",
+		"number": "2",
+		"street": "Westerley Place",
+		"city": "Long Bay",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6957951",
+		"lat": "-36.7262064",
+		"number": "G02/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.3799732",
+		"lat": "-45.8776628",
+		"number": "241",
+		"street": "Gladstone Road North",
+		"city": "Mosgiel",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.601978",
+		"lat": "-45.8544505",
+		"number": "14",
+		"street": "Luss Road",
+		"city": "Company Bay",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6379245",
+		"lat": "-36.9181587",
+		"number": "27",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.1863515",
+		"lat": "-35.9829034",
+		"number": "280",
+		"street": "Bull Road",
+		"city": "Mareretu",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4073486",
+		"lat": "-45.9017106",
+		"number": "41",
+		"street": "Awa Toru Drive",
+		"city": "Fairfield",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7115426",
+		"lat": "-43.5004782",
+		"number": "65",
+		"street": "Thurso Place",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4847455",
+		"lat": "-45.865855",
+		"number": "2",
+		"street": "Mellor Street",
+		"city": "Kaikorai",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7421189",
+		"lat": "-41.2817034",
+		"number": "21",
+		"street": "Fancourt Street",
+		"city": "Karori",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6967424",
+		"lat": "-37.2334754",
+		"number": "46",
+		"street": "Kaihau Road",
+		"city": "Karioitahi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.6024272",
+		"lat": "-45.8541944",
+		"number": "30",
+		"street": "Raynbird Street",
+		"city": "Company Bay",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6561577",
+		"lat": "-36.7923042",
+		"number": "42",
+		"street": "Buckley Avenue",
+		"city": "Hobsonville",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.695944",
+		"lat": "-36.7262802",
+		"number": "108/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6385917",
+		"lat": "-36.9201121",
+		"number": "135A",
+		"street": "Rosier Road",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6960309",
+		"lat": "-36.7261697",
+		"number": "204/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5580521",
+		"lat": "-36.107832",
+		"number": "2215C",
+		"street": "Cove Road",
+		"city": "Waipu",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5774637",
+		"lat": "-36.1007191",
+		"number": "52",
+		"street": "Thelma Road South",
+		"city": "Mangawhai Heads",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6382416",
+		"lat": "-36.9170227",
+		"number": "4",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5125576",
+		"lat": "-45.8598829",
+		"number": "7/700",
+		"street": "Great King Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6958927",
+		"lat": "-36.7261678",
+		"number": "102/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.5487582",
+		"lat": "-43.5574273",
+		"number": "95",
+		"street": "Awatea Road",
+		"city": "Hornby",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7770989",
+		"lat": "-45.0072853",
+		"number": "16",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5061118",
+		"lat": "-45.8759555",
+		"number": "248G",
+		"street": "Cumberland Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6514492",
+		"lat": "-43.5138954",
+		"number": "99",
+		"street": "Hills Road",
+		"city": "Richmond-Marshland",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5138075",
+		"lat": "-45.9041485",
+		"number": "4/63",
+		"street": "Royal Crescent",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6960767",
+		"lat": "-36.7262658",
+		"number": "209/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6381875",
+		"lat": "-36.9173615",
+		"number": "12",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4074291",
+		"lat": "-45.9014839",
+		"number": "39",
+		"street": "Awa Toru Drive",
+		"city": "Fairfield",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4943855",
+		"lat": "-45.8787272",
+		"number": "1",
+		"street": "Serpentine Avenue",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7366761",
+		"lat": "-41.2844859",
+		"number": "270A",
+		"street": "Karori Road",
+		"city": "Karori",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.694759",
+		"lat": "-45.8055727",
+		"number": "52",
+		"street": "Otakou Golf Course Road",
+		"city": "Otakou",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7772741",
+		"lat": "-45.0066392",
+		"number": "4",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5396134",
+		"lat": "-34.9717384",
+		"number": "31",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.2483074",
+		"lat": "-43.8107383",
+		"number": "27A",
+		"street": "Sarsfield Street",
+		"city": "Southbridge",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7166479",
+		"lat": "-36.9173025",
+		"number": "27",
+		"street": "Kimber Hall Avenue",
+		"city": "Mount Roskill",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6693263",
+		"lat": "-43.3590727",
+		"number": "62",
+		"street": "Beachvale Drive",
+		"city": "Kaiapoi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5072032",
+		"lat": "-45.9026087",
+		"number": "5",
+		"street": "Market Street",
+		"city": "Saint Kilda",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.754735",
+		"lat": "-36.9119432",
+		"number": "35C",
+		"street": "Hayr Road",
+		"city": "Three Kings",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.2215243",
+		"lat": "-45.9177297",
+		"number": "4",
+		"street": "Bruce Road",
+		"city": "Momona",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7242242",
+		"lat": "-36.7050486",
+		"number": "937",
+		"street": "East Coast Road",
+		"city": "Milford-Silverdale",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4064616",
+		"lat": "-45.9012761",
+		"number": "25",
+		"street": "Awa Toru Drive",
+		"city": "Fairfield",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6597566",
+		"lat": "-43.5342608",
+		"number": "24",
+		"street": "Percy Street",
+		"city": "Phillipstown",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.1295323",
+		"lat": "-44.2616336",
+		"number": "9",
+		"street": "Kabul Street",
+		"city": "Pleasant Point",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4963953",
+		"lat": "-45.8845524",
+		"number": "4",
+		"street": "Fernhill Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5859253",
+		"lat": "-45.7747444",
+		"number": "820",
+		"street": "Blueskin Road",
+		"city": "Orokonui-Port Chalmers",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.1183869",
+		"lat": "-45.510549",
+		"number": "6232",
+		"street": "Middlemarch-Sutton Road",
+		"city": "Middlemarch",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5019344",
+		"lat": "-45.8705169",
+		"number": "61A",
+		"street": "Cargill Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.9774313",
+		"lat": "-42.7202909",
+		"number": "210",
+		"street": "Hampden Street",
+		"city": "Hokitika",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2543563",
+		"lat": "-41.279901",
+		"number": "78",
+		"street": "Bisley Avenue",
+		"city": "Moana",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7669033",
+		"lat": "-36.7738895",
+		"number": "2E",
+		"street": "Dodson Avenue",
+		"city": "Milford",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7427986",
+		"lat": "-36.6921348",
+		"number": "30",
+		"street": "Westerley Place",
+		"city": "Long Bay",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.6976432",
+		"lat": "-45.8048057",
+		"number": "30",
+		"street": "Otakou Golf Course Road",
+		"city": "Otakou",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5130118",
+		"lat": "-45.8599958",
+		"number": "1/700",
+		"street": "Great King Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6725806",
+		"lat": "-43.52498",
+		"number": "713",
+		"street": "Gloucester Street",
+		"city": "Avonside-Christchurch",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.506142",
+		"lat": "-45.8758925",
+		"number": "248F",
+		"street": "Cumberland Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "169.2770103",
+		"lat": "-44.616957",
+		"number": "4",
+		"street": "Sam John Place",
+		"city": "Hawea",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5392416",
+		"lat": "-34.9710593",
+		"number": "38",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.669027",
+		"lat": "-43.359057",
+		"number": "60",
+		"street": "Beachvale Drive",
+		"city": "Kaiapoi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7760355",
+		"lat": "-45.0063224",
+		"number": "2",
+		"street": "Marston Road",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6379001",
+		"lat": "-36.9178195",
+		"number": "19",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6381836",
+		"lat": "-36.9176951",
+		"number": "16",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5403723",
+		"lat": "-34.9719836",
+		"number": "20",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4964852",
+		"lat": "-45.8981378",
+		"number": "142",
+		"street": "Macandrew Road",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5349757",
+		"lat": "-45.9012503",
+		"number": "95",
+		"street": "Tomahawk Road",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6725838",
+		"lat": "-43.5250467",
+		"number": "711",
+		"street": "Gloucester Street",
+		"city": "Avonside-Christchurch",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6707314",
+		"lat": "-43.5253163",
+		"number": "140",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7123021",
+		"lat": "-43.5002287",
+		"number": "10A",
+		"street": "Thurso Place",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.3642417",
+		"lat": "-43.4075828",
+		"number": "484",
+		"street": "Downs Road",
+		"city": "West Eyreton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.534903",
+		"lat": "-45.9013801",
+		"number": "97",
+		"street": "Tomahawk Road",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7465319",
+		"lat": "-36.8610613",
+		"number": "2/29",
+		"street": "Sussex Street",
+		"city": "Grey Lynn",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.9147168",
+		"lat": "-43.9015779",
+		"number": "59",
+		"street": "Cuttance Road",
+		"city": "Haast",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7782129",
+		"lat": "-45.00766",
+		"number": "15",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2541414",
+		"lat": "-41.2795455",
+		"number": "69",
+		"street": "Bisley Avenue",
+		"city": "Moana",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6376302",
+		"lat": "-36.9193691",
+		"number": "51",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6980765",
+		"lat": "-37.2325523",
+		"number": "44",
+		"street": "Kaihau Road",
+		"city": "Karioitahi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5388794",
+		"lat": "-34.9703573",
+		"number": "47",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4990288",
+		"lat": "-45.9010413",
+		"number": "188C",
+		"street": "Bay View Road",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7255279",
+		"lat": "-36.7049623",
+		"number": "259",
+		"street": "Glamorgan Drive",
+		"city": "Torbay",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6563101",
+		"lat": "-36.7922855",
+		"number": "46",
+		"street": "Buckley Avenue",
+		"city": "Hobsonville",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.9723952",
+		"lat": "-45.0906206",
+		"number": "36C",
+		"street": "Exe Street",
+		"city": "Oamaru",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7126424",
+		"lat": "-36.710168",
+		"number": "104",
+		"street": "Fairview Avenue",
+		"city": "Fairview Heights",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.0737947",
+		"lat": "-41.3014422",
+		"number": "524",
+		"street": "Moutere Highway",
+		"city": "Appleby-Lower Moutere",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.512552",
+		"lat": "-45.8556067",
+		"number": "183",
+		"street": "Queen Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6725571",
+		"lat": "-43.5247184",
+		"number": "719",
+		"street": "Gloucester Street",
+		"city": "Avonside-Christchurch",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7056846",
+		"lat": "-45.4542569",
+		"number": "100",
+		"street": "Nevis Road",
+		"city": "Lower Nevis",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6376644",
+		"lat": "-36.9196425",
+		"number": "44",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6382395",
+		"lat": "-36.9184896",
+		"number": "30",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6960485",
+		"lat": "-36.7262106",
+		"number": "206/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.697764",
+		"lat": "-43.4330989",
+		"number": "42",
+		"street": "Styx River Place",
+		"city": "Brooklands",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.3935789",
+		"lat": "-45.8740055",
+		"number": "3",
+		"street": "Heasley Lane",
+		"city": "Wingatui",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5161985",
+		"lat": "-45.869129",
+		"number": "12A",
+		"street": "Forth Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7422791",
+		"lat": "-41.2820954",
+		"number": "15",
+		"street": "Fancourt Street",
+		"city": "Karori",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6718837",
+		"lat": "-43.5250421",
+		"number": "177",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.730702",
+		"lat": "-36.8810419",
+		"number": "40B",
+		"street": "St Lukes Road",
+		"city": "Western Springs-St Lukes",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6374974",
+		"lat": "-36.9178863",
+		"number": "21",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.9779369",
+		"lat": "-42.7209969",
+		"number": "221",
+		"street": "Hampden Street",
+		"city": "Hokitika",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6027062",
+		"lat": "-43.5122287",
+		"number": "73A",
+		"street": "Idris Road",
+		"city": "Fendalton-Strowan",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2855163",
+		"lat": "-41.2766242",
+		"number": "4",
+		"street": "Shelbourne Street",
+		"city": "Nelson",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.6970544",
+		"lat": "-45.8048547",
+		"number": "34",
+		"street": "Otakou Golf Course Road",
+		"city": "Otakou",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7781578",
+		"lat": "-45.007496",
+		"number": "11",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7124871",
+		"lat": "-43.4997842",
+		"number": "92A",
+		"street": "Palmers Road",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.669591",
+		"lat": "-43.3590933",
+		"number": "64",
+		"street": "Beachvale Drive",
+		"city": "Kaiapoi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.2675619",
+		"lat": "-45.598434",
+		"number": "2",
+		"street": "Bray Road",
+		"city": "Mount Stoker",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2520981",
+		"lat": "-41.2791865",
+		"number": "601",
+		"street": "Rocks Road",
+		"city": "Nelson",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7440982",
+		"lat": "-36.6910919",
+		"number": "12",
+		"street": "Westerley Place",
+		"city": "Long Bay",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.690207",
+		"lat": "-36.5755331",
+		"number": "490B",
+		"street": "Hibiscus Coast Highway",
+		"city": "Orewa",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4957548",
+		"lat": "-45.8975256",
+		"number": "65A",
+		"street": "Wesley Street",
+		"city": "South Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.1927529",
+		"lat": "-42.4570127",
+		"number": "164",
+		"street": "Preston Road",
+		"city": "Blaketown",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5010377",
+		"lat": "-45.8978884",
+		"number": "95",
+		"street": "Melbourne Street",
+		"city": "South Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5138574",
+		"lat": "-45.9040823",
+		"number": "3/63",
+		"street": "Royal Crescent",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.9782136",
+		"lat": "-42.7206927",
+		"number": "222",
+		"street": "Hampden Street",
+		"city": "Hokitika",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6894032",
+		"lat": "-36.5766976",
+		"number": "1/10",
+		"street": "Forest Glen",
+		"city": "Orewa",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5158966",
+		"lat": "-45.8632547",
+		"number": "378G",
+		"street": "Leith Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5072632",
+		"lat": "-45.9024439",
+		"number": "54E",
+		"street": "Grove Street",
+		"city": "Saint Kilda",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.6028046",
+		"lat": "-45.8544683",
+		"number": "4",
+		"street": "Glenfinlass Street",
+		"city": "Company Bay",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7777616",
+		"lat": "-45.0067668",
+		"number": "3",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7302819",
+		"lat": "-36.8804953",
+		"number": "89",
+		"street": "Taylors Road",
+		"city": "Mount Albert",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5389391",
+		"lat": "-34.9694779",
+		"number": "57",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7115841",
+		"lat": "-43.4992193",
+		"number": "23",
+		"street": "Thurso Place",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7773525",
+		"lat": "-45.0070327",
+		"number": "12",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6382122",
+		"lat": "-36.918022",
+		"number": "24",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.6955295",
+		"lat": "-45.8054672",
+		"number": "46",
+		"street": "Otakou Golf Course Road",
+		"city": "Otakou",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5160377",
+		"lat": "-45.869084",
+		"number": "12D",
+		"street": "Forth Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5773799",
+		"lat": "-45.8000508",
+		"number": "380",
+		"street": "Mount Cargill Road",
+		"city": "Upper Junction-Waitati",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7760975",
+		"lat": "-45.0065747",
+		"number": "2",
+		"street": "Shipton Court",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6975332",
+		"lat": "-43.4329923",
+		"number": "44",
+		"street": "Styx River Place",
+		"city": "Brooklands",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2521524",
+		"lat": "-41.2797256",
+		"number": "21",
+		"street": "Bisley Avenue",
+		"city": "Moana",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2658188",
+		"lat": "-36.1748079",
+		"number": "457",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6959185",
+		"lat": "-36.7262292",
+		"number": "105/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7003769",
+		"lat": "-37.2274407",
+		"number": "227",
+		"street": "Awhitu Road",
+		"city": "Awhitu-Waiuku",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.696196",
+		"lat": "-36.7262279",
+		"number": "309/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4051738",
+		"lat": "-45.8956924",
+		"number": "15",
+		"street": "Chadwick Street",
+		"city": "Fairfield",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.6957861",
+		"lat": "-45.8052056",
+		"number": "42",
+		"street": "Otakou Golf Course Road",
+		"city": "Otakou",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5810171",
+		"lat": "-36.1063938",
+		"number": "6",
+		"street": "Thelma Road South",
+		"city": "Mangawhai Heads",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5389111",
+		"lat": "-34.9698518",
+		"number": "52",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6514725",
+		"lat": "-43.5131626",
+		"number": "113",
+		"street": "Hills Road",
+		"city": "Richmond-Marshland",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2538998",
+		"lat": "-41.2791006",
+		"number": "73",
+		"street": "Bisley Avenue",
+		"city": "Moana",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5018209",
+		"lat": "-45.8654021",
+		"number": "750",
+		"street": "Queens Drive",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.546726",
+		"lat": "-43.5786102",
+		"number": "190",
+		"street": "Quaifes Road",
+		"city": "Halswell",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7063165",
+		"lat": "-36.8940144",
+		"number": "1/1",
+		"street": "Hendon Avenue",
+		"city": "Mount Albert",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5127911",
+		"lat": "-45.859938",
+		"number": "4/700",
+		"street": "Great King Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6703568",
+		"lat": "-43.3595247",
+		"number": "9",
+		"street": "Wakeman Way",
+		"city": "Kaiapoi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5018848",
+		"lat": "-45.8704565",
+		"number": "61B",
+		"street": "Cargill Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6385523",
+		"lat": "-36.9183448",
+		"number": "28A",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.2513756",
+		"lat": "-44.1751684",
+		"number": "142",
+		"street": "Winchester Hanging Rock Road",
+		"city": "Opihi-Winchester",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.7003994",
+		"lat": "-45.7759785",
+		"number": "15",
+		"street": "Pari Street",
+		"city": "Aramoana",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2731505",
+		"lat": "-36.1704186",
+		"number": "370",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "169.0467208",
+		"lat": "-43.8640612",
+		"number": "50",
+		"street": "Haast Pass Highway",
+		"city": "Haast",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5484597",
+		"lat": "-45.8005171",
+		"number": "63",
+		"street": "O'Connell Road",
+		"city": "Mount Cargill",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6890406",
+		"lat": "-36.5771206",
+		"number": "6B",
+		"street": "Forest Glen",
+		"city": "Orewa",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.5529806",
+		"lat": "-43.9544997",
+		"number": "475",
+		"street": "Dicksons Road",
+		"city": "Hinds",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.522255",
+		"lat": "-36.297614",
+		"number": "15",
+		"street": "Port Albert Road",
+		"city": "Port Albert-Wellsford",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7553151",
+		"lat": "-36.7649472",
+		"number": "136A",
+		"street": "East Coast Road",
+		"city": "Milford-Silverdale",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6562317",
+		"lat": "-36.7922981",
+		"number": "44",
+		"street": "Buckley Avenue",
+		"city": "Hobsonville",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6836689",
+		"lat": "-36.8914662",
+		"number": "4",
+		"street": "Dampier Street",
+		"city": "Avondale",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.6880127",
+		"lat": "-45.8059267",
+		"number": "112",
+		"street": "Otakou Golf Course Road",
+		"city": "Otakou",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6714164",
+		"lat": "-43.5253164",
+		"number": "152",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.5229862",
+		"lat": "-41.7611821",
+		"number": "76",
+		"street": "Bulls Road",
+		"city": "Cape Foulwind",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5078873",
+		"lat": "-45.8991779",
+		"number": "17",
+		"street": "Eskvale Street",
+		"city": "Saint Kilda",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6712821",
+		"lat": "-43.525043",
+		"number": "169",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5394558",
+		"lat": "-34.9695513",
+		"number": "56",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4054825",
+		"lat": "-45.9019374",
+		"number": "19",
+		"street": "Awa Toru Drive",
+		"city": "Fairfield",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.501705",
+		"lat": "-45.8988129",
+		"number": "158",
+		"street": "Oxford Street",
+		"city": "South Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6958603",
+		"lat": "-36.7263608",
+		"number": "G08/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5397832",
+		"lat": "-34.9690257",
+		"number": "61",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.9773586",
+		"lat": "-42.720698",
+		"number": "215",
+		"street": "Hampden Street",
+		"city": "Hokitika",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6959628",
+		"lat": "-36.726317",
+		"number": "110/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.6042925",
+		"lat": "-45.8715007",
+		"number": "70",
+		"street": "Greenacres Street",
+		"city": "MacAndrew Bay-Pukehiki",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5738653",
+		"lat": "-45.8486748",
+		"number": "35B",
+		"street": "Kiwi Street",
+		"city": "Saint Leonards",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5069153",
+		"lat": "-45.9025721",
+		"number": "3A",
+		"street": "Market Street",
+		"city": "Saint Kilda",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.9226157",
+		"lat": "-39.13022",
+		"number": "283",
+		"street": "Weld Road Lower",
+		"city": "Tataraimaka",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7555756",
+		"lat": "-36.7651919",
+		"number": "132",
+		"street": "East Coast Road",
+		"city": "Milford-Silverdale",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7115571",
+		"lat": "-43.4997703",
+		"number": "11",
+		"street": "Thurso Place",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6021882",
+		"lat": "-43.5128775",
+		"number": "37",
+		"street": "Plynlimon Road",
+		"city": "Fendalton-Strowan",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2813482",
+		"lat": "-36.1518454",
+		"number": "62",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5047863",
+		"lat": "-45.8717546",
+		"number": "189",
+		"street": "George Street",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.776027",
+		"lat": "-45.0061196",
+		"number": "6",
+		"street": "Marston Road",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5080964",
+		"lat": "-45.8990639",
+		"number": "17A",
+		"street": "Eskvale Street",
+		"city": "Saint Kilda",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.637886",
+		"lat": "-36.9175241",
+		"number": "15",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4968444",
+		"lat": "-45.8838068",
+		"number": "20",
+		"street": "Melville Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4937894",
+		"lat": "-45.8969309",
+		"number": "38B",
+		"street": "Wesley Street",
+		"city": "South Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6926538",
+		"lat": "-36.6015842",
+		"number": "31",
+		"street": "Pohutukawa Avenue",
+		"city": "Red Beach",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.1719762",
+		"lat": "-42.5119684",
+		"number": "279",
+		"street": "Coulson Road",
+		"city": "Paroa-Karoro",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6695589",
+		"lat": "-43.3587513",
+		"number": "85",
+		"street": "Beachvale Drive",
+		"city": "Kaiapoi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7774433",
+		"lat": "-45.0079888",
+		"number": "30",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5397673",
+		"lat": "-34.9718561",
+		"number": "29",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6563955",
+		"lat": "-36.7922769",
+		"number": "48",
+		"street": "Buckley Avenue",
+		"city": "Hobsonville",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.1296659",
+		"lat": "-44.2609778",
+		"number": "9",
+		"street": "Afghan Street",
+		"city": "Pleasant Point",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4959137",
+		"lat": "-45.8977827",
+		"number": "71A",
+		"street": "Wesley Street",
+		"city": "South Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6382095",
+		"lat": "-36.9171873",
+		"number": "6",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6375313",
+		"lat": "-36.9183336",
+		"number": "31",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.456009",
+		"lat": "-36.7775127",
+		"number": "102",
+		"street": "Mahana Road",
+		"city": "Waimauku",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5389181",
+		"lat": "-34.9707208",
+		"number": "45",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7086045",
+		"lat": "-36.8660762",
+		"number": "67",
+		"street": "Huia Road",
+		"city": "Point Chevalier",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2535455",
+		"lat": "-41.2797159",
+		"number": "43",
+		"street": "Bisley Avenue",
+		"city": "Moana",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.766944",
+		"lat": "-36.773798",
+		"number": "2D",
+		"street": "Dodson Avenue",
+		"city": "Milford",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4071936",
+		"lat": "-45.9014499",
+		"number": "37",
+		"street": "Awa Toru Drive",
+		"city": "Fairfield",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7506176",
+		"lat": "-36.7705565",
+		"number": "186A",
+		"street": "Nile Road",
+		"city": "Milford",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7640472",
+		"lat": "-36.6292768",
+		"number": "62",
+		"street": "Brixton Road",
+		"city": "Manly",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6381733",
+		"lat": "-36.9175329",
+		"number": "14",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5817551",
+		"lat": "-36.106352",
+		"number": "2",
+		"street": "Thelma Road South",
+		"city": "Mangawhai Heads",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7157414",
+		"lat": "-46.3584817",
+		"number": "359",
+		"street": "Tramway Road West",
+		"city": "Seaward Downs",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6725774",
+		"lat": "-43.5248636",
+		"number": "715",
+		"street": "Gloucester Street",
+		"city": "Avonside-Christchurch",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7780259",
+		"lat": "-45.0084677",
+		"number": "38",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6892393",
+		"lat": "-36.5767318",
+		"number": "2/10",
+		"street": "Forest Glen",
+		"city": "Orewa",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6698272",
+		"lat": "-43.3595184",
+		"number": "5",
+		"street": "Wakeman Way",
+		"city": "Kaiapoi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6964058",
+		"lat": "-37.2284132",
+		"number": "30",
+		"street": "McGowan Road",
+		"city": "Karioitahi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7700309",
+		"lat": "-36.9077165",
+		"number": "83A",
+		"street": "Pah Road",
+		"city": "Royal Oak",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7244124",
+		"lat": "-36.7048233",
+		"number": "937A",
+		"street": "East Coast Road",
+		"city": "Milford-Silverdale",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.730522",
+		"lat": "-36.8807608",
+		"number": "90",
+		"street": "Taylors Road",
+		"city": "Mount Albert",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.5035614",
+		"lat": "-43.2662124",
+		"number": "326",
+		"street": "Barkers Road",
+		"city": "Loburn",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2527588",
+		"lat": "-41.2793927",
+		"number": "31",
+		"street": "Bisley Avenue",
+		"city": "Moana",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5639998",
+		"lat": "-36.6305233",
+		"number": "68",
+		"street": "Sharon Road",
+		"city": "Waitoki",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.1289393",
+		"lat": "-44.2608084",
+		"number": "3",
+		"street": "Afghan Street",
+		"city": "Pleasant Point",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6744524",
+		"lat": "-43.3607354",
+		"number": "195",
+		"street": "Lees Road",
+		"city": "Kaiapoi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.2601715",
+		"lat": "-45.9213773",
+		"number": "771",
+		"street": "Allanton-Waihola Road",
+		"city": "Allanton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6143702",
+		"lat": "-43.4546324",
+		"number": "120",
+		"street": "Englefield Road",
+		"city": "Belfast",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.6959116",
+		"lat": "-45.804992",
+		"number": "40",
+		"street": "Otakou Golf Course Road",
+		"city": "Otakou",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5349827",
+		"lat": "-45.9030419",
+		"number": "147",
+		"street": "Tomahawk Road",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.750576",
+		"lat": "-36.7707412",
+		"number": "186",
+		"street": "Nile Road",
+		"city": "Milford",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6514429",
+		"lat": "-43.5140407",
+		"number": "95",
+		"street": "Hills Road",
+		"city": "Richmond-Marshland",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.5489215",
+		"lat": "-43.557556",
+		"number": "97",
+		"street": "Awatea Road",
+		"city": "Hornby",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4872257",
+		"lat": "-45.8611728",
+		"number": "63D",
+		"street": "Shetland Street",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6990004",
+		"lat": "-37.2216545",
+		"number": "1",
+		"street": "Ridgley Road",
+		"city": "Karioitahi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7776938",
+		"lat": "-45.0065928",
+		"number": "1",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6592198",
+		"lat": "-36.8822745",
+		"number": "85B",
+		"street": "Glen Marine Parade",
+		"city": "Glendene",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6716072",
+		"lat": "-43.5253197",
+		"number": "154",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5616785",
+		"lat": "-36.1092726",
+		"number": "2215D",
+		"street": "Cove Road",
+		"city": "Waipu",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.6668493",
+		"lat": "-41.8702382",
+		"number": "4946",
+		"street": "Awatere Valley Road",
+		"city": "Awatere Valley",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6525002",
+		"lat": "-43.5144831",
+		"number": "10",
+		"street": "Dudley Street",
+		"city": "Richmond",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7760367",
+		"lat": "-45.0062152",
+		"number": "4",
+		"street": "Marston Road",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.5187038",
+		"lat": "-41.7627009",
+		"number": "118",
+		"street": "Bulls Road",
+		"city": "Cape Foulwind",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5079747",
+		"lat": "-45.899282",
+		"number": "19",
+		"street": "Eskvale Street",
+		"city": "Saint Kilda",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.0203128",
+		"lat": "-41.118577",
+		"number": "172",
+		"street": "Thorp Street",
+		"city": "Motueka",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.749555",
+		"lat": "-36.8707186",
+		"number": "401/21-406/21",
+		"street": "Tawari Street",
+		"city": "Mount Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7119335",
+		"lat": "-43.4998708",
+		"number": "14",
+		"street": "Thurso Place",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.1294308",
+		"lat": "-44.2609092",
+		"number": "7",
+		"street": "Afghan Street",
+		"city": "Pleasant Point",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6533559",
+		"lat": "-43.5136607",
+		"number": "76",
+		"street": "Slater Street",
+		"city": "Richmond",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7438655",
+		"lat": "-36.6908564",
+		"number": "9A",
+		"street": "Westerley Place",
+		"city": "Long Bay",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7552996",
+		"lat": "-36.7650826",
+		"number": "134A",
+		"street": "East Coast Road",
+		"city": "Milford-Silverdale",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5205901",
+		"lat": "-36.2961099",
+		"number": "22",
+		"street": "Worker Road",
+		"city": "Wellsford",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7426156",
+		"lat": "-36.6920341",
+		"number": "32",
+		"street": "Westerley Place",
+		"city": "Long Bay",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4966771",
+		"lat": "-45.8820498",
+		"number": "115",
+		"street": "Carroll Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5403206",
+		"lat": "-34.971341",
+		"number": "24",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2811339",
+		"lat": "-36.1485979",
+		"number": "56",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5394756",
+		"lat": "-34.9691442",
+		"number": "60",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7548828",
+		"lat": "-36.9117706",
+		"number": "35B",
+		"street": "Hayr Road",
+		"city": "Three Kings",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.9372695",
+		"lat": "-35.1194957",
+		"number": "96",
+		"street": "Te Ra Road",
+		"city": "Kaeo",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5862912",
+		"lat": "-45.7762555",
+		"number": "800",
+		"street": "Blueskin Road",
+		"city": "Orokonui-Port Chalmers",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.712897",
+		"lat": "-43.499822",
+		"number": "94",
+		"street": "Palmers Road",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.9772309",
+		"lat": "-42.7201803",
+		"number": "206",
+		"street": "Hampden Street",
+		"city": "Hokitika",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7555973",
+		"lat": "-36.7650596",
+		"number": "134",
+		"street": "East Coast Road",
+		"city": "Milford-Silverdale",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7241725",
+		"lat": "-36.7718064",
+		"number": "2/42",
+		"street": "Hogans Road",
+		"city": "Glenfield",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7129034",
+		"lat": "-43.4996571",
+		"number": "90A",
+		"street": "Palmers Road",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6960848",
+		"lat": "-36.7262842",
+		"number": "210/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2690037",
+		"lat": "-36.1751152",
+		"number": "456",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.2566279",
+		"lat": "-44.1761319",
+		"number": "95",
+		"street": "Winchester Hanging Rock Road",
+		"city": "Opihi-Winchester",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.778438",
+		"lat": "-45.0087068",
+		"number": "42",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.5951749",
+		"lat": "-43.5354208",
+		"number": "108",
+		"street": "Elizabeth Street",
+		"city": "Riccarton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5200833",
+		"lat": "-36.296534",
+		"number": "25",
+		"street": "Worker Road",
+		"city": "Wellsford",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5256539",
+		"lat": "-45.8346109",
+		"number": "532",
+		"street": "Pine Hill Road",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5018485",
+		"lat": "-45.8703917",
+		"number": "61C",
+		"street": "Cargill Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7424227",
+		"lat": "-41.2815374",
+		"number": "22",
+		"street": "Fancourt Street",
+		"city": "Karori",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.0986447",
+		"lat": "-45.9387001",
+		"number": "82",
+		"street": "Waipori Falls Road",
+		"city": "Waipori Falls",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7465608",
+		"lat": "-36.8610886",
+		"number": "1/29",
+		"street": "Sussex Street",
+		"city": "Grey Lynn",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7115728",
+		"lat": "-43.4995634",
+		"number": "19",
+		"street": "Thurso Place",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6960592",
+		"lat": "-36.72623",
+		"number": "207/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6129969",
+		"lat": "-43.4554764",
+		"number": "122",
+		"street": "Englefield Road",
+		"city": "Belfast",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.501203",
+		"lat": "-45.8990119",
+		"number": "162",
+		"street": "Oxford Street",
+		"city": "South Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.74337",
+		"lat": "-36.9122379",
+		"number": "45",
+		"street": "Somerset Road",
+		"city": "Mount Roskill",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.0991711",
+		"lat": "-45.9391213",
+		"number": "76",
+		"street": "Waipori Falls Road",
+		"city": "Waipori Falls",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5402357",
+		"lat": "-34.972271",
+		"number": "17",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7115937",
+		"lat": "-43.4990648",
+		"number": "25",
+		"street": "Thurso Place",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7303402",
+		"lat": "-36.8804535",
+		"number": "87",
+		"street": "Taylors Road",
+		"city": "Mount Albert",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2542478",
+		"lat": "-41.2800775",
+		"number": "76",
+		"street": "Bisley Avenue",
+		"city": "Moana",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.406384",
+		"lat": "-45.8954335",
+		"number": "377",
+		"street": "Main South Road",
+		"city": "Green Island",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5159968",
+		"lat": "-45.8632807",
+		"number": "378E",
+		"street": "Leith Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6961797",
+		"lat": "-36.726188",
+		"number": "307/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.1979749",
+		"lat": "-35.1675034",
+		"number": "993",
+		"street": "Kaitaia-Awaroa Road",
+		"city": "Awaroa-Okahu",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.522081",
+		"lat": "-36.297809",
+		"number": "17",
+		"street": "Port Albert Road",
+		"city": "Port Albert-Wellsford",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6700971",
+		"lat": "-43.3594928",
+		"number": "7",
+		"street": "Wakeman Way",
+		"city": "Kaiapoi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7773689",
+		"lat": "-45.0078146",
+		"number": "28",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.3934468",
+		"lat": "-45.8738415",
+		"number": "4",
+		"street": "Heasley Lane",
+		"city": "Wingatui",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4782111",
+		"lat": "-45.9003297",
+		"number": "81",
+		"street": "Playfair Street",
+		"city": "Caversham",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7770364",
+		"lat": "-45.0070401",
+		"number": "10",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7783301",
+		"lat": "-45.0079835",
+		"number": "19",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "169.0020674",
+		"lat": "-43.8633128",
+		"number": "447",
+		"street": "Haast-Jackson Bay Road",
+		"city": "Jackson Bay/Okahu-Haast",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7086893",
+		"lat": "-36.8661863",
+		"number": "65",
+		"street": "Huia Road",
+		"city": "Point Chevalier",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7134331",
+		"lat": "-43.4994406",
+		"number": "86",
+		"street": "Palmers Road",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6390435",
+		"lat": "-36.9204449",
+		"number": "139",
+		"street": "Rosier Road",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.5946474",
+		"lat": "-43.5353642",
+		"number": "114A",
+		"street": "Elizabeth Street",
+		"city": "Riccarton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4060929",
+		"lat": "-45.9017583",
+		"number": "23",
+		"street": "Awa Toru Drive",
+		"city": "Fairfield",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.499083",
+		"lat": "-45.9011003",
+		"number": "188B",
+		"street": "Bay View Road",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4970675",
+		"lat": "-45.8841327",
+		"number": "16",
+		"street": "Melville Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6592935",
+		"lat": "-36.8822435",
+		"number": "85A",
+		"street": "Glen Marine Parade",
+		"city": "Glendene",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6375263",
+		"lat": "-36.918409",
+		"number": "33",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.0238328",
+		"lat": "-43.7516929",
+		"number": "20",
+		"street": "Mackie Street",
+		"city": "Rakaia",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.9470342",
+		"lat": "-41.5145369",
+		"number": "28B",
+		"street": "Beaver Road",
+		"city": "Blenheim",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.3771113",
+		"lat": "-45.9194924",
+		"number": "220",
+		"street": "McMaster Road",
+		"city": "Saddle Hill",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5123393",
+		"lat": "-45.8560084",
+		"number": "175",
+		"street": "Queen Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7126379",
+		"lat": "-36.709964",
+		"number": "106",
+		"street": "Fairview Avenue",
+		"city": "Fairview Heights",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5388997",
+		"lat": "-34.9700092",
+		"number": "51",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4967878",
+		"lat": "-45.8822321",
+		"number": "123",
+		"street": "Carroll Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7451748",
+		"lat": "-36.7912182",
+		"number": "10",
+		"street": "Ellen Avenue",
+		"city": "Hillcrest",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7062489",
+		"lat": "-36.8940661",
+		"number": "2/1",
+		"street": "Hendon Avenue",
+		"city": "Mount Albert",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6607747",
+		"lat": "-43.5345558",
+		"number": "15",
+		"street": "Suffolk Street",
+		"city": "Phillipstown",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4954347",
+		"lat": "-45.8976583",
+		"number": "65D",
+		"street": "Wesley Street",
+		"city": "South Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.9632787",
+		"lat": "-45.1006382",
+		"number": "27A",
+		"street": "Douglas Terrace",
+		"city": "Oamaru",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6712827",
+		"lat": "-43.3602596",
+		"number": "21A",
+		"street": "Wakeman Way",
+		"city": "Kaiapoi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.3700661",
+		"lat": "-36.2130145",
+		"number": "134",
+		"street": "Phillips Road",
+		"city": "Kaiwaka",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2542353",
+		"lat": "-41.2793945",
+		"number": "71",
+		"street": "Bisley Avenue",
+		"city": "Moana",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5388795",
+		"lat": "-34.9702116",
+		"number": "48",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5639829",
+		"lat": "-36.6308671",
+		"number": "68B",
+		"street": "Sharon Road",
+		"city": "Waitoki",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5021012",
+		"lat": "-45.8697826",
+		"number": "78B",
+		"street": "London Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6961891",
+		"lat": "-36.7262064",
+		"number": "308/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6723229",
+		"lat": "-43.5250586",
+		"number": "181",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5389348",
+		"lat": "-34.969672",
+		"number": "54",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5404292",
+		"lat": "-41.5566681",
+		"number": "47",
+		"street": "Church Lane",
+		"city": "Wairau Valley",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6769885",
+		"lat": "-43.5499498",
+		"number": "25",
+		"street": "Tavender Street",
+		"city": "Woolston",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7313605",
+		"lat": "-36.8811006",
+		"number": "44",
+		"street": "St Lukes Road",
+		"city": "Western Springs-St Lukes",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7772327",
+		"lat": "-45.006471",
+		"number": "2",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7055017",
+		"lat": "-37.1352878",
+		"number": "28B",
+		"street": "Torkar Road",
+		"city": "Clarks Beach",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7119487",
+		"lat": "-43.4997392",
+		"number": "16",
+		"street": "Thurso Place",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7045445",
+		"lat": "-36.8902316",
+		"number": "44A",
+		"street": "Powell Street",
+		"city": "Avondale",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6385967",
+		"lat": "-36.9173595",
+		"number": "10",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5088557",
+		"lat": "-45.8746746",
+		"number": "5A",
+		"street": "Anzac Avenue",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5071262",
+		"lat": "-45.9025043",
+		"number": "54F",
+		"street": "Grove Street",
+		"city": "Saint Kilda",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6612419",
+		"lat": "-43.5344069",
+		"number": "20",
+		"street": "Suffolk Street",
+		"city": "Phillipstown",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6701284",
+		"lat": "-43.525036",
+		"number": "149",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6379039",
+		"lat": "-36.9171849",
+		"number": "7",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5810885",
+		"lat": "-36.106523",
+		"number": "4",
+		"street": "Thelma Road South",
+		"city": "Mangawhai Heads",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5197591",
+		"lat": "-36.296465",
+		"number": "27",
+		"street": "Worker Road",
+		"city": "Wellsford",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5070275",
+		"lat": "-45.9026868",
+		"number": "3",
+		"street": "Market Street",
+		"city": "Saint Kilda",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5416101",
+		"lat": "-45.883714",
+		"number": "17",
+		"street": "McKerrow Street",
+		"city": "Shiel Hill",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.1928183",
+		"lat": "-42.4569402",
+		"number": "162",
+		"street": "Preston Road",
+		"city": "Blaketown",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2671707",
+		"lat": "-36.1753747",
+		"number": "465",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.3670942",
+		"lat": "-45.8707308",
+		"number": "7",
+		"street": "Ben Lomond Drive",
+		"city": "Mosgiel",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6780805",
+		"lat": "-43.5500741",
+		"number": "23",
+		"street": "Cumnor Terrace",
+		"city": "Woolston",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6960188",
+		"lat": "-36.7261483",
+		"number": "203/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.508045",
+		"lat": "-45.8993769",
+		"number": "21",
+		"street": "Eskvale Street",
+		"city": "Saint Kilda",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5222932",
+		"lat": "-36.2970519",
+		"number": "6",
+		"street": "Port Albert Road",
+		"city": "Port Albert-Wellsford",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2684985",
+		"lat": "-42.8114",
+		"number": "22",
+		"street": "Levin Street",
+		"city": "Cheviot",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7785777",
+		"lat": "-45.0089073",
+		"number": "44",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6133191",
+		"lat": "-36.8975928",
+		"number": "257",
+		"street": "Henderson Valley Road",
+		"city": "Henderson",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6378884",
+		"lat": "-36.9176743",
+		"number": "17",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6954621",
+		"lat": "-37.2300434",
+		"number": "69",
+		"street": "McGowan Road",
+		"city": "Karioitahi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4064456",
+		"lat": "-45.901471",
+		"number": "27",
+		"street": "Awa Toru Drive",
+		"city": "Fairfield",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.493968",
+		"lat": "-45.8786853",
+		"number": "7",
+		"street": "Serpentine Avenue",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2844383",
+		"lat": "-36.1675498",
+		"number": "241D",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6725513",
+		"lat": "-43.5239636",
+		"number": "733",
+		"street": "Gloucester Street",
+		"city": "Avonside-Christchurch",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6379594",
+		"lat": "-36.9186669",
+		"number": "37",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5401089",
+		"lat": "-34.9726319",
+		"number": "13",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.1290738",
+		"lat": "-44.2614928",
+		"number": "5",
+		"street": "Kabul Street",
+		"city": "Pleasant Point",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5110806",
+		"lat": "-45.8760526",
+		"number": "9",
+		"street": "Mason Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "171.129305",
+		"lat": "-44.2615646",
+		"number": "7",
+		"street": "Kabul Street",
+		"city": "Pleasant Point",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7401814",
+		"lat": "-36.8430989",
+		"number": "14",
+		"street": "Tweed Street",
+		"city": "Herne Bay",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5400969",
+		"lat": "-34.9721425",
+		"number": "19",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7505959",
+		"lat": "-36.9247849",
+		"number": "742",
+		"street": "Richardson Road",
+		"city": "Mount Albert-Hillsborough",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6961689",
+		"lat": "-36.7261655",
+		"number": "306/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6978805",
+		"lat": "-43.4333139",
+		"number": "40",
+		"street": "Styx River Place",
+		"city": "Brooklands",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.3631874",
+		"lat": "-43.4054548",
+		"number": "526",
+		"street": "Downs Road",
+		"city": "West Eyreton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6378856",
+		"lat": "-36.917333",
+		"number": "9",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6523996",
+		"lat": "-43.5141937",
+		"number": "7",
+		"street": "Dudley Street",
+		"city": "Richmond",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7450336",
+		"lat": "-45.0771603",
+		"number": "2",
+		"street": "Glengarry Court",
+		"city": "Kawarau Falls",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6957869",
+		"lat": "-36.7261818",
+		"number": "G01/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6373149",
+		"lat": "-36.9194714",
+		"number": "53",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7670286",
+		"lat": "-36.7736222",
+		"number": "2A",
+		"street": "Dodson Avenue",
+		"city": "Milford",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2719442",
+		"lat": "-36.1742632",
+		"number": "417",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5395748",
+		"lat": "-34.9721341",
+		"number": "27",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.0942085",
+		"lat": "-45.9282288",
+		"number": "236",
+		"street": "Waipori Falls Road",
+		"city": "Waipori Falls",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7225617",
+		"lat": "-36.9172629",
+		"number": "86",
+		"street": "White Swan Road",
+		"city": "Blockhouse Bay-Mt Roskill",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5394045",
+		"lat": "-34.9702027",
+		"number": "49",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.677199",
+		"lat": "-43.5499842",
+		"number": "27",
+		"street": "Tavender Street",
+		"city": "Woolston",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.777308",
+		"lat": "-45.0068167",
+		"number": "6",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5390132",
+		"lat": "-34.9716705",
+		"number": "41",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5081011",
+		"lat": "-45.8994416",
+		"number": "23",
+		"street": "Eskvale Street",
+		"city": "Saint Kilda",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7493803",
+		"lat": "-36.8706801",
+		"number": "601/21-606/21",
+		"street": "Tawari Street",
+		"city": "Mount Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.254452",
+		"lat": "-41.2785681",
+		"number": "83",
+		"street": "Bisley Avenue",
+		"city": "Moana",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4866903",
+		"lat": "-45.8965045",
+		"number": "35B",
+		"street": "Eastbourne Street",
+		"city": "Caversham",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.3559086",
+		"lat": "-35.7304248",
+		"number": "9",
+		"street": "Tawhai Place",
+		"city": "Parahaki",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7759933",
+		"lat": "-45.0060302",
+		"number": "8",
+		"street": "Marston Road",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5127094",
+		"lat": "-45.8599177",
+		"number": "5/700",
+		"street": "Great King Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6370572",
+		"lat": "-36.9192117",
+		"number": "61",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7081021",
+		"lat": "-45.4615926",
+		"number": "236",
+		"street": "McLean Road",
+		"city": "Garston",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.9128221",
+		"lat": "-43.9467459",
+		"number": "463",
+		"street": "South Turnbull Road",
+		"city": "Jackson Bay",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "169.0034844",
+		"lat": "-43.8619962",
+		"number": "425",
+		"street": "Haast-Jackson Bay Road",
+		"city": "Jackson Bay/Okahu-Haast",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5586901",
+		"lat": "-36.1051914",
+		"number": "2201",
+		"street": "Cove Road",
+		"city": "Waipu",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5126488",
+		"lat": "-45.8599009",
+		"number": "6/700",
+		"street": "Great King Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.1457782",
+		"lat": "-45.5311008",
+		"number": "301",
+		"street": "Garthmyl Road",
+		"city": "Middlemarch",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4865602",
+		"lat": "-45.8964707",
+		"number": "35C",
+		"street": "Eastbourne Street",
+		"city": "Caversham",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6565813",
+		"lat": "-36.7922497",
+		"number": "52",
+		"street": "Buckley Avenue",
+		"city": "Hobsonville",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.539471",
+		"lat": "-34.9689889",
+		"number": "62",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7705009",
+		"lat": "-36.9058976",
+		"number": "1A",
+		"street": "Torrance Street",
+		"city": "Epsom",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4955235",
+		"lat": "-45.8976189",
+		"number": "65C",
+		"street": "Wesley Street",
+		"city": "South Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5852047",
+		"lat": "-45.7765214",
+		"number": "802",
+		"street": "Blueskin Road",
+		"city": "Orokonui-Port Chalmers",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5388578",
+		"lat": "-34.9705393",
+		"number": "46",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6374846",
+		"lat": "-36.9174975",
+		"number": "13",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5230962",
+		"lat": "-45.8683064",
+		"number": "134",
+		"street": "Anzac Avenue",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7367672",
+		"lat": "-41.2845706",
+		"number": "270B",
+		"street": "Karori Road",
+		"city": "Karori",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.9781493",
+		"lat": "-42.7211086",
+		"number": "225",
+		"street": "Hampden Street",
+		"city": "Hokitika",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6727327",
+		"lat": "-36.9229214",
+		"number": "10",
+		"street": "Pimento Place",
+		"city": "New Lynn",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.2528672",
+		"lat": "-41.2785788",
+		"number": "591",
+		"street": "Rocks Road",
+		"city": "Nelson",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6951703",
+		"lat": "-37.2342428",
+		"number": "66",
+		"street": "Kaihau Road",
+		"city": "Karioitahi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4051358",
+		"lat": "-45.9018735",
+		"number": "17",
+		"street": "Awa Toru Drive",
+		"city": "Fairfield",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6379389",
+		"lat": "-36.9169946",
+		"number": "3",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4969928",
+		"lat": "-45.8772702",
+		"number": "41",
+		"street": "Canongate",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6959334",
+		"lat": "-36.7262639",
+		"number": "107/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6371865",
+		"lat": "-36.9188535",
+		"number": "45A",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7450297",
+		"lat": "-36.7912918",
+		"number": "12",
+		"street": "Ellen Avenue",
+		"city": "Hillcrest",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6958061",
+		"lat": "-36.7262361",
+		"number": "G03/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6704945",
+		"lat": "-43.5250468",
+		"number": "153",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5043274",
+		"lat": "-45.8920351",
+		"number": "10",
+		"street": "Timaru Street",
+		"city": "South Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5394656",
+		"lat": "-34.9706406",
+		"number": "42",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.269095",
+		"lat": "-42.812229",
+		"number": "32",
+		"street": "Seddon Street",
+		"city": "Cheviot",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7702112",
+		"lat": "-37.1035027",
+		"number": "371",
+		"street": "Seagrove Road",
+		"city": "Waiau Pa",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5073488",
+		"lat": "-45.9022661",
+		"number": "54A",
+		"street": "Grove Street",
+		"city": "Saint Kilda",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6728921",
+		"lat": "-43.3594707",
+		"number": "193",
+		"street": "Lees Road",
+		"city": "Kaiapoi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4940758",
+		"lat": "-45.8788245",
+		"number": "5",
+		"street": "Serpentine Avenue",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.3929892",
+		"lat": "-45.8741425",
+		"number": "7",
+		"street": "Heasley Lane",
+		"city": "Wingatui",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.9542324",
+		"lat": "-43.9078749",
+		"number": "311",
+		"street": "Nolan Road",
+		"city": "Haast",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7442476",
+		"lat": "-36.690967",
+		"number": "6",
+		"street": "Westerley Place",
+		"city": "Long Bay",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.3621778",
+		"lat": "-43.4075932",
+		"number": "488",
+		"street": "Downs Road",
+		"city": "West Eyreton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6924834",
+		"lat": "-36.6017247",
+		"number": "12",
+		"street": "River Road",
+		"city": "Red Beach",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6724432",
+		"lat": "-43.5250589",
+		"number": "185",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6959547",
+		"lat": "-36.7262976",
+		"number": "109/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5173829",
+		"lat": "-45.8541214",
+		"number": "4",
+		"street": "Dolphin Street",
+		"city": "North East Valley",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.507452",
+		"lat": "-45.9023688",
+		"number": "54D",
+		"street": "Grove Street",
+		"city": "Saint Kilda",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5929078",
+		"lat": "-36.7525441",
+		"number": "12",
+		"street": "Gumdiggers Lane",
+		"city": "Riverhead",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2785477",
+		"lat": "-36.1670221",
+		"number": "310",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6381892",
+		"lat": "-36.9189402",
+		"number": "36",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7784363",
+		"lat": "-45.0081828",
+		"number": "21",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4978374",
+		"lat": "-45.8839375",
+		"number": "656",
+		"street": "Princes Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7785886",
+		"lat": "-45.0083027",
+		"number": "23",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6372573",
+		"lat": "-36.9191077",
+		"number": "57",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6973302",
+		"lat": "-43.4333614",
+		"number": "23",
+		"street": "Styx River Place",
+		"city": "Brooklands",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7194219",
+		"lat": "-36.7147396",
+		"number": "1/7",
+		"street": "Andersons Road",
+		"city": "Oteha",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6522941",
+		"lat": "-43.5144562",
+		"number": "8",
+		"street": "Dudley Street",
+		"city": "Richmond",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7245693",
+		"lat": "-36.7049157",
+		"number": "935A",
+		"street": "East Coast Road",
+		"city": "Milford-Silverdale",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5398037",
+		"lat": "-34.9723144",
+		"number": "21",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7060686",
+		"lat": "-36.894223",
+		"number": "5/1",
+		"street": "Hendon Avenue",
+		"city": "Mount Albert",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "169.4227776",
+		"lat": "-46.0889023",
+		"number": "165",
+		"street": "Ross Road",
+		"city": "Popotunoa",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5257787",
+		"lat": "-45.8690878",
+		"number": "150",
+		"street": "Anzac Avenue",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6137177",
+		"lat": "-43.4542381",
+		"number": "9",
+		"street": "Springwater Avenue",
+		"city": "Northwood",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7453264",
+		"lat": "-36.7911085",
+		"number": "8",
+		"street": "Ellen Avenue",
+		"city": "Hillcrest",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7103618",
+		"lat": "-43.5003863",
+		"number": "86",
+		"street": "Bower Avenue",
+		"city": "New Brighton-Parklands",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4968064",
+		"lat": "-45.88432",
+		"number": "15",
+		"street": "Melville Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4957821",
+		"lat": "-45.8978348",
+		"number": "71B",
+		"street": "Wesley Street",
+		"city": "South Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5498905",
+		"lat": "-45.8039051",
+		"number": "116",
+		"street": "O'Connell Road",
+		"city": "Mount Cargill",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5394479",
+		"lat": "-34.9716103",
+		"number": "37",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2855583",
+		"lat": "-36.1608679",
+		"number": "208",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6370773",
+		"lat": "-36.9190693",
+		"number": "59",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.3642326",
+		"lat": "-36.2230527",
+		"number": "98",
+		"street": "Rangiora Road",
+		"city": "Kaiwaka",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.3527724",
+		"lat": "-45.8725645",
+		"number": "36",
+		"street": "Factory Road",
+		"city": "Mosgiel",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7115833",
+		"lat": "-43.4993887",
+		"number": "21",
+		"street": "Thurso Place",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "169.043025",
+		"lat": "-43.8589179",
+		"number": "26",
+		"street": "Haast-Jackson Bay Road",
+		"city": "Jackson Bay/Okahu-Haast",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.2678279",
+		"lat": "-45.5976001",
+		"number": "1291",
+		"street": "Mount Stoker Road",
+		"city": "Middlemarch",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6518231",
+		"lat": "-43.5140997",
+		"number": "90A",
+		"street": "Hills Road",
+		"city": "Richmond-Marshland",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.51247",
+		"lat": "-45.8557889",
+		"number": "181",
+		"street": "Queen Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7251606",
+		"lat": "-36.7056329",
+		"number": "927",
+		"street": "East Coast Road",
+		"city": "Milford-Silverdale",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.7119802",
+		"lat": "-43.4992755",
+		"number": "22",
+		"street": "Thurso Place",
+		"city": "New Brighton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5345454",
+		"lat": "-45.9030159",
+		"number": "143",
+		"street": "Tomahawk Road",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5399594",
+		"lat": "-34.9716292",
+		"number": "26",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.4262773",
+		"lat": "-44.7457959",
+		"number": "124",
+		"street": "Lovers Leap Road",
+		"city": "Glenorchy",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.652574",
+		"lat": "-43.5130954",
+		"number": "81",
+		"street": "Slater Street",
+		"city": "Richmond",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6370585",
+		"lat": "-36.9193555",
+		"number": "63",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.5469692",
+		"lat": "-43.5595404",
+		"number": "158",
+		"street": "Awatea Road",
+		"city": "Hornby",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.9775363",
+		"lat": "-42.7207942",
+		"number": "219",
+		"street": "Hampden Street",
+		"city": "Hokitika",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6379485",
+		"lat": "-36.9185338",
+		"number": "35",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6372268",
+		"lat": "-36.9192605",
+		"number": "55",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6688437",
+		"lat": "-43.3591555",
+		"number": "50",
+		"street": "Bayliss Drive",
+		"city": "Kaiapoi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7556264",
+		"lat": "-36.7649154",
+		"number": "136",
+		"street": "East Coast Road",
+		"city": "Milford-Silverdale",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6018696",
+		"lat": "-43.5129485",
+		"number": "31",
+		"street": "Plynlimon Road",
+		"city": "Fendalton-Strowan",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7499027",
+		"lat": "-36.9252684",
+		"number": "1/124",
+		"street": "Oakdale Road",
+		"city": "Mount Roskill",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4059151",
+		"lat": "-45.9019865",
+		"number": "21",
+		"street": "Awa Toru Drive",
+		"city": "Fairfield",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4873201",
+		"lat": "-45.8610894",
+		"number": "63A",
+		"street": "Shetland Street",
+		"city": "Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.5950577",
+		"lat": "-43.5349536",
+		"number": "3/15",
+		"street": "George Street",
+		"city": "Riccarton",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6958386",
+		"lat": "-36.7263107",
+		"number": "G06/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7780354",
+		"lat": "-45.0073343",
+		"number": "9",
+		"street": "Myles Way",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7761523",
+		"lat": "-45.0067435",
+		"number": "4",
+		"street": "Shipton Court",
+		"city": "Lower Shotover",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.5646794",
+		"lat": "-36.630305",
+		"number": "68C",
+		"street": "Sharon Road",
+		"city": "Waitoki",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5159518",
+		"lat": "-45.8632678",
+		"number": "378F",
+		"street": "Leith Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.2796498",
+		"lat": "-36.1704163",
+		"number": "329",
+		"street": "Heatley Road",
+		"city": "Whakapirau",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6370722",
+		"lat": "-36.9196687",
+		"number": "50",
+		"street": "Leo Street",
+		"city": "Glen Eden",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6959103",
+		"lat": "-36.7262087",
+		"number": "104/40",
+		"street": "Library Lane",
+		"city": "Albany",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5403584",
+		"lat": "-34.972397",
+		"number": "15",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7545445",
+		"lat": "-36.911644",
+		"number": "20B",
+		"street": "Dornwell Road",
+		"city": "Mount Roskill",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4953019",
+		"lat": "-45.8977067",
+		"number": "65E",
+		"street": "Wesley Street",
+		"city": "South Dunedin",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.4967652",
+		"lat": "-45.8821883",
+		"number": "121",
+		"street": "Carroll Street",
+		"city": "Dunedin Central",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.7553149",
+		"lat": "-36.7647917",
+		"number": "140",
+		"street": "East Coast Road",
+		"city": "Milford-Silverdale",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "169.0415562",
+		"lat": "-43.8744274",
+		"number": "176",
+		"street": "Haast Pass Highway",
+		"city": "Haast",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5408552",
+		"lat": "-34.9724415",
+		"number": "12",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6891712",
+		"lat": "-36.5773818",
+		"number": "4A",
+		"street": "Forest Glen",
+		"city": "Orewa",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5398206",
+		"lat": "-34.9715232",
+		"number": "28",
+		"street": "Hihi Beach Road",
+		"city": "Hihi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.2485687",
+		"lat": "-43.8106316",
+		"number": "27B",
+		"street": "Sarsfield Street",
+		"city": "Southbridge",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "174.6726378",
+		"lat": "-36.922674",
+		"number": "8",
+		"street": "Pimento Place",
+		"city": "New Lynn",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.670304",
+		"lat": "-43.5250401",
+		"number": "151",
+		"street": "Woodham Road",
+		"city": "Avonside-Wainoni",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "172.6529215",
+		"lat": "-43.5133376",
+		"number": "75",
+		"street": "Slater Street",
+		"city": "Richmond",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "173.5371526",
+		"lat": "-41.5512102",
+		"number": "97",
+		"street": "Church Lane",
+		"city": "Wairau Valley",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "168.7113458",
+		"lat": "-46.3395476",
+		"number": "101",
+		"street": "Swain Road",
+		"city": "Kamahi",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "170.5126451",
+		"lat": "-45.8597931",
+		"number": "8/700",
+		"street": "Great King Street",
+		"city": "North Dunedin",
+		"district": "",
+		"postcode": ""
+	}
+]

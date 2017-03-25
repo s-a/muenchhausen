@@ -1,0 +1,9002 @@
+[
+	{
+		"lon": "4.9528374",
+		"lat": "51.3302922",
+		"number": "51",
+		"street": "Steenweg op Oosthoven",
+		"city": "Turnhout",
+		"district": "",
+		"postcode": "2300"
+	},
+	{
+		"lon": "3.8588267",
+		"lat": "51.1684497",
+		"number": "7",
+		"street": "Meersstraat",
+		"city": "Wachtebeke",
+		"district": "",
+		"postcode": "9185"
+	},
+	{
+		"lon": "4.4670892",
+		"lat": "51.1262653",
+		"number": "12",
+		"street": "Keltenveld",
+		"city": "Kontich",
+		"district": "",
+		"postcode": "2550"
+	},
+	{
+		"lon": "3.6060018",
+		"lat": "50.8341421",
+		"number": "25",
+		"street": "Leupegemstraat",
+		"city": "Oudenaarde",
+		"district": "",
+		"postcode": "9700"
+	},
+	{
+		"lon": "4.45758",
+		"lat": "50.8788795",
+		"number": "9",
+		"street": "Belgicastraat",
+		"city": "Zaventem",
+		"district": "",
+		"postcode": "1930"
+	},
+	{
+		"lon": "2.9315028",
+		"lat": "51.206674",
+		"number": "11",
+		"street": "Albatrosstraat",
+		"city": "Oostende",
+		"district": "",
+		"postcode": "8400"
+	},
+	{
+		"lon": "4.1857707",
+		"lat": "50.9198703",
+		"number": "2",
+		"street": "Dendermondsesteenweg",
+		"city": "Asse",
+		"district": "",
+		"postcode": "1730"
+	},
+	{
+		"lon": "3.4070951",
+		"lat": "50.8803562",
+		"number": "59",
+		"street": "Oude Desselgemstraat",
+		"city": "Waregem",
+		"district": "",
+		"postcode": "8790"
+	},
+	{
+		"lon": "3.2796391",
+		"lat": "50.9494048",
+		"number": "38",
+		"street": "Veldstraat",
+		"city": "Meulebeke",
+		"district": "",
+		"postcode": "8760"
+	},
+	{
+		"lon": "5.5930171",
+		"lat": "50.9311494",
+		"number": "2",
+		"street": "Hoogputstraat",
+		"city": "Zutendaal",
+		"district": "",
+		"postcode": "3690"
+	},
+	{
+		"lon": "3.5165879",
+		"lat": "50.9608813",
+		"number": "6",
+		"street": "Pelikaanlaan",
+		"city": "Deinze",
+		"district": "",
+		"postcode": "9800"
+	},
+	{
+		"lon": "3.2466711",
+		"lat": "51.211073",
+		"number": "104",
+		"street": "Maalse Steenweg",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8310"
+	},
+	{
+		"lon": "4.4043421",
+		"lat": "51.2222937",
+		"number": "34",
+		"street": "Minderbroedersrui",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2000"
+	},
+	{
+		"lon": "3.2280919",
+		"lat": "50.9079447",
+		"number": "65",
+		"street": "Hondekensmolenstraat",
+		"city": "Izegem",
+		"district": "",
+		"postcode": "8870"
+	},
+	{
+		"lon": "4.7135399",
+		"lat": "51.0774228",
+		"number": "9",
+		"street": "Oude Liersebaan",
+		"city": "Heist-op-den-Berg",
+		"district": "",
+		"postcode": "2220"
+	},
+	{
+		"lon": "4.1491349",
+		"lat": "51.1620664",
+		"number": "17",
+		"street": "Hospitaalstraat",
+		"city": "Sint-Niklaas",
+		"district": "",
+		"postcode": "9100"
+	},
+	{
+		"lon": "4.5799638",
+		"lat": "50.9505968",
+		"number": "18",
+		"street": "Tenierslaan",
+		"city": "Kampenhout",
+		"district": "",
+		"postcode": "1910"
+	},
+	{
+		"lon": "4.781612",
+		"lat": "50.8939449",
+		"number": "26",
+		"street": "Tempelberg",
+		"city": "Lubbeek",
+		"district": "",
+		"postcode": "3210"
+	},
+	{
+		"lon": "4.7659581",
+		"lat": "51.4027227",
+		"number": "71",
+		"street": "Gelmelstraat",
+		"city": "Hoogstraten",
+		"district": "",
+		"postcode": "2320"
+	},
+	{
+		"lon": "4.1586129",
+		"lat": "50.868259",
+		"number": "54",
+		"street": "Vinkenlaan",
+		"city": "Ternat",
+		"district": "",
+		"postcode": "1742"
+	},
+	{
+		"lon": "4.4995495",
+		"lat": "51.290515",
+		"number": "87",
+		"street": "Miksebaan",
+		"city": "Brasschaat",
+		"district": "",
+		"postcode": "2930"
+	},
+	{
+		"lon": "4.0071851",
+		"lat": "50.8990691",
+		"number": "13C",
+		"street": "Middelkouter",
+		"city": "Haaltert",
+		"district": "",
+		"postcode": "9450"
+	},
+	{
+		"lon": "3.3361838",
+		"lat": "50.870065",
+		"number": "6",
+		"street": "Sint-Jansstraat",
+		"city": "Waregem",
+		"district": "",
+		"postcode": "8791"
+	},
+	{
+		"lon": "5.3433821",
+		"lat": "50.8062303",
+		"number": "28",
+		"street": "Stationsstraat",
+		"city": "Borgloon",
+		"district": "",
+		"postcode": "3840"
+	},
+	{
+		"lon": "4.8278962",
+		"lat": "51.1750178",
+		"number": "1",
+		"street": "Ieperstraat",
+		"city": "Herentals",
+		"district": "",
+		"postcode": "2200"
+	},
+	{
+		"lon": "4.4981312",
+		"lat": "51.015979",
+		"number": "174",
+		"street": "Leuvensesteenweg",
+		"city": "Mechelen",
+		"district": "",
+		"postcode": "2800"
+	},
+	{
+		"lon": "4.4770717",
+		"lat": "50.7698197",
+		"number": "29",
+		"street": "Overijsesteenweg",
+		"city": "Hoeilaart",
+		"district": "",
+		"postcode": "1560"
+	},
+	{
+		"lon": "4.4358709",
+		"lat": "50.91417",
+		"number": "25",
+		"street": "Vilvoordelaan",
+		"city": "Machelen",
+		"district": "",
+		"postcode": "1830"
+	},
+	{
+		"lon": "3.0911609",
+		"lat": "51.0435979",
+		"number": "8",
+		"street": "Bakvoordestraat",
+		"city": "Torhout",
+		"district": "",
+		"postcode": "8820"
+	},
+	{
+		"lon": "4.5623153",
+		"lat": "51.1890513",
+		"number": "43",
+		"street": "Lievevrouwestraat",
+		"city": "Ranst",
+		"district": "",
+		"postcode": "2520"
+	},
+	{
+		"lon": "2.6667042",
+		"lat": "51.064404",
+		"number": "76",
+		"street": "Ieperse Steenweg",
+		"city": "Veurne",
+		"district": "",
+		"postcode": "8630"
+	},
+	{
+		"lon": "3.0317818",
+		"lat": "51.1304537",
+		"number": "45",
+		"street": "Bruggestraat",
+		"city": "Ichtegem",
+		"district": "",
+		"postcode": "8480"
+	},
+	{
+		"lon": "4.4357872",
+		"lat": "51.2450511",
+		"number": "107",
+		"street": "Kluizeveldenstraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2170"
+	},
+	{
+		"lon": "4.726749",
+		"lat": "50.8633624",
+		"number": "194",
+		"street": "Hoegaardsestraat",
+		"city": "Leuven",
+		"district": "",
+		"postcode": "3000"
+	},
+	{
+		"lon": "2.6118104",
+		"lat": "51.110003",
+		"number": "325",
+		"street": "Strandlaan",
+		"city": "Koksijde",
+		"district": "",
+		"postcode": "8670"
+	},
+	{
+		"lon": "3.595954",
+		"lat": "50.7506942",
+		"number": "18",
+		"street": "Kruisstraat",
+		"city": "Ronse",
+		"district": "",
+		"postcode": "9600"
+	},
+	{
+		"lon": "4.1977414",
+		"lat": "51.1324339",
+		"number": "12",
+		"street": "Boonakker",
+		"city": "Temse",
+		"district": "",
+		"postcode": "9140"
+	},
+	{
+		"lon": "4.5828705",
+		"lat": "51.2379785",
+		"number": "3",
+		"street": "Eugeen Dierckxlaan",
+		"city": "Schilde",
+		"district": "",
+		"postcode": "2970"
+	},
+	{
+		"lon": "4.4366053",
+		"lat": "51.2221322",
+		"number": "79",
+		"street": "Pothoekstraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2060"
+	},
+	{
+		"lon": "4.2727196",
+		"lat": "51.2527591",
+		"number": "25",
+		"street": "Melkaderlaan",
+		"city": "Beveren",
+		"district": "",
+		"postcode": "9120"
+	},
+	{
+		"lon": "4.5353301",
+		"lat": "50.8366966",
+		"number": "8",
+		"street": "Katangabinnenhof",
+		"city": "Tervuren",
+		"district": "",
+		"postcode": "3080"
+	},
+	{
+		"lon": "3.8374373",
+		"lat": "50.8748667",
+		"number": "1",
+		"street": "Industrielaan",
+		"city": "Zottegem",
+		"district": "",
+		"postcode": "9620"
+	},
+	{
+		"lon": "5.1796077",
+		"lat": "50.8252622",
+		"number": "24",
+		"street": "Tulpstraat",
+		"city": "Sint-Truiden",
+		"district": "",
+		"postcode": "3800"
+	},
+	{
+		"lon": "4.0709319",
+		"lat": "50.8298956",
+		"number": "38",
+		"street": "Poelkstraat",
+		"city": "Roosdaal",
+		"district": "",
+		"postcode": "1760"
+	},
+	{
+		"lon": "5.2708402",
+		"lat": "50.9535588",
+		"number": "42",
+		"street": "Mevrouwhofstraat",
+		"city": "Hasselt",
+		"district": "",
+		"postcode": "3511"
+	},
+	{
+		"lon": "4.4666895",
+		"lat": "51.2222941",
+		"number": "7",
+		"street": "De Neufstraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2100"
+	},
+	{
+		"lon": "4.1499604",
+		"lat": "50.869844",
+		"number": "21",
+		"street": "Watermolenstraat",
+		"city": "Ternat",
+		"district": "",
+		"postcode": "1742"
+	},
+	{
+		"lon": "4.6356542",
+		"lat": "51.1372225",
+		"number": "8",
+		"street": "Nieuwe Bevelsesteenweg",
+		"city": "Nijlen",
+		"district": "",
+		"postcode": "2560"
+	},
+	{
+		"lon": "5.0066273",
+		"lat": "51.0673143",
+		"number": "2",
+		"street": "Makelhoeve",
+		"city": "Laakdal",
+		"district": "",
+		"postcode": "2431"
+	},
+	{
+		"lon": "4.4230146",
+		"lat": "51.1951614",
+		"number": "41",
+		"street": "Patriottenstraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2600"
+	},
+	{
+		"lon": "4.9544569",
+		"lat": "51.3251924",
+		"number": "46",
+		"street": "Baron Frans du Fourstraat",
+		"city": "Turnhout",
+		"district": "",
+		"postcode": "2300"
+	},
+	{
+		"lon": "3.2332776",
+		"lat": "51.1901247",
+		"number": "267",
+		"street": "Baron Ruzettelaan",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8200"
+	},
+	{
+		"lon": "4.8211829",
+		"lat": "51.1470771",
+		"number": "4",
+		"street": "Hoge Weg",
+		"city": "Herentals",
+		"district": "",
+		"postcode": "2200"
+	},
+	{
+		"lon": "4.4324618",
+		"lat": "51.3018547",
+		"number": "12",
+		"street": "Heirust",
+		"city": "Kapellen",
+		"district": "",
+		"postcode": "2950"
+	},
+	{
+		"lon": "3.2900531",
+		"lat": "51.3504094",
+		"number": "35",
+		"street": "Duinviooltjesstraat",
+		"city": "Knokke-Heist",
+		"district": "",
+		"postcode": "8300"
+	},
+	{
+		"lon": "4.0410227",
+		"lat": "50.9303226",
+		"number": "99",
+		"street": "Parklaan",
+		"city": "Aalst",
+		"district": "",
+		"postcode": "9300"
+	},
+	{
+		"lon": "3.7450841",
+		"lat": "51.175591",
+		"number": "58",
+		"street": "Lindenlaan",
+		"city": "Evergem",
+		"district": "",
+		"postcode": "9940"
+	},
+	{
+		"lon": "4.6199092",
+		"lat": "51.3405958",
+		"number": "100",
+		"street": "Molenstraat",
+		"city": "Brecht",
+		"district": "",
+		"postcode": "2960"
+	},
+	{
+		"lon": "3.364958",
+		"lat": "50.7954027",
+		"number": "15",
+		"street": "Rozenstraat",
+		"city": "Zwevegem",
+		"district": "",
+		"postcode": "8552"
+	},
+	{
+		"lon": "4.4289962",
+		"lat": "50.9341516",
+		"number": "34",
+		"street": "Gezellestraat (Guido)",
+		"city": "Vilvoorde",
+		"district": "",
+		"postcode": "1800"
+	},
+	{
+		"lon": "4.5876798",
+		"lat": "51.3906662",
+		"number": "7",
+		"street": "Het Looike",
+		"city": "Wuustwezel",
+		"district": "",
+		"postcode": "2990"
+	},
+	{
+		"lon": "4.4268471",
+		"lat": "51.1829879",
+		"number": "62",
+		"street": "Ruytenburgstraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2600"
+	},
+	{
+		"lon": "4.3553227",
+		"lat": "51.0622355",
+		"number": "47",
+		"street": "Gaston Fromontstraat",
+		"city": "Willebroek",
+		"district": "",
+		"postcode": "2830"
+	},
+	{
+		"lon": "3.0872286",
+		"lat": "50.9369585",
+		"number": "490",
+		"street": "Groenestraat",
+		"city": "Roeselare",
+		"district": "",
+		"postcode": "8800"
+	},
+	{
+		"lon": "5.1558085",
+		"lat": "50.9280993",
+		"number": "82",
+		"street": "Keernestraat",
+		"city": "Herk-de-Stad",
+		"district": "",
+		"postcode": "3540"
+	},
+	{
+		"lon": "3.2268858",
+		"lat": "50.8011896",
+		"number": "145",
+		"street": "Preshoekstraat",
+		"city": "Kortrijk",
+		"district": "",
+		"postcode": "8510"
+	},
+	{
+		"lon": "3.2421457",
+		"lat": "51.1991143",
+		"number": "107",
+		"street": "Gulden-Peerdenstraat",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8310"
+	},
+	{
+		"lon": "3.8887255",
+		"lat": "50.8566263",
+		"number": "31",
+		"street": "Kauwstraat",
+		"city": "Herzele",
+		"district": "",
+		"postcode": "9550"
+	},
+	{
+		"lon": "4.747666",
+		"lat": "51.0051708",
+		"number": "70",
+		"street": "Nobelstraat",
+		"city": "Tremelo",
+		"district": "",
+		"postcode": "3128"
+	},
+	{
+		"lon": "4.4444689",
+		"lat": "51.303763",
+		"number": "15",
+		"street": "Heggemuslaan",
+		"city": "Kapellen",
+		"district": "",
+		"postcode": "2950"
+	},
+	{
+		"lon": "4.9835812",
+		"lat": "51.1843825",
+		"number": "3",
+		"street": "Molderbeemdendijk",
+		"city": "Geel",
+		"district": "",
+		"postcode": "2440"
+	},
+	{
+		"lon": "4.395073",
+		"lat": "51.0446956",
+		"number": "35",
+		"street": "Heirstraat",
+		"city": "Mechelen",
+		"district": "",
+		"postcode": "2801"
+	},
+	{
+		"lon": "5.3853351",
+		"lat": "50.9133912",
+		"number": "72",
+		"street": "Pampertstraat",
+		"city": "Diepenbeek",
+		"district": "",
+		"postcode": "3590"
+	},
+	{
+		"lon": "5.0766246",
+		"lat": "51.3271014",
+		"number": "49",
+		"street": "Grotstraat",
+		"city": "Arendonk",
+		"district": "",
+		"postcode": "2370"
+	},
+	{
+		"lon": "5.2890377",
+		"lat": "51.228477",
+		"number": "16",
+		"street": "Joost van den Vondelstraat",
+		"city": "Lommel",
+		"district": "",
+		"postcode": "3920"
+	},
+	{
+		"lon": "5.096223",
+		"lat": "50.7208772",
+		"number": "21",
+		"street": "Camille Lenaertsstraat",
+		"city": "Landen",
+		"district": "",
+		"postcode": "3401"
+	},
+	{
+		"lon": "4.461378",
+		"lat": "51.247767",
+		"number": "12",
+		"street": "Frans De Ceusterlei",
+		"city": "Schoten",
+		"district": "",
+		"postcode": "2900"
+	},
+	{
+		"lon": "4.9743404",
+		"lat": "51.175662",
+		"number": "7",
+		"street": "Mezenstraat",
+		"city": "Geel",
+		"district": "",
+		"postcode": "2440"
+	},
+	{
+		"lon": "4.8786592",
+		"lat": "51.057049",
+		"number": "145",
+		"street": "Limberg",
+		"city": "Herselt",
+		"district": "",
+		"postcode": "2230"
+	},
+	{
+		"lon": "5.1457883",
+		"lat": "51.0463289",
+		"number": "27",
+		"street": "Engeldonk",
+		"city": "Beringen",
+		"district": "",
+		"postcode": "3583"
+	},
+	{
+		"lon": "3.2644453",
+		"lat": "50.7657842",
+		"number": "16",
+		"street": "Beekweg",
+		"city": "Kortrijk",
+		"district": "",
+		"postcode": "8510"
+	},
+	{
+		"lon": "3.1437126",
+		"lat": "50.947987",
+		"number": "2",
+		"street": "Appelaarstraat",
+		"city": "Roeselare",
+		"district": "",
+		"postcode": "8800"
+	},
+	{
+		"lon": "4.4511923",
+		"lat": "51.2260488",
+		"number": "3",
+		"street": "Jozef Nellenslei",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2100"
+	},
+	{
+		"lon": "5.5333502",
+		"lat": "50.9291174",
+		"number": "85",
+		"street": "Bijlkestraat",
+		"city": "Genk",
+		"district": "",
+		"postcode": "3600"
+	},
+	{
+		"lon": "5.2707882",
+		"lat": "51.0104006",
+		"number": "7",
+		"street": "Terlaemenlaan",
+		"city": "Heusden-Zolder",
+		"district": "",
+		"postcode": "3550"
+	},
+	{
+		"lon": "4.3459673",
+		"lat": "50.9769041",
+		"number": "24",
+		"street": "Schriekdreef",
+		"city": "Meise",
+		"district": "",
+		"postcode": "1861"
+	},
+	{
+		"lon": "4.6174255",
+		"lat": "51.1498736",
+		"number": "5",
+		"street": "O.L. Vrouwestraat",
+		"city": "Nijlen",
+		"district": "",
+		"postcode": "2560"
+	},
+	{
+		"lon": "3.7312664",
+		"lat": "51.0438508",
+		"number": "285",
+		"street": "Hofstraat",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "4.4947075",
+		"lat": "51.0458284",
+		"number": "102",
+		"street": "Duivenstraat",
+		"city": "Mechelen",
+		"district": "",
+		"postcode": "2800"
+	},
+	{
+		"lon": "3.6812485",
+		"lat": "50.9208835",
+		"number": "67",
+		"street": "Nijverheidsstraat",
+		"city": "Gavere",
+		"district": "",
+		"postcode": "9890"
+	},
+	{
+		"lon": "4.4470142",
+		"lat": "51.4373683",
+		"number": "7",
+		"street": "Violetlaan",
+		"city": "Essen",
+		"district": "",
+		"postcode": "2910"
+	},
+	{
+		"lon": "5.4432285",
+		"lat": "50.7486723",
+		"number": "38",
+		"street": "Rechtstraat",
+		"city": "Tongeren",
+		"district": "",
+		"postcode": "3700"
+	},
+	{
+		"lon": "4.3064897",
+		"lat": "51.0149222",
+		"number": "26",
+		"street": "Holle Eikstraat",
+		"city": "Londerzeel",
+		"district": "",
+		"postcode": "1840"
+	},
+	{
+		"lon": "4.4783909",
+		"lat": "51.2021288",
+		"number": "290",
+		"street": "Manebruggestraat",
+		"city": "Borsbeek",
+		"district": "",
+		"postcode": "2150"
+	},
+	{
+		"lon": "5.4226943",
+		"lat": "50.8367728",
+		"number": "1",
+		"street": "Negenbonderstraat",
+		"city": "Kortessem",
+		"district": "",
+		"postcode": "3724"
+	},
+	{
+		"lon": "3.6746011",
+		"lat": "51.0267727",
+		"number": "25",
+		"street": "Beukenlaan",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9051"
+	},
+	{
+		"lon": "5.4344481",
+		"lat": "50.9330451",
+		"number": "10",
+		"street": "Braambessenlaan",
+		"city": "Diepenbeek",
+		"district": "",
+		"postcode": "3590"
+	},
+	{
+		"lon": "5.3641818",
+		"lat": "50.7592166",
+		"number": "84",
+		"street": "Heurnestraat",
+		"city": "Heers",
+		"district": "",
+		"postcode": "3870"
+	},
+	{
+		"lon": "4.0722238",
+		"lat": "51.1329137",
+		"number": "424",
+		"street": "Maretak",
+		"city": "Waasmunster",
+		"district": "",
+		"postcode": "9250"
+	},
+	{
+		"lon": "3.4588321",
+		"lat": "50.9073263",
+		"number": "60",
+		"street": "Modest Huys-laan",
+		"city": "Zulte",
+		"district": "",
+		"postcode": "9870"
+	},
+	{
+		"lon": "4.4309761",
+		"lat": "51.2209264",
+		"number": "19",
+		"street": "Lange Van Bloerstraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2060"
+	},
+	{
+		"lon": "4.0102562",
+		"lat": "51.0221945",
+		"number": "2",
+		"street": "Heidewegel",
+		"city": "Berlare",
+		"district": "",
+		"postcode": "9290"
+	},
+	{
+		"lon": "3.7682285",
+		"lat": "50.8339772",
+		"number": "37",
+		"street": "Groenstraat",
+		"city": "Brakel",
+		"district": "",
+		"postcode": "9660"
+	},
+	{
+		"lon": "4.0127826",
+		"lat": "51.0564631",
+		"number": "223",
+		"street": "Gentsesteenweg",
+		"city": "Zele",
+		"district": "",
+		"postcode": "9240"
+	},
+	{
+		"lon": "4.7079835",
+		"lat": "50.8709004",
+		"number": "43",
+		"street": "Henri Regastraat",
+		"city": "Leuven",
+		"district": "",
+		"postcode": "3000"
+	},
+	{
+		"lon": "4.4802717",
+		"lat": "51.2519416",
+		"number": "23",
+		"street": "Asbroeklaan",
+		"city": "Schoten",
+		"district": "",
+		"postcode": "2900"
+	},
+	{
+		"lon": "5.2621017",
+		"lat": "51.164824",
+		"number": "81",
+		"street": "Kanaalstraat",
+		"city": "Lommel",
+		"district": "",
+		"postcode": "3920"
+	},
+	{
+		"lon": "4.1140632",
+		"lat": "51.2636068",
+		"number": "20",
+		"street": "Spaanskwartier",
+		"city": "Sint-Gillis-Waas",
+		"district": "",
+		"postcode": "9170"
+	},
+	{
+		"lon": "4.1221944",
+		"lat": "50.9939503",
+		"number": "89",
+		"street": "Lange Molenstraat",
+		"city": "Lebbeke",
+		"district": "",
+		"postcode": "9280"
+	},
+	{
+		"lon": "4.5308851",
+		"lat": "50.9814201",
+		"number": "10",
+		"street": "Goorstraat",
+		"city": "Boortmeerbeek",
+		"district": "",
+		"postcode": "3191"
+	},
+	{
+		"lon": "3.3355392",
+		"lat": "51.0041365",
+		"number": "62",
+		"street": "Pontweg",
+		"city": "Tielt",
+		"district": "",
+		"postcode": "8700"
+	},
+	{
+		"lon": "4.8332015",
+		"lat": "51.1337691",
+		"number": "30",
+		"street": "Morkhovenseweg",
+		"city": "Herentals",
+		"district": "",
+		"postcode": "2200"
+	},
+	{
+		"lon": "2.6948505",
+		"lat": "51.119701",
+		"number": "13",
+		"street": "André Geryllaan",
+		"city": "Koksijde",
+		"district": "",
+		"postcode": "8670"
+	},
+	{
+		"lon": "4.0188849",
+		"lat": "50.8289502",
+		"number": "33",
+		"street": "Vredelaan",
+		"city": "Ninove",
+		"district": "",
+		"postcode": "9400"
+	},
+	{
+		"lon": "4.7534446",
+		"lat": "50.9494436",
+		"number": "12",
+		"street": "Langestraat",
+		"city": "Rotselaar",
+		"district": "",
+		"postcode": "3111"
+	},
+	{
+		"lon": "4.1033371",
+		"lat": "51.0513364",
+		"number": "69",
+		"street": "Hagewijkpark",
+		"city": "Dendermonde",
+		"district": "",
+		"postcode": "9200"
+	},
+	{
+		"lon": "4.0847672",
+		"lat": "50.8655078",
+		"number": "98",
+		"street": "Pamelsestraat",
+		"city": "Liedekerke",
+		"district": "",
+		"postcode": "1770"
+	},
+	{
+		"lon": "4.5930472",
+		"lat": "51.1676988",
+		"number": "126",
+		"street": "Broechemsesteenweg",
+		"city": "Ranst",
+		"district": "",
+		"postcode": "2520"
+	},
+	{
+		"lon": "3.3331159",
+		"lat": "50.8054935",
+		"number": "31",
+		"street": "Oude Bellegemstraat",
+		"city": "Zwevegem",
+		"district": "",
+		"postcode": "8550"
+	},
+	{
+		"lon": "3.1224302",
+		"lat": "51.3119907",
+		"number": "1",
+		"street": "Vrijheidsstraat",
+		"city": "Blankenberge",
+		"district": "",
+		"postcode": "8370"
+	},
+	{
+		"lon": "3.7122047",
+		"lat": "51.0293726",
+		"number": "706",
+		"street": "Kortrijksesteenweg",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "4.8358111",
+		"lat": "50.9029128",
+		"number": "2",
+		"street": "Prinsenbosweg",
+		"city": "Lubbeek",
+		"district": "",
+		"postcode": "3210"
+	},
+	{
+		"lon": "3.1746131",
+		"lat": "51.1954931",
+		"number": "7",
+		"street": "Bosdreef",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8200"
+	},
+	{
+		"lon": "5.1256028",
+		"lat": "51.070456",
+		"number": "1",
+		"street": "Schutpenning",
+		"city": "Tessenderlo",
+		"district": "",
+		"postcode": "3980"
+	},
+	{
+		"lon": "4.4533795",
+		"lat": "51.2334025",
+		"number": "46",
+		"street": "Meyersstraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2100"
+	},
+	{
+		"lon": "4.7667932",
+		"lat": "51.3106638",
+		"number": "34",
+		"street": "Lange Dreef",
+		"city": "Malle",
+		"district": "",
+		"postcode": "2390"
+	},
+	{
+		"lon": "3.1829007",
+		"lat": "50.7831292",
+		"number": "1",
+		"street": "Ijzerhandstraat",
+		"city": "Menen",
+		"district": "",
+		"postcode": "8930"
+	},
+	{
+		"lon": "4.5266263",
+		"lat": "51.0703509",
+		"number": "71",
+		"street": "Stationsstraat",
+		"city": "Sint-Katelijne-Waver",
+		"district": "",
+		"postcode": "2860"
+	},
+	{
+		"lon": "3.2562947",
+		"lat": "50.8438462",
+		"number": "274",
+		"street": "Izegemsestraat",
+		"city": "Kortrijk",
+		"district": "",
+		"postcode": "8500"
+	},
+	{
+		"lon": "3.7128787",
+		"lat": "51.0742806",
+		"number": "300",
+		"street": "Frans van Ryhovelaan",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "4.4390386",
+		"lat": "51.2015665",
+		"number": "1",
+		"street": "Rodekruislaan_BE",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2600"
+	},
+	{
+		"lon": "3.9066508",
+		"lat": "50.9555533",
+		"number": "225",
+		"street": "Grote Steenweg",
+		"city": "Lede",
+		"district": "",
+		"postcode": "9340"
+	},
+	{
+		"lon": "3.7108181",
+		"lat": "51.0722719",
+		"number": "1A",
+		"street": "Klaverstraat",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "5.190629",
+		"lat": "50.8646276",
+		"number": "17A",
+		"street": "Nieuwesteenweg",
+		"city": "Nieuwerkerken",
+		"district": "",
+		"postcode": "3850"
+	},
+	{
+		"lon": "4.4199075",
+		"lat": "50.9524282",
+		"number": "20",
+		"street": "Gaston Devoswijk",
+		"city": "Grimbergen",
+		"district": "",
+		"postcode": "1850"
+	},
+	{
+		"lon": "5.275901",
+		"lat": "51.0629618",
+		"number": "9",
+		"street": "Leliestraat",
+		"city": "Beringen",
+		"district": "",
+		"postcode": "3582"
+	},
+	{
+		"lon": "3.4650384",
+		"lat": "51.0770171",
+		"number": "29",
+		"street": "Lovelddreef",
+		"city": "Aalter",
+		"district": "",
+		"postcode": "9880"
+	},
+	{
+		"lon": "4.9440278",
+		"lat": "50.9630137",
+		"number": "6",
+		"street": "Vuggelberg",
+		"city": "Scherpenheuvel-Zichem",
+		"district": "",
+		"postcode": "3270"
+	},
+	{
+		"lon": "5.3482758",
+		"lat": "50.9581899",
+		"number": "10",
+		"street": "Carnegielaan",
+		"city": "Hasselt",
+		"district": "",
+		"postcode": "3500"
+	},
+	{
+		"lon": "4.1609009",
+		"lat": "51.1576399",
+		"number": "31",
+		"street": "Hertjen",
+		"city": "Sint-Niklaas",
+		"district": "",
+		"postcode": "9100"
+	},
+	{
+		"lon": "3.6257475",
+		"lat": "51.0074095",
+		"number": "29",
+		"street": "Sint-Pietersheide",
+		"city": "Sint-Martens-Latem",
+		"district": "",
+		"postcode": "9830"
+	},
+	{
+		"lon": "4.0818396",
+		"lat": "51.2524776",
+		"number": "50",
+		"street": "Polenlaan",
+		"city": "Sint-Gillis-Waas",
+		"district": "",
+		"postcode": "9170"
+	},
+	{
+		"lon": "4.1291551",
+		"lat": "51.2204941",
+		"number": "11",
+		"street": "Drieske Nijperstraat",
+		"city": "Sint-Gillis-Waas",
+		"district": "",
+		"postcode": "9170"
+	},
+	{
+		"lon": "4.1407415",
+		"lat": "51.113309",
+		"number": "15",
+		"street": "Godevaert Braemstraat",
+		"city": "Temse",
+		"district": "",
+		"postcode": "9140"
+	},
+	{
+		"lon": "4.2142791",
+		"lat": "51.1265639",
+		"number": "46",
+		"street": "Akkerstraat",
+		"city": "Temse",
+		"district": "",
+		"postcode": "9140"
+	},
+	{
+		"lon": "5.7294228",
+		"lat": "51.0850936",
+		"number": "2",
+		"street": "Merelstraat",
+		"city": "Maaseik",
+		"district": "",
+		"postcode": "3680"
+	},
+	{
+		"lon": "4.3970825",
+		"lat": "51.1676515",
+		"number": "24",
+		"street": "Kerkelei",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2610"
+	},
+	{
+		"lon": "4.573202",
+		"lat": "51.2029918",
+		"number": "9",
+		"street": "Oude Vaartstraat",
+		"city": "Ranst",
+		"district": "",
+		"postcode": "2520"
+	},
+	{
+		"lon": "3.2432949",
+		"lat": "51.2166309",
+		"number": "1",
+		"street": "Julius Dooghelaan",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8310"
+	},
+	{
+		"lon": "3.2567008",
+		"lat": "50.769309",
+		"number": "64",
+		"street": "Oude Aalbeeksestraat",
+		"city": "Kortrijk",
+		"district": "",
+		"postcode": "8510"
+	},
+	{
+		"lon": "5.289079",
+		"lat": "50.8653687",
+		"number": "31",
+		"street": "Laagsimsestraat",
+		"city": "Alken",
+		"district": "",
+		"postcode": "3570"
+	},
+	{
+		"lon": "3.3324721",
+		"lat": "51.224557",
+		"number": "45",
+		"street": "Brieversweg",
+		"city": "Damme",
+		"district": "",
+		"postcode": "8340"
+	},
+	{
+		"lon": "4.1370192",
+		"lat": "51.0080834",
+		"number": "8",
+		"street": "Haagstraat",
+		"city": "Lebbeke",
+		"district": "",
+		"postcode": "9280"
+	},
+	{
+		"lon": "4.9697273",
+		"lat": "50.9674472",
+		"number": "6",
+		"street": "Houwaartstraat",
+		"city": "Scherpenheuvel-Zichem",
+		"district": "",
+		"postcode": "3270"
+	},
+	{
+		"lon": "4.7066724",
+		"lat": "50.9927572",
+		"number": "34",
+		"street": "Schrieksebaan",
+		"city": "Tremelo",
+		"district": "",
+		"postcode": "3120"
+	},
+	{
+		"lon": "5.3908361",
+		"lat": "50.8523991",
+		"number": "56",
+		"street": "Tongersesteenweg",
+		"city": "Kortessem",
+		"district": "",
+		"postcode": "3723"
+	},
+	{
+		"lon": "5.6515936",
+		"lat": "51.0110971",
+		"number": "21",
+		"street": "Dopheidestraat",
+		"city": "Dilsen-Stokkem",
+		"district": "",
+		"postcode": "3650"
+	},
+	{
+		"lon": "4.3104274",
+		"lat": "51.1756898",
+		"number": "88",
+		"street": "Nieuwe Kerkstraat",
+		"city": "Kruibeke",
+		"district": "",
+		"postcode": "9150"
+	},
+	{
+		"lon": "3.1698806",
+		"lat": "51.0800637",
+		"number": "36",
+		"street": "Vrijgeweidestraat",
+		"city": "Oostkamp",
+		"district": "",
+		"postcode": "8020"
+	},
+	{
+		"lon": "5.5948731",
+		"lat": "51.184088",
+		"number": "61",
+		"street": "Weerterweg",
+		"city": "Bocholt",
+		"district": "",
+		"postcode": "3950"
+	},
+	{
+		"lon": "4.8293921",
+		"lat": "50.9037596",
+		"number": "12",
+		"street": "Roth",
+		"city": "Lubbeek",
+		"district": "",
+		"postcode": "3210"
+	},
+	{
+		"lon": "3.6048967",
+		"lat": "50.8427008",
+		"number": "27",
+		"street": "Markt",
+		"city": "Oudenaarde",
+		"district": "",
+		"postcode": "9700"
+	},
+	{
+		"lon": "5.5182309",
+		"lat": "51.1894522",
+		"number": "1",
+		"street": "Nevenplein",
+		"city": "Bocholt",
+		"district": "",
+		"postcode": "3950"
+	},
+	{
+		"lon": "4.1490233",
+		"lat": "51.1408831",
+		"number": "215",
+		"street": "Dendermondse Steenweg",
+		"city": "Sint-Niklaas",
+		"district": "",
+		"postcode": "9100"
+	},
+	{
+		"lon": "4.5558341",
+		"lat": "51.1297257",
+		"number": "95",
+		"street": "David Tenierslaan",
+		"city": "Lier",
+		"district": "",
+		"postcode": "2500"
+	},
+	{
+		"lon": "5.3248486",
+		"lat": "50.9176182",
+		"number": "28",
+		"street": "Boerenkrijgsingel",
+		"city": "Hasselt",
+		"district": "",
+		"postcode": "3500"
+	},
+	{
+		"lon": "4.7390857",
+		"lat": "51.2206694",
+		"number": "1",
+		"street": "Lovenhoek",
+		"city": "Vorselaar",
+		"district": "",
+		"postcode": "2290"
+	},
+	{
+		"lon": "2.7359852",
+		"lat": "50.8512774",
+		"number": "6",
+		"street": "Nijverheidslaan",
+		"city": "Poperinge",
+		"district": "",
+		"postcode": "8970"
+	},
+	{
+		"lon": "4.4354376",
+		"lat": "51.2378824",
+		"number": "140",
+		"street": "Bredabaan",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2170"
+	},
+	{
+		"lon": "4.990357",
+		"lat": "50.8280517",
+		"number": "41",
+		"street": "Lindebaan",
+		"city": "Tienen",
+		"district": "",
+		"postcode": "3300"
+	},
+	{
+		"lon": "4.4957148",
+		"lat": "50.7672227",
+		"number": "1",
+		"street": "Zuidlaan",
+		"city": "Hoeilaart",
+		"district": "",
+		"postcode": "1560"
+	},
+	{
+		"lon": "2.9091467",
+		"lat": "51.2130063",
+		"number": "3",
+		"street": "Schapenstraat",
+		"city": "Oostende",
+		"district": "",
+		"postcode": "8400"
+	},
+	{
+		"lon": "3.7116502",
+		"lat": "51.0724892",
+		"number": "18",
+		"street": "Chrysantstraat",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "3.7093093",
+		"lat": "51.1868084",
+		"number": "135A",
+		"street": "Ertveldesteenweg",
+		"city": "Assenede",
+		"district": "",
+		"postcode": "9968"
+	},
+	{
+		"lon": "3.3425371",
+		"lat": "50.9168572",
+		"number": "55",
+		"street": "Gaverstraat",
+		"city": "Oostrozebeke",
+		"district": "",
+		"postcode": "8780"
+	},
+	{
+		"lon": "4.4738129",
+		"lat": "51.1999801",
+		"number": "18",
+		"street": "Primeurstraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2100"
+	},
+	{
+		"lon": "3.7516014",
+		"lat": "51.0194523",
+		"number": "13",
+		"street": "Lange Streepweg",
+		"city": "Merelbeke",
+		"district": "",
+		"postcode": "9820"
+	},
+	{
+		"lon": "5.0880694",
+		"lat": "51.2208517",
+		"number": "214",
+		"street": "Boeretang",
+		"city": "Mol",
+		"district": "",
+		"postcode": "2400"
+	},
+	{
+		"lon": "4.4352524",
+		"lat": "51.219199",
+		"number": "10",
+		"street": "Schapenstraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2140"
+	},
+	{
+		"lon": "4.1946387",
+		"lat": "51.223534",
+		"number": "5",
+		"street": "Peperdam",
+		"city": "Beveren",
+		"district": "",
+		"postcode": "9120"
+	},
+	{
+		"lon": "4.0477231",
+		"lat": "51.160681",
+		"number": "67",
+		"street": "Vleeshouwersstraat",
+		"city": "Sint-Niklaas",
+		"district": "",
+		"postcode": "9112"
+	},
+	{
+		"lon": "4.0202724",
+		"lat": "50.963569",
+		"number": "85",
+		"street": "Kortenhoekstraat",
+		"city": "Aalst",
+		"district": "",
+		"postcode": "9308"
+	},
+	{
+		"lon": "4.0567801",
+		"lat": "51.1987691",
+		"number": "1",
+		"street": "Dauwstraat",
+		"city": "Stekene",
+		"district": "",
+		"postcode": "9190"
+	},
+	{
+		"lon": "4.8242286",
+		"lat": "50.9806353",
+		"number": "6",
+		"street": "Steenweg op Sint-Joris-Winge",
+		"city": "Aarschot",
+		"district": "",
+		"postcode": "3200"
+	},
+	{
+		"lon": "4.5236776",
+		"lat": "50.9940407",
+		"number": "36",
+		"street": "Dijkstraat",
+		"city": "Zemst",
+		"district": "",
+		"postcode": "1981"
+	},
+	{
+		"lon": "3.6631195",
+		"lat": "51.1297455",
+		"number": "52",
+		"street": "Langendam",
+		"city": "Evergem",
+		"district": "",
+		"postcode": "9940"
+	},
+	{
+		"lon": "3.9342883",
+		"lat": "51.0089019",
+		"number": "6",
+		"street": "Trompstraat",
+		"city": "Wichelen",
+		"district": "",
+		"postcode": "9260"
+	},
+	{
+		"lon": "3.7970905",
+		"lat": "51.0417459",
+		"number": "21",
+		"street": "Doolaegepark",
+		"city": "Destelbergen",
+		"district": "",
+		"postcode": "9070"
+	},
+	{
+		"lon": "4.1967797",
+		"lat": "50.9673552",
+		"number": "207",
+		"street": "Ringlaan",
+		"city": "Opwijk",
+		"district": "",
+		"postcode": "1745"
+	},
+	{
+		"lon": "5.0499451",
+		"lat": "51.1343765",
+		"number": "15",
+		"street": "Wipstraat",
+		"city": "Meerhout",
+		"district": "",
+		"postcode": "2450"
+	},
+	{
+		"lon": "3.1784183",
+		"lat": "50.7623999",
+		"number": "128",
+		"street": "Schelpenstraat",
+		"city": "Menen",
+		"district": "",
+		"postcode": "8930"
+	},
+	{
+		"lon": "3.8757328",
+		"lat": "50.7738269",
+		"number": "60",
+		"street": "Gaffelstraat",
+		"city": "Geraardsbergen",
+		"district": "",
+		"postcode": "9500"
+	},
+	{
+		"lon": "3.2150373",
+		"lat": "50.9102447",
+		"number": "37",
+		"street": "Vlasgaardstraat",
+		"city": "Izegem",
+		"district": "",
+		"postcode": "8870"
+	},
+	{
+		"lon": "4.0204947",
+		"lat": "51.0004793",
+		"number": "17",
+		"street": "Klinkaertstraat",
+		"city": "Dendermonde",
+		"district": "",
+		"postcode": "9200"
+	},
+	{
+		"lon": "3.1261666",
+		"lat": "51.3127331",
+		"number": "18",
+		"street": "de Smet de Naeyerlaan",
+		"city": "Blankenberge",
+		"district": "",
+		"postcode": "8370"
+	},
+	{
+		"lon": "5.6872432",
+		"lat": "50.9791628",
+		"number": "25",
+		"street": "Maj.Berbenlaan",
+		"city": "Maasmechelen",
+		"district": "",
+		"postcode": "3630"
+	},
+	{
+		"lon": "4.2461616",
+		"lat": "51.2117666",
+		"number": "24",
+		"street": "Eximius Van de Veldelaan",
+		"city": "Beveren",
+		"district": "",
+		"postcode": "9120"
+	},
+	{
+		"lon": "5.446514",
+		"lat": "50.9783382",
+		"number": "40",
+		"street": "Klotbroek",
+		"city": "Genk",
+		"district": "",
+		"postcode": "3600"
+	},
+	{
+		"lon": "3.5591173",
+		"lat": "51.1239423",
+		"number": "54",
+		"street": "Luitenant Dobbelaerestraat",
+		"city": "Zomergem",
+		"district": "",
+		"postcode": "9930"
+	},
+	{
+		"lon": "2.8811178",
+		"lat": "51.2086802",
+		"number": "61",
+		"street": "Spalaan",
+		"city": "Oostende",
+		"district": "",
+		"postcode": "8400"
+	},
+	{
+		"lon": "3.3453017",
+		"lat": "50.8737035",
+		"number": "187",
+		"street": "Kortrijkseweg",
+		"city": "Waregem",
+		"district": "",
+		"postcode": "8791"
+	},
+	{
+		"lon": "3.7851479",
+		"lat": "50.9989206",
+		"number": "30",
+		"street": "Caritasstraat",
+		"city": "Melle",
+		"district": "",
+		"postcode": "9090"
+	},
+	{
+		"lon": "2.6126081",
+		"lat": "51.1114222",
+		"number": "2",
+		"street": "Oostendelaan",
+		"city": "Koksijde",
+		"district": "",
+		"postcode": "8670"
+	},
+	{
+		"lon": "3.7274878",
+		"lat": "51.0850868",
+		"number": "458",
+		"street": "Meulesteedsesteenweg",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "4.5981957",
+		"lat": "51.217614",
+		"number": "65",
+		"street": "Knodbaan",
+		"city": "Ranst",
+		"district": "",
+		"postcode": "2520"
+	},
+	{
+		"lon": "4.8505906",
+		"lat": "51.1447512",
+		"number": "16",
+		"street": "Kijnigestraat",
+		"city": "Olen",
+		"district": "",
+		"postcode": "2250"
+	},
+	{
+		"lon": "5.6706746",
+		"lat": "50.8145538",
+		"number": "14",
+		"street": "Op 't Broek",
+		"city": "Riemst",
+		"district": "",
+		"postcode": "3770"
+	},
+	{
+		"lon": "4.399393",
+		"lat": "51.1023395",
+		"number": "10",
+		"street": "Quinten Matsijslaan",
+		"city": "Rumst",
+		"district": "",
+		"postcode": "2840"
+	},
+	{
+		"lon": "4.4463208",
+		"lat": "51.1207495",
+		"number": "14",
+		"street": "Azalealaan",
+		"city": "Kontich",
+		"district": "",
+		"postcode": "2550"
+	},
+	{
+		"lon": "4.837252",
+		"lat": "50.8417444",
+		"number": "43",
+		"street": "Nieuwstraat",
+		"city": "Boutersem",
+		"district": "",
+		"postcode": "3370"
+	},
+	{
+		"lon": "3.6259518",
+		"lat": "51.2730924",
+		"number": "33",
+		"street": "Jeronymus Lauwerijnstraat",
+		"city": "Sint-Laureins",
+		"district": "",
+		"postcode": "9988"
+	},
+	{
+		"lon": "4.037359",
+		"lat": "51.0706827",
+		"number": "19",
+		"street": "Minister E. Rubbenslaan",
+		"city": "Zele",
+		"district": "",
+		"postcode": "9240"
+	},
+	{
+		"lon": "3.3323136",
+		"lat": "50.8120307",
+		"number": "4",
+		"street": "Kasteelstraat",
+		"city": "Zwevegem",
+		"district": "",
+		"postcode": "8550"
+	},
+	{
+		"lon": "3.8627706",
+		"lat": "50.9186207",
+		"number": "6",
+		"street": "Kapellekouter",
+		"city": "Sint-Lievens-Houtem",
+		"district": "",
+		"postcode": "9520"
+	},
+	{
+		"lon": "4.4612073",
+		"lat": "50.8507339",
+		"number": "6",
+		"street": "Bremgaarde",
+		"city": "Kraainem",
+		"district": "",
+		"postcode": "1950"
+	},
+	{
+		"lon": "4.4113895",
+		"lat": "51.2045676",
+		"number": "5",
+		"street": "Sint-Thomasstraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2018"
+	},
+	{
+		"lon": "5.2855267",
+		"lat": "51.2329599",
+		"number": "237",
+		"street": "Molsekiezel",
+		"city": "Lommel",
+		"district": "",
+		"postcode": "3920"
+	},
+	{
+		"lon": "4.7020402",
+		"lat": "50.8702553",
+		"number": "59",
+		"street": "Constantin Meunierstraat",
+		"city": "Leuven",
+		"district": "",
+		"postcode": "3000"
+	},
+	{
+		"lon": "4.5757771",
+		"lat": "51.2461988",
+		"number": "12",
+		"street": "Molenbeemd",
+		"city": "Schilde",
+		"district": "",
+		"postcode": "2970"
+	},
+	{
+		"lon": "4.5046861",
+		"lat": "51.4638572",
+		"number": "88",
+		"street": "Kraaienberg",
+		"city": "Essen",
+		"district": "",
+		"postcode": "2910"
+	},
+	{
+		"lon": "3.2021553",
+		"lat": "50.7991795",
+		"number": "4",
+		"street": "Wilde-Eendstraat",
+		"city": "Menen",
+		"district": "",
+		"postcode": "8930"
+	},
+	{
+		"lon": "4.3412491",
+		"lat": "51.1763289",
+		"number": "9",
+		"street": "Visputtenhof",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2660"
+	},
+	{
+		"lon": "3.7434299",
+		"lat": "51.0568553",
+		"number": "22",
+		"street": "Biekorfstraat",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "5.3293873",
+		"lat": "51.2269685",
+		"number": "15",
+		"street": "Jacob van Arteveldestraat",
+		"city": "Lommel",
+		"district": "",
+		"postcode": "3920"
+	},
+	{
+		"lon": "4.5055106",
+		"lat": "50.8190341",
+		"number": "4",
+		"street": "Jezus Eiklaan",
+		"city": "Tervuren",
+		"district": "",
+		"postcode": "3080"
+	},
+	{
+		"lon": "3.8313797",
+		"lat": "50.872755",
+		"number": "206",
+		"street": "Grotenbergestraat",
+		"city": "Zottegem",
+		"district": "",
+		"postcode": "9620"
+	},
+	{
+		"lon": "5.5849074",
+		"lat": "51.0931312",
+		"number": "36",
+		"street": "Leemakkerstraat",
+		"city": "Meeuwen-Gruitrode",
+		"district": "",
+		"postcode": "3670"
+	},
+	{
+		"lon": "5.0937039",
+		"lat": "51.3058612",
+		"number": "10",
+		"street": "Huiskens",
+		"city": "Arendonk",
+		"district": "",
+		"postcode": "2370"
+	},
+	{
+		"lon": "4.5019781",
+		"lat": "50.8197789",
+		"number": "5",
+		"street": "Edouard Hubertilaan",
+		"city": "Tervuren",
+		"district": "",
+		"postcode": "3080"
+	},
+	{
+		"lon": "4.6551913",
+		"lat": "51.0575608",
+		"number": "13",
+		"street": "Esdoornstraat",
+		"city": "Putte",
+		"district": "",
+		"postcode": "2580"
+	},
+	{
+		"lon": "3.2671524",
+		"lat": "50.8263215",
+		"number": "27",
+		"street": "Doorniksestraat",
+		"city": "Kortrijk",
+		"district": "",
+		"postcode": "8500"
+	},
+	{
+		"lon": "3.1814511",
+		"lat": "50.8054537",
+		"number": "65",
+		"street": "Kloosterstraat",
+		"city": "Wevelgem",
+		"district": "",
+		"postcode": "8560"
+	},
+	{
+		"lon": "5.0919696",
+		"lat": "51.3274378",
+		"number": "13",
+		"street": "Hokken",
+		"city": "Arendonk",
+		"district": "",
+		"postcode": "2370"
+	},
+	{
+		"lon": "4.3982451",
+		"lat": "51.1653251",
+		"number": "20",
+		"street": "Kerkeveldstraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2610"
+	},
+	{
+		"lon": "4.3839688",
+		"lat": "51.1778257",
+		"number": "136",
+		"street": "Valaarstraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2610"
+	},
+	{
+		"lon": "3.8498714",
+		"lat": "50.8910192",
+		"number": "105",
+		"street": "Dries",
+		"city": "Herzele",
+		"district": "",
+		"postcode": "9550"
+	},
+	{
+		"lon": "5.1863276",
+		"lat": "50.8211202",
+		"number": "41",
+		"street": "Haardstraat",
+		"city": "Sint-Truiden",
+		"district": "",
+		"postcode": "3800"
+	},
+	{
+		"lon": "4.0015304",
+		"lat": "51.1033751",
+		"number": "13",
+		"street": "Oude-Bruglaan",
+		"city": "Lokeren",
+		"district": "",
+		"postcode": "9160"
+	},
+	{
+		"lon": "4.0265962",
+		"lat": "50.8338194",
+		"number": "13",
+		"street": "Désiré De Bodtkaai",
+		"city": "Ninove",
+		"district": "",
+		"postcode": "9400"
+	},
+	{
+		"lon": "3.3043722",
+		"lat": "50.8860815",
+		"number": "58",
+		"street": "Kasteelstraat",
+		"city": "Harelbeke",
+		"district": "",
+		"postcode": "8531"
+	},
+	{
+		"lon": "3.1853617",
+		"lat": "50.7957011",
+		"number": "24",
+		"street": "Leiestraat",
+		"city": "Menen",
+		"district": "",
+		"postcode": "8930"
+	},
+	{
+		"lon": "4.5060371",
+		"lat": "51.226466",
+		"number": "20",
+		"street": "Ruggeveldstraat",
+		"city": "Wijnegem",
+		"district": "",
+		"postcode": "2110"
+	},
+	{
+		"lon": "3.764167",
+		"lat": "51.0454867",
+		"number": "17",
+		"street": "Rodebeukendreef",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9050"
+	},
+	{
+		"lon": "3.8712354",
+		"lat": "50.9210856",
+		"number": "106",
+		"street": "Krabbenijkstraat",
+		"city": "Sint-Lievens-Houtem",
+		"district": "",
+		"postcode": "9520"
+	},
+	{
+		"lon": "5.1420645",
+		"lat": "51.1994034",
+		"number": "52",
+		"street": "Toemaathoek",
+		"city": "Mol",
+		"district": "",
+		"postcode": "2400"
+	},
+	{
+		"lon": "5.379102",
+		"lat": "50.9326235",
+		"number": "103",
+		"street": "Kiezelstraat",
+		"city": "Hasselt",
+		"district": "",
+		"postcode": "3500"
+	},
+	{
+		"lon": "5.2557758",
+		"lat": "50.7373044",
+		"number": "122",
+		"street": "Burgemeestersstraat",
+		"city": "Heers",
+		"district": "",
+		"postcode": "3870"
+	},
+	{
+		"lon": "3.6705585",
+		"lat": "50.9218355",
+		"number": "3",
+		"street": "Halsberg",
+		"city": "Gavere",
+		"district": "",
+		"postcode": "9890"
+	},
+	{
+		"lon": "4.0749371",
+		"lat": "51.2102375",
+		"number": "5",
+		"street": "Stuyvenbergstraat",
+		"city": "Stekene",
+		"district": "",
+		"postcode": "9190"
+	},
+	{
+		"lon": "5.3157701",
+		"lat": "50.9478006",
+		"number": "66",
+		"street": "Gebrandestraat",
+		"city": "Hasselt",
+		"district": "",
+		"postcode": "3511"
+	},
+	{
+		"lon": "4.3016431",
+		"lat": "50.9118895",
+		"number": "30",
+		"street": "J. Deschuyffeleerdreef",
+		"city": "Wemmel",
+		"district": "",
+		"postcode": "1780"
+	},
+	{
+		"lon": "3.7053698",
+		"lat": "51.0729615",
+		"number": "132",
+		"street": "Dahliastraat",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "4.4343634",
+		"lat": "50.9347671",
+		"number": "187",
+		"street": "Groenstraat",
+		"city": "Vilvoorde",
+		"district": "",
+		"postcode": "1800"
+	},
+	{
+		"lon": "3.0428768",
+		"lat": "51.0313151",
+		"number": "4",
+		"street": "Processiestraat",
+		"city": "Kortemark",
+		"district": "",
+		"postcode": "8610"
+	},
+	{
+		"lon": "4.0985362",
+		"lat": "51.0274309",
+		"number": "43",
+		"street": "Begijnhof",
+		"city": "Dendermonde",
+		"district": "",
+		"postcode": "9200"
+	},
+	{
+		"lon": "4.3580208",
+		"lat": "50.7641089",
+		"number": "393",
+		"street": "Hollebeekstraat",
+		"city": "Linkebeek",
+		"district": "",
+		"postcode": "1630"
+	},
+	{
+		"lon": "4.9351346",
+		"lat": "50.8087894",
+		"number": "25",
+		"street": "Leuvensestraat",
+		"city": "Tienen",
+		"district": "",
+		"postcode": "3300"
+	},
+	{
+		"lon": "4.7429085",
+		"lat": "51.194421",
+		"number": "3",
+		"street": "Wijngaardstraat",
+		"city": "Grobbendonk",
+		"district": "",
+		"postcode": "2280"
+	},
+	{
+		"lon": "4.6981327",
+		"lat": "50.9946385",
+		"number": "65",
+		"street": "Kruisstraat",
+		"city": "Tremelo",
+		"district": "",
+		"postcode": "3120"
+	},
+	{
+		"lon": "4.3997883",
+		"lat": "50.917778",
+		"number": "8",
+		"street": "Voerdelaan",
+		"city": "Vilvoorde",
+		"district": "",
+		"postcode": "1800"
+	},
+	{
+		"lon": "2.5896685",
+		"lat": "51.1029145",
+		"number": "8",
+		"street": "Ankerweg",
+		"city": "De Panne",
+		"district": "",
+		"postcode": "8660"
+	},
+	{
+		"lon": "3.9192171",
+		"lat": "51.0603528",
+		"number": "26",
+		"street": "Zauwerstraat",
+		"city": "Laarne",
+		"district": "",
+		"postcode": "9270"
+	},
+	{
+		"lon": "3.7022585",
+		"lat": "51.0549357",
+		"number": "38",
+		"street": "Spinmolenplein",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "3.8197031",
+		"lat": "51.0308166",
+		"number": "24",
+		"street": "Muizendries",
+		"city": "Destelbergen",
+		"district": "",
+		"postcode": "9070"
+	},
+	{
+		"lon": "5.1810686",
+		"lat": "50.9555618",
+		"number": "16",
+		"street": "Vanarenberglaan",
+		"city": "Herk-de-Stad",
+		"district": "",
+		"postcode": "3540"
+	},
+	{
+		"lon": "5.0703539",
+		"lat": "51.3231686",
+		"number": "45",
+		"street": "Heirbaan",
+		"city": "Arendonk",
+		"district": "",
+		"postcode": "2370"
+	},
+	{
+		"lon": "5.2107108",
+		"lat": "50.9193733",
+		"number": "13",
+		"street": "Vogelzangstraat",
+		"city": "Herk-de-Stad",
+		"district": "",
+		"postcode": "3540"
+	},
+	{
+		"lon": "4.3957857",
+		"lat": "51.1922994",
+		"number": "9",
+		"street": "Eric Sasselaan",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2020"
+	},
+	{
+		"lon": "3.6961311",
+		"lat": "51.0614948",
+		"number": "30",
+		"street": "Fonteineplein",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "4.1496489",
+		"lat": "50.9937979",
+		"number": "2",
+		"street": "Fabrieksstraat",
+		"city": "Lebbeke",
+		"district": "",
+		"postcode": "9280"
+	},
+	{
+		"lon": "3.5347481",
+		"lat": "51.111346",
+		"number": "2",
+		"street": "Spinhoutstraat",
+		"city": "Zomergem",
+		"district": "",
+		"postcode": "9930"
+	},
+	{
+		"lon": "3.7210904",
+		"lat": "51.0297484",
+		"number": "24",
+		"street": "Vrijheidslaan",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "4.2742548",
+		"lat": "50.7640954",
+		"number": "31",
+		"street": "Molenstraat",
+		"city": "Beersel",
+		"district": "",
+		"postcode": "1651"
+	},
+	{
+		"lon": "3.589603",
+		"lat": "50.9812222",
+		"number": "13",
+		"street": "Wallebeekstraat",
+		"city": "Deinze",
+		"district": "",
+		"postcode": "9800"
+	},
+	{
+		"lon": "3.2057963",
+		"lat": "51.0384319",
+		"number": "6",
+		"street": "Ricksteenweg",
+		"city": "Wingene",
+		"district": "",
+		"postcode": "8750"
+	},
+	{
+		"lon": "4.6752112",
+		"lat": "50.9084939",
+		"number": "98",
+		"street": "Onze-Lieve-Vrouwstraat",
+		"city": "Herent",
+		"district": "",
+		"postcode": "3020"
+	},
+	{
+		"lon": "3.7222987",
+		"lat": "51.0485",
+		"number": "40",
+		"street": "Savaanstraat",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "4.5413523",
+		"lat": "51.1430216",
+		"number": "28",
+		"street": "Zevenbergen",
+		"city": "Lier",
+		"district": "",
+		"postcode": "2500"
+	},
+	{
+		"lon": "4.4953728",
+		"lat": "50.741271",
+		"number": "29",
+		"street": "Fazantenlaan",
+		"city": "Overijse",
+		"district": "",
+		"postcode": "3090"
+	},
+	{
+		"lon": "3.9590538",
+		"lat": "50.7913896",
+		"number": "1",
+		"street": "Keringstraat",
+		"city": "Geraardsbergen",
+		"district": "",
+		"postcode": "9506"
+	},
+	{
+		"lon": "2.9457194",
+		"lat": "51.2341665",
+		"number": "6",
+		"street": "Ruitingenstraat",
+		"city": "Oostende",
+		"district": "",
+		"postcode": "8400"
+	},
+	{
+		"lon": "5.3053567",
+		"lat": "50.9406248",
+		"number": "39",
+		"street": "Grote Baan",
+		"city": "Hasselt",
+		"district": "",
+		"postcode": "3511"
+	},
+	{
+		"lon": "5.4258179",
+		"lat": "51.2044812",
+		"number": "28",
+		"street": "Kattestraat",
+		"city": "Overpelt",
+		"district": "",
+		"postcode": "3900"
+	},
+	{
+		"lon": "3.200586",
+		"lat": "50.911873",
+		"number": "27",
+		"street": "Klijtstraat",
+		"city": "Izegem",
+		"district": "",
+		"postcode": "8870"
+	},
+	{
+		"lon": "3.7270098",
+		"lat": "51.1226521",
+		"number": "66",
+		"street": "Vlierboomstraat",
+		"city": "Evergem",
+		"district": "",
+		"postcode": "9940"
+	},
+	{
+		"lon": "4.8871555",
+		"lat": "51.1488758",
+		"number": "30",
+		"street": "Hoogbuul",
+		"city": "Olen",
+		"district": "",
+		"postcode": "2250"
+	},
+	{
+		"lon": "4.4488137",
+		"lat": "51.0860898",
+		"number": "5",
+		"street": "Morenhoekstraat",
+		"city": "Rumst",
+		"district": "",
+		"postcode": "2840"
+	},
+	{
+		"lon": "3.6526986",
+		"lat": "51.02472",
+		"number": "22",
+		"street": "Wittepaalstraat",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9051"
+	},
+	{
+		"lon": "4.7547939",
+		"lat": "51.4168631",
+		"number": "31",
+		"street": "Vooraard",
+		"city": "Hoogstraten",
+		"district": "",
+		"postcode": "2322"
+	},
+	{
+		"lon": "3.9529462",
+		"lat": "50.9955791",
+		"number": "2",
+		"street": "Wanzelestraat",
+		"city": "Wichelen",
+		"district": "",
+		"postcode": "9260"
+	},
+	{
+		"lon": "5.0937062",
+		"lat": "51.329106",
+		"number": "115",
+		"street": "Wampenberg",
+		"city": "Arendonk",
+		"district": "",
+		"postcode": "2370"
+	},
+	{
+		"lon": "4.1439614",
+		"lat": "51.0014492",
+		"number": "96",
+		"street": "Rossevaalstraat",
+		"city": "Lebbeke",
+		"district": "",
+		"postcode": "9280"
+	},
+	{
+		"lon": "3.2253714",
+		"lat": "51.2083173",
+		"number": "3",
+		"street": "Wollestraat",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8000"
+	},
+	{
+		"lon": "5.0973055",
+		"lat": "51.1297328",
+		"number": "113",
+		"street": "Olmsebaan",
+		"city": "Meerhout",
+		"district": "",
+		"postcode": "2450"
+	},
+	{
+		"lon": "4.71036",
+		"lat": "51.0097102",
+		"number": "222",
+		"street": "Vondelpark",
+		"city": "Tremelo",
+		"district": "",
+		"postcode": "3120"
+	},
+	{
+		"lon": "3.4314452",
+		"lat": "50.8922965",
+		"number": "64",
+		"street": "Putmanstraat",
+		"city": "Waregem",
+		"district": "",
+		"postcode": "8790"
+	},
+	{
+		"lon": "4.6254904",
+		"lat": "51.0070311",
+		"number": "39",
+		"street": "Aspergeveld",
+		"city": "Keerbergen",
+		"district": "",
+		"postcode": "3140"
+	},
+	{
+		"lon": "4.2766317",
+		"lat": "51.2531739",
+		"number": "17",
+		"street": "Fabriekstraat",
+		"city": "Beveren",
+		"district": "",
+		"postcode": "9120"
+	},
+	{
+		"lon": "3.1020169",
+		"lat": "50.8435382",
+		"number": "31",
+		"street": "Bakkerhoekstraat",
+		"city": "Moorslede",
+		"district": "",
+		"postcode": "8890"
+	},
+	{
+		"lon": "3.165002",
+		"lat": "50.7698304",
+		"number": "22",
+		"street": "Dronckaertstraat",
+		"city": "Menen",
+		"district": "",
+		"postcode": "8930"
+	},
+	{
+		"lon": "3.2529351",
+		"lat": "51.2140248",
+		"number": "235",
+		"street": "Moerkerkse Steenweg",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8310"
+	},
+	{
+		"lon": "3.8167984",
+		"lat": "50.9211558",
+		"number": "62",
+		"street": "Berg",
+		"city": "Oosterzele",
+		"district": "",
+		"postcode": "9860"
+	},
+	{
+		"lon": "3.0007446",
+		"lat": "51.0187064",
+		"number": "5",
+		"street": "Gouden-Hoofdstraat",
+		"city": "Kortemark",
+		"district": "",
+		"postcode": "8610"
+	},
+	{
+		"lon": "2.7380412",
+		"lat": "50.8527951",
+		"number": "13",
+		"street": "Vleterstraat",
+		"city": "Poperinge",
+		"district": "",
+		"postcode": "8970"
+	},
+	{
+		"lon": "4.6237319",
+		"lat": "50.901216",
+		"number": "11",
+		"street": "Dorpsplein",
+		"city": "Herent",
+		"district": "",
+		"postcode": "3020"
+	},
+	{
+		"lon": "3.8914301",
+		"lat": "50.9786605",
+		"number": "34",
+		"street": "Kruisstraat",
+		"city": "Wetteren",
+		"district": "",
+		"postcode": "9230"
+	},
+	{
+		"lon": "4.5234",
+		"lat": "51.0553588",
+		"number": "130",
+		"street": "Mechelsesteenweg",
+		"city": "Sint-Katelijne-Waver",
+		"district": "",
+		"postcode": "2860"
+	},
+	{
+		"lon": "2.8202612",
+		"lat": "50.8566481",
+		"number": "5",
+		"street": "de Cerfstraat",
+		"city": "Ieper",
+		"district": "",
+		"postcode": "8908"
+	},
+	{
+		"lon": "4.3631569",
+		"lat": "51.0607917",
+		"number": "2",
+		"street": "Groene Laan",
+		"city": "Willebroek",
+		"district": "",
+		"postcode": "2830"
+	},
+	{
+		"lon": "2.8765899",
+		"lat": "50.8332215",
+		"number": "43",
+		"street": "Sittingbournelaan",
+		"city": "Ieper",
+		"district": "",
+		"postcode": "8900"
+	},
+	{
+		"lon": "3.1276024",
+		"lat": "51.3149298",
+		"number": "31",
+		"street": "Bakkersstraat",
+		"city": "Blankenberge",
+		"district": "",
+		"postcode": "8370"
+	},
+	{
+		"lon": "3.812506",
+		"lat": "51.2009955",
+		"number": "44",
+		"street": "Kerkstraat",
+		"city": "Zelzate",
+		"district": "",
+		"postcode": "9060"
+	},
+	{
+		"lon": "3.9730468",
+		"lat": "50.9247937",
+		"number": "42",
+		"street": "Vijverstraat",
+		"city": "Erpe-Mere",
+		"district": "",
+		"postcode": "9420"
+	},
+	{
+		"lon": "5.690577",
+		"lat": "50.9818918",
+		"number": "3",
+		"street": "Eekhoornstraat",
+		"city": "Maasmechelen",
+		"district": "",
+		"postcode": "3630"
+	},
+	{
+		"lon": "5.5234168",
+		"lat": "50.8861288",
+		"number": "23",
+		"street": "Wijngaardstraat",
+		"city": "Bilzen",
+		"district": "",
+		"postcode": "3740"
+	},
+	{
+		"lon": "3.526415",
+		"lat": "50.9732912",
+		"number": "65",
+		"street": "Sint-Hubertstraat",
+		"city": "Deinze",
+		"district": "",
+		"postcode": "9800"
+	},
+	{
+		"lon": "4.4571105",
+		"lat": "51.2794808",
+		"number": "12",
+		"street": "Van Gamerenlei",
+		"city": "Brasschaat",
+		"district": "",
+		"postcode": "2930"
+	},
+	{
+		"lon": "3.6704642",
+		"lat": "51.1220539",
+		"number": "11",
+		"street": "De Seillelaan",
+		"city": "Evergem",
+		"district": "",
+		"postcode": "9940"
+	},
+	{
+		"lon": "3.7112961",
+		"lat": "51.0416261",
+		"number": "55",
+		"street": "Jakob Heremansstraat",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "5.153845",
+		"lat": "51.1905462",
+		"number": "119",
+		"street": "Kapellekensdreef",
+		"city": "Mol",
+		"district": "",
+		"postcode": "2400"
+	},
+	{
+		"lon": "3.4614834",
+		"lat": "50.9249629",
+		"number": "163",
+		"street": "Olsenestraat",
+		"city": "Zulte",
+		"district": "",
+		"postcode": "9870"
+	},
+	{
+		"lon": "4.5207309",
+		"lat": "51.2010643",
+		"number": "72",
+		"street": "Sint-Damiaanstraat",
+		"city": "Wommelgem",
+		"district": "",
+		"postcode": "2160"
+	},
+	{
+		"lon": "4.5767042",
+		"lat": "51.2417236",
+		"number": "56",
+		"street": "Brasschaatsebaan",
+		"city": "Schilde",
+		"district": "",
+		"postcode": "2970"
+	},
+	{
+		"lon": "4.3016738",
+		"lat": "50.9962371",
+		"number": "103",
+		"street": "Brusselsestraat",
+		"city": "Londerzeel",
+		"district": "",
+		"postcode": "1840"
+	},
+	{
+		"lon": "4.6259249",
+		"lat": "51.1221156",
+		"number": "235",
+		"street": "Liersesteenweg",
+		"city": "Berlaar",
+		"district": "",
+		"postcode": "2590"
+	},
+	{
+		"lon": "4.0139468",
+		"lat": "50.9283275",
+		"number": "68",
+		"street": "Kwalestraat",
+		"city": "Aalst",
+		"district": "",
+		"postcode": "9320"
+	},
+	{
+		"lon": "4.729487",
+		"lat": "51.0993109",
+		"number": "15",
+		"street": "Pastoor Berchaensstraat",
+		"city": "Heist-op-den-Berg",
+		"district": "",
+		"postcode": "2222"
+	},
+	{
+		"lon": "4.2455956",
+		"lat": "51.1820229",
+		"number": "96",
+		"street": "Keizerstraat",
+		"city": "Beveren",
+		"district": "",
+		"postcode": "9120"
+	},
+	{
+		"lon": "4.470095",
+		"lat": "50.8483711",
+		"number": "110",
+		"street": "Wezembeeklaan",
+		"city": "Kraainem",
+		"district": "",
+		"postcode": "1950"
+	},
+	{
+		"lon": "3.0054559",
+		"lat": "51.1826276",
+		"number": "15",
+		"street": "Hoogstraat",
+		"city": "Oudenburg",
+		"district": "",
+		"postcode": "8460"
+	},
+	{
+		"lon": "4.2372281",
+		"lat": "50.7355024",
+		"number": "13",
+		"street": "Basiliekstraat",
+		"city": "Halle",
+		"district": "",
+		"postcode": "1500"
+	},
+	{
+		"lon": "3.6051707",
+		"lat": "51.0010266",
+		"number": "42",
+		"street": "Pontstraat",
+		"city": "Sint-Martens-Latem",
+		"district": "",
+		"postcode": "9831"
+	},
+	{
+		"lon": "4.560729",
+		"lat": "51.0366744",
+		"number": "173",
+		"street": "Oude Baan",
+		"city": "Bonheiden",
+		"district": "",
+		"postcode": "2820"
+	},
+	{
+		"lon": "4.0139581",
+		"lat": "50.9968576",
+		"number": "41",
+		"street": "Jozef De Troetselstraat",
+		"city": "Dendermonde",
+		"district": "",
+		"postcode": "9200"
+	},
+	{
+		"lon": "3.6664261",
+		"lat": "51.0710135",
+		"number": "12",
+		"street": "Kerselaarstraat",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9030"
+	},
+	{
+		"lon": "4.4948484",
+		"lat": "51.2511762",
+		"number": "20",
+		"street": "Constant Neutjensstraat",
+		"city": "Schoten",
+		"district": "",
+		"postcode": "2900"
+	},
+	{
+		"lon": "3.3013351",
+		"lat": "51.324192",
+		"number": "9",
+		"street": "Populierendreef",
+		"city": "Knokke-Heist",
+		"district": "",
+		"postcode": "8300"
+	},
+	{
+		"lon": "3.0996749",
+		"lat": "50.8482907",
+		"number": "49",
+		"street": "Azalealaan",
+		"city": "Moorslede",
+		"district": "",
+		"postcode": "8890"
+	},
+	{
+		"lon": "5.4241119",
+		"lat": "51.2105125",
+		"number": "10",
+		"street": "Nieuwe Markt",
+		"city": "Overpelt",
+		"district": "",
+		"postcode": "3900"
+	},
+	{
+		"lon": "3.191697",
+		"lat": "50.7988516",
+		"number": "43",
+		"street": "Hogeschuurstraat",
+		"city": "Menen",
+		"district": "",
+		"postcode": "8930"
+	},
+	{
+		"lon": "4.3918585",
+		"lat": "51.1391315",
+		"number": "8",
+		"street": "Barones Ludwina de Borrekenslaan",
+		"city": "Aartselaar",
+		"district": "",
+		"postcode": "2630"
+	},
+	{
+		"lon": "5.1771343",
+		"lat": "50.9024574",
+		"number": "27",
+		"street": "Bergeneindestraat",
+		"city": "Geetbets",
+		"district": "",
+		"postcode": "3454"
+	},
+	{
+		"lon": "2.9752956",
+		"lat": "51.2349956",
+		"number": "84",
+		"street": "Dorpsstraat",
+		"city": "Bredene",
+		"district": "",
+		"postcode": "8450"
+	},
+	{
+		"lon": "2.9010947",
+		"lat": "50.855267",
+		"number": "135",
+		"street": "Ligywijk",
+		"city": "Ieper",
+		"district": "",
+		"postcode": "8900"
+	},
+	{
+		"lon": "3.1713647",
+		"lat": "50.958106",
+		"number": "4",
+		"street": "Zwaluwenstraat",
+		"city": "Ardooie",
+		"district": "",
+		"postcode": "8850"
+	},
+	{
+		"lon": "4.2496966",
+		"lat": "51.0924897",
+		"number": "237",
+		"street": "Puursesteenweg",
+		"city": "Bornem",
+		"district": "",
+		"postcode": "2880"
+	},
+	{
+		"lon": "4.3947908",
+		"lat": "51.2059683",
+		"number": "137",
+		"street": "Amerikalei",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2000"
+	},
+	{
+		"lon": "4.4332812",
+		"lat": "50.9279114",
+		"number": "1",
+		"street": "Bolwerkstraat",
+		"city": "Vilvoorde",
+		"district": "",
+		"postcode": "1800"
+	},
+	{
+		"lon": "3.1774979",
+		"lat": "51.3269404",
+		"number": "268",
+		"street": "Kustlaan",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8380"
+	},
+	{
+		"lon": "4.6667575",
+		"lat": "50.9220563",
+		"number": "42",
+		"street": "Den Elst",
+		"city": "Herent",
+		"district": "",
+		"postcode": "3020"
+	},
+	{
+		"lon": "5.6287355",
+		"lat": "50.8855178",
+		"number": "54",
+		"street": "Op de Puin",
+		"city": "Lanaken",
+		"district": "",
+		"postcode": "3620"
+	},
+	{
+		"lon": "4.4041933",
+		"lat": "51.220094",
+		"number": "2",
+		"street": "Sudermanstraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2000"
+	},
+	{
+		"lon": "4.3678961",
+		"lat": "51.1802854",
+		"number": "18",
+		"street": "Caronstraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2660"
+	},
+	{
+		"lon": "4.0069236",
+		"lat": "51.0296751",
+		"number": "47",
+		"street": "Gaver",
+		"city": "Berlare",
+		"district": "",
+		"postcode": "9290"
+	},
+	{
+		"lon": "5.2989816",
+		"lat": "51.0392565",
+		"number": "95",
+		"street": "Koolmijnlaan",
+		"city": "Heusden-Zolder",
+		"district": "",
+		"postcode": "3550"
+	},
+	{
+		"lon": "4.230609",
+		"lat": "51.1789102",
+		"number": "7",
+		"street": "Bankstraat",
+		"city": "Beveren",
+		"district": "",
+		"postcode": "9120"
+	},
+	{
+		"lon": "4.0983594",
+		"lat": "50.7207995",
+		"number": "11",
+		"street": "Bosstraat",
+		"city": "Pepingen",
+		"district": "",
+		"postcode": "1670"
+	},
+	{
+		"lon": "3.6581157",
+		"lat": "51.0485465",
+		"number": "9",
+		"street": "Drongenstationstraat",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9031"
+	},
+	{
+		"lon": "4.3780489",
+		"lat": "50.9307269",
+		"number": "92",
+		"street": "Vilvoordsesteenweg",
+		"city": "Grimbergen",
+		"district": "",
+		"postcode": "1850"
+	},
+	{
+		"lon": "4.4711695",
+		"lat": "50.8839161",
+		"number": "113",
+		"street": "Stationsstraat",
+		"city": "Zaventem",
+		"district": "",
+		"postcode": "1930"
+	},
+	{
+		"lon": "4.804703",
+		"lat": "51.0143508",
+		"number": "269",
+		"street": "Liersesteenweg",
+		"city": "Begijnendijk",
+		"district": "",
+		"postcode": "3130"
+	},
+	{
+		"lon": "4.6075368",
+		"lat": "51.3434628",
+		"number": "5",
+		"street": "Mortelstraat",
+		"city": "Brecht",
+		"district": "",
+		"postcode": "2960"
+	},
+	{
+		"lon": "5.1673869",
+		"lat": "50.8146078",
+		"number": "195",
+		"street": "Tiensesteenweg",
+		"city": "Sint-Truiden",
+		"district": "",
+		"postcode": "3800"
+	},
+	{
+		"lon": "4.1438366",
+		"lat": "51.1574847",
+		"number": "55",
+		"street": "Abingdonstraat",
+		"city": "Sint-Niklaas",
+		"district": "",
+		"postcode": "9100"
+	},
+	{
+		"lon": "3.7480846",
+		"lat": "50.8030937",
+		"number": "33",
+		"street": "Haeyershoek",
+		"city": "Brakel",
+		"district": "",
+		"postcode": "9660"
+	},
+	{
+		"lon": "3.4438456",
+		"lat": "50.8867365",
+		"number": "83",
+		"street": "Hippodroomstraat",
+		"city": "Waregem",
+		"district": "",
+		"postcode": "8790"
+	},
+	{
+		"lon": "3.1024561",
+		"lat": "50.8522308",
+		"number": "39",
+		"street": "Mgr. Cardijnlaan",
+		"city": "Moorslede",
+		"district": "",
+		"postcode": "8890"
+	},
+	{
+		"lon": "3.6476595",
+		"lat": "50.998765",
+		"number": "7",
+		"street": "Eikelstraat",
+		"city": "De Pinte",
+		"district": "",
+		"postcode": "9840"
+	},
+	{
+		"lon": "4.3589923",
+		"lat": "50.9371002",
+		"number": "189",
+		"street": "Wolvertemsesteenweg",
+		"city": "Grimbergen",
+		"district": "",
+		"postcode": "1850"
+	},
+	{
+		"lon": "4.237643",
+		"lat": "50.9581173",
+		"number": "29",
+		"street": "Puursstraat",
+		"city": "Merchtem",
+		"district": "",
+		"postcode": "1785"
+	},
+	{
+		"lon": "3.3117498",
+		"lat": "50.7734252",
+		"number": "14",
+		"street": "Perykelstraat",
+		"city": "Kortrijk",
+		"district": "",
+		"postcode": "8510"
+	},
+	{
+		"lon": "5.2747723",
+		"lat": "50.9794871",
+		"number": "207",
+		"street": "Sint-Jobstraat",
+		"city": "Heusden-Zolder",
+		"district": "",
+		"postcode": "3550"
+	},
+	{
+		"lon": "5.3606858",
+		"lat": "50.919236",
+		"number": "153",
+		"street": "Singelbeekstraat",
+		"city": "Hasselt",
+		"district": "",
+		"postcode": "3500"
+	},
+	{
+		"lon": "4.2440695",
+		"lat": "50.7823849",
+		"number": "18A",
+		"street": "Victor Nonnemanstraat",
+		"city": "Sint-Pieters-Leeuw",
+		"district": "",
+		"postcode": "1600"
+	},
+	{
+		"lon": "4.1279529",
+		"lat": "51.0995709",
+		"number": "4",
+		"street": "Kaaldries",
+		"city": "Hamme",
+		"district": "",
+		"postcode": "9220"
+	},
+	{
+		"lon": "4.5695975",
+		"lat": "51.3040381",
+		"number": "8",
+		"street": "Cambeenlei",
+		"city": "Brecht",
+		"district": "",
+		"postcode": "2960"
+	},
+	{
+		"lon": "4.7139499",
+		"lat": "51.0771728",
+		"number": "16",
+		"street": "Stationsstraat",
+		"city": "Heist-op-den-Berg",
+		"district": "",
+		"postcode": "2220"
+	},
+	{
+		"lon": "4.5181422",
+		"lat": "50.820134",
+		"number": "15",
+		"street": "Reeboklaan",
+		"city": "Tervuren",
+		"district": "",
+		"postcode": "3080"
+	},
+	{
+		"lon": "3.7888125",
+		"lat": "50.7563984",
+		"number": "15",
+		"street": "Hemelrijk",
+		"city": "Brakel",
+		"district": "",
+		"postcode": "9660"
+	},
+	{
+		"lon": "4.5021516",
+		"lat": "51.0739315",
+		"number": "24",
+		"street": "Goorboslei",
+		"city": "Sint-Katelijne-Waver",
+		"district": "",
+		"postcode": "2860"
+	},
+	{
+		"lon": "3.3386215",
+		"lat": "50.7994442",
+		"number": "1",
+		"street": "Bellegemstraat",
+		"city": "Zwevegem",
+		"district": "",
+		"postcode": "8550"
+	},
+	{
+		"lon": "5.1160878",
+		"lat": "50.9737982",
+		"number": "15",
+		"street": "Bovenstraat",
+		"city": "Halen",
+		"district": "",
+		"postcode": "3545"
+	},
+	{
+		"lon": "5.592774",
+		"lat": "51.1398677",
+		"number": "29",
+		"street": "Nieuwstadpoort",
+		"city": "Bree",
+		"district": "",
+		"postcode": "3960"
+	},
+	{
+		"lon": "4.3687354",
+		"lat": "51.1113392",
+		"number": "2",
+		"street": "Jef Van Hooflaan",
+		"city": "Aartselaar",
+		"district": "",
+		"postcode": "2630"
+	},
+	{
+		"lon": "3.7107826",
+		"lat": "51.0573808",
+		"number": "7",
+		"street": "Hippoliet Lammensstraat",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "3.8169388",
+		"lat": "51.0323215",
+		"number": "61A",
+		"street": "Loveldstraat",
+		"city": "Destelbergen",
+		"district": "",
+		"postcode": "9070"
+	},
+	{
+		"lon": "4.3878812",
+		"lat": "50.9721143",
+		"number": "85",
+		"street": "Sint-Rumoldusstraat",
+		"city": "Grimbergen",
+		"district": "",
+		"postcode": "1851"
+	},
+	{
+		"lon": "3.7906232",
+		"lat": "51.1989784",
+		"number": "129",
+		"street": "Assenedesteenweg",
+		"city": "Zelzate",
+		"district": "",
+		"postcode": "9060"
+	},
+	{
+		"lon": "4.1778621",
+		"lat": "50.9787345",
+		"number": "34",
+		"street": "Eeksken",
+		"city": "Opwijk",
+		"district": "",
+		"postcode": "1745"
+	},
+	{
+		"lon": "4.2344405",
+		"lat": "51.1009044",
+		"number": "20",
+		"street": "Temsesteenweg",
+		"city": "Bornem",
+		"district": "",
+		"postcode": "2880"
+	},
+	{
+		"lon": "4.1298039",
+		"lat": "51.2219087",
+		"number": "54",
+		"street": "Nieuwstraat",
+		"city": "Sint-Gillis-Waas",
+		"district": "",
+		"postcode": "9170"
+	},
+	{
+		"lon": "4.0066066",
+		"lat": "50.8702968",
+		"number": "2",
+		"street": "Sannastraat",
+		"city": "Haaltert",
+		"district": "",
+		"postcode": "9450"
+	},
+	{
+		"lon": "4.098007",
+		"lat": "51.0278585",
+		"number": "9",
+		"street": "Sint-Rochusstraat",
+		"city": "Dendermonde",
+		"district": "",
+		"postcode": "9200"
+	},
+	{
+		"lon": "4.3593137",
+		"lat": "51.1112108",
+		"number": "27",
+		"street": "Koekoekstraat",
+		"city": "Aartselaar",
+		"district": "",
+		"postcode": "2630"
+	},
+	{
+		"lon": "5.0553116",
+		"lat": "51.3140359",
+		"number": "115",
+		"street": "Schotelven",
+		"city": "Arendonk",
+		"district": "",
+		"postcode": "2370"
+	},
+	{
+		"lon": "4.5069435",
+		"lat": "51.3020062",
+		"number": "199",
+		"street": "Heislagsebaan",
+		"city": "Brasschaat",
+		"district": "",
+		"postcode": "2930"
+	},
+	{
+		"lon": "3.0582057",
+		"lat": "50.7824076",
+		"number": "4",
+		"street": "Ballonstraat",
+		"city": "Wervik",
+		"district": "",
+		"postcode": "8940"
+	},
+	{
+		"lon": "4.7261997",
+		"lat": "50.8654967",
+		"number": "66",
+		"street": "Philipslaan",
+		"city": "Leuven",
+		"district": "",
+		"postcode": "3000"
+	},
+	{
+		"lon": "4.1606342",
+		"lat": "50.9064054",
+		"number": "60",
+		"street": "Kespier",
+		"city": "Asse",
+		"district": "",
+		"postcode": "1730"
+	},
+	{
+		"lon": "5.5243055",
+		"lat": "51.2510441",
+		"number": "6",
+		"street": "Krekelhoeve",
+		"city": "Hamont-Achel",
+		"district": "",
+		"postcode": "3930"
+	},
+	{
+		"lon": "5.0936888",
+		"lat": "50.7669247",
+		"number": "30",
+		"street": "Dorpsstraat",
+		"city": "Landen",
+		"district": "",
+		"postcode": "3404"
+	},
+	{
+		"lon": "4.2299737",
+		"lat": "50.8981595",
+		"number": "243",
+		"street": "Brusselsesteenweg",
+		"city": "Asse",
+		"district": "",
+		"postcode": "1730"
+	},
+	{
+		"lon": "4.1685369",
+		"lat": "51.0298686",
+		"number": "20",
+		"street": "Zwarte Beekstraat",
+		"city": "Dendermonde",
+		"district": "",
+		"postcode": "9200"
+	},
+	{
+		"lon": "4.2447901",
+		"lat": "50.7340817",
+		"number": "134",
+		"street": "Broekborre",
+		"city": "Halle",
+		"district": "",
+		"postcode": "1500"
+	},
+	{
+		"lon": "5.3712275",
+		"lat": "51.1317766",
+		"number": "3",
+		"street": "Imkerstraat",
+		"city": "Hechtel-Eksel",
+		"district": "",
+		"postcode": "3940"
+	},
+	{
+		"lon": "5.1351595",
+		"lat": "50.9409214",
+		"number": "4",
+		"street": "Dreefstraat",
+		"city": "Herk-de-Stad",
+		"district": "",
+		"postcode": "3540"
+	},
+	{
+		"lon": "4.7685424",
+		"lat": "50.8824176",
+		"number": "41",
+		"street": "Langelostraat",
+		"city": "Lubbeek",
+		"district": "",
+		"postcode": "3212"
+	},
+	{
+		"lon": "3.1960174",
+		"lat": "50.9201077",
+		"number": "61",
+		"street": "Kapucijnenlaan",
+		"city": "Izegem",
+		"district": "",
+		"postcode": "8870"
+	},
+	{
+		"lon": "5.1950477",
+		"lat": "50.8604426",
+		"number": "23",
+		"street": "Driesstraat",
+		"city": "Nieuwerkerken",
+		"district": "",
+		"postcode": "3850"
+	},
+	{
+		"lon": "3.5496644",
+		"lat": "51.1777034",
+		"number": "215",
+		"street": "Tieltsesteenweg",
+		"city": "Eeklo",
+		"district": "",
+		"postcode": "9900"
+	},
+	{
+		"lon": "5.1112633",
+		"lat": "51.185153",
+		"number": "39",
+		"street": "Gasstraat",
+		"city": "Mol",
+		"district": "",
+		"postcode": "2400"
+	},
+	{
+		"lon": "4.4325027",
+		"lat": "50.9073911",
+		"number": "19",
+		"street": "Pierre Raedemaekersstraat",
+		"city": "Machelen",
+		"district": "",
+		"postcode": "1830"
+	},
+	{
+		"lon": "4.948523",
+		"lat": "51.3237707",
+		"number": "13",
+		"street": "Grote Markt",
+		"city": "Turnhout",
+		"district": "",
+		"postcode": "2300"
+	},
+	{
+		"lon": "3.1855861",
+		"lat": "50.8105114",
+		"number": "43",
+		"street": "Brugstraat",
+		"city": "Wevelgem",
+		"district": "",
+		"postcode": "8560"
+	},
+	{
+		"lon": "5.3397591",
+		"lat": "50.9147452",
+		"number": "14",
+		"street": "Rode-Berglaan",
+		"city": "Hasselt",
+		"district": "",
+		"postcode": "3500"
+	},
+	{
+		"lon": "4.2940527",
+		"lat": "51.0030647",
+		"number": "33",
+		"street": "Linde",
+		"city": "Londerzeel",
+		"district": "",
+		"postcode": "1840"
+	},
+	{
+		"lon": "4.4482263",
+		"lat": "51.1775416",
+		"number": "62",
+		"street": "Theofiel Reynlaan",
+		"city": "Mortsel",
+		"district": "",
+		"postcode": "2640"
+	},
+	{
+		"lon": "4.8517703",
+		"lat": "51.3220891",
+		"number": "11",
+		"street": "Beekakkersstraat",
+		"city": "Beerse",
+		"district": "",
+		"postcode": "2340"
+	},
+	{
+		"lon": "4.3557253",
+		"lat": "51.1832425",
+		"number": "45",
+		"street": "Scheirlinckxstraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2660"
+	},
+	{
+		"lon": "3.2916592",
+		"lat": "50.8402726",
+		"number": "25",
+		"street": "Hippodroomstraat",
+		"city": "Harelbeke",
+		"district": "",
+		"postcode": "8530"
+	},
+	{
+		"lon": "3.688075",
+		"lat": "51.0714752",
+		"number": "5",
+		"street": "Vlasstraat",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9030"
+	},
+	{
+		"lon": "4.3330231",
+		"lat": "50.7712916",
+		"number": "2",
+		"street": "Vijversdreef",
+		"city": "Linkebeek",
+		"district": "",
+		"postcode": "1630"
+	},
+	{
+		"lon": "4.4731949",
+		"lat": "51.3532435",
+		"number": "41",
+		"street": "Prins Albertlei",
+		"city": "Kalmthout",
+		"district": "",
+		"postcode": "2920"
+	},
+	{
+		"lon": "4.8345052",
+		"lat": "51.1680883",
+		"number": "11",
+		"street": "Hannekenshoek",
+		"city": "Herentals",
+		"district": "",
+		"postcode": "2200"
+	},
+	{
+		"lon": "3.2436402",
+		"lat": "50.7905298",
+		"number": "31",
+		"street": "Smokkelpotstraat",
+		"city": "Kortrijk",
+		"district": "",
+		"postcode": "8500"
+	},
+	{
+		"lon": "2.9135773",
+		"lat": "51.2302309",
+		"number": "18",
+		"street": "Leopold II-laan",
+		"city": "Oostende",
+		"district": "",
+		"postcode": "8400"
+	},
+	{
+		"lon": "3.2680823",
+		"lat": "50.8409101",
+		"number": "78",
+		"street": "Kuurnsesteenweg",
+		"city": "Kortrijk",
+		"district": "",
+		"postcode": "8500"
+	},
+	{
+		"lon": "5.513136",
+		"lat": "50.8786721",
+		"number": "2",
+		"street": "Paardskerkhofstraat",
+		"city": "Bilzen",
+		"district": "",
+		"postcode": "3740"
+	},
+	{
+		"lon": "4.0885357",
+		"lat": "51.1184451",
+		"number": "14",
+		"street": "Kastanjelaan",
+		"city": "Waasmunster",
+		"district": "",
+		"postcode": "9250"
+	},
+	{
+		"lon": "4.6987169",
+		"lat": "50.9315623",
+		"number": "21",
+		"street": "Rotselaarsesteenweg",
+		"city": "Leuven",
+		"district": "",
+		"postcode": "3018"
+	},
+	{
+		"lon": "3.2036856",
+		"lat": "50.7962475",
+		"number": "1",
+		"street": "Biestlaan",
+		"city": "Menen",
+		"district": "",
+		"postcode": "8930"
+	},
+	{
+		"lon": "3.1138674",
+		"lat": "50.9561224",
+		"number": "3",
+		"street": "Leeuwerikstraat",
+		"city": "Roeselare",
+		"district": "",
+		"postcode": "8800"
+	},
+	{
+		"lon": "4.5459299",
+		"lat": "51.219076",
+		"number": "12",
+		"street": "Eenhoornstraat",
+		"city": "Wommelgem",
+		"district": "",
+		"postcode": "2160"
+	},
+	{
+		"lon": "3.9917664",
+		"lat": "50.7974203",
+		"number": "24",
+		"street": "Nijken",
+		"city": "Ninove",
+		"district": "",
+		"postcode": "9400"
+	},
+	{
+		"lon": "3.9899064",
+		"lat": "50.7068821",
+		"number": "2",
+		"street": "Manhovestraat",
+		"city": "Herne",
+		"district": "",
+		"postcode": "1541"
+	},
+	{
+		"lon": "5.069771",
+		"lat": "51.1295294",
+		"number": "26",
+		"street": "Boslaan",
+		"city": "Meerhout",
+		"district": "",
+		"postcode": "2450"
+	},
+	{
+		"lon": "4.8319093",
+		"lat": "50.8417911",
+		"number": "336",
+		"street": "Leuvensesteenweg",
+		"city": "Boutersem",
+		"district": "",
+		"postcode": "3370"
+	},
+	{
+		"lon": "4.5025804",
+		"lat": "50.9638642",
+		"number": "45",
+		"street": "Vekestraat",
+		"city": "Zemst",
+		"district": "",
+		"postcode": "1982"
+	},
+	{
+		"lon": "4.3724489",
+		"lat": "50.9123608",
+		"number": "178",
+		"street": "Streekbaan",
+		"city": "Vilvoorde",
+		"district": "",
+		"postcode": "1800"
+	},
+	{
+		"lon": "4.234441",
+		"lat": "50.7207508",
+		"number": "46",
+		"street": "Rodenemplein",
+		"city": "Halle",
+		"district": "",
+		"postcode": "1500"
+	},
+	{
+		"lon": "4.3878399",
+		"lat": "51.1715036",
+		"number": "243",
+		"street": "Boomsesteenweg_WI",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2610"
+	},
+	{
+		"lon": "2.6489717",
+		"lat": "51.0001116",
+		"number": "3",
+		"street": "Oude Molenstraat",
+		"city": "Alveringem",
+		"district": "",
+		"postcode": "8691"
+	},
+	{
+		"lon": "4.6717177",
+		"lat": "51.1286386",
+		"number": "154",
+		"street": "Legrellestraat",
+		"city": "Berlaar",
+		"district": "",
+		"postcode": "2590"
+	},
+	{
+		"lon": "4.5846743",
+		"lat": "51.2307745",
+		"number": "9",
+		"street": "Pastorijdreef",
+		"city": "Schilde",
+		"district": "",
+		"postcode": "2970"
+	},
+	{
+		"lon": "3.8661066",
+		"lat": "51.0174661",
+		"number": "8",
+		"street": "Bochten",
+		"city": "Wetteren",
+		"district": "",
+		"postcode": "9230"
+	},
+	{
+		"lon": "5.5132382",
+		"lat": "50.8345737",
+		"number": "6",
+		"street": "Demerplein",
+		"city": "Bilzen",
+		"district": "",
+		"postcode": "3740"
+	},
+	{
+		"lon": "5.0115872",
+		"lat": "50.914318",
+		"number": "4",
+		"street": "Blijstraat",
+		"city": "Kortenaken",
+		"district": "",
+		"postcode": "3473"
+	},
+	{
+		"lon": "3.2065552",
+		"lat": "50.9620469",
+		"number": "9",
+		"street": "Cijnsmolenstraat",
+		"city": "Ardooie",
+		"district": "",
+		"postcode": "8850"
+	},
+	{
+		"lon": "4.8671221",
+		"lat": "51.1520767",
+		"number": "9",
+		"street": "Ovenstraat",
+		"city": "Olen",
+		"district": "",
+		"postcode": "2250"
+	},
+	{
+		"lon": "3.2563126",
+		"lat": "50.8208927",
+		"number": "17",
+		"street": "Burgemeester Felix de Bethunelaan",
+		"city": "Kortrijk",
+		"district": "",
+		"postcode": "8500"
+	},
+	{
+		"lon": "3.8499875",
+		"lat": "51.1732468",
+		"number": "40",
+		"street": "Walderdonk",
+		"city": "Wachtebeke",
+		"district": "",
+		"postcode": "9185"
+	},
+	{
+		"lon": "3.3882513",
+		"lat": "50.835041",
+		"number": "97",
+		"street": "Overakker",
+		"city": "Anzegem",
+		"district": "",
+		"postcode": "8570"
+	},
+	{
+		"lon": "4.4815141",
+		"lat": "51.0248658",
+		"number": "88",
+		"street": "Bruul",
+		"city": "Mechelen",
+		"district": "",
+		"postcode": "2800"
+	},
+	{
+		"lon": "4.277913",
+		"lat": "50.8676922",
+		"number": "28",
+		"street": "Brusselstraat",
+		"city": "Dilbeek",
+		"district": "",
+		"postcode": "1702"
+	},
+	{
+		"lon": "4.3621886",
+		"lat": "51.3339158",
+		"number": "13",
+		"street": "Esdoornlaan",
+		"city": "Stabroek",
+		"district": "",
+		"postcode": "2940"
+	},
+	{
+		"lon": "5.4382296",
+		"lat": "50.7683753",
+		"number": "32",
+		"street": "Kerkstraat",
+		"city": "Tongeren",
+		"district": "",
+		"postcode": "3700"
+	},
+	{
+		"lon": "3.6695546",
+		"lat": "50.9458577",
+		"number": "10",
+		"street": "Duffelstraat",
+		"city": "Gavere",
+		"district": "",
+		"postcode": "9890"
+	},
+	{
+		"lon": "3.0987683",
+		"lat": "51.1209228",
+		"number": "15",
+		"street": "De Kaaie",
+		"city": "Zedelgem",
+		"district": "",
+		"postcode": "8211"
+	},
+	{
+		"lon": "5.2096097",
+		"lat": "51.0295147",
+		"number": "43",
+		"street": "Gestelstraat",
+		"city": "Lummen",
+		"district": "",
+		"postcode": "3560"
+	},
+	{
+		"lon": "5.0506997",
+		"lat": "51.2893699",
+		"number": "8",
+		"street": "Nonnenstraat",
+		"city": "Retie",
+		"district": "",
+		"postcode": "2470"
+	},
+	{
+		"lon": "3.4326715",
+		"lat": "51.200012",
+		"number": "214",
+		"street": "Bogaardestraat",
+		"city": "Maldegem",
+		"district": "",
+		"postcode": "9990"
+	},
+	{
+		"lon": "4.7302095",
+		"lat": "51.1920798",
+		"number": "7",
+		"street": "Neerveld",
+		"city": "Grobbendonk",
+		"district": "",
+		"postcode": "2280"
+	},
+	{
+		"lon": "5.729856",
+		"lat": "51.0379924",
+		"number": "1",
+		"street": "Hoogbaan",
+		"city": "Dilsen-Stokkem",
+		"district": "",
+		"postcode": "3650"
+	},
+	{
+		"lon": "4.4552904",
+		"lat": "50.9773554",
+		"number": "59",
+		"street": "Guldenboomlaan",
+		"city": "Zemst",
+		"district": "",
+		"postcode": "1980"
+	},
+	{
+		"lon": "3.4094247",
+		"lat": "51.252122",
+		"number": "19",
+		"street": "Waterpolder",
+		"city": "Maldegem",
+		"district": "",
+		"postcode": "9992"
+	},
+	{
+		"lon": "3.647904",
+		"lat": "51.0162694",
+		"number": "23",
+		"street": "Molenstraat",
+		"city": "Sint-Martens-Latem",
+		"district": "",
+		"postcode": "9830"
+	},
+	{
+		"lon": "5.194626",
+		"lat": "50.8167463",
+		"number": "10",
+		"street": "Zepperenweg",
+		"city": "Sint-Truiden",
+		"district": "",
+		"postcode": "3800"
+	},
+	{
+		"lon": "4.40908",
+		"lat": "51.3113017",
+		"number": "43",
+		"street": "Beukenlaan",
+		"city": "Stabroek",
+		"district": "",
+		"postcode": "2940"
+	},
+	{
+		"lon": "3.8667889",
+		"lat": "51.0304472",
+		"number": "58",
+		"street": "Lange Meire",
+		"city": "Laarne",
+		"district": "",
+		"postcode": "9270"
+	},
+	{
+		"lon": "3.8345873",
+		"lat": "51.0306674",
+		"number": "20",
+		"street": "Vagevuurstraat",
+		"city": "Laarne",
+		"district": "",
+		"postcode": "9270"
+	},
+	{
+		"lon": "3.005525",
+		"lat": "51.2039259",
+		"number": "74",
+		"street": "Stationsstraat",
+		"city": "Oudenburg",
+		"district": "",
+		"postcode": "8460"
+	},
+	{
+		"lon": "3.1343813",
+		"lat": "51.0867218",
+		"number": "62",
+		"street": "Rozeveldstraat",
+		"city": "Torhout",
+		"district": "",
+		"postcode": "8820"
+	},
+	{
+		"lon": "4.5698284",
+		"lat": "51.0637701",
+		"number": "2",
+		"street": "Vossenberglei",
+		"city": "Sint-Katelijne-Waver",
+		"district": "",
+		"postcode": "2861"
+	},
+	{
+		"lon": "5.3535112",
+		"lat": "50.9282305",
+		"number": "14",
+		"street": "Harpstraat",
+		"city": "Hasselt",
+		"district": "",
+		"postcode": "3500"
+	},
+	{
+		"lon": "3.6972025",
+		"lat": "50.9544195",
+		"number": "37",
+		"street": "Kasteelstraat",
+		"city": "Merelbeke",
+		"district": "",
+		"postcode": "9820"
+	},
+	{
+		"lon": "2.9157395",
+		"lat": "51.2034509",
+		"number": "31",
+		"street": "Zilverlaan",
+		"city": "Oostende",
+		"district": "",
+		"postcode": "8400"
+	},
+	{
+		"lon": "4.9470769",
+		"lat": "50.9669844",
+		"number": "15",
+		"street": "M. Zeelmaekersstraat",
+		"city": "Scherpenheuvel-Zichem",
+		"district": "",
+		"postcode": "3270"
+	},
+	{
+		"lon": "5.088251",
+		"lat": "50.7621848",
+		"number": "162B",
+		"street": "Attenhovenstraat",
+		"city": "Landen",
+		"district": "",
+		"postcode": "3404"
+	},
+	{
+		"lon": "5.0722336",
+		"lat": "50.7492942",
+		"number": "12",
+		"street": "V. Demeersmanstraat",
+		"city": "Landen",
+		"district": "",
+		"postcode": "3400"
+	},
+	{
+		"lon": "5.4496604",
+		"lat": "50.7769013",
+		"number": "50",
+		"street": "Rode Kruislaan",
+		"city": "Tongeren",
+		"district": "",
+		"postcode": "3700"
+	},
+	{
+		"lon": "4.5112455",
+		"lat": "51.2646831",
+		"number": "24",
+		"street": "Industriepark Brechtsebaan",
+		"city": "Schoten",
+		"district": "",
+		"postcode": "2900"
+	},
+	{
+		"lon": "4.9294614",
+		"lat": "51.3221058",
+		"number": "78",
+		"street": "Tramstraat",
+		"city": "Turnhout",
+		"district": "",
+		"postcode": "2300"
+	},
+	{
+		"lon": "3.4808298",
+		"lat": "50.7698972",
+		"number": "41",
+		"street": "Grote Herreweg",
+		"city": "Kluisbergen",
+		"district": "",
+		"postcode": "9690"
+	},
+	{
+		"lon": "2.9594602",
+		"lat": "51.218504",
+		"number": "22",
+		"street": "Biekorfstraat",
+		"city": "Oostende",
+		"district": "",
+		"postcode": "8400"
+	},
+	{
+		"lon": "3.501759",
+		"lat": "50.9892524",
+		"number": "2",
+		"street": "Korenstraat",
+		"city": "Deinze",
+		"district": "",
+		"postcode": "9800"
+	},
+	{
+		"lon": "5.0849737",
+		"lat": "51.1764043",
+		"number": "247A",
+		"street": "Ezaart",
+		"city": "Mol",
+		"district": "",
+		"postcode": "2400"
+	},
+	{
+		"lon": "4.4875062",
+		"lat": "51.0312283",
+		"number": "67",
+		"street": "Frans Halsvest",
+		"city": "Mechelen",
+		"district": "",
+		"postcode": "2800"
+	},
+	{
+		"lon": "3.9863769",
+		"lat": "51.187999",
+		"number": "35",
+		"street": "Kasteelstraat",
+		"city": "Stekene",
+		"district": "",
+		"postcode": "9190"
+	},
+	{
+		"lon": "3.7476804",
+		"lat": "50.9966751",
+		"number": "291",
+		"street": "Hundelgemsesteenweg",
+		"city": "Merelbeke",
+		"district": "",
+		"postcode": "9820"
+	},
+	{
+		"lon": "4.0305426",
+		"lat": "51.1936794",
+		"number": "4",
+		"street": "Heimeersstraat",
+		"city": "Stekene",
+		"district": "",
+		"postcode": "9190"
+	},
+	{
+		"lon": "4.4477283",
+		"lat": "51.360781",
+		"number": "27",
+		"street": "Doornenlaan",
+		"city": "Kapellen",
+		"district": "",
+		"postcode": "2950"
+	},
+	{
+		"lon": "5.4486557",
+		"lat": "50.9766065",
+		"number": "7",
+		"street": "Wetzandstraat",
+		"city": "Genk",
+		"district": "",
+		"postcode": "3600"
+	},
+	{
+		"lon": "4.5007227",
+		"lat": "51.3947482",
+		"number": "38A",
+		"street": "Brasschaatsteenweg",
+		"city": "Kalmthout",
+		"district": "",
+		"postcode": "2920"
+	},
+	{
+		"lon": "5.8131224",
+		"lat": "51.1559865",
+		"number": "400",
+		"street": "Venlosesteenweg",
+		"city": "Kinrooi",
+		"district": "",
+		"postcode": "3640"
+	},
+	{
+		"lon": "5.1128416",
+		"lat": "51.1052224",
+		"number": "37",
+		"street": "Voortbossen",
+		"city": "Meerhout",
+		"district": "",
+		"postcode": "2450"
+	},
+	{
+		"lon": "3.3006988",
+		"lat": "51.3394935",
+		"number": "98",
+		"street": "Keuvelhoekstraat",
+		"city": "Knokke-Heist",
+		"district": "",
+		"postcode": "8300"
+	},
+	{
+		"lon": "3.9181816",
+		"lat": "51.0613266",
+		"number": "28",
+		"street": "Portugiezenstraat",
+		"city": "Laarne",
+		"district": "",
+		"postcode": "9270"
+	},
+	{
+		"lon": "3.2090822",
+		"lat": "51.1984707",
+		"number": "27",
+		"street": "Hoog-Brabantlaan",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8200"
+	},
+	{
+		"lon": "3.6610816",
+		"lat": "50.9306244",
+		"number": "90",
+		"street": "Onderstraat",
+		"city": "Gavere",
+		"district": "",
+		"postcode": "9890"
+	},
+	{
+		"lon": "2.9495179",
+		"lat": "51.2228361",
+		"number": "29",
+		"street": "Prinses Elisabethlaan",
+		"city": "Bredene",
+		"district": "",
+		"postcode": "8450"
+	},
+	{
+		"lon": "3.9187697",
+		"lat": "50.738692",
+		"number": "85",
+		"street": "Kouterstraat",
+		"city": "Geraardsbergen",
+		"district": "",
+		"postcode": "9500"
+	},
+	{
+		"lon": "4.647351",
+		"lat": "50.8600925",
+		"number": "5",
+		"street": "Voervalleilaan",
+		"city": "Leuven",
+		"district": "",
+		"postcode": "3001"
+	},
+	{
+		"lon": "3.5798575",
+		"lat": "51.1815501",
+		"number": "61",
+		"street": "Oostveldstraat",
+		"city": "Eeklo",
+		"district": "",
+		"postcode": "9900"
+	},
+	{
+		"lon": "3.969833",
+		"lat": "51.1455364",
+		"number": "36",
+		"street": "Weehaagstraat",
+		"city": "Lokeren",
+		"district": "",
+		"postcode": "9160"
+	},
+	{
+		"lon": "4.9366517",
+		"lat": "51.3089929",
+		"number": "8",
+		"street": "Heidevenstraat",
+		"city": "Turnhout",
+		"district": "",
+		"postcode": "2300"
+	},
+	{
+		"lon": "5.6549345",
+		"lat": "51.1126103",
+		"number": "5",
+		"street": "Solterveldstraat",
+		"city": "Bree",
+		"district": "",
+		"postcode": "3960"
+	},
+	{
+		"lon": "3.2316795",
+		"lat": "51.2016155",
+		"number": "40",
+		"street": "Gentpoortvest",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8000"
+	},
+	{
+		"lon": "3.6806139",
+		"lat": "51.1913729",
+		"number": "2",
+		"street": "Kerrestraat",
+		"city": "Assenede",
+		"district": "",
+		"postcode": "9968"
+	},
+	{
+		"lon": "5.7409803",
+		"lat": "51.0255004",
+		"number": "131",
+		"street": "Stokkemerbaan",
+		"city": "Dilsen-Stokkem",
+		"district": "",
+		"postcode": "3650"
+	},
+	{
+		"lon": "2.9037199",
+		"lat": "51.0260433",
+		"number": "45",
+		"street": "Maagdhoek",
+		"city": "Diksmuide",
+		"district": "",
+		"postcode": "8600"
+	},
+	{
+		"lon": "4.4125589",
+		"lat": "51.0366362",
+		"number": "17",
+		"street": "Esptweg",
+		"city": "Mechelen",
+		"district": "",
+		"postcode": "2811"
+	},
+	{
+		"lon": "3.7146859",
+		"lat": "51.0799292",
+		"number": "34",
+		"street": "Spoorwegstraat",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9032"
+	},
+	{
+		"lon": "4.4485078",
+		"lat": "51.2014549",
+		"number": "43",
+		"street": "De Leescorfstraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2140"
+	},
+	{
+		"lon": "4.4479926",
+		"lat": "51.2290346",
+		"number": "172",
+		"street": "Van Heetveldelei",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2100"
+	},
+	{
+		"lon": "5.2814753",
+		"lat": "51.1743467",
+		"number": "37B",
+		"street": "Korenstraat",
+		"city": "Lommel",
+		"district": "",
+		"postcode": "3920"
+	},
+	{
+		"lon": "3.366389",
+		"lat": "51.1255958",
+		"number": "16",
+		"street": "Galgeveld",
+		"city": "Beernem",
+		"district": "",
+		"postcode": "8730"
+	},
+	{
+		"lon": "3.940374",
+		"lat": "51.0052432",
+		"number": "57",
+		"street": "Dendermondsesteenweg",
+		"city": "Wichelen",
+		"district": "",
+		"postcode": "9260"
+	},
+	{
+		"lon": "4.5028974",
+		"lat": "50.8215373",
+		"number": "20",
+		"street": "Jef Coosemansstraat",
+		"city": "Tervuren",
+		"district": "",
+		"postcode": "3080"
+	},
+	{
+		"lon": "3.7389525",
+		"lat": "51.0537517",
+		"number": "6",
+		"street": "Gandastraat",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "3.7670996",
+		"lat": "51.0712044",
+		"number": "34",
+		"street": "Kortedreef",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9040"
+	},
+	{
+		"lon": "4.5997235",
+		"lat": "50.8565537",
+		"number": "21",
+		"street": "Bankblokstraat",
+		"city": "Bertem",
+		"district": "",
+		"postcode": "3061"
+	},
+	{
+		"lon": "4.0309869",
+		"lat": "51.0631227",
+		"number": "105",
+		"street": "Burgemeester Van Ackerwijk E",
+		"city": "Zele",
+		"district": "",
+		"postcode": "9240"
+	},
+	{
+		"lon": "4.6011276",
+		"lat": "51.1457156",
+		"number": "7",
+		"street": "Fazantweg",
+		"city": "Lier",
+		"district": "",
+		"postcode": "2500"
+	},
+	{
+		"lon": "4.6331141",
+		"lat": "50.9980068",
+		"number": "22",
+		"street": "Vossekot",
+		"city": "Keerbergen",
+		"district": "",
+		"postcode": "3140"
+	},
+	{
+		"lon": "4.4465344",
+		"lat": "51.2435148",
+		"number": "44",
+		"street": "Doelhofstraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2170"
+	},
+	{
+		"lon": "4.4393995",
+		"lat": "51.2176911",
+		"number": "26",
+		"street": "Gijselsstraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2140"
+	},
+	{
+		"lon": "4.4169566",
+		"lat": "51.31463",
+		"number": "103",
+		"street": "Biartlei",
+		"city": "Kapellen",
+		"district": "",
+		"postcode": "2950"
+	},
+	{
+		"lon": "4.5062207",
+		"lat": "50.7808684",
+		"number": "5",
+		"street": "Houwenberglaan",
+		"city": "Overijse",
+		"district": "",
+		"postcode": "3090"
+	},
+	{
+		"lon": "3.1340012",
+		"lat": "50.9681611",
+		"number": "26",
+		"street": "Bollaardstraat",
+		"city": "Roeselare",
+		"district": "",
+		"postcode": "8800"
+	},
+	{
+		"lon": "4.5704182",
+		"lat": "51.1328832",
+		"number": "50",
+		"street": "Lisperstraat",
+		"city": "Lier",
+		"district": "",
+		"postcode": "2500"
+	},
+	{
+		"lon": "5.6277376",
+		"lat": "50.8697696",
+		"number": "10",
+		"street": "Ganzenlaan",
+		"city": "Lanaken",
+		"district": "",
+		"postcode": "3620"
+	},
+	{
+		"lon": "4.4762369",
+		"lat": "51.0203664",
+		"number": "58",
+		"street": "Van Benedenlaan",
+		"city": "Mechelen",
+		"district": "",
+		"postcode": "2800"
+	},
+	{
+		"lon": "4.0326241",
+		"lat": "50.8386211",
+		"number": "207",
+		"street": "Pamelstraat",
+		"city": "Ninove",
+		"district": "",
+		"postcode": "9400"
+	},
+	{
+		"lon": "4.4873469",
+		"lat": "51.0073254",
+		"number": "97",
+		"street": "Voetbalstraat",
+		"city": "Mechelen",
+		"district": "",
+		"postcode": "2800"
+	},
+	{
+		"lon": "3.1278421",
+		"lat": "50.9830201",
+		"number": "15",
+		"street": "Dwarsweg",
+		"city": "Roeselare",
+		"district": "",
+		"postcode": "8800"
+	},
+	{
+		"lon": "5.2692979",
+		"lat": "50.87499",
+		"number": "82",
+		"street": "St. Jorisstraat",
+		"city": "Alken",
+		"district": "",
+		"postcode": "3570"
+	},
+	{
+		"lon": "4.650581",
+		"lat": "51.1879342",
+		"number": "28",
+		"street": "Parochiestraat",
+		"city": "Zandhoven",
+		"district": "",
+		"postcode": "2240"
+	},
+	{
+		"lon": "3.7091834",
+		"lat": "51.0503594",
+		"number": "24",
+		"street": "Rozemarijnstraat",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "4.4642233",
+		"lat": "51.0429006",
+		"number": "155",
+		"street": "Oude Antwerpsebaan",
+		"city": "Mechelen",
+		"district": "",
+		"postcode": "2800"
+	},
+	{
+		"lon": "3.6751798",
+		"lat": "51.2273383",
+		"number": "18",
+		"street": "Kraaigemstraat",
+		"city": "Assenede",
+		"district": "",
+		"postcode": "9968"
+	},
+	{
+		"lon": "2.865727",
+		"lat": "51.0218037",
+		"number": "81",
+		"street": "Woumenweg",
+		"city": "Diksmuide",
+		"district": "",
+		"postcode": "8600"
+	},
+	{
+		"lon": "4.1591647",
+		"lat": "51.1529833",
+		"number": "712",
+		"street": "Koningin Fabiolapark",
+		"city": "Sint-Niklaas",
+		"district": "",
+		"postcode": "9100"
+	},
+	{
+		"lon": "5.4806305",
+		"lat": "50.9590847",
+		"number": "2",
+		"street": "Brugstraat",
+		"city": "Genk",
+		"district": "",
+		"postcode": "3600"
+	},
+	{
+		"lon": "5.480425",
+		"lat": "51.0216536",
+		"number": "7",
+		"street": "Resedastraat",
+		"city": "Houthalen-Helchteren",
+		"district": "",
+		"postcode": "3530"
+	},
+	{
+		"lon": "5.5732534",
+		"lat": "50.9341858",
+		"number": "6",
+		"street": "Zuidwinkelstraat",
+		"city": "Zutendaal",
+		"district": "",
+		"postcode": "3690"
+	},
+	{
+		"lon": "4.4444618",
+		"lat": "51.2414896",
+		"number": "13",
+		"street": "Karel Van Dammestraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2170"
+	},
+	{
+		"lon": "3.7219112",
+		"lat": "51.25605",
+		"number": "16",
+		"street": "Koudekerkestraat",
+		"city": "Assenede",
+		"district": "",
+		"postcode": "9961"
+	},
+	{
+		"lon": "3.9949916",
+		"lat": "51.1022833",
+		"number": "17",
+		"street": "Zand",
+		"city": "Lokeren",
+		"district": "",
+		"postcode": "9160"
+	},
+	{
+		"lon": "4.2295545",
+		"lat": "50.7428911",
+		"number": "10",
+		"street": "Gaasbeeksesteenweg",
+		"city": "Halle",
+		"district": "",
+		"postcode": "1500"
+	},
+	{
+		"lon": "4.4399172",
+		"lat": "51.2155438",
+		"number": "54",
+		"street": "Bothastraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2140"
+	},
+	{
+		"lon": "4.4155259",
+		"lat": "51.1027401",
+		"number": "42",
+		"street": "Beekvelden",
+		"city": "Rumst",
+		"district": "",
+		"postcode": "2840"
+	},
+	{
+		"lon": "3.8753484",
+		"lat": "50.7689625",
+		"number": "7",
+		"street": "Pateelstraat",
+		"city": "Geraardsbergen",
+		"district": "",
+		"postcode": "9500"
+	},
+	{
+		"lon": "3.3723865",
+		"lat": "50.9093587",
+		"number": "1",
+		"street": "Kapellestraat",
+		"city": "Wielsbeke",
+		"district": "",
+		"postcode": "8710"
+	},
+	{
+		"lon": "4.1912287",
+		"lat": "51.1332606",
+		"number": "299",
+		"street": "Hoogkamerstraat",
+		"city": "Temse",
+		"district": "",
+		"postcode": "9140"
+	},
+	{
+		"lon": "4.1827538",
+		"lat": "50.9809206",
+		"number": "178",
+		"street": "Neerveldstraat",
+		"city": "Opwijk",
+		"district": "",
+		"postcode": "1745"
+	},
+	{
+		"lon": "4.1826752",
+		"lat": "50.9205958",
+		"number": "23",
+		"street": "Kelestraat",
+		"city": "Asse",
+		"district": "",
+		"postcode": "1730"
+	},
+	{
+		"lon": "4.4462565",
+		"lat": "51.1687655",
+		"number": "70",
+		"street": "Edegemsestraat",
+		"city": "Mortsel",
+		"district": "",
+		"postcode": "2640"
+	},
+	{
+		"lon": "5.214666",
+		"lat": "51.0900636",
+		"number": "44",
+		"street": "Oosthamsesteenweg",
+		"city": "Beringen",
+		"district": "",
+		"postcode": "3581"
+	},
+	{
+		"lon": "4.1555743",
+		"lat": "51.0981689",
+		"number": "200",
+		"street": "Noordstraat",
+		"city": "Hamme",
+		"district": "",
+		"postcode": "9220"
+	},
+	{
+		"lon": "4.3141763",
+		"lat": "50.7467718",
+		"number": "130",
+		"street": "Dikkemeerweg",
+		"city": "Beersel",
+		"district": "",
+		"postcode": "1653"
+	},
+	{
+		"lon": "4.5408944",
+		"lat": "50.8771169",
+		"number": "57",
+		"street": "Achterenbergstraat",
+		"city": "Kortenberg",
+		"district": "",
+		"postcode": "3070"
+	},
+	{
+		"lon": "3.1198217",
+		"lat": "50.9324801",
+		"number": "288",
+		"street": "Meensesteenweg",
+		"city": "Roeselare",
+		"district": "",
+		"postcode": "8800"
+	},
+	{
+		"lon": "4.9729167",
+		"lat": "51.0672443",
+		"number": "54",
+		"street": "Oude Geelsebaan",
+		"city": "Laakdal",
+		"district": "",
+		"postcode": "2431"
+	},
+	{
+		"lon": "3.1877362",
+		"lat": "50.7583369",
+		"number": "105",
+		"street": "Neerweg",
+		"city": "Menen",
+		"district": "",
+		"postcode": "8930"
+	},
+	{
+		"lon": "3.5613041",
+		"lat": "51.1773111",
+		"number": "115",
+		"street": "Zandstraat",
+		"city": "Eeklo",
+		"district": "",
+		"postcode": "9900"
+	},
+	{
+		"lon": "2.6323001",
+		"lat": "51.0979309",
+		"number": "6",
+		"street": "Ten Bogaerdelaan",
+		"city": "Koksijde",
+		"district": "",
+		"postcode": "8670"
+	},
+	{
+		"lon": "4.3861644",
+		"lat": "51.1008783",
+		"number": "100",
+		"street": "Oude Reetsebaan",
+		"city": "Boom",
+		"district": "",
+		"postcode": "2850"
+	},
+	{
+		"lon": "5.2103865",
+		"lat": "51.0890982",
+		"number": "46",
+		"street": "Hanebergstraat",
+		"city": "Beringen",
+		"district": "",
+		"postcode": "3581"
+	},
+	{
+		"lon": "3.0831432",
+		"lat": "51.2712076",
+		"number": "158",
+		"street": "Grotestraat",
+		"city": "De Haan",
+		"district": "",
+		"postcode": "8421"
+	},
+	{
+		"lon": "5.3117269",
+		"lat": "50.9317143",
+		"number": "6",
+		"street": "Tommelenstraat",
+		"city": "Hasselt",
+		"district": "",
+		"postcode": "3500"
+	},
+	{
+		"lon": "4.8198973",
+		"lat": "51.1173929",
+		"number": "21",
+		"street": "Tempels",
+		"city": "Herentals",
+		"district": "",
+		"postcode": "2200"
+	},
+	{
+		"lon": "4.2649906",
+		"lat": "50.7506228",
+		"number": "31",
+		"street": "Guido Gezellestraat",
+		"city": "Beersel",
+		"district": "",
+		"postcode": "1654"
+	},
+	{
+		"lon": "5.0813167",
+		"lat": "51.0542133",
+		"number": "44",
+		"street": "Molenhuizen",
+		"city": "Tessenderlo",
+		"district": "",
+		"postcode": "3980"
+	},
+	{
+		"lon": "5.5212037",
+		"lat": "50.8365946",
+		"number": "5",
+		"street": "Winterbergstraat",
+		"city": "Bilzen",
+		"district": "",
+		"postcode": "3740"
+	},
+	{
+		"lon": "3.7691632",
+		"lat": "51.0692857",
+		"number": "418",
+		"street": "Hippodroomlaan",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9040"
+	},
+	{
+		"lon": "5.6978112",
+		"lat": "51.0169888",
+		"number": "53",
+		"street": "Meerkensstraat",
+		"city": "Dilsen-Stokkem",
+		"district": "",
+		"postcode": "3650"
+	},
+	{
+		"lon": "3.7547248",
+		"lat": "50.9899188",
+		"number": "70",
+		"street": "Kloosterstraat",
+		"city": "Merelbeke",
+		"district": "",
+		"postcode": "9820"
+	},
+	{
+		"lon": "4.3493488",
+		"lat": "50.7693136",
+		"number": "27",
+		"street": "Lange Haagstraat",
+		"city": "Linkebeek",
+		"district": "",
+		"postcode": "1630"
+	},
+	{
+		"lon": "5.3671744",
+		"lat": "50.9847411",
+		"number": "97",
+		"street": "Heuvenstraat",
+		"city": "Zonhoven",
+		"district": "",
+		"postcode": "3520"
+	},
+	{
+		"lon": "4.9251687",
+		"lat": "51.3143444",
+		"number": "63",
+		"street": "Kempenlaan",
+		"city": "Turnhout",
+		"district": "",
+		"postcode": "2300"
+	},
+	{
+		"lon": "4.4802835",
+		"lat": "51.2435601",
+		"number": "64",
+		"street": "Adriaan Brouwerstraat",
+		"city": "Schoten",
+		"district": "",
+		"postcode": "2900"
+	},
+	{
+		"lon": "4.3449332",
+		"lat": "51.0842848",
+		"number": "54",
+		"street": "Gansbroekstraat",
+		"city": "Puurs",
+		"district": "",
+		"postcode": "2870"
+	},
+	{
+		"lon": "4.1515477",
+		"lat": "51.1763086",
+		"number": "192",
+		"street": "Begijnenstraat",
+		"city": "Sint-Niklaas",
+		"district": "",
+		"postcode": "9100"
+	},
+	{
+		"lon": "4.9919796",
+		"lat": "51.0923936",
+		"number": "59",
+		"street": "Plein",
+		"city": "Laakdal",
+		"district": "",
+		"postcode": "2430"
+	},
+	{
+		"lon": "3.1349838",
+		"lat": "51.0206701",
+		"number": "10",
+		"street": "Cardynlaan",
+		"city": "Lichtervelde",
+		"district": "",
+		"postcode": "8810"
+	},
+	{
+		"lon": "3.1552084",
+		"lat": "51.2909877",
+		"number": "2",
+		"street": "Kuiperscheeweg",
+		"city": "Blankenberge",
+		"district": "",
+		"postcode": "8370"
+	},
+	{
+		"lon": "4.9822301",
+		"lat": "51.2427083",
+		"number": "128",
+		"street": "Retiesebaan",
+		"city": "Kasterlee",
+		"district": "",
+		"postcode": "2460"
+	},
+	{
+		"lon": "3.5188732",
+		"lat": "51.2398602",
+		"number": "6",
+		"street": "Rommelsweg",
+		"city": "Sint-Laureins",
+		"district": "",
+		"postcode": "9980"
+	},
+	{
+		"lon": "4.551668",
+		"lat": "51.3665539",
+		"number": "16",
+		"street": "Boterdijk",
+		"city": "Wuustwezel",
+		"district": "",
+		"postcode": "2990"
+	},
+	{
+		"lon": "4.0349331",
+		"lat": "51.0685919",
+		"number": "33",
+		"street": "Langemuntstraat",
+		"city": "Zele",
+		"district": "",
+		"postcode": "9240"
+	},
+	{
+		"lon": "4.0781711",
+		"lat": "50.832584",
+		"number": "5",
+		"street": "Karel Van de Woestijnestraat",
+		"city": "Roosdaal",
+		"district": "",
+		"postcode": "1760"
+	},
+	{
+		"lon": "5.789877",
+		"lat": "51.1261215",
+		"number": "9",
+		"street": "Stegerstraat",
+		"city": "Kinrooi",
+		"district": "",
+		"postcode": "3640"
+	},
+	{
+		"lon": "3.1107622",
+		"lat": "50.9345798",
+		"number": "38A",
+		"street": "Collievijverpark",
+		"city": "Roeselare",
+		"district": "",
+		"postcode": "8800"
+	},
+	{
+		"lon": "4.4469884",
+		"lat": "51.2831231",
+		"number": "283",
+		"street": "Veltwijcklaan",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2180"
+	},
+	{
+		"lon": "4.6928384",
+		"lat": "51.0192053",
+		"number": "69",
+		"street": "Leuvensebaan",
+		"city": "Heist-op-den-Berg",
+		"district": "",
+		"postcode": "2223"
+	},
+	{
+		"lon": "4.8432586",
+		"lat": "50.8143492",
+		"number": "8",
+		"street": "Hoeksken",
+		"city": "Boutersem",
+		"district": "",
+		"postcode": "3370"
+	},
+	{
+		"lon": "5.2629224",
+		"lat": "50.9251227",
+		"number": "298",
+		"street": "Stevoortse kiezel",
+		"city": "Hasselt",
+		"district": "",
+		"postcode": "3512"
+	},
+	{
+		"lon": "4.202635",
+		"lat": "51.1368302",
+		"number": "39",
+		"street": "Kleine Dweersstraat",
+		"city": "Temse",
+		"district": "",
+		"postcode": "9140"
+	},
+	{
+		"lon": "3.2188438",
+		"lat": "50.8666372",
+		"number": "370",
+		"street": "Mellestraat",
+		"city": "Kortrijk",
+		"district": "",
+		"postcode": "8501"
+	},
+	{
+		"lon": "5.1982623",
+		"lat": "51.1195755",
+		"number": "126",
+		"street": "Gerhees",
+		"city": "Ham",
+		"district": "",
+		"postcode": "3945"
+	},
+	{
+		"lon": "4.2936394",
+		"lat": "50.9945452",
+		"number": "16",
+		"street": "Schuurveld",
+		"city": "Londerzeel",
+		"district": "",
+		"postcode": "1840"
+	},
+	{
+		"lon": "5.3292865",
+		"lat": "50.9286336",
+		"number": "53",
+		"street": "Runkstersteenweg",
+		"city": "Hasselt",
+		"district": "",
+		"postcode": "3500"
+	},
+	{
+		"lon": "3.4128256",
+		"lat": "51.141171",
+		"number": "2",
+		"street": "Klissestraatje",
+		"city": "Knesselare",
+		"district": "",
+		"postcode": "9910"
+	},
+	{
+		"lon": "5.1362662",
+		"lat": "51.2387922",
+		"number": "14",
+		"street": "Almenstraat",
+		"city": "Dessel",
+		"district": "",
+		"postcode": "2480"
+	},
+	{
+		"lon": "4.2402499",
+		"lat": "50.7271076",
+		"number": "34",
+		"street": "Prins van Luiklaan",
+		"city": "Halle",
+		"district": "",
+		"postcode": "1500"
+	},
+	{
+		"lon": "4.9759097",
+		"lat": "51.2471414",
+		"number": "66",
+		"street": "Dijkstraat",
+		"city": "Kasterlee",
+		"district": "",
+		"postcode": "2460"
+	},
+	{
+		"lon": "3.7295021",
+		"lat": "51.0692463",
+		"number": "83",
+		"street": "Voormuide",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "3.6784936",
+		"lat": "51.0811691",
+		"number": "9",
+		"street": "Oudewal",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9030"
+	},
+	{
+		"lon": "3.1625115",
+		"lat": "51.1072973",
+		"number": "4",
+		"street": "Wielewaalstraat",
+		"city": "Zedelgem",
+		"district": "",
+		"postcode": "8210"
+	},
+	{
+		"lon": "3.2299675",
+		"lat": "50.8386832",
+		"number": "5",
+		"street": "Kransvijver",
+		"city": "Kortrijk",
+		"district": "",
+		"postcode": "8501"
+	},
+	{
+		"lon": "5.031672",
+		"lat": "51.0670616",
+		"number": "328",
+		"street": "Schoterweg",
+		"city": "Tessenderlo",
+		"district": "",
+		"postcode": "3980"
+	},
+	{
+		"lon": "3.3610181",
+		"lat": "50.8036747",
+		"number": "139",
+		"street": "Ellestraat",
+		"city": "Zwevegem",
+		"district": "",
+		"postcode": "8550"
+	},
+	{
+		"lon": "4.4078711",
+		"lat": "51.2058315",
+		"number": "5",
+		"street": "Constantia Teichmannplaats",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2018"
+	},
+	{
+		"lon": "4.3490397",
+		"lat": "51.1394199",
+		"number": "23",
+		"street": "Acacialaan",
+		"city": "Hemiksem",
+		"district": "",
+		"postcode": "2620"
+	},
+	{
+		"lon": "4.5168111",
+		"lat": "51.2251427",
+		"number": "13",
+		"street": "Lazaretstraat",
+		"city": "Wijnegem",
+		"district": "",
+		"postcode": "2110"
+	},
+	{
+		"lon": "4.4780268",
+		"lat": "51.3040713",
+		"number": "11",
+		"street": "De Romboutweg",
+		"city": "Brasschaat",
+		"district": "",
+		"postcode": "2930"
+	},
+	{
+		"lon": "4.7733979",
+		"lat": "50.9589336",
+		"number": "324",
+		"street": "Aarschotsesteenweg",
+		"city": "Rotselaar",
+		"district": "",
+		"postcode": "3111"
+	},
+	{
+		"lon": "4.9332423",
+		"lat": "50.8054142",
+		"number": "27",
+		"street": "Goossensvest",
+		"city": "Tienen",
+		"district": "",
+		"postcode": "3300"
+	},
+	{
+		"lon": "5.4692309",
+		"lat": "50.9265157",
+		"number": "38",
+		"street": "Leliestraat",
+		"city": "Diepenbeek",
+		"district": "",
+		"postcode": "3590"
+	},
+	{
+		"lon": "5.4848406",
+		"lat": "50.7416806",
+		"number": "5",
+		"street": "Kuilenstraat",
+		"city": "Tongeren",
+		"district": "",
+		"postcode": "3700"
+	},
+	{
+		"lon": "4.5127462",
+		"lat": "50.7928525",
+		"number": "32",
+		"street": "Gemslaan",
+		"city": "Overijse",
+		"district": "",
+		"postcode": "3090"
+	},
+	{
+		"lon": "5.1185275",
+		"lat": "50.8073674",
+		"number": "97",
+		"street": "Asbroekstraat",
+		"city": "Zoutleeuw",
+		"district": "",
+		"postcode": "3440"
+	},
+	{
+		"lon": "4.259773",
+		"lat": "51.2228746",
+		"number": "3",
+		"street": "Begoniastraat",
+		"city": "Beveren",
+		"district": "",
+		"postcode": "9120"
+	},
+	{
+		"lon": "2.5887668",
+		"lat": "51.102302",
+		"number": "30",
+		"street": "Duinkerkelaan",
+		"city": "De Panne",
+		"district": "",
+		"postcode": "8660"
+	},
+	{
+		"lon": "2.9089847",
+		"lat": "51.2175616",
+		"number": "49",
+		"street": "Zwaluwenstraat",
+		"city": "Oostende",
+		"district": "",
+		"postcode": "8400"
+	},
+	{
+		"lon": "3.2023275",
+		"lat": "51.2198238",
+		"number": "60",
+		"street": "Karel Mestdaghstraat",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8000"
+	},
+	{
+		"lon": "4.4837665",
+		"lat": "51.1258485",
+		"number": "245",
+		"street": "Moederhoefstraat",
+		"city": "Lint",
+		"district": "",
+		"postcode": "2547"
+	},
+	{
+		"lon": "3.7623182",
+		"lat": "51.0524105",
+		"number": "133",
+		"street": "Dendermondesteenweg",
+		"city": "Destelbergen",
+		"district": "",
+		"postcode": "9070"
+	},
+	{
+		"lon": "5.064846",
+		"lat": "50.8086264",
+		"number": "10",
+		"street": "Waterhofstraat",
+		"city": "Linter",
+		"district": "",
+		"postcode": "3350"
+	},
+	{
+		"lon": "4.506854",
+		"lat": "50.8809415",
+		"number": "520",
+		"street": "Mechelsesteenweg",
+		"city": "Zaventem",
+		"district": "",
+		"postcode": "1930"
+	},
+	{
+		"lon": "3.2494754",
+		"lat": "51.2033499",
+		"number": "6",
+		"street": "Vondelstraat",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8310"
+	},
+	{
+		"lon": "5.1013702",
+		"lat": "50.8319",
+		"number": "43",
+		"street": "Ridderstraat",
+		"city": "Zoutleeuw",
+		"district": "",
+		"postcode": "3440"
+	},
+	{
+		"lon": "4.1998668",
+		"lat": "50.843126",
+		"number": "67C",
+		"street": "Wijngaardstraat",
+		"city": "Dilbeek",
+		"district": "",
+		"postcode": "1703"
+	},
+	{
+		"lon": "5.3838922",
+		"lat": "51.0307116",
+		"number": "42",
+		"street": "Bronweg",
+		"city": "Houthalen-Helchteren",
+		"district": "",
+		"postcode": "3530"
+	},
+	{
+		"lon": "3.6266967",
+		"lat": "51.2927691",
+		"number": "123",
+		"street": "Molenstraat",
+		"city": "Sint-Laureins",
+		"district": "",
+		"postcode": "9988"
+	},
+	{
+		"lon": "4.2576487",
+		"lat": "51.2303684",
+		"number": "2B",
+		"street": "Broekstraat",
+		"city": "Beveren",
+		"district": "",
+		"postcode": "9120"
+	},
+	{
+		"lon": "4.4795239",
+		"lat": "51.3519963",
+		"number": "2",
+		"street": "Kameliadreef",
+		"city": "Kapellen",
+		"district": "",
+		"postcode": "2950"
+	},
+	{
+		"lon": "4.4533762",
+		"lat": "51.2032795",
+		"number": "89",
+		"street": "Arthur Matthyslaan",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2140"
+	},
+	{
+		"lon": "5.076082",
+		"lat": "50.8701636",
+		"number": "18",
+		"street": "Hulsbergstraat",
+		"city": "Zoutleeuw",
+		"district": "",
+		"postcode": "3440"
+	},
+	{
+		"lon": "4.2298095",
+		"lat": "50.9570174",
+		"number": "28",
+		"street": "Koning Albertstraat",
+		"city": "Merchtem",
+		"district": "",
+		"postcode": "1785"
+	},
+	{
+		"lon": "3.2234254",
+		"lat": "51.2170193",
+		"number": "105",
+		"street": "Sint-Clarastraat",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8000"
+	},
+	{
+		"lon": "4.9837099",
+		"lat": "51.0011447",
+		"number": "10",
+		"street": "Pater R. Van De Wouwerstraat",
+		"city": "Scherpenheuvel-Zichem",
+		"district": "",
+		"postcode": "3271"
+	},
+	{
+		"lon": "4.4707505",
+		"lat": "51.1464279",
+		"number": "25",
+		"street": "Berkenlaan",
+		"city": "Hove",
+		"district": "",
+		"postcode": "2540"
+	},
+	{
+		"lon": "3.1459065",
+		"lat": "51.1275808",
+		"number": "230",
+		"street": "Brugsestraat",
+		"city": "Zedelgem",
+		"district": "",
+		"postcode": "8210"
+	},
+	{
+		"lon": "4.5397843",
+		"lat": "51.3808189",
+		"number": "100",
+		"street": "Bleken",
+		"city": "Wuustwezel",
+		"district": "",
+		"postcode": "2990"
+	},
+	{
+		"lon": "3.120476",
+		"lat": "51.15612",
+		"number": "10",
+		"street": "De Baetsdreef",
+		"city": "Jabbeke",
+		"district": "",
+		"postcode": "8490"
+	},
+	{
+		"lon": "3.705181",
+		"lat": "51.1177508",
+		"number": "119",
+		"street": "Reibroekstraat",
+		"city": "Evergem",
+		"district": "",
+		"postcode": "9940"
+	},
+	{
+		"lon": "5.1275906",
+		"lat": "51.1848954",
+		"number": "17",
+		"street": "Perenlaan",
+		"city": "Mol",
+		"district": "",
+		"postcode": "2400"
+	},
+	{
+		"lon": "3.2057373",
+		"lat": "51.196867",
+		"number": "24",
+		"street": "Azalealaan",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8200"
+	},
+	{
+		"lon": "3.142809",
+		"lat": "51.1871936",
+		"number": "95",
+		"street": "Oude Dorpsweg",
+		"city": "Jabbeke",
+		"district": "",
+		"postcode": "8490"
+	},
+	{
+		"lon": "4.4694915",
+		"lat": "51.3930508",
+		"number": "60",
+		"street": "Statiestraat",
+		"city": "Kalmthout",
+		"district": "",
+		"postcode": "2920"
+	},
+	{
+		"lon": "3.2705601",
+		"lat": "50.8217506",
+		"number": "17",
+		"street": "Toekomststraat",
+		"city": "Kortrijk",
+		"district": "",
+		"postcode": "8500"
+	},
+	{
+		"lon": "4.2491267",
+		"lat": "50.7226199",
+		"number": "319",
+		"street": "Nijvelsesteenweg",
+		"city": "Halle",
+		"district": "",
+		"postcode": "1500"
+	},
+	{
+		"lon": "4.1552533",
+		"lat": "51.065496",
+		"number": "38",
+		"street": "Burgemeester Lemmensstraat",
+		"city": "Hamme",
+		"district": "",
+		"postcode": "9220"
+	},
+	{
+		"lon": "4.9428882",
+		"lat": "50.9656311",
+		"number": "22",
+		"street": "Slangenberg",
+		"city": "Scherpenheuvel-Zichem",
+		"district": "",
+		"postcode": "3270"
+	},
+	{
+		"lon": "4.7806821",
+		"lat": "51.0437808",
+		"number": "3",
+		"street": "Molenbeekweg",
+		"city": "Heist-op-den-Berg",
+		"district": "",
+		"postcode": "2221"
+	},
+	{
+		"lon": "4.3036145",
+		"lat": "50.9127929",
+		"number": "57",
+		"street": "G. Van Campenhoutstraat",
+		"city": "Wemmel",
+		"district": "",
+		"postcode": "1780"
+	},
+	{
+		"lon": "3.6594",
+		"lat": "50.9294285",
+		"number": "26",
+		"street": "Markt",
+		"city": "Gavere",
+		"district": "",
+		"postcode": "9890"
+	},
+	{
+		"lon": "4.267506",
+		"lat": "50.9949281",
+		"number": "17",
+		"street": "Sint Genovevastraat",
+		"city": "Londerzeel",
+		"district": "",
+		"postcode": "1840"
+	},
+	{
+		"lon": "4.7111954",
+		"lat": "50.880397",
+		"number": "106",
+		"street": "Bondgenotenlaan",
+		"city": "Leuven",
+		"district": "",
+		"postcode": "3000"
+	},
+	{
+		"lon": "3.7468163",
+		"lat": "51.0325921",
+		"number": "14",
+		"street": "Ploegstraat",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9050"
+	},
+	{
+		"lon": "4.8495546",
+		"lat": "51.0709173",
+		"number": "58",
+		"street": "Ritseldonk",
+		"city": "Westerlo",
+		"district": "",
+		"postcode": "2260"
+	},
+	{
+		"lon": "4.4842912",
+		"lat": "51.2853365",
+		"number": "153",
+		"street": "Bredabaan",
+		"city": "Brasschaat",
+		"district": "",
+		"postcode": "2930"
+	},
+	{
+		"lon": "4.467733",
+		"lat": "51.4004642",
+		"number": "1",
+		"street": "Watertorendreef",
+		"city": "Kalmthout",
+		"district": "",
+		"postcode": "2920"
+	},
+	{
+		"lon": "4.6353529",
+		"lat": "51.3512994",
+		"number": "42",
+		"street": "Bethovenstraat",
+		"city": "Brecht",
+		"district": "",
+		"postcode": "2960"
+	},
+	{
+		"lon": "5.6125998",
+		"lat": "50.8477158",
+		"number": "50",
+		"street": "Heesstraat",
+		"city": "Bilzen",
+		"district": "",
+		"postcode": "3740"
+	},
+	{
+		"lon": "4.0320127",
+		"lat": "51.2098404",
+		"number": "36",
+		"street": "Paardebloemstraat",
+		"city": "Stekene",
+		"district": "",
+		"postcode": "9190"
+	},
+	{
+		"lon": "4.6299769",
+		"lat": "50.9991421",
+		"number": "18A",
+		"street": "Papestraat",
+		"city": "Keerbergen",
+		"district": "",
+		"postcode": "3140"
+	},
+	{
+		"lon": "4.444237",
+		"lat": "51.2009011",
+		"number": "8",
+		"street": "Bacchuslaan",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2140"
+	},
+	{
+		"lon": "5.0079409",
+		"lat": "50.8560116",
+		"number": "26",
+		"street": "Helstraat",
+		"city": "Kortenaken",
+		"district": "",
+		"postcode": "3471"
+	},
+	{
+		"lon": "4.5263739",
+		"lat": "51.2564355",
+		"number": "18",
+		"street": "Lusthofdreef",
+		"city": "Schoten",
+		"district": "",
+		"postcode": "2900"
+	},
+	{
+		"lon": "4.1449076",
+		"lat": "51.0063968",
+		"number": "77",
+		"street": "Grote Snijdersstraat",
+		"city": "Lebbeke",
+		"district": "",
+		"postcode": "9280"
+	},
+	{
+		"lon": "4.514795",
+		"lat": "51.1954492",
+		"number": "40",
+		"street": "Pietingbaan",
+		"city": "Wommelgem",
+		"district": "",
+		"postcode": "2160"
+	},
+	{
+		"lon": "4.758732",
+		"lat": "51.1341308",
+		"number": "11",
+		"street": "St. Gummarusstraat",
+		"city": "Herenthout",
+		"district": "",
+		"postcode": "2270"
+	},
+	{
+		"lon": "3.1739204",
+		"lat": "50.8205088",
+		"number": "28",
+		"street": "Kleine Wijnbergstraat",
+		"city": "Wevelgem",
+		"district": "",
+		"postcode": "8560"
+	},
+	{
+		"lon": "2.9295951",
+		"lat": "51.2068512",
+		"number": "9",
+		"street": "Jan-van-gentstraat",
+		"city": "Oostende",
+		"district": "",
+		"postcode": "8400"
+	},
+	{
+		"lon": "4.3449407",
+		"lat": "51.2059641",
+		"number": "3",
+		"street": "Prins Boudewijnstraat",
+		"city": "Zwijndrecht",
+		"district": "",
+		"postcode": "2070"
+	},
+	{
+		"lon": "3.5854698",
+		"lat": "51.1830498",
+		"number": "35",
+		"street": "Rode - Kruisstraat",
+		"city": "Eeklo",
+		"district": "",
+		"postcode": "9900"
+	},
+	{
+		"lon": "4.507275",
+		"lat": "51.4681997",
+		"number": "29",
+		"street": "Dreveneind",
+		"city": "Essen",
+		"district": "",
+		"postcode": "2910"
+	},
+	{
+		"lon": "4.6838068",
+		"lat": "50.8821006",
+		"number": "30",
+		"street": "Gijzelaarsstraat",
+		"city": "Leuven",
+		"district": "",
+		"postcode": "3000"
+	},
+	{
+		"lon": "4.5043884",
+		"lat": "51.0970978",
+		"number": "84",
+		"street": "Leopoldstraat",
+		"city": "Duffel",
+		"district": "",
+		"postcode": "2570"
+	},
+	{
+		"lon": "4.6995815",
+		"lat": "50.8657325",
+		"number": "38",
+		"street": "Burgemeester Stanislas De Rijcklaan",
+		"city": "Leuven",
+		"district": "",
+		"postcode": "3001"
+	},
+	{
+		"lon": "4.8343953",
+		"lat": "51.3077297",
+		"number": "51",
+		"street": "Zomerstraat",
+		"city": "Beerse",
+		"district": "",
+		"postcode": "2340"
+	},
+	{
+		"lon": "3.8868812",
+		"lat": "50.7742172",
+		"number": "10",
+		"street": "Oude Steenweg",
+		"city": "Geraardsbergen",
+		"district": "",
+		"postcode": "9500"
+	},
+	{
+		"lon": "5.3415459",
+		"lat": "50.8512714",
+		"number": "44",
+		"street": "Plattestraat",
+		"city": "Wellen",
+		"district": "",
+		"postcode": "3830"
+	},
+	{
+		"lon": "2.8333867",
+		"lat": "50.7813159",
+		"number": "2",
+		"street": "Jonkershofweg",
+		"city": "Heuvelland",
+		"district": "",
+		"postcode": "8956"
+	},
+	{
+		"lon": "2.734398",
+		"lat": "51.1344628",
+		"number": "55",
+		"street": "Dudenhofenlaan",
+		"city": "Nieuwpoort",
+		"district": "",
+		"postcode": "8620"
+	},
+	{
+		"lon": "4.4644429",
+		"lat": "51.2229605",
+		"number": "6",
+		"street": "Boshovestraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2100"
+	},
+	{
+		"lon": "3.5784095",
+		"lat": "50.7414111",
+		"number": "268",
+		"street": "Engelsenlaan",
+		"city": "Ronse",
+		"district": "",
+		"postcode": "9600"
+	},
+	{
+		"lon": "3.7169241",
+		"lat": "51.0420748",
+		"number": "36H",
+		"street": "Eedverbondkaai",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "4.151888",
+		"lat": "51.1681331",
+		"number": "189",
+		"street": "Mercatorstraat",
+		"city": "Sint-Niklaas",
+		"district": "",
+		"postcode": "9100"
+	},
+	{
+		"lon": "4.277757",
+		"lat": "50.8668097",
+		"number": "19",
+		"street": "Petrus Bayensstraat",
+		"city": "Dilbeek",
+		"district": "",
+		"postcode": "1702"
+	},
+	{
+		"lon": "5.525069",
+		"lat": "50.9913972",
+		"number": "1",
+		"street": "Scheidingsweg",
+		"city": "Genk",
+		"district": "",
+		"postcode": "3600"
+	},
+	{
+		"lon": "4.5678891",
+		"lat": "51.120341",
+		"number": "1",
+		"street": "Dolfijnenweg",
+		"city": "Lier",
+		"district": "",
+		"postcode": "2500"
+	},
+	{
+		"lon": "3.7110261",
+		"lat": "51.0707983",
+		"number": "90",
+		"street": "Maïsstraat",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "3.2106882",
+		"lat": "51.2059114",
+		"number": "42",
+		"street": "Lange Vesting",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8200"
+	},
+	{
+		"lon": "3.7562409",
+		"lat": "50.9880577",
+		"number": "6",
+		"street": "Kriekenhof",
+		"city": "Merelbeke",
+		"district": "",
+		"postcode": "9820"
+	},
+	{
+		"lon": "3.1167341",
+		"lat": "50.9520234",
+		"number": "221",
+		"street": "Kattenstraat",
+		"city": "Roeselare",
+		"district": "",
+		"postcode": "8800"
+	},
+	{
+		"lon": "5.2931617",
+		"lat": "50.783072",
+		"number": "31",
+		"street": "Bergstraat",
+		"city": "Heers",
+		"district": "",
+		"postcode": "3870"
+	},
+	{
+		"lon": "5.0647672",
+		"lat": "51.0868936",
+		"number": "13",
+		"street": "Zuid De Vliet",
+		"city": "Laakdal",
+		"district": "",
+		"postcode": "2430"
+	},
+	{
+		"lon": "4.436013",
+		"lat": "51.2574146",
+		"number": "70",
+		"street": "Trompetvogelstraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2170"
+	},
+	{
+		"lon": "3.6003763",
+		"lat": "50.7486904",
+		"number": "38",
+		"street": "Priestersstraat",
+		"city": "Ronse",
+		"district": "",
+		"postcode": "9600"
+	},
+	{
+		"lon": "4.1166841",
+		"lat": "51.029902",
+		"number": "39",
+		"street": "Beukenlaan",
+		"city": "Dendermonde",
+		"district": "",
+		"postcode": "9200"
+	},
+	{
+		"lon": "4.4786997",
+		"lat": "51.0282222",
+		"number": "12",
+		"street": "Steenweg",
+		"city": "Mechelen",
+		"district": "",
+		"postcode": "2800"
+	},
+	{
+		"lon": "3.9709002",
+		"lat": "50.9992496",
+		"number": "47",
+		"street": "Paepestraat",
+		"city": "Wichelen",
+		"district": "",
+		"postcode": "9260"
+	},
+	{
+		"lon": "3.208304",
+		"lat": "51.0016959",
+		"number": "10",
+		"street": "Lichterveldsestraat",
+		"city": "Ardooie",
+		"district": "",
+		"postcode": "8851"
+	},
+	{
+		"lon": "5.4313102",
+		"lat": "50.9077993",
+		"number": "16",
+		"street": "Molenstraat",
+		"city": "Diepenbeek",
+		"district": "",
+		"postcode": "3590"
+	},
+	{
+		"lon": "4.0525127",
+		"lat": "50.8791552",
+		"number": "60",
+		"street": "Braamlandstraat",
+		"city": "Denderleeuw",
+		"district": "",
+		"postcode": "9472"
+	},
+	{
+		"lon": "5.1735047",
+		"lat": "51.1015372",
+		"number": "29",
+		"street": "Molenwijk",
+		"city": "Ham",
+		"district": "",
+		"postcode": "3945"
+	},
+	{
+		"lon": "4.0991605",
+		"lat": "51.0470706",
+		"number": "40",
+		"street": "Reynoutstraat",
+		"city": "Dendermonde",
+		"district": "",
+		"postcode": "9200"
+	},
+	{
+		"lon": "2.9198569",
+		"lat": "51.2125991",
+		"number": "7",
+		"street": "Cyclamenlaan",
+		"city": "Oostende",
+		"district": "",
+		"postcode": "8400"
+	},
+	{
+		"lon": "4.1238438",
+		"lat": "51.1672794",
+		"number": "156",
+		"street": "Watermolendreef",
+		"city": "Sint-Niklaas",
+		"district": "",
+		"postcode": "9100"
+	},
+	{
+		"lon": "4.4348415",
+		"lat": "50.9308026",
+		"number": "122",
+		"street": "Olmstraat",
+		"city": "Vilvoorde",
+		"district": "",
+		"postcode": "1800"
+	},
+	{
+		"lon": "2.9632249",
+		"lat": "51.0631563",
+		"number": "38",
+		"street": "Bovekerkestraat",
+		"city": "Koekelare",
+		"district": "",
+		"postcode": "8680"
+	},
+	{
+		"lon": "4.7287641",
+		"lat": "50.8749552",
+		"number": "207",
+		"street": "Platte Lostraat",
+		"city": "Leuven",
+		"district": "",
+		"postcode": "3010"
+	},
+	{
+		"lon": "4.4591148",
+		"lat": "51.3553721",
+		"number": "125",
+		"street": "Kalmthoutsesteenweg",
+		"city": "Kapellen",
+		"district": "",
+		"postcode": "2950"
+	},
+	{
+		"lon": "4.9245524",
+		"lat": "50.9145906",
+		"number": "22",
+		"street": "Halensebaan",
+		"city": "Bekkevoort",
+		"district": "",
+		"postcode": "3461"
+	},
+	{
+		"lon": "4.8180477",
+		"lat": "50.9096017",
+		"number": "2",
+		"street": "Preekherenberg",
+		"city": "Holsbeek",
+		"district": "",
+		"postcode": "3220"
+	},
+	{
+		"lon": "4.9591628",
+		"lat": "51.3336778",
+		"number": "12",
+		"street": "Meirgorenstraat",
+		"city": "Turnhout",
+		"district": "",
+		"postcode": "2300"
+	},
+	{
+		"lon": "4.7962974",
+		"lat": "51.1498065",
+		"number": "89",
+		"street": "Herentalse Steenweg",
+		"city": "Herenthout",
+		"district": "",
+		"postcode": "2270"
+	},
+	{
+		"lon": "4.0703434",
+		"lat": "50.8901153",
+		"number": "30",
+		"street": "F. van de Ponseelelaan",
+		"city": "Denderleeuw",
+		"district": "",
+		"postcode": "9470"
+	},
+	{
+		"lon": "4.9049432",
+		"lat": "51.3099922",
+		"number": "11",
+		"street": "Wulpenlaan",
+		"city": "Vosselaar",
+		"district": "",
+		"postcode": "2350"
+	},
+	{
+		"lon": "3.5924941",
+		"lat": "51.1139842",
+		"number": "21",
+		"street": "Langeboeken",
+		"city": "Zomergem",
+		"district": "",
+		"postcode": "9930"
+	},
+	{
+		"lon": "5.098924",
+		"lat": "51.0345088",
+		"number": "15",
+		"street": "Hasseltsebaan",
+		"city": "Diest",
+		"district": "",
+		"postcode": "3290"
+	},
+	{
+		"lon": "3.9490068",
+		"lat": "50.7484747",
+		"number": "62",
+		"street": "Vianebaan",
+		"city": "Galmaarden",
+		"district": "",
+		"postcode": "1570"
+	},
+	{
+		"lon": "5.5113321",
+		"lat": "50.9706146",
+		"number": "121B",
+		"street": "Weg Naar As",
+		"city": "Genk",
+		"district": "",
+		"postcode": "3600"
+	},
+	{
+		"lon": "5.5060589",
+		"lat": "50.9512298",
+		"number": "4",
+		"street": "Hondsbos",
+		"city": "Genk",
+		"district": "",
+		"postcode": "3600"
+	},
+	{
+		"lon": "4.2949082",
+		"lat": "51.107732",
+		"number": "19",
+		"street": "Duiventilstraat",
+		"city": "Bornem",
+		"district": "",
+		"postcode": "2880"
+	},
+	{
+		"lon": "3.7124392",
+		"lat": "51.031674",
+		"number": "17",
+		"street": "Ganzendries",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "5.5075728",
+		"lat": "51.1320329",
+		"number": "6",
+		"street": "Leyssenhofweg",
+		"city": "Peer",
+		"district": "",
+		"postcode": "3990"
+	},
+	{
+		"lon": "4.946377",
+		"lat": "51.323799",
+		"number": "16",
+		"street": "Warandestraat",
+		"city": "Turnhout",
+		"district": "",
+		"postcode": "2300"
+	},
+	{
+		"lon": "3.7244328",
+		"lat": "51.0659142",
+		"number": "64",
+		"street": "Geuzenberg",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "3.8172302",
+		"lat": "51.2009643",
+		"number": "48",
+		"street": "Leegstraat",
+		"city": "Zelzate",
+		"district": "",
+		"postcode": "9060"
+	},
+	{
+		"lon": "4.3978295",
+		"lat": "51.1366372",
+		"number": "35",
+		"street": "Solhofdreef",
+		"city": "Aartselaar",
+		"district": "",
+		"postcode": "2630"
+	},
+	{
+		"lon": "3.2800351",
+		"lat": "50.8452866",
+		"number": "41",
+		"street": "Roterijstraat",
+		"city": "Kuurne",
+		"district": "",
+		"postcode": "8520"
+	},
+	{
+		"lon": "5.5477245",
+		"lat": "51.2583268",
+		"number": "1",
+		"street": "Smettert",
+		"city": "Hamont-Achel",
+		"district": "",
+		"postcode": "3930"
+	},
+	{
+		"lon": "4.3774552",
+		"lat": "51.1760323",
+		"number": "8",
+		"street": "Albert Dickschenstraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2610"
+	},
+	{
+		"lon": "3.9757074",
+		"lat": "50.9446346",
+		"number": "214",
+		"street": "Gentsesteenweg",
+		"city": "Erpe-Mere",
+		"district": "",
+		"postcode": "9420"
+	},
+	{
+		"lon": "5.346027",
+		"lat": "50.9191243",
+		"number": "24A",
+		"street": "Zomerstraat",
+		"city": "Hasselt",
+		"district": "",
+		"postcode": "3500"
+	},
+	{
+		"lon": "4.4683248",
+		"lat": "51.1495363",
+		"number": "141",
+		"street": "Meylstraat",
+		"city": "Hove",
+		"district": "",
+		"postcode": "2540"
+	},
+	{
+		"lon": "5.168106",
+		"lat": "50.9414493",
+		"number": "17",
+		"street": "Hasseltsestraat",
+		"city": "Herk-de-Stad",
+		"district": "",
+		"postcode": "3540"
+	},
+	{
+		"lon": "5.139538",
+		"lat": "50.819963",
+		"number": "154",
+		"street": "Leeuwerweg",
+		"city": "Sint-Truiden",
+		"district": "",
+		"postcode": "3803"
+	},
+	{
+		"lon": "4.0845211",
+		"lat": "51.1100638",
+		"number": "2",
+		"street": "Hoogstraat",
+		"city": "Waasmunster",
+		"district": "",
+		"postcode": "9250"
+	},
+	{
+		"lon": "4.0048102",
+		"lat": "51.0191597",
+		"number": "44",
+		"street": "Vennepark",
+		"city": "Berlare",
+		"district": "",
+		"postcode": "9290"
+	},
+	{
+		"lon": "2.9165385",
+		"lat": "51.0211727",
+		"number": "33",
+		"street": "Veldstraat",
+		"city": "Diksmuide",
+		"district": "",
+		"postcode": "8600"
+	},
+	{
+		"lon": "5.5232728",
+		"lat": "51.0048276",
+		"number": "25",
+		"street": "Karekietstraat",
+		"city": "Genk",
+		"district": "",
+		"postcode": "3600"
+	},
+	{
+		"lon": "3.2794317",
+		"lat": "51.2153949",
+		"number": "7",
+		"street": "Raadsherenlaan",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8310"
+	},
+	{
+		"lon": "3.572711",
+		"lat": "51.1904493",
+		"number": "40",
+		"street": "Rabautstraat",
+		"city": "Eeklo",
+		"district": "",
+		"postcode": "9900"
+	},
+	{
+		"lon": "3.87674",
+		"lat": "50.9294784",
+		"number": "38",
+		"street": "Keiberg",
+		"city": "Sint-Lievens-Houtem",
+		"district": "",
+		"postcode": "9521"
+	},
+	{
+		"lon": "5.1866449",
+		"lat": "50.8098461",
+		"number": "61",
+		"street": "Koekestraat",
+		"city": "Sint-Truiden",
+		"district": "",
+		"postcode": "3800"
+	},
+	{
+		"lon": "5.2235973",
+		"lat": "50.9009034",
+		"number": "132",
+		"street": "Grotestraat",
+		"city": "Nieuwerkerken",
+		"district": "",
+		"postcode": "3850"
+	},
+	{
+		"lon": "3.0213693",
+		"lat": "51.0932803",
+		"number": "19",
+		"street": "Keibergstraat",
+		"city": "Ichtegem",
+		"district": "",
+		"postcode": "8480"
+	},
+	{
+		"lon": "4.2960889",
+		"lat": "50.787269",
+		"number": "88",
+		"street": "Kerkstraat",
+		"city": "Sint-Pieters-Leeuw",
+		"district": "",
+		"postcode": "1601"
+	},
+	{
+		"lon": "4.6963274",
+		"lat": "50.9271544",
+		"number": "9",
+		"street": "Dongelsplein",
+		"city": "Leuven",
+		"district": "",
+		"postcode": "3018"
+	},
+	{
+		"lon": "4.6757637",
+		"lat": "50.905957",
+		"number": "27",
+		"street": "Wilselsesteenweg",
+		"city": "Herent",
+		"district": "",
+		"postcode": "3020"
+	},
+	{
+		"lon": "2.8875611",
+		"lat": "50.8577086",
+		"number": "37",
+		"street": "Brugseweg",
+		"city": "Ieper",
+		"district": "",
+		"postcode": "8900"
+	},
+	{
+		"lon": "4.4757205",
+		"lat": "50.8853126",
+		"number": "44",
+		"street": "Landbouwstraat",
+		"city": "Zaventem",
+		"district": "",
+		"postcode": "1930"
+	},
+	{
+		"lon": "3.3194069",
+		"lat": "51.3531561",
+		"number": "16",
+		"street": "Prinses Paolalaan",
+		"city": "Knokke-Heist",
+		"district": "",
+		"postcode": "8300"
+	},
+	{
+		"lon": "4.8908535",
+		"lat": "51.0558599",
+		"number": "21",
+		"street": "Borchtstraat",
+		"city": "Herselt",
+		"district": "",
+		"postcode": "2230"
+	},
+	{
+		"lon": "3.681679",
+		"lat": "51.1046372",
+		"number": "59",
+		"street": "Belzeelse Kerkweg",
+		"city": "Evergem",
+		"district": "",
+		"postcode": "9940"
+	},
+	{
+		"lon": "4.8361279",
+		"lat": "51.234136",
+		"number": "85",
+		"street": "Hoogland",
+		"city": "Lille",
+		"district": "",
+		"postcode": "2275"
+	},
+	{
+		"lon": "2.8934687",
+		"lat": "50.856799",
+		"number": "2",
+		"street": "Torrepoortlaan",
+		"city": "Ieper",
+		"district": "",
+		"postcode": "8900"
+	},
+	{
+		"lon": "4.9377075",
+		"lat": "50.9925059",
+		"number": "39",
+		"street": "Pannestraat",
+		"city": "Scherpenheuvel-Zichem",
+		"district": "",
+		"postcode": "3272"
+	},
+	{
+		"lon": "4.3024976",
+		"lat": "50.7283579",
+		"number": "108",
+		"street": "Kerkstraat",
+		"city": "Beersel",
+		"district": "",
+		"postcode": "1653"
+	},
+	{
+		"lon": "3.1739365",
+		"lat": "50.8126437",
+		"number": "37",
+		"street": "Jan Breydelstraat",
+		"city": "Wevelgem",
+		"district": "",
+		"postcode": "8560"
+	},
+	{
+		"lon": "4.8340641",
+		"lat": "50.9877419",
+		"number": "48",
+		"street": "Elisabethlaan",
+		"city": "Aarschot",
+		"district": "",
+		"postcode": "3200"
+	},
+	{
+		"lon": "4.4940148",
+		"lat": "50.9674671",
+		"number": "50",
+		"street": "Waversebaan",
+		"city": "Zemst",
+		"district": "",
+		"postcode": "1982"
+	},
+	{
+		"lon": "4.1831211",
+		"lat": "51.1774903",
+		"number": "7",
+		"street": "Slagmolenstraat",
+		"city": "Sint-Niklaas",
+		"district": "",
+		"postcode": "9100"
+	},
+	{
+		"lon": "4.145635",
+		"lat": "50.8703651",
+		"number": "2",
+		"street": "Eikveldstraat",
+		"city": "Ternat",
+		"district": "",
+		"postcode": "1742"
+	},
+	{
+		"lon": "5.1006911",
+		"lat": "51.3195596",
+		"number": "112",
+		"street": "Wippelberg",
+		"city": "Arendonk",
+		"district": "",
+		"postcode": "2370"
+	},
+	{
+		"lon": "3.9268035",
+		"lat": "51.1997986",
+		"number": "49",
+		"street": "Weststraat",
+		"city": "Moerbeke",
+		"district": "",
+		"postcode": "9180"
+	},
+	{
+		"lon": "4.4621015",
+		"lat": "51.4629133",
+		"number": "168",
+		"street": "Beliestraat",
+		"city": "Essen",
+		"district": "",
+		"postcode": "2910"
+	},
+	{
+		"lon": "4.4856307",
+		"lat": "51.2909598",
+		"number": "50",
+		"street": "Leopoldslei",
+		"city": "Brasschaat",
+		"district": "",
+		"postcode": "2930"
+	},
+	{
+		"lon": "4.7568265",
+		"lat": "50.9208697",
+		"number": "6",
+		"street": "Gebr. Van Tiltstraat",
+		"city": "Holsbeek",
+		"district": "",
+		"postcode": "3220"
+	},
+	{
+		"lon": "5.1217056",
+		"lat": "51.2357786",
+		"number": "20",
+		"street": "Dijkstraat",
+		"city": "Dessel",
+		"district": "",
+		"postcode": "2480"
+	},
+	{
+		"lon": "4.523389",
+		"lat": "50.8613342",
+		"number": "105",
+		"street": "Acht Bundersstraat",
+		"city": "Zaventem",
+		"district": "",
+		"postcode": "1933"
+	},
+	{
+		"lon": "3.6784961",
+		"lat": "51.2519679",
+		"number": "42",
+		"street": "Schare",
+		"city": "Assenede",
+		"district": "",
+		"postcode": "9968"
+	},
+	{
+		"lon": "5.4167863",
+		"lat": "50.9087542",
+		"number": "12",
+		"street": "Nanofstraat",
+		"city": "Diepenbeek",
+		"district": "",
+		"postcode": "3590"
+	},
+	{
+		"lon": "4.0551958",
+		"lat": "50.9518099",
+		"number": "9B",
+		"street": "Dompelstraat",
+		"city": "Aalst",
+		"district": "",
+		"postcode": "9300"
+	},
+	{
+		"lon": "4.3645239",
+		"lat": "51.0979852",
+		"number": "6",
+		"street": "Neteweg",
+		"city": "Boom",
+		"district": "",
+		"postcode": "2850"
+	},
+	{
+		"lon": "3.6666126",
+		"lat": "51.0719586",
+		"number": "11",
+		"street": "Emiel Poetoustraat",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9030"
+	},
+	{
+		"lon": "4.7317206",
+		"lat": "51.0973429",
+		"number": "37",
+		"street": "Hallaarstraat",
+		"city": "Heist-op-den-Berg",
+		"district": "",
+		"postcode": "2222"
+	},
+	{
+		"lon": "3.3739463",
+		"lat": "51.1278621",
+		"number": "35A",
+		"street": "Kauter",
+		"city": "Beernem",
+		"district": "",
+		"postcode": "8730"
+	},
+	{
+		"lon": "4.1667699",
+		"lat": "51.0359566",
+		"number": "118",
+		"street": "Sint-Ursmarusstraat",
+		"city": "Dendermonde",
+		"district": "",
+		"postcode": "9200"
+	},
+	{
+		"lon": "4.7170404",
+		"lat": "50.9206375",
+		"number": "24",
+		"street": "Jules Persoonsstraat",
+		"city": "Leuven",
+		"district": "",
+		"postcode": "3012"
+	},
+	{
+		"lon": "5.322507",
+		"lat": "50.9186415",
+		"number": "35",
+		"street": "Grote Lindestraat",
+		"city": "Hasselt",
+		"district": "",
+		"postcode": "3500"
+	},
+	{
+		"lon": "4.6166125",
+		"lat": "51.0803208",
+		"number": "206",
+		"street": "Lierbaan",
+		"city": "Putte",
+		"district": "",
+		"postcode": "2580"
+	},
+	{
+		"lon": "4.5149929",
+		"lat": "51.2308673",
+		"number": "6",
+		"street": "Lange Kruisweg",
+		"city": "Wijnegem",
+		"district": "",
+		"postcode": "2110"
+	},
+	{
+		"lon": "5.3949664",
+		"lat": "51.0556058",
+		"number": "17",
+		"street": "Zandstraat",
+		"city": "Houthalen-Helchteren",
+		"district": "",
+		"postcode": "3530"
+	},
+	{
+		"lon": "5.4703757",
+		"lat": "51.2555343",
+		"number": "17",
+		"street": "Ven",
+		"city": "Hamont-Achel",
+		"district": "",
+		"postcode": "3930"
+	},
+	{
+		"lon": "3.7440118",
+		"lat": "51.0385342",
+		"number": "74",
+		"street": "Steenhouwersstraat",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9050"
+	},
+	{
+		"lon": "4.7262864",
+		"lat": "51.0545343",
+		"number": "202",
+		"street": "Liersesteenweg",
+		"city": "Heist-op-den-Berg",
+		"district": "",
+		"postcode": "2220"
+	},
+	{
+		"lon": "5.4385542",
+		"lat": "50.767162",
+		"number": "1",
+		"street": "Klaproosstraat",
+		"city": "Tongeren",
+		"district": "",
+		"postcode": "3700"
+	},
+	{
+		"lon": "4.1514101",
+		"lat": "51.2610026",
+		"number": "35",
+		"street": "Kloosterstraat",
+		"city": "Sint-Gillis-Waas",
+		"district": "",
+		"postcode": "9170"
+	},
+	{
+		"lon": "4.4392166",
+		"lat": "50.9134932",
+		"number": "26",
+		"street": "de Neufforgestraat",
+		"city": "Machelen",
+		"district": "",
+		"postcode": "1830"
+	},
+	{
+		"lon": "3.6031222",
+		"lat": "51.1475882",
+		"number": "12",
+		"street": "Guldeland",
+		"city": "Waarschoot",
+		"district": "",
+		"postcode": "9950"
+	},
+	{
+		"lon": "4.1302946",
+		"lat": "51.0482327",
+		"number": "89",
+		"street": "Vlassenbroek",
+		"city": "Dendermonde",
+		"district": "",
+		"postcode": "9200"
+	},
+	{
+		"lon": "3.1959642",
+		"lat": "51.1885908",
+		"number": "234",
+		"street": "Koningin Astridlaan",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8200"
+	},
+	{
+		"lon": "4.6688737",
+		"lat": "50.8690812",
+		"number": "13",
+		"street": "Ferdinand Verbiestlaan",
+		"city": "Leuven",
+		"district": "",
+		"postcode": "3001"
+	},
+	{
+		"lon": "4.8561302",
+		"lat": "51.0031738",
+		"number": "182",
+		"street": "Gijmelsesteenweg",
+		"city": "Aarschot",
+		"district": "",
+		"postcode": "3201"
+	},
+	{
+		"lon": "3.5277825",
+		"lat": "51.0875796",
+		"number": "2",
+		"street": "Hammestraat",
+		"city": "Nevele",
+		"district": "",
+		"postcode": "9850"
+	},
+	{
+		"lon": "4.5252303",
+		"lat": "50.9821718",
+		"number": "3",
+		"street": "Erasmuslaan",
+		"city": "Boortmeerbeek",
+		"district": "",
+		"postcode": "3191"
+	},
+	{
+		"lon": "3.2432518",
+		"lat": "51.3219878",
+		"number": "317",
+		"street": "Heistlaan",
+		"city": "Knokke-Heist",
+		"district": "",
+		"postcode": "8301"
+	},
+	{
+		"lon": "4.7387106",
+		"lat": "51.4445352",
+		"number": "26A",
+		"street": "Meerdorp",
+		"city": "Hoogstraten",
+		"district": "",
+		"postcode": "2321"
+	},
+	{
+		"lon": "4.1508596",
+		"lat": "51.169853",
+		"number": "25",
+		"street": "Van Naemenstraat",
+		"city": "Sint-Niklaas",
+		"district": "",
+		"postcode": "9100"
+	},
+	{
+		"lon": "3.6722711",
+		"lat": "51.0200023",
+		"number": "8",
+		"street": "Oudeheerweg",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9051"
+	},
+	{
+		"lon": "4.9581961",
+		"lat": "51.1620898",
+		"number": "4",
+		"street": "Zwaarvoerdersspoor",
+		"city": "Geel",
+		"district": "",
+		"postcode": "2440"
+	},
+	{
+		"lon": "4.2293129",
+		"lat": "50.9600999",
+		"number": "17",
+		"street": "Kattestraat",
+		"city": "Merchtem",
+		"district": "",
+		"postcode": "1785"
+	},
+	{
+		"lon": "4.0301413",
+		"lat": "51.0626926",
+		"number": "85",
+		"street": "Van Hesedreef",
+		"city": "Zele",
+		"district": "",
+		"postcode": "9240"
+	},
+	{
+		"lon": "5.191218",
+		"lat": "50.8780534",
+		"number": "60",
+		"street": "Klein Tegelrijstraat",
+		"city": "Nieuwerkerken",
+		"district": "",
+		"postcode": "3850"
+	},
+	{
+		"lon": "4.8402014",
+		"lat": "51.3109204",
+		"number": "41",
+		"street": "Hemelrijkstraat",
+		"city": "Beerse",
+		"district": "",
+		"postcode": "2340"
+	},
+	{
+		"lon": "2.6523296",
+		"lat": "50.8931703",
+		"number": "67",
+		"street": "Obterrestraat",
+		"city": "Poperinge",
+		"district": "",
+		"postcode": "8972"
+	},
+	{
+		"lon": "3.0306452",
+		"lat": "50.8967632",
+		"number": "63",
+		"street": "Statiestraat",
+		"city": "Zonnebeke",
+		"district": "",
+		"postcode": "8980"
+	},
+	{
+		"lon": "5.5258463",
+		"lat": "51.0968094",
+		"number": "14",
+		"street": "Boomgaardstraat",
+		"city": "Meeuwen-Gruitrode",
+		"district": "",
+		"postcode": "3670"
+	},
+	{
+		"lon": "4.6387447",
+		"lat": "51.3982086",
+		"number": "13",
+		"street": "Bareelstraat",
+		"city": "Wuustwezel",
+		"district": "",
+		"postcode": "2990"
+	},
+	{
+		"lon": "3.203548",
+		"lat": "50.9072364",
+		"number": "29",
+		"street": "Blekerijstraat",
+		"city": "Izegem",
+		"district": "",
+		"postcode": "8870"
+	},
+	{
+		"lon": "3.6965356",
+		"lat": "51.0624391",
+		"number": "32",
+		"street": "Blazoenstraat",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "2.6078942",
+		"lat": "51.0111635",
+		"number": "27",
+		"street": "Dorpsstraat",
+		"city": "Veurne",
+		"district": "",
+		"postcode": "8630"
+	},
+	{
+		"lon": "4.1276324",
+		"lat": "51.0821949",
+		"number": "91",
+		"street": "Schaubeke",
+		"city": "Hamme",
+		"district": "",
+		"postcode": "9220"
+	},
+	{
+		"lon": "2.9598305",
+		"lat": "50.9844144",
+		"number": "15",
+		"street": "Zarrendreef",
+		"city": "Houthulst",
+		"district": "",
+		"postcode": "8650"
+	},
+	{
+		"lon": "4.9598408",
+		"lat": "50.8032591",
+		"number": "218",
+		"street": "Pastorijstraat",
+		"city": "Tienen",
+		"district": "",
+		"postcode": "3300"
+	},
+	{
+		"lon": "3.2068236",
+		"lat": "51.2270802",
+		"number": "140",
+		"street": "Blankenbergse Steenweg",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8000"
+	},
+	{
+		"lon": "4.1696483",
+		"lat": "51.0457285",
+		"number": "57",
+		"street": "Baasrodeveerstraat",
+		"city": "Hamme",
+		"district": "",
+		"postcode": "9220"
+	},
+	{
+		"lon": "3.0288884",
+		"lat": "50.7820877",
+		"number": "30",
+		"street": "Ten Brielensesteenweg",
+		"city": "Wervik",
+		"district": "",
+		"postcode": "8940"
+	},
+	{
+		"lon": "4.9905405",
+		"lat": "50.9986786",
+		"number": "128",
+		"street": "Kranenburgstraat",
+		"city": "Scherpenheuvel-Zichem",
+		"district": "",
+		"postcode": "3271"
+	},
+	{
+		"lon": "4.6158409",
+		"lat": "51.1840161",
+		"number": "34",
+		"street": "Massenhovensesteenweg",
+		"city": "Ranst",
+		"district": "",
+		"postcode": "2520"
+	},
+	{
+		"lon": "4.0758967",
+		"lat": "51.2500093",
+		"number": "102",
+		"street": "Buitenstraat",
+		"city": "Sint-Gillis-Waas",
+		"district": "",
+		"postcode": "9170"
+	},
+	{
+		"lon": "3.2150102",
+		"lat": "51.1880271",
+		"number": "43",
+		"street": "Dorpsstraat",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8200"
+	},
+	{
+		"lon": "3.6970349",
+		"lat": "51.0630198",
+		"number": "175",
+		"street": "Bevrijdingslaan",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "4.4435229",
+		"lat": "51.1765935",
+		"number": "78",
+		"street": "Lieven Gevaertstraat",
+		"city": "Mortsel",
+		"district": "",
+		"postcode": "2640"
+	},
+	{
+		"lon": "3.6368449",
+		"lat": "51.1050302",
+		"number": "35",
+		"street": "Violierstraat",
+		"city": "Lovendegem",
+		"district": "",
+		"postcode": "9920"
+	},
+	{
+		"lon": "3.1928606",
+		"lat": "50.7919818",
+		"number": "80",
+		"street": "Deken Darrasstraat",
+		"city": "Menen",
+		"district": "",
+		"postcode": "8930"
+	},
+	{
+		"lon": "2.8759609",
+		"lat": "51.2110034",
+		"number": "24",
+		"street": "Madeliefjeslaan",
+		"city": "Oostende",
+		"district": "",
+		"postcode": "8400"
+	},
+	{
+		"lon": "4.2437028",
+		"lat": "50.8624066",
+		"number": "9",
+		"street": "Rerum Novarumlaan",
+		"city": "Dilbeek",
+		"district": "",
+		"postcode": "1700"
+	},
+	{
+		"lon": "4.0013333",
+		"lat": "50.943439",
+		"number": "7",
+		"street": "Reinaertdreef",
+		"city": "Aalst",
+		"district": "",
+		"postcode": "9300"
+	},
+	{
+		"lon": "3.8263861",
+		"lat": "50.8842681",
+		"number": "3",
+		"street": "Bosstraat",
+		"city": "Zottegem",
+		"district": "",
+		"postcode": "9620"
+	},
+	{
+		"lon": "3.8107534",
+		"lat": "51.2039032",
+		"number": "118A",
+		"street": "Kerkstraat",
+		"city": "Zelzate",
+		"district": "",
+		"postcode": "9060"
+	},
+	{
+		"lon": "4.6921649",
+		"lat": "50.9714286",
+		"number": "3",
+		"street": "Beverlaak",
+		"city": "Rotselaar",
+		"district": "",
+		"postcode": "3118"
+	},
+	{
+		"lon": "4.8987478",
+		"lat": "50.7781157",
+		"number": "14",
+		"street": "Kloosterstraat",
+		"city": "Hoegaarden",
+		"district": "",
+		"postcode": "3320"
+	},
+	{
+		"lon": "3.6337213",
+		"lat": "50.8385951",
+		"number": "29",
+		"street": "Boembeekstraat",
+		"city": "Oudenaarde",
+		"district": "",
+		"postcode": "9700"
+	},
+	{
+		"lon": "4.731966",
+		"lat": "50.9561695",
+		"number": "16",
+		"street": "Steenweg op Wezemaal",
+		"city": "Rotselaar",
+		"district": "",
+		"postcode": "3110"
+	},
+	{
+		"lon": "4.3928954",
+		"lat": "51.1664215",
+		"number": "17",
+		"street": "Standonklaan",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2610"
+	},
+	{
+		"lon": "3.686955",
+		"lat": "51.0671508",
+		"number": "265",
+		"street": "Brugsesteenweg",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "4.0944318",
+		"lat": "51.0315267",
+		"number": "87",
+		"street": "Kerkstraat",
+		"city": "Dendermonde",
+		"district": "",
+		"postcode": "9200"
+	},
+	{
+		"lon": "4.6942919",
+		"lat": "50.9704281",
+		"number": "17",
+		"street": "Werchterplein",
+		"city": "Rotselaar",
+		"district": "",
+		"postcode": "3118"
+	},
+	{
+		"lon": "4.3728545",
+		"lat": "50.9155096",
+		"number": "5",
+		"street": "Patrijzenstraat",
+		"city": "Vilvoorde",
+		"district": "",
+		"postcode": "1800"
+	},
+	{
+		"lon": "2.622117",
+		"lat": "51.0868514",
+		"number": "58",
+		"street": "Noordhoekstraat",
+		"city": "De Panne",
+		"district": "",
+		"postcode": "8660"
+	},
+	{
+		"lon": "4.3577964",
+		"lat": "51.1683081",
+		"number": "19",
+		"street": "Krijgsbaan_HO",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2660"
+	},
+	{
+		"lon": "4.4796901",
+		"lat": "51.0007642",
+		"number": "119",
+		"street": "Lindestraat",
+		"city": "Mechelen",
+		"district": "",
+		"postcode": "2800"
+	},
+	{
+		"lon": "3.7617948",
+		"lat": "51.0993309",
+		"number": "28",
+		"street": "Honoré Drubbelstraat",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9041"
+	},
+	{
+		"lon": "4.7297237",
+		"lat": "50.9000062",
+		"number": "28",
+		"street": "Wilderbos",
+		"city": "Leuven",
+		"district": "",
+		"postcode": "3010"
+	},
+	{
+		"lon": "5.0499154",
+		"lat": "50.9757063",
+		"number": "31",
+		"street": "Fabiolalaan",
+		"city": "Diest",
+		"district": "",
+		"postcode": "3290"
+	},
+	{
+		"lon": "4.705215",
+		"lat": "51.2716045",
+		"number": "67",
+		"street": "Bremlaan",
+		"city": "Zoersel",
+		"district": "",
+		"postcode": "2980"
+	},
+	{
+		"lon": "5.0791855",
+		"lat": "51.0125467",
+		"number": "166",
+		"street": "Kerkstraat",
+		"city": "Diest",
+		"district": "",
+		"postcode": "3290"
+	},
+	{
+		"lon": "2.8841381",
+		"lat": "50.8528496",
+		"number": "1",
+		"street": "De Brouwerstraat",
+		"city": "Ieper",
+		"district": "",
+		"postcode": "8900"
+	},
+	{
+		"lon": "5.1462124",
+		"lat": "51.1913593",
+		"number": "44",
+		"street": "O. L. Vrouwstraat",
+		"city": "Mol",
+		"district": "",
+		"postcode": "2400"
+	},
+	{
+		"lon": "5.7244734",
+		"lat": "51.0621578",
+		"number": "3",
+		"street": "Kwavenstraat",
+		"city": "Dilsen-Stokkem",
+		"district": "",
+		"postcode": "3650"
+	},
+	{
+		"lon": "3.8091039",
+		"lat": "50.9457554",
+		"number": "9",
+		"street": "Keiberg",
+		"city": "Oosterzele",
+		"district": "",
+		"postcode": "9860"
+	},
+	{
+		"lon": "4.6965417",
+		"lat": "51.2968827",
+		"number": "209",
+		"street": "Antwerpsesteenweg",
+		"city": "Malle",
+		"district": "",
+		"postcode": "2390"
+	},
+	{
+		"lon": "2.9575897",
+		"lat": "51.0117555",
+		"number": "2",
+		"street": "Mollestraat",
+		"city": "Kortemark",
+		"district": "",
+		"postcode": "8610"
+	},
+	{
+		"lon": "5.580826",
+		"lat": "51.1683015",
+		"number": "16",
+		"street": "Driemorgenstraat",
+		"city": "Bocholt",
+		"district": "",
+		"postcode": "3950"
+	},
+	{
+		"lon": "2.9173988",
+		"lat": "51.2255723",
+		"number": "43",
+		"street": "Stockholmstraat",
+		"city": "Oostende",
+		"district": "",
+		"postcode": "8400"
+	},
+	{
+		"lon": "3.2141297",
+		"lat": "51.1757054",
+		"number": "55",
+		"street": "Rietlaan",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8200"
+	},
+	{
+		"lon": "3.1739437",
+		"lat": "50.8750244",
+		"number": "17A",
+		"street": "Koning Boudewijnlaan",
+		"city": "Ledegem",
+		"district": "",
+		"postcode": "8880"
+	},
+	{
+		"lon": "5.112884",
+		"lat": "50.9767907",
+		"number": "24",
+		"street": "Karestraat",
+		"city": "Halen",
+		"district": "",
+		"postcode": "3545"
+	},
+	{
+		"lon": "4.2343172",
+		"lat": "51.0082748",
+		"number": "73",
+		"street": "Mattestraat",
+		"city": "Londerzeel",
+		"district": "",
+		"postcode": "1840"
+	},
+	{
+		"lon": "4.9857408",
+		"lat": "51.1777012",
+		"number": "214",
+		"street": "Dr.-Van de Perrestraat",
+		"city": "Geel",
+		"district": "",
+		"postcode": "2440"
+	},
+	{
+		"lon": "5.2578349",
+		"lat": "51.1538218",
+		"number": "7",
+		"street": "Kerkhoven",
+		"city": "Balen",
+		"district": "",
+		"postcode": "2490"
+	},
+	{
+		"lon": "4.9294273",
+		"lat": "50.8109286",
+		"number": "70",
+		"street": "Oude Leuvensestraat",
+		"city": "Tienen",
+		"district": "",
+		"postcode": "3300"
+	},
+	{
+		"lon": "4.6126423",
+		"lat": "51.2650357",
+		"number": "29",
+		"street": "Torfhoeken",
+		"city": "Schilde",
+		"district": "",
+		"postcode": "2970"
+	},
+	{
+		"lon": "3.6467237",
+		"lat": "50.9904256",
+		"number": "50",
+		"street": "Pintestraat",
+		"city": "De Pinte",
+		"district": "",
+		"postcode": "9840"
+	},
+	{
+		"lon": "4.4036953",
+		"lat": "51.3073656",
+		"number": "6",
+		"street": "Hoge Weg",
+		"city": "Stabroek",
+		"district": "",
+		"postcode": "2940"
+	},
+	{
+		"lon": "4.0270785",
+		"lat": "50.9582835",
+		"number": "35",
+		"street": "Lindeveldstraat",
+		"city": "Aalst",
+		"district": "",
+		"postcode": "9308"
+	},
+	{
+		"lon": "4.8049726",
+		"lat": "51.0412123",
+		"number": "1",
+		"street": "Zustersstraat",
+		"city": "Hulshout",
+		"district": "",
+		"postcode": "2235"
+	},
+	{
+		"lon": "4.8740391",
+		"lat": "50.9069043",
+		"number": "65",
+		"street": "Gouden Kruispunt",
+		"city": "Tielt-Winge",
+		"district": "",
+		"postcode": "3390"
+	},
+	{
+		"lon": "4.9322989",
+		"lat": "51.3135711",
+		"number": "5",
+		"street": "Meibloemstraat",
+		"city": "Turnhout",
+		"district": "",
+		"postcode": "2300"
+	},
+	{
+		"lon": "3.1767829",
+		"lat": "51.1989411",
+		"number": "21",
+		"street": "Kosterijstraat",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8200"
+	},
+	{
+		"lon": "5.1284806",
+		"lat": "51.1943331",
+		"number": "53",
+		"street": "Ginderbuiten",
+		"city": "Mol",
+		"district": "",
+		"postcode": "2400"
+	},
+	{
+		"lon": "5.6820235",
+		"lat": "50.9135008",
+		"number": "13",
+		"street": "Steenweg",
+		"city": "Lanaken",
+		"district": "",
+		"postcode": "3621"
+	},
+	{
+		"lon": "5.2970665",
+		"lat": "50.8066885",
+		"number": "62",
+		"street": "Hamstraat",
+		"city": "Borgloon",
+		"district": "",
+		"postcode": "3840"
+	},
+	{
+		"lon": "3.5787356",
+		"lat": "51.1871127",
+		"number": "9",
+		"street": "Burg. Maurice Goethalslaan",
+		"city": "Eeklo",
+		"district": "",
+		"postcode": "9900"
+	},
+	{
+		"lon": "5.0166438",
+		"lat": "50.8380089",
+		"number": "9",
+		"street": "Grote Steenweg",
+		"city": "Linter",
+		"district": "",
+		"postcode": "3350"
+	},
+	{
+		"lon": "2.7619293",
+		"lat": "51.155046",
+		"number": "3",
+		"street": "Brempad",
+		"city": "Middelkerke",
+		"district": "",
+		"postcode": "8434"
+	},
+	{
+		"lon": "3.0334001",
+		"lat": "51.2705426",
+		"number": "9",
+		"street": "Kardinaal Mercierlaan",
+		"city": "De Haan",
+		"district": "",
+		"postcode": "8420"
+	},
+	{
+		"lon": "4.113131",
+		"lat": "51.0207451",
+		"number": "58",
+		"street": "Burgemeester Potiaulaan",
+		"city": "Dendermonde",
+		"district": "",
+		"postcode": "9200"
+	},
+	{
+		"lon": "3.5405701",
+		"lat": "51.03428",
+		"number": "33",
+		"street": "Graaf van Hoornestraat",
+		"city": "Nevele",
+		"district": "",
+		"postcode": "9850"
+	},
+	{
+		"lon": "4.1644168",
+		"lat": "50.9507887",
+		"number": "46A",
+		"street": "'t Kintstraat",
+		"city": "Opwijk",
+		"district": "",
+		"postcode": "1745"
+	},
+	{
+		"lon": "4.7445394",
+		"lat": "51.2114765",
+		"number": "57",
+		"street": "Vroegeinde",
+		"city": "Vorselaar",
+		"district": "",
+		"postcode": "2290"
+	},
+	{
+		"lon": "3.242448",
+		"lat": "50.9746009",
+		"number": "51",
+		"street": "Brugsesteenweg",
+		"city": "Pittem",
+		"district": "",
+		"postcode": "8740"
+	},
+	{
+		"lon": "4.2164287",
+		"lat": "51.1314803",
+		"number": "6",
+		"street": "Vroonhoflaan",
+		"city": "Temse",
+		"district": "",
+		"postcode": "9140"
+	},
+	{
+		"lon": "4.0713611",
+		"lat": "50.8794194",
+		"number": "80",
+		"street": "Nieuwstraat",
+		"city": "Denderleeuw",
+		"district": "",
+		"postcode": "9470"
+	},
+	{
+		"lon": "4.6317758",
+		"lat": "51.2731515",
+		"number": "57",
+		"street": "Stoppelveld",
+		"city": "Zoersel",
+		"district": "",
+		"postcode": "2980"
+	},
+	{
+		"lon": "4.4401477",
+		"lat": "50.9574645",
+		"number": "198",
+		"street": "Grimbergsesteenweg",
+		"city": "Zemst",
+		"district": "",
+		"postcode": "1980"
+	},
+	{
+		"lon": "4.5420528",
+		"lat": "51.3404104",
+		"number": "31",
+		"street": "Everdijkruis",
+		"city": "Wuustwezel",
+		"district": "",
+		"postcode": "2990"
+	},
+	{
+		"lon": "3.731848",
+		"lat": "51.0793489",
+		"number": "6",
+		"street": "Duinkerkeplein",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "3.1754784",
+		"lat": "51.1813407",
+		"number": "21",
+		"street": "Heideroosstraat",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8200"
+	},
+	{
+		"lon": "3.611894",
+		"lat": "50.7418359",
+		"number": "558",
+		"street": "Scheldekouter",
+		"city": "Ronse",
+		"district": "",
+		"postcode": "9600"
+	},
+	{
+		"lon": "4.4726137",
+		"lat": "51.2429967",
+		"number": "123",
+		"street": "Kruiningenstraat",
+		"city": "Schoten",
+		"district": "",
+		"postcode": "2900"
+	},
+	{
+		"lon": "4.152917",
+		"lat": "51.1345013",
+		"number": "10",
+		"street": "Steenweg Hulst-Lessen",
+		"city": "Temse",
+		"district": "",
+		"postcode": "9140"
+	},
+	{
+		"lon": "5.5329698",
+		"lat": "50.9784319",
+		"number": "6",
+		"street": "Academiestraat",
+		"city": "Genk",
+		"district": "",
+		"postcode": "3600"
+	},
+	{
+		"lon": "4.4405062",
+		"lat": "51.296198",
+		"number": "4",
+		"street": "Oudstrijderslei",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2180"
+	},
+	{
+		"lon": "5.5807862",
+		"lat": "51.1738569",
+		"number": "9",
+		"street": "Dorpsstraat",
+		"city": "Bocholt",
+		"district": "",
+		"postcode": "3950"
+	},
+	{
+		"lon": "4.7481803",
+		"lat": "50.9886841",
+		"number": "48",
+		"street": "Parkheidestraat",
+		"city": "Tremelo",
+		"district": "",
+		"postcode": "3128"
+	},
+	{
+		"lon": "3.3109774",
+		"lat": "50.9166629",
+		"number": "173",
+		"street": "Leegstraat",
+		"city": "Oostrozebeke",
+		"district": "",
+		"postcode": "8780"
+	},
+	{
+		"lon": "5.0881746",
+		"lat": "51.3226493",
+		"number": "25",
+		"street": "De Maaskens",
+		"city": "Arendonk",
+		"district": "",
+		"postcode": "2370"
+	},
+	{
+		"lon": "4.9365556",
+		"lat": "51.3129185",
+		"number": "9",
+		"street": "Vuurkruisenstraat",
+		"city": "Turnhout",
+		"district": "",
+		"postcode": "2300"
+	},
+	{
+		"lon": "5.6742015",
+		"lat": "50.8112305",
+		"number": "60",
+		"street": "Bovenstraat",
+		"city": "Riemst",
+		"district": "",
+		"postcode": "3770"
+	},
+	{
+		"lon": "5.3554962",
+		"lat": "50.9285301",
+		"number": "204",
+		"street": "Maastrichtersteenweg",
+		"city": "Hasselt",
+		"district": "",
+		"postcode": "3500"
+	},
+	{
+		"lon": "4.2424834",
+		"lat": "50.7450773",
+		"number": "292",
+		"street": "Brusselsesteenweg",
+		"city": "Halle",
+		"district": "",
+		"postcode": "1500"
+	},
+	{
+		"lon": "4.7069545",
+		"lat": "50.9761293",
+		"number": "27",
+		"street": "Grotestraat",
+		"city": "Rotselaar",
+		"district": "",
+		"postcode": "3118"
+	},
+	{
+		"lon": "3.9071567",
+		"lat": "50.9607033",
+		"number": "8",
+		"street": "Klinkaard",
+		"city": "Lede",
+		"district": "",
+		"postcode": "9340"
+	},
+	{
+		"lon": "3.8897996",
+		"lat": "51.0788366",
+		"number": "27",
+		"street": "Molenberglaan",
+		"city": "Lochristi",
+		"district": "",
+		"postcode": "9080"
+	},
+	{
+		"lon": "4.2452684",
+		"lat": "51.2154557",
+		"number": "187",
+		"street": "Klapperstraat",
+		"city": "Beveren",
+		"district": "",
+		"postcode": "9120"
+	},
+	{
+		"lon": "4.1382904",
+		"lat": "51.0886719",
+		"number": "19",
+		"street": "Loystraat",
+		"city": "Hamme",
+		"district": "",
+		"postcode": "9220"
+	},
+	{
+		"lon": "4.8450091",
+		"lat": "51.1920422",
+		"number": "115",
+		"street": "Lichtaartseweg",
+		"city": "Herentals",
+		"district": "",
+		"postcode": "2200"
+	},
+	{
+		"lon": "4.312161",
+		"lat": "50.7701278",
+		"number": "85A",
+		"street": "Steenweg op Ukkel",
+		"city": "Beersel",
+		"district": "",
+		"postcode": "1650"
+	},
+	{
+		"lon": "4.5051316",
+		"lat": "51.2579355",
+		"number": "225",
+		"street": "Paalstraat",
+		"city": "Schoten",
+		"district": "",
+		"postcode": "2900"
+	},
+	{
+		"lon": "5.0641139",
+		"lat": "50.9703171",
+		"number": "50",
+		"street": "Webbekomstraat",
+		"city": "Diest",
+		"district": "",
+		"postcode": "3290"
+	},
+	{
+		"lon": "3.2421967",
+		"lat": "51.315231",
+		"number": "58",
+		"street": "Sasstraat",
+		"city": "Knokke-Heist",
+		"district": "",
+		"postcode": "8301"
+	},
+	{
+		"lon": "4.4431541",
+		"lat": "50.9167647",
+		"number": "18",
+		"street": "Peutiesesteenweg",
+		"city": "Machelen",
+		"district": "",
+		"postcode": "1830"
+	},
+	{
+		"lon": "4.2061883",
+		"lat": "51.0722062",
+		"number": "7",
+		"street": "Reigerlaan",
+		"city": "Bornem",
+		"district": "",
+		"postcode": "2880"
+	},
+	{
+		"lon": "4.4233283",
+		"lat": "51.1652187",
+		"number": "41",
+		"street": "Hazeschransstraat",
+		"city": "Edegem",
+		"district": "",
+		"postcode": "2650"
+	},
+	{
+		"lon": "5.6932967",
+		"lat": "50.9768498",
+		"number": "48",
+		"street": "Gouv.H. Verwilghenlaan",
+		"city": "Maasmechelen",
+		"district": "",
+		"postcode": "3630"
+	},
+	{
+		"lon": "4.0590048",
+		"lat": "50.9225234",
+		"number": "27",
+		"street": "Gerstenstraat",
+		"city": "Aalst",
+		"district": "",
+		"postcode": "9320"
+	},
+	{
+		"lon": "4.4317897",
+		"lat": "51.2774985",
+		"number": "52",
+		"street": "Pachthoevelaan",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2180"
+	},
+	{
+		"lon": "3.2422311",
+		"lat": "50.8738046",
+		"number": "44",
+		"street": "Burgemeester G. Dussartlaan",
+		"city": "Lendelede",
+		"district": "",
+		"postcode": "8860"
+	},
+	{
+		"lon": "5.4046327",
+		"lat": "51.1841673",
+		"number": "359",
+		"street": "Lindelsebaan",
+		"city": "Overpelt",
+		"district": "",
+		"postcode": "3900"
+	},
+	{
+		"lon": "4.2320231",
+		"lat": "50.7352013",
+		"number": "41",
+		"street": "Poststraat",
+		"city": "Halle",
+		"district": "",
+		"postcode": "1500"
+	},
+	{
+		"lon": "3.5925811",
+		"lat": "50.755431",
+		"number": "71",
+		"street": "Oudestraat",
+		"city": "Ronse",
+		"district": "",
+		"postcode": "9600"
+	},
+	{
+		"lon": "4.2926987",
+		"lat": "51.1278967",
+		"number": "16",
+		"street": "Hellingstraat",
+		"city": "Kruibeke",
+		"district": "",
+		"postcode": "9150"
+	},
+	{
+		"lon": "5.46634",
+		"lat": "50.8177327",
+		"number": "5",
+		"street": "Sint-Annastraat",
+		"city": "Hoeselt",
+		"district": "",
+		"postcode": "3730"
+	},
+	{
+		"lon": "4.2877069",
+		"lat": "51.1743133",
+		"number": "1A",
+		"street": "Hazarddam",
+		"city": "Kruibeke",
+		"district": "",
+		"postcode": "9150"
+	},
+	{
+		"lon": "4.3950491",
+		"lat": "51.2052878",
+		"number": "26",
+		"street": "Jozef Liesstraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2018"
+	},
+	{
+		"lon": "5.0822895",
+		"lat": "50.8820295",
+		"number": "3D",
+		"street": "Dennenbosstraat",
+		"city": "Geetbets",
+		"district": "",
+		"postcode": "3450"
+	},
+	{
+		"lon": "3.7285586",
+		"lat": "51.0505855",
+		"number": "35J",
+		"street": "Brabantdam",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "5.4517353",
+		"lat": "50.9269414",
+		"number": "5",
+		"street": "Nachtegaalstraat",
+		"city": "Diepenbeek",
+		"district": "",
+		"postcode": "3590"
+	},
+	{
+		"lon": "4.2177288",
+		"lat": "50.7129703",
+		"number": "706",
+		"street": "Bergensesteenweg",
+		"city": "Halle",
+		"district": "",
+		"postcode": "1502"
+	},
+	{
+		"lon": "4.2953459",
+		"lat": "51.134098",
+		"number": "4",
+		"street": "Ganzemeerstraat",
+		"city": "Kruibeke",
+		"district": "",
+		"postcode": "9150"
+	},
+	{
+		"lon": "3.307977",
+		"lat": "50.9178854",
+		"number": "146",
+		"street": "Ingelmunstersteenweg",
+		"city": "Oostrozebeke",
+		"district": "",
+		"postcode": "8780"
+	},
+	{
+		"lon": "4.3282537",
+		"lat": "51.3440916",
+		"number": "42",
+		"street": "Pastoor Verlindenstraat",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2040"
+	},
+	{
+		"lon": "4.4456322",
+		"lat": "51.2430576",
+		"number": "48",
+		"street": "Van Stralenlei",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2170"
+	},
+	{
+		"lon": "4.0708048",
+		"lat": "50.8356685",
+		"number": "3",
+		"street": "Molenveldstraat",
+		"city": "Roosdaal",
+		"district": "",
+		"postcode": "1760"
+	},
+	{
+		"lon": "3.2058759",
+		"lat": "51.2332482",
+		"number": "60",
+		"street": "Palingstraat",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8000"
+	},
+	{
+		"lon": "3.2441619",
+		"lat": "50.9271682",
+		"number": "3",
+		"street": "Lindenstraat",
+		"city": "Ingelmunster",
+		"district": "",
+		"postcode": "8770"
+	},
+	{
+		"lon": "4.299911",
+		"lat": "51.1466662",
+		"number": "24",
+		"street": "Koningin Astridplein",
+		"city": "Kruibeke",
+		"district": "",
+		"postcode": "9150"
+	},
+	{
+		"lon": "3.5957643",
+		"lat": "50.9583121",
+		"number": "1",
+		"street": "Langemunt",
+		"city": "Nazareth",
+		"district": "",
+		"postcode": "9810"
+	},
+	{
+		"lon": "4.9743219",
+		"lat": "51.1744697",
+		"number": "2",
+		"street": "Sijsjesstraat",
+		"city": "Geel",
+		"district": "",
+		"postcode": "2440"
+	},
+	{
+		"lon": "4.0925353",
+		"lat": "51.1910628",
+		"number": "40",
+		"street": "Klapdorp",
+		"city": "Sint-Gillis-Waas",
+		"district": "",
+		"postcode": "9170"
+	},
+	{
+		"lon": "4.6704793",
+		"lat": "51.0581218",
+		"number": "4",
+		"street": "Jan De Cordesstr.",
+		"city": "Putte",
+		"district": "",
+		"postcode": "2580"
+	},
+	{
+		"lon": "3.699899",
+		"lat": "50.8729055",
+		"number": "143",
+		"street": "Heufkensstraat",
+		"city": "Zwalm",
+		"district": "",
+		"postcode": "9630"
+	},
+	{
+		"lon": "4.5113828",
+		"lat": "50.771333",
+		"number": "92",
+		"street": "Sint-Annastraat",
+		"city": "Overijse",
+		"district": "",
+		"postcode": "3090"
+	},
+	{
+		"lon": "4.2492412",
+		"lat": "50.7277613",
+		"number": "12",
+		"street": "Kwikstaartlaan",
+		"city": "Halle",
+		"district": "",
+		"postcode": "1500"
+	},
+	{
+		"lon": "4.3044966",
+		"lat": "50.9013927",
+		"number": "152",
+		"street": "Vijverslaan",
+		"city": "Wemmel",
+		"district": "",
+		"postcode": "1780"
+	},
+	{
+		"lon": "3.7907445",
+		"lat": "50.9817858",
+		"number": "50",
+		"street": "Kapellendries",
+		"city": "Melle",
+		"district": "",
+		"postcode": "9090"
+	},
+	{
+		"lon": "4.9949668",
+		"lat": "50.829118",
+		"number": "63",
+		"street": "Kummenbaan",
+		"city": "Tienen",
+		"district": "",
+		"postcode": "3300"
+	},
+	{
+		"lon": "4.841552",
+		"lat": "51.0903362",
+		"number": "6",
+		"street": "Kathovestraat",
+		"city": "Westerlo",
+		"district": "",
+		"postcode": "2260"
+	},
+	{
+		"lon": "3.4718922",
+		"lat": "51.0086626",
+		"number": "50",
+		"street": "Aarseleweg",
+		"city": "Deinze",
+		"district": "",
+		"postcode": "9800"
+	},
+	{
+		"lon": "4.5725866",
+		"lat": "51.1446824",
+		"number": "337",
+		"street": "Pannenhuisstraat",
+		"city": "Lier",
+		"district": "",
+		"postcode": "2500"
+	},
+	{
+		"lon": "4.949343",
+		"lat": "50.8459939",
+		"number": "83",
+		"street": "Tiensesteenweg",
+		"city": "Glabbeek",
+		"district": "",
+		"postcode": "3380"
+	},
+	{
+		"lon": "3.6113724",
+		"lat": "50.7400975",
+		"number": "43",
+		"street": "Scheldekouter",
+		"city": "Ronse",
+		"district": "",
+		"postcode": "9600"
+	},
+	{
+		"lon": "5.1244412",
+		"lat": "50.9830741",
+		"number": "51",
+		"street": "Tuinwijkstraat",
+		"city": "Halen",
+		"district": "",
+		"postcode": "3545"
+	},
+	{
+		"lon": "5.3997097",
+		"lat": "51.2298708",
+		"number": "29",
+		"street": "Leukenstraat",
+		"city": "Overpelt",
+		"district": "",
+		"postcode": "3900"
+	},
+	{
+		"lon": "4.0442595",
+		"lat": "51.2335826",
+		"number": "169",
+		"street": "Hellestraat",
+		"city": "Stekene",
+		"district": "",
+		"postcode": "9190"
+	},
+	{
+		"lon": "3.7307588",
+		"lat": "51.0619363",
+		"number": "5",
+		"street": "Bomastraat",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9000"
+	},
+	{
+		"lon": "4.54219",
+		"lat": "50.8883254",
+		"number": "397",
+		"street": "Leuvensesteenweg",
+		"city": "Kortenberg",
+		"district": "",
+		"postcode": "3070"
+	},
+	{
+		"lon": "4.7637049",
+		"lat": "50.9610519",
+		"number": "47",
+		"street": "Beatrijslaan",
+		"city": "Rotselaar",
+		"district": "",
+		"postcode": "3110"
+	},
+	{
+		"lon": "4.4717065",
+		"lat": "50.9758245",
+		"number": "61",
+		"street": "Kerselarenweg",
+		"city": "Zemst",
+		"district": "",
+		"postcode": "1982"
+	},
+	{
+		"lon": "5.7366784",
+		"lat": "50.9985254",
+		"number": "32",
+		"street": "Moleneindstraat",
+		"city": "Maasmechelen",
+		"district": "",
+		"postcode": "3630"
+	},
+	{
+		"lon": "5.0980804",
+		"lat": "51.082569",
+		"number": "146A",
+		"street": "Staatsbaan",
+		"city": "Ham",
+		"district": "",
+		"postcode": "3945"
+	},
+	{
+		"lon": "4.063353",
+		"lat": "51.0266416",
+		"number": "15",
+		"street": "Lindestraat",
+		"city": "Dendermonde",
+		"district": "",
+		"postcode": "9200"
+	},
+	{
+		"lon": "4.3959988",
+		"lat": "51.2176063",
+		"number": "24",
+		"street": "Oever",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2000"
+	},
+	{
+		"lon": "3.1059736",
+		"lat": "50.9367984",
+		"number": "7",
+		"street": "Sint-Lutgardstraat",
+		"city": "Roeselare",
+		"district": "",
+		"postcode": "8800"
+	},
+	{
+		"lon": "5.1838006",
+		"lat": "50.8175118",
+		"number": "39",
+		"street": "Breendonkstraat",
+		"city": "Sint-Truiden",
+		"district": "",
+		"postcode": "3800"
+	},
+	{
+		"lon": "4.5015127",
+		"lat": "51.1667059",
+		"number": "88",
+		"street": "Gillegomstraat",
+		"city": "Boechout",
+		"district": "",
+		"postcode": "2530"
+	},
+	{
+		"lon": "4.4468587",
+		"lat": "51.3009136",
+		"number": "59",
+		"street": "Valkenlaan",
+		"city": "Kapellen",
+		"district": "",
+		"postcode": "2950"
+	},
+	{
+		"lon": "5.335139",
+		"lat": "50.9333518",
+		"number": "58A",
+		"street": "Thonissenlaan",
+		"city": "Hasselt",
+		"district": "",
+		"postcode": "3500"
+	},
+	{
+		"lon": "5.319582",
+		"lat": "51.2389127",
+		"number": "24",
+		"street": "Akkerstraat",
+		"city": "Lommel",
+		"district": "",
+		"postcode": "3920"
+	},
+	{
+		"lon": "3.2666618",
+		"lat": "51.2036719",
+		"number": "23",
+		"street": "Paalbos",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8310"
+	},
+	{
+		"lon": "4.9685923",
+		"lat": "50.9231578",
+		"number": "7A",
+		"street": "Processiestraat",
+		"city": "Bekkevoort",
+		"district": "",
+		"postcode": "3461"
+	},
+	{
+		"lon": "5.716968",
+		"lat": "51.005395",
+		"number": "19",
+		"street": "Willibrordusstraat",
+		"city": "Dilsen-Stokkem",
+		"district": "",
+		"postcode": "3650"
+	},
+	{
+		"lon": "4.6307184",
+		"lat": "50.9993232",
+		"number": "4",
+		"street": "G. Asselberghsstraat",
+		"city": "Keerbergen",
+		"district": "",
+		"postcode": "3140"
+	},
+	{
+		"lon": "3.2593659",
+		"lat": "50.9899244",
+		"number": "13",
+		"street": "Spoorweglaan",
+		"city": "Pittem",
+		"district": "",
+		"postcode": "8740"
+	},
+	{
+		"lon": "3.6955762",
+		"lat": "51.1707918",
+		"number": "3",
+		"street": "Snepdreef",
+		"city": "Evergem",
+		"district": "",
+		"postcode": "9940"
+	},
+	{
+		"lon": "4.698135",
+		"lat": "51.1694074",
+		"number": "8",
+		"street": "Felix Timmermanshof",
+		"city": "Nijlen",
+		"district": "",
+		"postcode": "2560"
+	},
+	{
+		"lon": "3.1368637",
+		"lat": "51.1460863",
+		"number": "8",
+		"street": "Wellewaarde",
+		"city": "Zedelgem",
+		"district": "",
+		"postcode": "8210"
+	},
+	{
+		"lon": "4.474962",
+		"lat": "51.2370365",
+		"number": "38",
+		"street": "Middelmolenlaan",
+		"city": "Antwerpen",
+		"district": "",
+		"postcode": "2100"
+	},
+	{
+		"lon": "3.1821947",
+		"lat": "51.1898875",
+		"number": "114",
+		"street": "Doornstraat",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8200"
+	},
+	{
+		"lon": "3.7434084",
+		"lat": "51.0420656",
+		"number": "87",
+		"street": "Posthoornstraat",
+		"city": "Gent",
+		"district": "",
+		"postcode": "9050"
+	},
+	{
+		"lon": "3.2055151",
+		"lat": "51.245552",
+		"number": "189",
+		"street": "Monnikenwerve",
+		"city": "Brugge",
+		"district": "",
+		"postcode": "8000"
+	},
+	{
+		"lon": "5.6166774",
+		"lat": "51.0532291",
+		"number": "257",
+		"street": "Weg naar Opoeteren",
+		"city": "Opglabbeek",
+		"district": "",
+		"postcode": "3660"
+	},
+	{
+		"lon": "5.4000482",
+		"lat": "51.1335441",
+		"number": "44",
+		"street": "Acacialaan",
+		"city": "Peer",
+		"district": "",
+		"postcode": "3990"
+	},
+	{
+		"lon": "3.9725208",
+		"lat": "50.8151883",
+		"number": "25",
+		"street": "Botermelkstraat",
+		"city": "Ninove",
+		"district": "",
+		"postcode": "9400"
+	},
+	{
+		"lon": "5.4010694",
+		"lat": "51.1347491",
+		"number": "13",
+		"street": "Lijsterbessenlaan",
+		"city": "Peer",
+		"district": "",
+		"postcode": "3990"
+	},
+	{
+		"lon": "3.1735948",
+		"lat": "50.7916727",
+		"number": "122",
+		"street": "Rekkemstraat",
+		"city": "Menen",
+		"district": "",
+		"postcode": "8930"
+	},
+	{
+		"lon": "4.8375303",
+		"lat": "51.1347411",
+		"number": "5",
+		"street": "Grebbenbos",
+		"city": "Herentals",
+		"district": "",
+		"postcode": "2200"
+	},
+	{
+		"lon": "3.2360749",
+		"lat": "51.1592359",
+		"number": "4",
+		"street": "Korte Kwadeplasstraat",
+		"city": "Oostkamp",
+		"district": "",
+		"postcode": "8020"
+	},
+	{
+		"lon": "3.6527808",
+		"lat": "50.8743817",
+		"number": "48",
+		"street": "Corpusstraat",
+		"city": "Oudenaarde",
+		"district": "",
+		"postcode": "9700"
+	},
+	{
+		"lon": "3.038101",
+		"lat": "51.2719106",
+		"number": "7",
+		"street": "Felix Timmermanslaan",
+		"city": "De Haan",
+		"district": "",
+		"postcode": "8421"
+	},
+	{
+		"lon": "3.8277071",
+		"lat": "50.9900209",
+		"number": "4",
+		"street": "Geerbos",
+		"city": "Melle",
+		"district": "",
+		"postcode": "9090"
+	},
+	{
+		"lon": "3.6233357",
+		"lat": "50.8459885",
+		"number": "18",
+		"street": "Rekkemstraat",
+		"city": "Oudenaarde",
+		"district": "",
+		"postcode": "9700"
+	}
+]

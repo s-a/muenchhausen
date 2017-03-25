@@ -1,0 +1,9002 @@
+[
+	{
+		"lon": "22.8928271",
+		"lat": "56.324404",
+		"number": "2A",
+		"street": "P. Jodelės g.",
+		"city": "Naujoji Akmenė",
+		"district": "Akmenės",
+		"postcode": "85115"
+	},
+	{
+		"lon": "24.7546477",
+		"lat": "56.1956061",
+		"number": "38A",
+		"street": "Vytauto g.",
+		"city": "Biržai",
+		"district": "Biržų",
+		"postcode": "41143"
+	},
+	{
+		"lon": "24.7548097",
+		"lat": "56.1906696",
+		"number": "35",
+		"street": "Jovaro g.",
+		"city": "Biržai",
+		"district": "Biržų",
+		"postcode": "41121"
+	},
+	{
+		"lon": "24.7412153",
+		"lat": "56.203494",
+		"number": "26",
+		"street": "V. Kudirkos g.",
+		"city": "Biržai",
+		"district": "Biržų",
+		"postcode": "41178"
+	},
+	{
+		"lon": "24.7302679",
+		"lat": "56.2038706",
+		"number": "17",
+		"street": "Saločių g.",
+		"city": "Biržai",
+		"district": "Biržų",
+		"postcode": "41179"
+	},
+	{
+		"lon": "24.7666364",
+		"lat": "56.2036695",
+		"number": "10",
+		"street": "Kilučių g.",
+		"city": "Biržai",
+		"district": "Biržų",
+		"postcode": "41152"
+	},
+	{
+		"lon": "24.7502418",
+		"lat": "55.9783927",
+		"number": "4",
+		"street": "Elektros g.",
+		"city": "Vabalninkas",
+		"district": "Biržų",
+		"postcode": "41338"
+	},
+	{
+		"lon": "24.7677096",
+		"lat": "56.2080032",
+		"number": "20",
+		"street": "Malūno g.",
+		"city": "Biržai",
+		"district": "Biržų",
+		"postcode": "41168"
+	},
+	{
+		"lon": "24.6384227",
+		"lat": "56.1859087",
+		"number": "7",
+		"street": "Biržų g.",
+		"city": "Pabiržė",
+		"district": "Biržų",
+		"postcode": "41383"
+	},
+	{
+		"lon": "24.2396996",
+		"lat": "55.9306589",
+		"number": "10",
+		"street": "Panevėžio g.",
+		"city": "Pušalotas",
+		"district": "Pasvalio",
+		"postcode": "39258"
+	},
+	{
+		"lon": "24.7547366",
+		"lat": "55.9836659",
+		"number": "38",
+		"street": "K. Šakenio g.",
+		"city": "Vabalninkas",
+		"district": "Biržų",
+		"postcode": "41336"
+	},
+	{
+		"lon": "24.2351569",
+		"lat": "55.903467",
+		"number": "3",
+		"street": "Šermukšnių g.",
+		"city": "Mikoliškis",
+		"district": "Pasvalio",
+		"postcode": "39263"
+	},
+	{
+		"lon": "24.8303416",
+		"lat": "56.1920262",
+		"number": "16",
+		"street": "Taikos g.",
+		"city": "Obelaukiai",
+		"district": "Biržų",
+		"postcode": "41206"
+	},
+	{
+		"lon": "24.4118544",
+		"lat": "56.0628619",
+		"number": "21",
+		"street": "Taikos g.",
+		"city": "Pasvalys",
+		"district": "Pasvalio",
+		"postcode": "39137"
+	},
+	{
+		"lon": "24.4073902",
+		"lat": "56.0656347",
+		"number": "63",
+		"street": "Kalno g.",
+		"city": "Pasvalys",
+		"district": "Pasvalio",
+		"postcode": "39121"
+	},
+	{
+		"lon": "24.3981758",
+		"lat": "56.0661402",
+		"number": "32",
+		"street": "Geležinkeliečių g.",
+		"city": "Pasvalys",
+		"district": "Pasvalio",
+		"postcode": "39120"
+	},
+	{
+		"lon": "24.338483",
+		"lat": "55.9361459",
+		"number": "1",
+		"street": "Pušaloto g.",
+		"city": "Pumpėnai",
+		"district": "Pasvalio",
+		"postcode": "39234"
+	},
+	{
+		"lon": "25.0968988",
+		"lat": "55.5257985",
+		"number": "7",
+		"street": "A. Vienuolio g.",
+		"city": "Anykščiai",
+		"district": "Anykščių",
+		"postcode": "29147"
+	},
+	{
+		"lon": "25.0966618",
+		"lat": "55.5113739",
+		"number": "11",
+		"street": "Mindaugo g.",
+		"city": "Anykščiai",
+		"district": "Anykščių",
+		"postcode": "29141"
+	},
+	{
+		"lon": "25.0964065",
+		"lat": "55.5204189",
+		"number": "40",
+		"street": "Vilniaus g.",
+		"city": "Anykščiai",
+		"district": "Anykščių",
+		"postcode": "29145"
+	},
+	{
+		"lon": "25.120593",
+		"lat": "55.5320973",
+		"number": "67A",
+		"street": "J. Biliūno g.",
+		"city": "Anykščiai",
+		"district": "Anykščių",
+		"postcode": "29110"
+	},
+	{
+		"lon": "25.14955",
+		"lat": "55.5472549",
+		"number": "10",
+		"street": "Elmos g.",
+		"city": "Naujieji Elmininkai",
+		"district": "Anykščių",
+		"postcode": "29157"
+	},
+	{
+		"lon": "24.9259903",
+		"lat": "55.4359914",
+		"number": "15",
+		"street": "Pienės g.",
+		"city": "Kavarskas",
+		"district": "Anykščių",
+		"postcode": "29258"
+	},
+	{
+		"lon": "23.6570638",
+		"lat": "56.0044256",
+		"number": "13",
+		"street": "Juknaičių g.",
+		"city": "Lygumai",
+		"district": "Pakruojo",
+		"postcode": "83306"
+	},
+	{
+		"lon": "21.9138402",
+		"lat": "55.723045",
+		"number": "5",
+		"street": "Pamiškės g.",
+		"city": "Rietavas",
+		"district": "Rietavo ",
+		"postcode": "90315"
+	},
+	{
+		"lon": "22.8057822",
+		"lat": "56.1519879",
+		"number": "24",
+		"street": "Pavasario g.",
+		"city": "Pelkelė",
+		"district": "Akmenės",
+		"postcode": "85231"
+	},
+	{
+		"lon": "23.987454",
+		"lat": "56.27792",
+		"number": "8",
+		"street": "Šiaurės g.",
+		"city": "Žeimelis",
+		"district": "Pakruojo",
+		"postcode": "83381"
+	},
+	{
+		"lon": "21.8518387",
+		"lat": "55.9215375",
+		"number": "10",
+		"street": "Lentpjūvės g.",
+		"city": "Plungė",
+		"district": "Plungės",
+		"postcode": "90117"
+	},
+	{
+		"lon": "21.8485837",
+		"lat": "55.9054747",
+		"number": "51",
+		"street": "Taikos g.",
+		"city": "Plungė",
+		"district": "Plungės",
+		"postcode": "90158"
+	},
+	{
+		"lon": "23.4909012",
+		"lat": "54.7681707",
+		"number": "22",
+		"street": "Jurginų g.",
+		"city": "Jūrė",
+		"district": "Kazlų Rūdos ",
+		"postcode": "69446"
+	},
+	{
+		"lon": "23.8478719",
+		"lat": "55.9860882",
+		"number": "24",
+		"street": "Taikos g.",
+		"city": "Pakruojis",
+		"district": "Pakruojo",
+		"postcode": "83142"
+	},
+	{
+		"lon": "23.4901796",
+		"lat": "54.7559142",
+		"number": "9",
+		"street": "Mindaugo g.",
+		"city": "Kazlų Rūda",
+		"district": "Kazlų Rūdos ",
+		"postcode": "69411"
+	},
+	{
+		"lon": "25.3764417",
+		"lat": "55.6852518",
+		"number": "60",
+		"street": "J. Tumo-Vaižganto g.",
+		"city": "Svėdasai",
+		"district": "Anykščių",
+		"postcode": "29351"
+	},
+	{
+		"lon": "22.7544919",
+		"lat": "56.3466771",
+		"number": "7",
+		"street": "Gvazdikų g.",
+		"city": "Kivyliai",
+		"district": "Akmenės",
+		"postcode": "85483"
+	},
+	{
+		"lon": "22.8326811",
+		"lat": "56.2666134",
+		"number": "25",
+		"street": "Alkiškių g.",
+		"city": "Alkiškiai",
+		"district": "Akmenės",
+		"postcode": "85270"
+	},
+	{
+		"lon": "21.860302",
+		"lat": "55.9095021",
+		"number": "56",
+		"street": "Telšių g.",
+		"city": "Plungė",
+		"district": "Plungės",
+		"postcode": "90166"
+	},
+	{
+		"lon": "23.8540781",
+		"lat": "55.9828954",
+		"number": "37",
+		"street": "P. Mašioto g.",
+		"city": "Pakruojis",
+		"district": "Pakruojo",
+		"postcode": "83138"
+	},
+	{
+		"lon": "24.280243",
+		"lat": "55.0724886",
+		"number": "14",
+		"street": "J. Ralio g.",
+		"city": "Jonava",
+		"district": "Jonavos",
+		"postcode": "55183"
+	},
+	{
+		"lon": "21.9498274",
+		"lat": "55.7250914",
+		"number": "53",
+		"street": "Vatušių g.",
+		"city": "Rietavas",
+		"district": "Rietavo ",
+		"postcode": "90309"
+	},
+	{
+		"lon": "21.8512939",
+		"lat": "55.9121651",
+		"number": "3",
+		"street": "Telšių skg.",
+		"city": "Plungė",
+		"district": "Plungės",
+		"postcode": "90167"
+	},
+	{
+		"lon": "23.8808088",
+		"lat": "55.8920402",
+		"number": "8",
+		"street": "Laisvės a.",
+		"city": "Rozalimas",
+		"district": "Pakruojo",
+		"postcode": "83248"
+	},
+	{
+		"lon": "23.495525",
+		"lat": "54.7466605",
+		"number": "4",
+		"street": "Dariaus ir Girėno g.",
+		"city": "Kazlų Rūda",
+		"district": "Kazlų Rūdos ",
+		"postcode": "69428"
+	},
+	{
+		"lon": "25.3269867",
+		"lat": "55.5790137",
+		"number": "1",
+		"street": "Statybininkų g.",
+		"city": "Debeikiai",
+		"district": "Anykščių",
+		"postcode": "29371"
+	},
+	{
+		"lon": "25.6126845",
+		"lat": "56.086697",
+		"number": "28",
+		"street": "Ramybės g.",
+		"city": "Juodupė",
+		"district": "Rokiškio",
+		"postcode": "42457"
+	},
+	{
+		"lon": "24.9876449",
+		"lat": "55.6888754",
+		"number": "8",
+		"street": "Panevėžio g.",
+		"city": "Viešintos",
+		"district": "Anykščių",
+		"postcode": "29324"
+	},
+	{
+		"lon": "24.2532597",
+		"lat": "55.1035992",
+		"number": "5",
+		"street": "Taikos g.",
+		"city": "Ragožiai",
+		"district": "Jonavos",
+		"postcode": "55100"
+	},
+	{
+		"lon": "25.3677728",
+		"lat": "55.6883188",
+		"number": "41",
+		"street": "Moliakalnio g.",
+		"city": "Svėdasai",
+		"district": "Anykščių",
+		"postcode": "29353"
+	},
+	{
+		"lon": "25.5029882",
+		"lat": "55.8223081",
+		"number": "20",
+		"street": "Salų g.",
+		"city": "Kamajai",
+		"district": "Rokiškio",
+		"postcode": "42284"
+	},
+	{
+		"lon": "24.5394567",
+		"lat": "55.0796587",
+		"number": "23",
+		"street": "Šventosios g.",
+		"city": "Upninkai",
+		"district": "Jonavos",
+		"postcode": "55486"
+	},
+	{
+		"lon": "21.6434284",
+		"lat": "55.8036982",
+		"number": "19",
+		"street": "Naujoji g.",
+		"city": "Kuliai",
+		"district": "Plungės",
+		"postcode": "90371"
+	},
+	{
+		"lon": "24.1956443",
+		"lat": "54.9825664",
+		"number": "27",
+		"street": "Taikos g.",
+		"city": "Užusaliai",
+		"district": "Jonavos",
+		"postcode": "55334"
+	},
+	{
+		"lon": "21.6498202",
+		"lat": "55.8102778",
+		"number": "34",
+		"street": "Liepų g.",
+		"city": "Kuliai",
+		"district": "Plungės",
+		"postcode": "90370"
+	},
+	{
+		"lon": "24.2349891",
+		"lat": "55.2381062",
+		"number": "36",
+		"street": "Draugystės g.",
+		"city": "Juškonys",
+		"district": "Jonavos",
+		"postcode": "55402"
+	},
+	{
+		"lon": "23.9323043",
+		"lat": "54.6307327",
+		"number": "8",
+		"street": "V. Mykolaičio-Putino g.",
+		"city": "Prienai",
+		"district": "Prienų",
+		"postcode": "59119"
+	},
+	{
+		"lon": "25.5919654",
+		"lat": "55.9389169",
+		"number": "3",
+		"street": "Stoties g.",
+		"city": "Rokiškis",
+		"district": "Rokiškio",
+		"postcode": "42164"
+	},
+	{
+		"lon": "21.8519684",
+		"lat": "55.9027877",
+		"number": "5",
+		"street": "Saulėtekio g.",
+		"city": "Plungė",
+		"district": "Plungės",
+		"postcode": "90154"
+	},
+	{
+		"lon": "25.5907133",
+		"lat": "55.9562369",
+		"number": "49A",
+		"street": "Aušros g.",
+		"city": "Rokiškis",
+		"district": "Rokiškio",
+		"postcode": "42131"
+	},
+	{
+		"lon": "25.5787213",
+		"lat": "55.9645377",
+		"number": "8",
+		"street": "Pandėlio g.",
+		"city": "Rokiškis",
+		"district": "Rokiškio",
+		"postcode": "42112"
+	},
+	{
+		"lon": "21.8603892",
+		"lat": "55.9119736",
+		"number": "7",
+		"street": "Pievų g.",
+		"city": "Plungė",
+		"district": "Plungės",
+		"postcode": "90166"
+	},
+	{
+		"lon": "24.1871079",
+		"lat": "54.6035004",
+		"number": "20",
+		"street": "Lentpjūvės g.",
+		"city": "Jieznas",
+		"district": "Prienų",
+		"postcode": "59422"
+	},
+	{
+		"lon": "25.6011844",
+		"lat": "55.9412874",
+		"number": "21",
+		"street": "Jūžintų g.",
+		"city": "Rokiškis",
+		"district": "Rokiškio",
+		"postcode": "42164"
+	},
+	{
+		"lon": "25.5859868",
+		"lat": "55.9609831",
+		"number": "9",
+		"street": "Mikėno g.",
+		"city": "Rokiškis",
+		"district": "Rokiškio",
+		"postcode": "42119"
+	},
+	{
+		"lon": "22.1830883",
+		"lat": "55.4907053",
+		"number": "2",
+		"street": "J. Basanavičiaus g.",
+		"city": "Šilalė",
+		"district": "Šilalės",
+		"postcode": "75138"
+	},
+	{
+		"lon": "25.6034756",
+		"lat": "55.9505892",
+		"number": "9A",
+		"street": "Pramonės g.",
+		"city": "Rokiškis",
+		"district": "Rokiškio",
+		"postcode": "42150"
+	},
+	{
+		"lon": "23.7024775",
+		"lat": "54.1034938",
+		"number": "29",
+		"street": "Radvilų g.",
+		"city": "Veisiejai",
+		"district": "Lazdijų",
+		"postcode": "67337"
+	},
+	{
+		"lon": "26.1801262",
+		"lat": "55.1254126",
+		"number": "69",
+		"street": "Lentupio g.",
+		"city": "Švenčionys",
+		"district": "Švenčionių",
+		"postcode": "18126"
+	},
+	{
+		"lon": "22.9254875",
+		"lat": "55.625021",
+		"number": "2",
+		"street": "Smėlio g.",
+		"city": "Kelmė",
+		"district": "Kelmės",
+		"postcode": "86147"
+	},
+	{
+		"lon": "22.6552704",
+		"lat": "55.7756668",
+		"number": "59",
+		"street": "Kražių g.",
+		"city": "Užventis",
+		"district": "Kelmės",
+		"postcode": "86345"
+	},
+	{
+		"lon": "22.9452884",
+		"lat": "55.6222246",
+		"number": "2",
+		"street": "Pavasario g.",
+		"city": "Kelmė",
+		"district": "Kelmės",
+		"postcode": "86185"
+	},
+	{
+		"lon": "23.2045044",
+		"lat": "55.592077",
+		"number": "37",
+		"street": "Rūtų g.",
+		"city": "Tytuvėnai",
+		"district": "Kelmės",
+		"postcode": "86482"
+	},
+	{
+		"lon": "21.916337",
+		"lat": "55.1310855",
+		"number": "3",
+		"street": "Sodų g.",
+		"city": "Pagėgiai",
+		"district": "Pagėgių ",
+		"postcode": "99287"
+	},
+	{
+		"lon": "26.1266417",
+		"lat": "55.5786054",
+		"number": "18",
+		"street": "Šilo g.",
+		"city": "Salakas",
+		"district": "Zarasų",
+		"postcode": "32216"
+	},
+	{
+		"lon": "26.0069257",
+		"lat": "55.159508",
+		"number": "46",
+		"street": "Bažnyčios g.",
+		"city": "Švenčionėliai",
+		"district": "Švenčionių",
+		"postcode": "18221"
+	},
+	{
+		"lon": "24.6690582",
+		"lat": "54.6626304",
+		"number": "20",
+		"street": "Trakų g.",
+		"city": "Semeliškės",
+		"district": "Elektrėnų ",
+		"postcode": "21302"
+	},
+	{
+		"lon": "25.3880444",
+		"lat": "55.9014631",
+		"number": "13",
+		"street": "Kamajų g.",
+		"city": "Panemunėlis",
+		"district": "Rokiškio",
+		"postcode": "42325"
+	},
+	{
+		"lon": "23.6225363",
+		"lat": "56.247024",
+		"number": "23",
+		"street": "Pakluonių g.",
+		"city": "Joniškis",
+		"district": "Joniškio",
+		"postcode": "84107"
+	},
+	{
+		"lon": "23.7394299",
+		"lat": "54.770715",
+		"number": "6",
+		"street": "Kauno g.",
+		"city": "Veiveriai",
+		"district": "Prienų",
+		"postcode": "59292"
+	},
+	{
+		"lon": "21.4033585",
+		"lat": "55.7123295",
+		"number": "18",
+		"street": "Sodo g.",
+		"city": "Gargždai",
+		"district": "Klaipėdos",
+		"postcode": "96136"
+	},
+	{
+		"lon": "21.08443",
+		"lat": "55.928704",
+		"number": "13",
+		"street": "Gabijos g.",
+		"city": "Palanga",
+		"district": "Palangos",
+		"postcode": "00205"
+	},
+	{
+		"lon": "24.4332708",
+		"lat": "55.1957941",
+		"number": "3",
+		"street": "Bažnyčios g.",
+		"city": "Panoteriai",
+		"district": "Jonavos",
+		"postcode": "55458"
+	},
+	{
+		"lon": "21.0728905",
+		"lat": "55.9483195",
+		"number": "10",
+		"street": "Kontininkų g.",
+		"city": "Palanga",
+		"district": "Palangos",
+		"postcode": "00171"
+	},
+	{
+		"lon": "22.9265474",
+		"lat": "55.6396035",
+		"number": "7",
+		"street": "Žvaigždžių g.",
+		"city": "Kelmė",
+		"district": "Kelmės",
+		"postcode": "86113"
+	},
+	{
+		"lon": "25.3788192",
+		"lat": "55.9024198",
+		"number": "32",
+		"street": "Trakų g.",
+		"city": "Panemunėlis",
+		"district": "Rokiškio",
+		"postcode": "42324"
+	},
+	{
+		"lon": "23.505091",
+		"lat": "54.2366448",
+		"number": "15",
+		"street": "Laukų g.",
+		"city": "Lazdijai",
+		"district": "Lazdijų",
+		"postcode": "67120"
+	},
+	{
+		"lon": "25.5402626",
+		"lat": "55.9456733",
+		"number": "9",
+		"street": "Kalno g.",
+		"city": "Kavoliškis",
+		"district": "Rokiškio",
+		"postcode": "42344"
+	},
+	{
+		"lon": "23.6871007",
+		"lat": "54.1061751",
+		"number": "25",
+		"street": "Rūdos g.",
+		"city": "Veisiejai",
+		"district": "Lazdijų",
+		"postcode": "67342"
+	},
+	{
+		"lon": "25.2765577",
+		"lat": "56.1610918",
+		"number": "3",
+		"street": "Beržų g.",
+		"city": "Suvainiškis",
+		"district": "Rokiškio",
+		"postcode": "42420"
+	},
+	{
+		"lon": "21.067408",
+		"lat": "55.906634",
+		"number": "59",
+		"street": "Plytų g.",
+		"city": "Palanga",
+		"district": "Palangos",
+		"postcode": "00131"
+	},
+	{
+		"lon": "23.2559835",
+		"lat": "56.366289",
+		"number": "5",
+		"street": "Žvelgaičių g.",
+		"city": "Žagarė",
+		"district": "Joniškio",
+		"postcode": "84319"
+	},
+	{
+		"lon": "21.0844089",
+		"lat": "56.0180971",
+		"number": "58",
+		"street": "Mokyklos g.",
+		"city": "Palanga",
+		"district": "Palangos",
+		"postcode": "00303"
+	},
+	{
+		"lon": "23.621328",
+		"lat": "56.2291065",
+		"number": "28",
+		"street": "Saulės g.",
+		"city": "Joniškis",
+		"district": "Joniškio",
+		"postcode": "84184"
+	},
+	{
+		"lon": "21.3837338",
+		"lat": "55.7117057",
+		"number": "2",
+		"street": "Dariaus ir Girėno g.",
+		"city": "Gargždai",
+		"district": "Klaipėdos",
+		"postcode": "96127"
+	},
+	{
+		"lon": "24.4502401",
+		"lat": "54.8022942",
+		"number": "58",
+		"street": "Vilniaus g.",
+		"city": "Žiežmariai",
+		"district": "Kaišiadorių",
+		"postcode": "56239"
+	},
+	{
+		"lon": "21.3714858",
+		"lat": "55.713406",
+		"number": "7",
+		"street": "Savanorių g.",
+		"city": "Gargždai",
+		"district": "Klaipėdos",
+		"postcode": "96178"
+	},
+	{
+		"lon": "23.6113855",
+		"lat": "56.2425634",
+		"number": "21A",
+		"street": "Žagarės g.",
+		"city": "Joniškis",
+		"district": "Joniškio",
+		"postcode": "84122"
+	},
+	{
+		"lon": "25.0383103",
+		"lat": "54.6423388",
+		"number": "40",
+		"street": "Naujoji g.",
+		"city": "Lentvaris",
+		"district": "Trakų",
+		"postcode": "25115"
+	},
+	{
+		"lon": "24.4352439",
+		"lat": "54.8059781",
+		"number": "61",
+		"street": "Kauno g.",
+		"city": "Žiežmariai",
+		"district": "Kaišiadorių",
+		"postcode": "56233"
+	},
+	{
+		"lon": "24.4258929",
+		"lat": "54.8390382",
+		"number": "3",
+		"street": "Žibuoklių g.",
+		"city": "Kaišiadorys",
+		"district": "Kaišiadorių",
+		"postcode": "56175"
+	},
+	{
+		"lon": "21.9137813",
+		"lat": "55.0879177",
+		"number": "5",
+		"street": "Aušros g.",
+		"city": "Panemunė",
+		"district": "Pagėgių ",
+		"postcode": "99276"
+	},
+	{
+		"lon": "24.8082527",
+		"lat": "54.7651693",
+		"number": "12",
+		"street": "Liepų g.",
+		"city": "Vievis",
+		"district": "Elektrėnų ",
+		"postcode": "21382"
+	},
+	{
+		"lon": "22.6900954",
+		"lat": "55.5988445",
+		"number": "13",
+		"street": "Saulės g.",
+		"city": "Kražiai",
+		"district": "Kelmės",
+		"postcode": "86285"
+	},
+	{
+		"lon": "23.7573623",
+		"lat": "55.6311714",
+		"number": "18",
+		"street": "Miško g.",
+		"city": "Baisogala",
+		"district": "Radviliškio",
+		"postcode": "82326"
+	},
+	{
+		"lon": "23.2774048",
+		"lat": "55.9579315",
+		"number": "68",
+		"street": "Skroblų g.",
+		"city": "Šiauliai",
+		"district": "Šiaulių",
+		"postcode": "76186"
+	},
+	{
+		"lon": "24.4726136",
+		"lat": "54.8701652",
+		"number": "18",
+		"street": "Pavasario g.",
+		"city": "Gudiena",
+		"district": "Kaišiadorių",
+		"postcode": "56106"
+	},
+	{
+		"lon": "23.65513",
+		"lat": "54.0060509",
+		"number": "18",
+		"street": "Veisiejų g.",
+		"city": "Kapčiamiestis",
+		"district": "Lazdijų",
+		"postcode": "67313"
+	},
+	{
+		"lon": "23.3025702",
+		"lat": "55.9303635",
+		"number": "18",
+		"street": "Lydos g.",
+		"city": "Šiauliai",
+		"district": "Šiaulių",
+		"postcode": "77167"
+	},
+	{
+		"lon": "26.4448064",
+		"lat": "55.5897641",
+		"number": "67",
+		"street": "Sedulinos al.",
+		"city": "Visaginas",
+		"district": "Visagino ",
+		"postcode": "31229"
+	},
+	{
+		"lon": "25.0530792",
+		"lat": "54.647814",
+		"number": "19",
+		"street": "Klevų al.",
+		"city": "Lentvaris",
+		"district": "Trakų",
+		"postcode": "25109"
+	},
+	{
+		"lon": "23.6594552",
+		"lat": "54.0019612",
+		"number": "19",
+		"street": "Č. Sasnausko g.",
+		"city": "Kapčiamiestis",
+		"district": "Lazdijų",
+		"postcode": "67314"
+	},
+	{
+		"lon": "22.6854408",
+		"lat": "55.6013733",
+		"number": "3",
+		"street": "M. Daukšos g.",
+		"city": "Kražiai",
+		"district": "Kelmės",
+		"postcode": "86284"
+	},
+	{
+		"lon": "23.7268704",
+		"lat": "55.6387739",
+		"number": "1",
+		"street": "Grinkiškio g.",
+		"city": "Baisogala",
+		"district": "Radviliškio",
+		"postcode": "82318"
+	},
+	{
+		"lon": "21.8215375",
+		"lat": "56.2330949",
+		"number": "4",
+		"street": "Šačių g.",
+		"city": "Nausėdai",
+		"district": "Skuodo",
+		"postcode": "98217"
+	},
+	{
+		"lon": "23.4249772",
+		"lat": "55.5798853",
+		"number": "21",
+		"street": "Pievų g.",
+		"city": "Šaukotas",
+		"district": "Radviliškio",
+		"postcode": "82412"
+	},
+	{
+		"lon": "23.8153133",
+		"lat": "55.6422557",
+		"number": "24",
+		"street": "Palono g.",
+		"city": "Palonai",
+		"district": "Radviliškio",
+		"postcode": "82282"
+	},
+	{
+		"lon": "21.8597384",
+		"lat": "56.2748289",
+		"number": "13",
+		"street": "Barstyčių g.",
+		"city": "Ylakiai",
+		"district": "Skuodo",
+		"postcode": "98352"
+	},
+	{
+		"lon": "23.4155702",
+		"lat": "55.5847839",
+		"number": "1",
+		"street": "Šermukšnių g.",
+		"city": "Šaukotas",
+		"district": "Radviliškio",
+		"postcode": "82412"
+	},
+	{
+		"lon": "21.5128023",
+		"lat": "56.2690461",
+		"number": "12",
+		"street": "M. Untulio g.",
+		"city": "Skuodas",
+		"district": "Skuodo",
+		"postcode": "98128"
+	},
+	{
+		"lon": "21.7217641",
+		"lat": "56.2335003",
+		"number": "3",
+		"street": "Knežės g.",
+		"city": "Kaukolikai",
+		"district": "Skuodo",
+		"postcode": "98222"
+	},
+	{
+		"lon": "23.7711464",
+		"lat": "55.7551181",
+		"number": "21",
+		"street": "Topolių g.",
+		"city": "Šeduva",
+		"district": "Radviliškio",
+		"postcode": "82224"
+	},
+	{
+		"lon": "23.7491318",
+		"lat": "55.6343539",
+		"number": "10",
+		"street": "Tulpių g.",
+		"city": "Baisogala",
+		"district": "Radviliškio",
+		"postcode": "82325"
+	},
+	{
+		"lon": "23.6183255",
+		"lat": "55.5503539",
+		"number": "16",
+		"street": "Kapų g.",
+		"city": "Grinkiškis",
+		"district": "Radviliškio",
+		"postcode": "82384"
+	},
+	{
+		"lon": "23.5466081",
+		"lat": "55.802735",
+		"number": "2",
+		"street": "M. Valančiaus g.",
+		"city": "Radviliškis",
+		"district": "Radviliškio",
+		"postcode": "82131"
+	},
+	{
+		"lon": "23.933554",
+		"lat": "54.3956088",
+		"number": "51",
+		"street": "Parko g.",
+		"city": "Luksnėnai",
+		"district": "Alytaus",
+		"postcode": "64382"
+	},
+	{
+		"lon": "24.4382883",
+		"lat": "54.8035763",
+		"number": "11",
+		"street": "Paupio g.",
+		"city": "Žiežmariai",
+		"district": "Kaišiadorių",
+		"postcode": "56234"
+	},
+	{
+		"lon": "23.527531",
+		"lat": "55.8161456",
+		"number": "104",
+		"street": "Dariaus ir Girėno g.",
+		"city": "Radviliškis",
+		"district": "Radviliškio",
+		"postcode": "82141"
+	},
+	{
+		"lon": "25.3838228",
+		"lat": "54.3019735",
+		"number": "8",
+		"street": "Jogailos g.",
+		"city": "Šalčininkai",
+		"district": "Šalčininkų",
+		"postcode": "17125"
+	},
+	{
+		"lon": "24.2410797",
+		"lat": "54.7553975",
+		"number": "13",
+		"street": "Kalvių g.",
+		"city": "Kruonis",
+		"district": "Kaišiadorių",
+		"postcode": "56318"
+	},
+	{
+		"lon": "23.5660774",
+		"lat": "55.7959152",
+		"number": "7",
+		"street": "Ramunių g.",
+		"city": "Radviliškis",
+		"district": "Radviliškio",
+		"postcode": "82126"
+	},
+	{
+		"lon": "23.5584653",
+		"lat": "55.8024162",
+		"number": "31B",
+		"street": "M. Mažvydo g.",
+		"city": "Radviliškis",
+		"district": "Radviliškio",
+		"postcode": "82181"
+	},
+	{
+		"lon": "23.7604487",
+		"lat": "55.7488043",
+		"number": "81",
+		"street": "Sporto g.",
+		"city": "Šeduva",
+		"district": "Radviliškio",
+		"postcode": "82233"
+	},
+	{
+		"lon": "24.2137635",
+		"lat": "54.8618428",
+		"number": "14",
+		"street": "Žuvėdrų g.",
+		"city": "Rumšiškės",
+		"district": "Kaišiadorių",
+		"postcode": "56337"
+	},
+	{
+		"lon": "23.0548117",
+		"lat": "54.950036",
+		"number": "24",
+		"street": "Kranto g.",
+		"city": "Šakiai",
+		"district": "Šakių",
+		"postcode": "71132"
+	},
+	{
+		"lon": "25.0060935",
+		"lat": "54.1643582",
+		"number": "44",
+		"street": "Naujojo Plano g.",
+		"city": "Eišiškės",
+		"district": "Šalčininkų",
+		"postcode": "17176"
+	},
+	{
+		"lon": "24.9652658",
+		"lat": "55.0322925",
+		"number": "11",
+		"street": "Statybininkų g.",
+		"city": "Širvintos",
+		"district": "Širvintų",
+		"postcode": "19125"
+	},
+	{
+		"lon": "25.4671162",
+		"lat": "54.8507005",
+		"number": "12",
+		"street": "Ankštoji g.",
+		"city": "Nemenčinė",
+		"district": "Vilniaus",
+		"postcode": "15173"
+	},
+	{
+		"lon": "23.0610601",
+		"lat": "54.6061595",
+		"number": "10",
+		"street": "Plačioji g.",
+		"city": "Pūstapėdžiai",
+		"district": "Vilkaviškio",
+		"postcode": "70203"
+	},
+	{
+		"lon": "24.9503993",
+		"lat": "55.0472692",
+		"number": "20A",
+		"street": "Nepriklausomybės a.",
+		"city": "Širvintos",
+		"district": "Širvintų",
+		"postcode": "19110"
+	},
+	{
+		"lon": "23.3060959",
+		"lat": "55.9515424",
+		"number": "30C",
+		"street": "Sodo g.",
+		"city": "Šiauliai",
+		"district": "Šiaulių",
+		"postcode": "76159"
+	},
+	{
+		"lon": "23.2999982",
+		"lat": "55.9591525",
+		"number": "26",
+		"street": "Troškūnų g.",
+		"city": "Šiauliai",
+		"district": "Šiaulių",
+		"postcode": "76149"
+	},
+	{
+		"lon": "24.0686085",
+		"lat": "54.4021234",
+		"number": "17A",
+		"street": "Merkinės g.",
+		"city": "Alytus",
+		"district": "Alytaus",
+		"postcode": "62233"
+	},
+	{
+		"lon": "24.7720122",
+		"lat": "55.2333268",
+		"number": "4",
+		"street": "Aguonų g.",
+		"city": "Ukmergė",
+		"district": "Ukmergės",
+		"postcode": "20171"
+	},
+	{
+		"lon": "24.9479669",
+		"lat": "55.0484103",
+		"number": "3",
+		"street": "Ukmergės g.",
+		"city": "Širvintos",
+		"district": "Širvintų",
+		"postcode": "19110"
+	},
+	{
+		"lon": "24.7849835",
+		"lat": "55.2296826",
+		"number": "17",
+		"street": "Vasarnamių g.",
+		"city": "Ukmergė",
+		"district": "Ukmergės",
+		"postcode": "20168"
+	},
+	{
+		"lon": "22.2867412",
+		"lat": "55.2438104",
+		"number": "17",
+		"street": "Laisvės g.",
+		"city": "Tauragė",
+		"district": "Tauragės",
+		"postcode": "72304"
+	},
+	{
+		"lon": "22.2883239",
+		"lat": "55.2533303",
+		"number": "66",
+		"street": "Vytauto g.",
+		"city": "Tauragė",
+		"district": "Tauragės",
+		"postcode": "72251"
+	},
+	{
+		"lon": "22.2924294",
+		"lat": "55.2645143",
+		"number": "38",
+		"street": "M. K. Čiurlionio g.",
+		"city": "Tauragė",
+		"district": "Tauragės",
+		"postcode": "72204"
+	},
+	{
+		"lon": "26.0047897",
+		"lat": "55.1623376",
+		"number": "22",
+		"street": "Stoties g.",
+		"city": "Švenčionėliai",
+		"district": "Švenčionių",
+		"postcode": "18218"
+	},
+	{
+		"lon": "22.2941767",
+		"lat": "55.2667598",
+		"number": "26",
+		"street": "Rytų g.",
+		"city": "Tauragė",
+		"district": "Tauragės",
+		"postcode": "72189"
+	},
+	{
+		"lon": "22.303213",
+		"lat": "55.2622383",
+		"number": "108",
+		"street": "Dariaus ir Girėno g.",
+		"city": "Tauragė",
+		"district": "Tauragės",
+		"postcode": "72200"
+	},
+	{
+		"lon": "21.4804248",
+		"lat": "55.3409318",
+		"number": "2",
+		"street": "Kovo skg.",
+		"city": "Šilutė",
+		"district": "Šilutės",
+		"postcode": "99170"
+	},
+	{
+		"lon": "25.2940029",
+		"lat": "55.3504683",
+		"number": "16",
+		"street": "Turgaus a.",
+		"city": "Alanta",
+		"district": "Molėtų",
+		"postcode": "33312"
+	},
+	{
+		"lon": "22.3092865",
+		"lat": "55.2686817",
+		"number": "3",
+		"street": "J. Avižonio g.",
+		"city": "Tauragė",
+		"district": "Tauragės",
+		"postcode": "72192"
+	},
+	{
+		"lon": "21.4515135",
+		"lat": "55.3529016",
+		"number": "7",
+		"street": "Nendrių g.",
+		"city": "Šilutė",
+		"district": "Šilutės",
+		"postcode": "99112"
+	},
+	{
+		"lon": "21.454899",
+		"lat": "55.3552266",
+		"number": "28",
+		"street": "Gluosnių g.",
+		"city": "Šilutė",
+		"district": "Šilutės",
+		"postcode": "99112"
+	},
+	{
+		"lon": "24.9707263",
+		"lat": "55.0371392",
+		"number": "15",
+		"street": "Sodų g.",
+		"city": "Širvintos",
+		"district": "Širvintų",
+		"postcode": "19127"
+	},
+	{
+		"lon": "26.0059932",
+		"lat": "55.164635",
+		"number": "24",
+		"street": "Lauko g.",
+		"city": "Švenčionėliai",
+		"district": "Švenčionių",
+		"postcode": "18217"
+	},
+	{
+		"lon": "26.1698885",
+		"lat": "55.1373682",
+		"number": "11",
+		"street": "Vidžių g.",
+		"city": "Švenčionys",
+		"district": "Švenčionių",
+		"postcode": "18110"
+	},
+	{
+		"lon": "24.7720331",
+		"lat": "55.2390481",
+		"number": "38",
+		"street": "Malkų g.",
+		"city": "Ukmergė",
+		"district": "Ukmergės",
+		"postcode": "20138"
+	},
+	{
+		"lon": "22.2953281",
+		"lat": "55.2509533",
+		"number": "15",
+		"street": "M. Mažvydo g.",
+		"city": "Tauragė",
+		"district": "Tauragės",
+		"postcode": "72264"
+	},
+	{
+		"lon": "23.0507316",
+		"lat": "54.9561071",
+		"number": "3",
+		"street": "P. Vaičaičio g.",
+		"city": "Šakiai",
+		"district": "Šakių",
+		"postcode": "71120"
+	},
+	{
+		"lon": "22.2818409",
+		"lat": "55.267969",
+		"number": "11",
+		"street": "Radastų g.",
+		"city": "Tauragė",
+		"district": "Tauragės",
+		"postcode": "72186"
+	},
+	{
+		"lon": "22.9778412",
+		"lat": "55.0744832",
+		"number": "36",
+		"street": "Kosmonautų g.",
+		"city": "Gelgaudiškis",
+		"district": "Šakių",
+		"postcode": "71425"
+	},
+	{
+		"lon": "22.2919458",
+		"lat": "55.2467079",
+		"number": "6",
+		"street": "D. Poškos g.",
+		"city": "Tauragė",
+		"district": "Tauragės",
+		"postcode": "72300"
+	},
+	{
+		"lon": "21.0663472",
+		"lat": "55.9136835",
+		"number": "7",
+		"street": "Medžiotojų g.",
+		"city": "Palanga",
+		"district": "Palangos",
+		"postcode": "00132"
+	},
+	{
+		"lon": "22.7989418",
+		"lat": "55.164315",
+		"number": "36",
+		"street": "Mituvos g.",
+		"city": "Girdžiai",
+		"district": "Jurbarko",
+		"postcode": "74253"
+	},
+	{
+		"lon": "23.2900552",
+		"lat": "55.9430128",
+		"number": "10",
+		"street": "Darželio g.",
+		"city": "Šiauliai",
+		"district": "Šiaulių",
+		"postcode": "76307"
+	},
+	{
+		"lon": "24.7624313",
+		"lat": "55.2527338",
+		"number": "35",
+		"street": "Gedimino g.",
+		"city": "Ukmergė",
+		"district": "Ukmergės",
+		"postcode": "20106"
+	},
+	{
+		"lon": "21.4957132",
+		"lat": "55.3517117",
+		"number": "9",
+		"street": "Ramunių g.",
+		"city": "Šilutė",
+		"district": "Šilutės",
+		"postcode": "99150"
+	},
+	{
+		"lon": "23.1245687",
+		"lat": "55.0986508",
+		"number": "20",
+		"street": "Pilies g.",
+		"city": "Raudonė",
+		"district": "Jurbarko",
+		"postcode": "74452"
+	},
+	{
+		"lon": "21.1565113",
+		"lat": "55.7522041",
+		"number": "4",
+		"street": "Lazdynų g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "92354"
+	},
+	{
+		"lon": "23.3174811",
+		"lat": "55.9382991",
+		"number": "19",
+		"street": "Šermukšnių g.",
+		"city": "Šiauliai",
+		"district": "Šiaulių",
+		"postcode": "76210"
+	},
+	{
+		"lon": "21.1400894",
+		"lat": "55.7285533",
+		"number": "26",
+		"street": "Rokiškio g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "92310"
+	},
+	{
+		"lon": "25.0598148",
+		"lat": "54.6478981",
+		"number": "3",
+		"street": "Topolio g.",
+		"city": "Lentvaris",
+		"district": "Trakų",
+		"postcode": "25111"
+	},
+	{
+		"lon": "22.3061693",
+		"lat": "55.2573685",
+		"number": "125",
+		"street": "J. Tumo-Vaižganto g.",
+		"city": "Tauragė",
+		"district": "Tauragės",
+		"postcode": "72231"
+	},
+	{
+		"lon": "22.8682381",
+		"lat": "54.7726792",
+		"number": "2",
+		"street": "Kranto g.",
+		"city": "Kudirkos Naumiestis",
+		"district": "Šakių",
+		"postcode": "71317"
+	},
+	{
+		"lon": "21.1398789",
+		"lat": "55.7464922",
+		"number": "39",
+		"street": "Žolynų g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "92325"
+	},
+	{
+		"lon": "25.602971",
+		"lat": "55.4896655",
+		"number": "55",
+		"street": "Vasaros g.",
+		"city": "Utena",
+		"district": "Utenos",
+		"postcode": "28244"
+	},
+	{
+		"lon": "23.9658375",
+		"lat": "54.0196398",
+		"number": "7",
+		"street": "Klonio g.",
+		"city": "Druskininkai",
+		"district": "Druskininkų ",
+		"postcode": "66102"
+	},
+	{
+		"lon": "25.609203",
+		"lat": "55.4984863",
+		"number": "20",
+		"street": "Tauragnų g.",
+		"city": "Utena",
+		"district": "Utenos",
+		"postcode": "28240"
+	},
+	{
+		"lon": "25.8396046",
+		"lat": "55.7466009",
+		"number": "7",
+		"street": "K. Būgos g.",
+		"city": "Dusetos",
+		"district": "Zarasų",
+		"postcode": "32304"
+	},
+	{
+		"lon": "24.7992881",
+		"lat": "54.7806906",
+		"number": "17",
+		"street": "Jaunystės g.",
+		"city": "Vievis",
+		"district": "Elektrėnų ",
+		"postcode": "21366"
+	},
+	{
+		"lon": "25.7167574",
+		"lat": "54.6095562",
+		"number": "4",
+		"street": "Laisvės g.",
+		"city": "Šumskas",
+		"district": "Vilniaus",
+		"postcode": "13169"
+	},
+	{
+		"lon": "24.8036701",
+		"lat": "54.7662933",
+		"number": "9",
+		"street": "Žvejų g.",
+		"city": "Vievis",
+		"district": "Elektrėnų ",
+		"postcode": "21378"
+	},
+	{
+		"lon": "21.2518115",
+		"lat": "55.8890665",
+		"number": "56",
+		"street": "J. Pabrėžos g.",
+		"city": "Kretinga",
+		"district": "Kretingos",
+		"postcode": "97129"
+	},
+	{
+		"lon": "23.3711552",
+		"lat": "54.5400437",
+		"number": "4",
+		"street": "Naručio g.",
+		"city": "Marijampolė",
+		"district": "Marijampolės ",
+		"postcode": "68310"
+	},
+	{
+		"lon": "23.3340977",
+		"lat": "54.559251",
+		"number": "6",
+		"street": "Kosmonautų g.",
+		"city": "Marijampolė",
+		"district": "Marijampolės ",
+		"postcode": "68147"
+	},
+	{
+		"lon": "23.3502079",
+		"lat": "54.5419153",
+		"number": "43A",
+		"street": "P. Armino g.",
+		"city": "Marijampolė",
+		"district": "Marijampolės ",
+		"postcode": "68282"
+	},
+	{
+		"lon": "21.2632141",
+		"lat": "55.8825416",
+		"number": "28",
+		"street": "Minijos g.",
+		"city": "Kretinga",
+		"district": "Kretingos",
+		"postcode": "97135"
+	},
+	{
+		"lon": "22.5005312",
+		"lat": "56.2367185",
+		"number": "2",
+		"street": "Mažeikių 2-asis takas",
+		"city": "Viekšniai",
+		"district": "Mažeikių",
+		"postcode": "89493"
+	},
+	{
+		"lon": "22.5189887",
+		"lat": "56.2386509",
+		"number": "2",
+		"street": "Sodų g.",
+		"city": "Viekšniai",
+		"district": "Mažeikių",
+		"postcode": "89486"
+	},
+	{
+		"lon": "26.1837997",
+		"lat": "55.1367169",
+		"number": "103",
+		"street": "Adutiškio g.",
+		"city": "Švenčionys",
+		"district": "Švenčionių",
+		"postcode": "18110"
+	},
+	{
+		"lon": "22.5198781",
+		"lat": "56.2350675",
+		"number": "21",
+		"street": "Vinkšnų g.",
+		"city": "Viekšniai",
+		"district": "Mažeikių",
+		"postcode": "89490"
+	},
+	{
+		"lon": "21.2460511",
+		"lat": "55.8850003",
+		"number": "16B",
+		"street": "Laisvės g.",
+		"city": "Kretinga",
+		"district": "Kretingos",
+		"postcode": "97176"
+	},
+	{
+		"lon": "21.2196014",
+		"lat": "55.8900854",
+		"number": "8",
+		"street": "Ąžuolų aklg.",
+		"city": "Kretinga",
+		"district": "Kretingos",
+		"postcode": "97120"
+	},
+	{
+		"lon": "21.1658236",
+		"lat": "55.6733711",
+		"number": "48",
+		"street": "Statybininkų pr.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "93162"
+	},
+	{
+		"lon": "23.0854436",
+		"lat": "55.1830362",
+		"number": "1",
+		"street": "Mituvos g.",
+		"city": "Stakiai",
+		"district": "Jurbarko",
+		"postcode": "74347"
+	},
+	{
+		"lon": "21.1533651",
+		"lat": "55.7625877",
+		"number": "25",
+		"street": "Tauro 1-oji g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "92344"
+	},
+	{
+		"lon": "22.7443657",
+		"lat": "55.0905787",
+		"number": "14",
+		"street": "Gegužės 1-osios g.",
+		"city": "Jurbarkai",
+		"district": "Jurbarko",
+		"postcode": "74203"
+	},
+	{
+		"lon": "22.5039307",
+		"lat": "56.236789",
+		"number": "59",
+		"street": "Mažeikių g.",
+		"city": "Viekšniai",
+		"district": "Mažeikių",
+		"postcode": "89493"
+	},
+	{
+		"lon": "21.1806589",
+		"lat": "55.6881334",
+		"number": "42",
+		"street": "Šilutės pl.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "94138"
+	},
+	{
+		"lon": "21.1255461",
+		"lat": "55.7233887",
+		"number": "12",
+		"street": "Įgulos g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "92222"
+	},
+	{
+		"lon": "23.1317019",
+		"lat": "55.3781144",
+		"number": "35",
+		"street": "Sodų g.",
+		"city": "Raseiniai",
+		"district": "Raseinių",
+		"postcode": "60165"
+	},
+	{
+		"lon": "23.2291974",
+		"lat": "55.5383497",
+		"number": "28",
+		"street": "Šiaulėnų g.",
+		"city": "Šiluva",
+		"district": "Raseinių",
+		"postcode": "60432"
+	},
+	{
+		"lon": "21.1389989",
+		"lat": "55.7302838",
+		"number": "15",
+		"street": "Biržų g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "92307"
+	},
+	{
+		"lon": "21.1327852",
+		"lat": "55.7410083",
+		"number": "60",
+		"street": "Mažojo Kaimelio g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "92328"
+	},
+	{
+		"lon": "22.8886776",
+		"lat": "55.4071045",
+		"number": "59",
+		"street": "Kęstučio g.",
+		"city": "Viduklė",
+		"district": "Raseinių",
+		"postcode": "60349"
+	},
+	{
+		"lon": "23.4777121",
+		"lat": "55.2580446",
+		"number": "21",
+		"street": "Turgaus g.",
+		"city": "Ariogala",
+		"district": "Raseinių",
+		"postcode": "60265"
+	},
+	{
+		"lon": "22.9090926",
+		"lat": "55.0950664",
+		"number": "51",
+		"street": "Šaltinio g.",
+		"city": "Skirsnemunė",
+		"district": "Jurbarko",
+		"postcode": "74484"
+	},
+	{
+		"lon": "22.0206743",
+		"lat": "56.3252865",
+		"number": "6",
+		"street": "Liuliškių g.",
+		"city": "Židikai",
+		"district": "Mažeikių",
+		"postcode": "89442"
+	},
+	{
+		"lon": "22.5910833",
+		"lat": "56.2300309",
+		"number": "4",
+		"street": "Kviečių g.",
+		"city": "Palnosai",
+		"district": "Mažeikių",
+		"postcode": "89482"
+	},
+	{
+		"lon": "24.0929203",
+		"lat": "54.3980706",
+		"number": "11",
+		"street": "Krėvos g.",
+		"city": "Alytus",
+		"district": "Alytaus",
+		"postcode": "62235"
+	},
+	{
+		"lon": "21.3046311",
+		"lat": "55.9131708",
+		"number": "24",
+		"street": "Mokyklos g.",
+		"city": "Klibiai",
+		"district": "Kretingos",
+		"postcode": "97158"
+	},
+	{
+		"lon": "21.2539305",
+		"lat": "55.9310954",
+		"number": "2",
+		"street": "Mokyklos g.",
+		"city": "Kurmaičiai",
+		"district": "Kretingos",
+		"postcode": "97240"
+	},
+	{
+		"lon": "21.4668466",
+		"lat": "55.9182747",
+		"number": "28",
+		"street": "Žvyro g.",
+		"city": "Kartena",
+		"district": "Kretingos",
+		"postcode": "97353"
+	},
+	{
+		"lon": "24.0620143",
+		"lat": "54.4014263",
+		"number": "6",
+		"street": "Ryto g.",
+		"city": "Alytus",
+		"district": "Alytaus",
+		"postcode": "62258"
+	},
+	{
+		"lon": "23.9908812",
+		"lat": "54.3943322",
+		"number": "6",
+		"street": "Žemynos g.",
+		"city": "Alytus",
+		"district": "Alytaus",
+		"postcode": "62441"
+	},
+	{
+		"lon": "21.479696",
+		"lat": "55.9569641",
+		"number": "24",
+		"street": "Vyšnių g.",
+		"city": "Kūlupėnai",
+		"district": "Kretingos",
+		"postcode": "97335"
+	},
+	{
+		"lon": "23.3636329",
+		"lat": "54.5411275",
+		"number": "20",
+		"street": "Pasieniečių g.",
+		"city": "Marijampolė",
+		"district": "Marijampolės ",
+		"postcode": "68272"
+	},
+	{
+		"lon": "22.5187035",
+		"lat": "56.2397186",
+		"number": "46",
+		"street": "Dariaus ir Girėno g.",
+		"city": "Pakalupis",
+		"district": "Mažeikių",
+		"postcode": "89486"
+	},
+	{
+		"lon": "21.1835763",
+		"lat": "55.9428924",
+		"number": "38",
+		"street": "Parko g.",
+		"city": "Rūdaičiai",
+		"district": "Kretingos",
+		"postcode": "97230"
+	},
+	{
+		"lon": "22.3609241",
+		"lat": "56.3083027",
+		"number": "35",
+		"street": "Vytauto g.",
+		"city": "Mažeikiai",
+		"district": "Mažeikių",
+		"postcode": "89219"
+	},
+	{
+		"lon": "22.3384462",
+		"lat": "56.3072584",
+		"number": "13",
+		"street": "Sodų skg.",
+		"city": "Mažeikiai",
+		"district": "Mažeikių",
+		"postcode": "89105"
+	},
+	{
+		"lon": "24.0515735",
+		"lat": "54.401925",
+		"number": "21",
+		"street": "Nemuno g.",
+		"city": "Alytus",
+		"district": "Alytaus",
+		"postcode": "62105"
+	},
+	{
+		"lon": "22.3439726",
+		"lat": "56.298031",
+		"number": "45",
+		"street": "Pavasario g.",
+		"city": "Mažeikiai",
+		"district": "Mažeikių",
+		"postcode": "89178"
+	},
+	{
+		"lon": "23.3503745",
+		"lat": "54.5518005",
+		"number": "5",
+		"street": "P. Vaičaičio g.",
+		"city": "Marijampolė",
+		"district": "Marijampolės ",
+		"postcode": "68300"
+	},
+	{
+		"lon": "25.2989853",
+		"lat": "54.7423206",
+		"number": "30",
+		"street": "Svajonių g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "10100"
+	},
+	{
+		"lon": "22.3648948",
+		"lat": "56.3121663",
+		"number": "40",
+		"street": "P. Matulionio g.",
+		"city": "Mažeikiai",
+		"district": "Mažeikių",
+		"postcode": "89214"
+	},
+	{
+		"lon": "23.3358787",
+		"lat": "54.5567569",
+		"number": "25",
+		"street": "Užtvankos g.",
+		"city": "Marijampolė",
+		"district": "Marijampolės ",
+		"postcode": "68150"
+	},
+	{
+		"lon": "25.3585957",
+		"lat": "54.6771873",
+		"number": "10",
+		"street": "Plytų g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "11301"
+	},
+	{
+		"lon": "22.3063857",
+		"lat": "56.3113086",
+		"number": "16",
+		"street": "Purienų takas",
+		"city": "Mažeikiai",
+		"district": "Mažeikių",
+		"postcode": "89143"
+	},
+	{
+		"lon": "25.27891",
+		"lat": "54.7081275",
+		"number": "57",
+		"street": "Širvintų g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "08215"
+	},
+	{
+		"lon": "25.3659961",
+		"lat": "54.6808656",
+		"number": "70",
+		"street": "Žemoji g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "11301"
+	},
+	{
+		"lon": "25.2742402",
+		"lat": "54.7443902",
+		"number": "11",
+		"street": "Aviečių g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "08418"
+	},
+	{
+		"lon": "25.2357388",
+		"lat": "54.722904",
+		"number": "77B",
+		"street": "Laisvės pr.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "06122"
+	},
+	{
+		"lon": "25.2496218",
+		"lat": "54.7341538",
+		"number": "51",
+		"street": "Ateities g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "06325"
+	},
+	{
+		"lon": "25.3607047",
+		"lat": "54.7858567",
+		"number": "16",
+		"street": "Kryžiokų Sodų 10-oji g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "08445"
+	},
+	{
+		"lon": "25.2819182",
+		"lat": "54.7083985",
+		"number": "14",
+		"street": "Maišiagalos g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "08213"
+	},
+	{
+		"lon": "25.214747",
+		"lat": "54.710643",
+		"number": "172",
+		"street": "Taikos g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "05230"
+	},
+	{
+		"lon": "25.3501478",
+		"lat": "54.7564653",
+		"number": "39",
+		"street": "Verkių Sodų 5-oji g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "08429"
+	},
+	{
+		"lon": "25.3549201",
+		"lat": "54.7841189",
+		"number": "36",
+		"street": "Ragės g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "08400"
+	},
+	{
+		"lon": "25.2737983",
+		"lat": "54.6689573",
+		"number": "77",
+		"street": "Algirdo g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "03209"
+	},
+	{
+		"lon": "25.3478845",
+		"lat": "54.7510998",
+		"number": "96",
+		"street": "Turniškių g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "10104"
+	},
+	{
+		"lon": "22.3046804",
+		"lat": "56.2657489",
+		"number": "1",
+		"street": "Strazdelio g.",
+		"city": "Tirkšliai",
+		"district": "Mažeikių",
+		"postcode": "89329"
+	},
+	{
+		"lon": "25.2531952",
+		"lat": "54.7263164",
+		"number": "68",
+		"street": "S. Stanevičiaus g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "07112"
+	},
+	{
+		"lon": "25.3422538",
+		"lat": "54.7963329",
+		"number": "65",
+		"street": "Krakiškių Sodų 16-oji g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "14289"
+	},
+	{
+		"lon": "22.3154704",
+		"lat": "56.1995665",
+		"number": "9",
+		"street": "Sodų g.",
+		"city": "Balėnos",
+		"district": "Mažeikių",
+		"postcode": "89349"
+	},
+	{
+		"lon": "25.3329299",
+		"lat": "54.8022315",
+		"number": "13",
+		"street": "Krakiškių Sodų 15-oji g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "14287"
+	},
+	{
+		"lon": "25.1240013",
+		"lat": "54.7041143",
+		"number": "46",
+		"street": "Kriaučiūnų g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "14167"
+	},
+	{
+		"lon": "25.2533778",
+		"lat": "54.6256715",
+		"number": "24",
+		"street": "Eišiškių Sodų 6-oji g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "02194"
+	},
+	{
+		"lon": "25.2518813",
+		"lat": "54.7262518",
+		"number": "66",
+		"street": "S. Stanevičiaus g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "07113"
+	},
+	{
+		"lon": "25.3037146",
+		"lat": "54.6849511",
+		"number": "30",
+		"street": "Krivių g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "01209"
+	},
+	{
+		"lon": "25.3542013",
+		"lat": "54.7893144",
+		"number": "65",
+		"street": "Kryžiokų Sodų 6-oji g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "08444"
+	},
+	{
+		"lon": "25.2703634",
+		"lat": "54.6766268",
+		"number": "27",
+		"street": "Algirdo g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "03219"
+	},
+	{
+		"lon": "25.3530788",
+		"lat": "54.792764",
+		"number": "38",
+		"street": "Kryžiokų Sodų 2-oji g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "08443"
+	},
+	{
+		"lon": "25.2441816",
+		"lat": "54.7452395",
+		"number": "42",
+		"street": "B. Krivicko g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "08336"
+	},
+	{
+		"lon": "25.3080222",
+		"lat": "54.7750584",
+		"number": "48",
+		"street": "Raudonės g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "14267"
+	},
+	{
+		"lon": "25.5143432",
+		"lat": "54.8070207",
+		"number": "13",
+		"street": "Miško g.",
+		"city": "Bezdonys",
+		"district": "Vilniaus",
+		"postcode": "15202"
+	},
+	{
+		"lon": "25.3231018",
+		"lat": "54.7309552",
+		"number": "10",
+		"street": "Lakštingalų g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "10103"
+	},
+	{
+		"lon": "24.0333318",
+		"lat": "54.0661221",
+		"number": "12",
+		"street": "Senųjų Viečiūnų g.",
+		"city": "Viečiūnai",
+		"district": "Druskininkų ",
+		"postcode": "66498"
+	},
+	{
+		"lon": "25.1802811",
+		"lat": "54.5837162",
+		"number": "64",
+		"street": "Kunigiškių g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "14117"
+	},
+	{
+		"lon": "25.1914",
+		"lat": "54.675808",
+		"number": "4",
+		"street": "J. Vitkaus-Kazimieraičio g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "04224"
+	},
+	{
+		"lon": "25.1731335",
+		"lat": "54.6315678",
+		"number": "9",
+		"street": "Vilijos g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "02242"
+	},
+	{
+		"lon": "25.2907321",
+		"lat": "54.6755372",
+		"number": "10",
+		"street": "Aušros Vartų g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "01303"
+	},
+	{
+		"lon": "23.3487512",
+		"lat": "54.5340638",
+		"number": "90C",
+		"street": "P. Armino g.",
+		"city": "Marijampolė",
+		"district": "Marijampolės ",
+		"postcode": "68127"
+	},
+	{
+		"lon": "23.3715507",
+		"lat": "54.549534",
+		"number": "43",
+		"street": "Panevėžio g.",
+		"city": "Marijampolė",
+		"district": "Marijampolės ",
+		"postcode": "68266"
+	},
+	{
+		"lon": "23.8203259",
+		"lat": "56.2935819",
+		"number": "23",
+		"street": "K. Donelaičio g.",
+		"city": "Kriukai",
+		"district": "Joniškio",
+		"postcode": "84443"
+	},
+	{
+		"lon": "21.3926844",
+		"lat": "55.7043952",
+		"number": "6",
+		"street": "Aukštoji g.",
+		"city": "Gargždai",
+		"district": "Klaipėdos",
+		"postcode": "96139"
+	},
+	{
+		"lon": "23.3955328",
+		"lat": "56.3099274",
+		"number": "9",
+		"street": "Parko g.",
+		"city": "Skaistgirys",
+		"district": "Joniškio",
+		"postcode": "84385"
+	},
+	{
+		"lon": "24.560047",
+		"lat": "54.2167457",
+		"number": "9",
+		"street": "Marcinkonių g.",
+		"city": "Varėna",
+		"district": "Varėnos",
+		"postcode": "65156"
+	},
+	{
+		"lon": "23.654717",
+		"lat": "54.5673348",
+		"number": "32",
+		"street": "Vytauto g.",
+		"city": "Igliauka",
+		"district": "Marijampolės ",
+		"postcode": "69117"
+	},
+	{
+		"lon": "23.349311",
+		"lat": "54.4838241",
+		"number": "6",
+		"street": "J. Akelaičio g.",
+		"city": "Liudvinavas",
+		"district": "Marijampolės ",
+		"postcode": "69171"
+	},
+	{
+		"lon": "23.3731227",
+		"lat": "54.5504979",
+		"number": "148",
+		"street": "Vasaros g.",
+		"city": "Marijampolė",
+		"district": "Marijampolės ",
+		"postcode": "68266"
+	},
+	{
+		"lon": "21.3694631",
+		"lat": "55.7131076",
+		"number": "18",
+		"street": "Pasienio g.",
+		"city": "Gargždai",
+		"district": "Klaipėdos",
+		"postcode": "96178"
+	},
+	{
+		"lon": "21.1612972",
+		"lat": "55.6788293",
+		"number": "11",
+		"street": "Poilsio g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "93198"
+	},
+	{
+		"lon": "23.2151627",
+		"lat": "54.4163468",
+		"number": "63",
+		"street": "Vytauto g.",
+		"city": "Kalvarija",
+		"district": "Kalvarijos ",
+		"postcode": "69216"
+	},
+	{
+		"lon": "21.4652006",
+		"lat": "55.7191321",
+		"number": "8",
+		"street": "Gerdaujos g.",
+		"city": "Vėžaičiai",
+		"district": "Klaipėdos",
+		"postcode": "96217"
+	},
+	{
+		"lon": "21.1354679",
+		"lat": "55.7188512",
+		"number": "4",
+		"street": "Butkų Juzės g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "92228"
+	},
+	{
+		"lon": "21.3814536",
+		"lat": "55.729356",
+		"number": "4",
+		"street": "Lyros g.",
+		"city": "Gargždai",
+		"district": "Klaipėdos",
+		"postcode": "96105"
+	},
+	{
+		"lon": "21.0960331",
+		"lat": "55.769948",
+		"number": "10",
+		"street": "Vasarotojų g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "92281"
+	},
+	{
+		"lon": "23.3929279",
+		"lat": "54.605453",
+		"number": "21",
+		"street": "Draugystės g.",
+		"city": "Puskelniai",
+		"district": "Marijampolės ",
+		"postcode": "68103"
+	},
+	{
+		"lon": "25.4635502",
+		"lat": "54.8407485",
+		"number": "14",
+		"street": "Kosmonautų g.",
+		"city": "Nemenčinė",
+		"district": "Vilniaus",
+		"postcode": "15173"
+	},
+	{
+		"lon": "24.9864003",
+		"lat": "55.8411529",
+		"number": "10A",
+		"street": "Knygnešių g.",
+		"city": "Kupiškis",
+		"district": "Kupiškio",
+		"postcode": "40113"
+	},
+	{
+		"lon": "24.9857195",
+		"lat": "55.8399556",
+		"number": "1",
+		"street": "Knygnešių g.",
+		"city": "Kupiškis",
+		"district": "Kupiškio",
+		"postcode": "40114"
+	},
+	{
+		"lon": "23.3453158",
+		"lat": "54.5730782",
+		"number": "13",
+		"street": "Šešupės g.",
+		"city": "Mokolai",
+		"district": "Marijampolės ",
+		"postcode": "68461"
+	},
+	{
+		"lon": "24.3455725",
+		"lat": "55.7230619",
+		"number": "11",
+		"street": "A. Gudonio g.",
+		"city": "Panevėžys",
+		"district": "Panevėžio",
+		"postcode": "35236"
+	},
+	{
+		"lon": "23.2571751",
+		"lat": "55.9161055",
+		"number": "48A",
+		"street": "Dainų g.",
+		"city": "Šiauliai",
+		"district": "Šiaulių",
+		"postcode": "78276"
+	},
+	{
+		"lon": "23.3792171",
+		"lat": "54.5514916",
+		"number": "52",
+		"street": "L. Giros g.",
+		"city": "Marijampolė",
+		"district": "Marijampolės ",
+		"postcode": "68118"
+	},
+	{
+		"lon": "23.3368622",
+		"lat": "55.9262754",
+		"number": "4",
+		"street": "Šeduvos g.",
+		"city": "Šiauliai",
+		"district": "Šiaulių",
+		"postcode": "76249"
+	},
+	{
+		"lon": "23.3171183",
+		"lat": "55.9229138",
+		"number": "17",
+		"street": "Dubijos g.",
+		"city": "Šiauliai",
+		"district": "Šiaulių",
+		"postcode": "77145"
+	},
+	{
+		"lon": "21.1211672",
+		"lat": "55.7153035",
+		"number": "23",
+		"street": "J. Zauerveino g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "92122"
+	},
+	{
+		"lon": "21.1591948",
+		"lat": "55.7246916",
+		"number": "83A",
+		"street": "Liepų g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "92195"
+	},
+	{
+		"lon": "23.3542955",
+		"lat": "55.8939616",
+		"number": "19",
+		"street": "Vyturių g.",
+		"city": "Šiauliai",
+		"district": "Šiaulių",
+		"postcode": "76397"
+	},
+	{
+		"lon": "21.1249158",
+		"lat": "55.7165263",
+		"number": "18",
+		"street": "I. Kanto g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "92237"
+	},
+	{
+		"lon": "21.089985",
+		"lat": "55.7348177",
+		"number": "10",
+		"street": "Žiobrių g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "92277"
+	},
+	{
+		"lon": "24.3162425",
+		"lat": "55.715415",
+		"number": "28",
+		"street": "Medžiotojų g.",
+		"city": "Panevėžys",
+		"district": "Panevėžio",
+		"postcode": "37176"
+	},
+	{
+		"lon": "23.2933407",
+		"lat": "55.9395167",
+		"number": "8",
+		"street": "Z. Gėlės g.",
+		"city": "Šiauliai",
+		"district": "Šiaulių",
+		"postcode": "76330"
+	},
+	{
+		"lon": "23.314527",
+		"lat": "54.553603",
+		"number": "21",
+		"street": "Tilžės g.",
+		"city": "Marijampolė",
+		"district": "Marijampolės ",
+		"postcode": "68135"
+	},
+	{
+		"lon": "21.0856073",
+		"lat": "55.8988607",
+		"number": "55",
+		"street": "Austrinio g.",
+		"city": "Palanga",
+		"district": "Palangos",
+		"postcode": "00178"
+	},
+	{
+		"lon": "21.0869828",
+		"lat": "56.0240553",
+		"number": "41",
+		"street": "Žuvėdrų g.",
+		"city": "Palanga",
+		"district": "Palangos",
+		"postcode": "00301"
+	},
+	{
+		"lon": "24.0347975",
+		"lat": "54.6051264",
+		"number": "6",
+		"street": "Tulpių g.",
+		"city": "Birštonas",
+		"district": "Birštono ",
+		"postcode": "59204"
+	},
+	{
+		"lon": "23.294484",
+		"lat": "55.9382057",
+		"number": "59",
+		"street": "V. Kudirkos g.",
+		"city": "Šiauliai",
+		"district": "Šiaulių",
+		"postcode": "76330"
+	},
+	{
+		"lon": "24.376674",
+		"lat": "55.7414668",
+		"number": "27",
+		"street": "Ąžuolų g.",
+		"city": "Panevėžys",
+		"district": "Panevėžio",
+		"postcode": "35114"
+	},
+	{
+		"lon": "24.3518484",
+		"lat": "55.7352794",
+		"number": "32A",
+		"street": "Kauno g.",
+		"city": "Panevėžys",
+		"district": "Panevėžio",
+		"postcode": "35160"
+	},
+	{
+		"lon": "24.3476562",
+		"lat": "55.7265117",
+		"number": "2",
+		"street": "M. Daukšos g.",
+		"city": "Panevėžys",
+		"district": "Panevėžio",
+		"postcode": "35221"
+	},
+	{
+		"lon": "24.3589787",
+		"lat": "55.7235169",
+		"number": "6",
+		"street": "Katedros g.",
+		"city": "Panevėžys",
+		"district": "Panevėžio",
+		"postcode": "36231"
+	},
+	{
+		"lon": "25.2915821",
+		"lat": "54.6834097",
+		"number": "9",
+		"street": "Bernardinų g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "01124"
+	},
+	{
+		"lon": "24.354784",
+		"lat": "55.7491275",
+		"number": "11",
+		"street": "Radastų g.",
+		"city": "Panevėžys",
+		"district": "Panevėžio",
+		"postcode": "37464"
+	},
+	{
+		"lon": "26.1808748",
+		"lat": "55.3393997",
+		"number": "2",
+		"street": "Vilkakalnio g.",
+		"city": "Ignalina",
+		"district": "Ignalinos",
+		"postcode": "30128"
+	},
+	{
+		"lon": "22.9505239",
+		"lat": "56.0053625",
+		"number": "15",
+		"street": "Gergždelių g.",
+		"city": "Kuršėnai",
+		"district": "Šiaulių",
+		"postcode": "81141"
+	},
+	{
+		"lon": "22.9476859",
+		"lat": "55.9926964",
+		"number": "12",
+		"street": "Daugėlių g.",
+		"city": "Kuršėnai",
+		"district": "Šiaulių",
+		"postcode": "81130"
+	},
+	{
+		"lon": "24.3771725",
+		"lat": "55.7263116",
+		"number": "4",
+		"street": "Kuršių g.",
+		"city": "Panevėžys",
+		"district": "Panevėžio",
+		"postcode": "36105"
+	},
+	{
+		"lon": "24.3838419",
+		"lat": "55.7304979",
+		"number": "5",
+		"street": "Marių g.",
+		"city": "Panevėžys",
+		"district": "Panevėžio",
+		"postcode": "36102"
+	},
+	{
+		"lon": "24.3396906",
+		"lat": "55.7271591",
+		"number": "15",
+		"street": "Valstiečių g.",
+		"city": "Panevėžys",
+		"district": "Panevėžio",
+		"postcode": "37109"
+	},
+	{
+		"lon": "24.3565798",
+		"lat": "55.7619412",
+		"number": "43",
+		"street": "Mėnulio g.",
+		"city": "Panevėžys",
+		"district": "Panevėžio",
+		"postcode": "37451"
+	},
+	{
+		"lon": "24.3723156",
+		"lat": "55.7215615",
+		"number": "16A",
+		"street": "Zanavykų g.",
+		"city": "Panevėžys",
+		"district": "Panevėžio",
+		"postcode": "36202"
+	},
+	{
+		"lon": "24.2634477",
+		"lat": "55.7401863",
+		"number": "8",
+		"street": "Gustonių g.",
+		"city": "Panevėžys",
+		"district": "Panevėžio",
+		"postcode": "35290"
+	},
+	{
+		"lon": "24.3570247",
+		"lat": "55.75354",
+		"number": "8",
+		"street": "Astrų g.",
+		"city": "Panevėžys",
+		"district": "Panevėžio",
+		"postcode": "37459"
+	},
+	{
+		"lon": "22.9376361",
+		"lat": "56.0155538",
+		"number": "2",
+		"street": "Viekšnių g.",
+		"city": "Kuršėnai",
+		"district": "Šiaulių",
+		"postcode": "81189"
+	},
+	{
+		"lon": "24.3664802",
+		"lat": "55.7253577",
+		"number": "8",
+		"street": "J. Basanavičiaus g.",
+		"city": "Panevėžys",
+		"district": "Panevėžio",
+		"postcode": "35207"
+	},
+	{
+		"lon": "24.3433313",
+		"lat": "55.7333749",
+		"number": "8",
+		"street": "Tulpių g.",
+		"city": "Panevėžys",
+		"district": "Panevėžio",
+		"postcode": "35162"
+	},
+	{
+		"lon": "22.9566236",
+		"lat": "55.9989718",
+		"number": "9",
+		"street": "Gintaro g.",
+		"city": "Kuršėnai",
+		"district": "Šiaulių",
+		"postcode": "81135"
+	},
+	{
+		"lon": "24.3535526",
+		"lat": "55.7603569",
+		"number": "10",
+		"street": "Sodininkų skg.",
+		"city": "Panevėžys",
+		"district": "Panevėžio",
+		"postcode": "37452"
+	},
+	{
+		"lon": "22.954026",
+		"lat": "56.00829",
+		"number": "3",
+		"street": "Vyturių g.",
+		"city": "Kuršėnai",
+		"district": "Šiaulių",
+		"postcode": "81142"
+	},
+	{
+		"lon": "24.377743",
+		"lat": "55.7084733",
+		"number": "147B",
+		"street": "Ramygalos g.",
+		"city": "Panevėžys",
+		"district": "Panevėžio",
+		"postcode": "36220"
+	},
+	{
+		"lon": "24.3637833",
+		"lat": "55.7365164",
+		"number": "4",
+		"street": "A. Jakšto g.",
+		"city": "Panevėžys",
+		"district": "Panevėžio",
+		"postcode": "35138"
+	},
+	{
+		"lon": "23.3104682",
+		"lat": "55.9832806",
+		"number": "19",
+		"street": "Vinkšnėnų g.",
+		"city": "Vinkšnėnai",
+		"district": "Šiaulių",
+		"postcode": "76117"
+	},
+	{
+		"lon": "23.2400342",
+		"lat": "55.9357596",
+		"number": "31",
+		"street": "Ringuvos g.",
+		"city": "Voveriškiai",
+		"district": "Šiaulių",
+		"postcode": "77195"
+	},
+	{
+		"lon": "23.299824",
+		"lat": "55.963201",
+		"number": "10",
+		"street": "Pavėsių g.",
+		"city": "Vinkšnėnai",
+		"district": "Šiaulių",
+		"postcode": "76133"
+	},
+	{
+		"lon": "23.3573914",
+		"lat": "55.9571781",
+		"number": "7",
+		"street": "Švedės g.",
+		"city": "Ginkūnai",
+		"district": "Šiaulių",
+		"postcode": "81491"
+	},
+	{
+		"lon": "24.3557393",
+		"lat": "55.7566523",
+		"number": "8",
+		"street": "Miško g.",
+		"city": "Panevėžys",
+		"district": "Panevėžio",
+		"postcode": "37453"
+	},
+	{
+		"lon": "23.8604999",
+		"lat": "54.8245914",
+		"number": "59",
+		"street": "J. Lukšos g.",
+		"city": "Garliava",
+		"district": "Kauno",
+		"postcode": "53256"
+	},
+	{
+		"lon": "23.8733181",
+		"lat": "54.8238444",
+		"number": "74",
+		"street": "Vytauto g.",
+		"city": "Garliava",
+		"district": "Kauno",
+		"postcode": "53259"
+	},
+	{
+		"lon": "23.8729908",
+		"lat": "54.820416",
+		"number": "51",
+		"street": "Vytauto g.",
+		"city": "Garliava",
+		"district": "Kauno",
+		"postcode": "53263"
+	},
+	{
+		"lon": "23.8656654",
+		"lat": "54.8196991",
+		"number": "5",
+		"street": "Algirdo g.",
+		"city": "Garliava",
+		"district": "Kauno",
+		"postcode": "53264"
+	},
+	{
+		"lon": "23.2761129",
+		"lat": "55.8905872",
+		"number": "7",
+		"street": "Piliakalnio g.",
+		"city": "Gegužiai",
+		"district": "Šiaulių",
+		"postcode": "78308"
+	},
+	{
+		"lon": "23.1394454",
+		"lat": "55.8583247",
+		"number": "6",
+		"street": "Šilojų g.",
+		"city": "Bubiai",
+		"district": "Šiaulių",
+		"postcode": "80200"
+	},
+	{
+		"lon": "22.946075",
+		"lat": "55.9941282",
+		"number": "2A",
+		"street": "Sodžiaus g.",
+		"city": "Kuršėnai",
+		"district": "Šiaulių",
+		"postcode": "81130"
+	},
+	{
+		"lon": "22.9221322",
+		"lat": "55.9939665",
+		"number": "35",
+		"street": "K. Donelaičio g.",
+		"city": "Kuršėnai",
+		"district": "Šiaulių",
+		"postcode": "81174"
+	},
+	{
+		"lon": "23.1415754",
+		"lat": "56.0911171",
+		"number": "12",
+		"street": "Agronomijos g.",
+		"city": "Šiupyliai",
+		"district": "Šiaulių",
+		"postcode": "81356"
+	},
+	{
+		"lon": "23.0522747",
+		"lat": "55.8312054",
+		"number": "4",
+		"street": "P. Višinskio g.",
+		"city": "Kurtuvėnai",
+		"district": "Šiaulių",
+		"postcode": "80224"
+	},
+	{
+		"lon": "26.2075297",
+		"lat": "55.3789948",
+		"number": "22",
+		"street": "Naujakurių g.",
+		"city": "Vidiškės",
+		"district": "Ignalinos",
+		"postcode": "30233"
+	},
+	{
+		"lon": "23.017159",
+		"lat": "55.9411007",
+		"number": "16",
+		"street": "Saulės Rato g.",
+		"city": "Smilgiai",
+		"district": "Šiaulių",
+		"postcode": "81113"
+	},
+	{
+		"lon": "23.2513541",
+		"lat": "56.0984262",
+		"number": "15",
+		"street": "S. Dariaus ir S. Girėno g.",
+		"city": "Gruzdžiai",
+		"district": "Šiaulių",
+		"postcode": "81418"
+	},
+	{
+		"lon": "23.1168699",
+		"lat": "56.1786082",
+		"number": "3",
+		"street": "Ežero g.",
+		"city": "Šakyna",
+		"district": "Šiaulių",
+		"postcode": "81342"
+	},
+	{
+		"lon": "22.9333427",
+		"lat": "55.9912156",
+		"number": "15",
+		"street": "J. Ruzgio g.",
+		"city": "Kuršėnai",
+		"district": "Šiaulių",
+		"postcode": "81164"
+	},
+	{
+		"lon": "23.1506061",
+		"lat": "56.0951312",
+		"number": "4",
+		"street": "Saulėtekio g.",
+		"city": "Šiupyliai",
+		"district": "Šiaulių",
+		"postcode": "81356"
+	},
+	{
+		"lon": "22.9897307",
+		"lat": "56.0070287",
+		"number": "2",
+		"street": "Topolių g.",
+		"city": "Gergždeliai",
+		"district": "Šiaulių",
+		"postcode": "81111"
+	},
+	{
+		"lon": "23.9288421",
+		"lat": "54.7592991",
+		"number": "1",
+		"street": "Sandėlių g.",
+		"city": "Linksmakalnis",
+		"district": "Kauno",
+		"postcode": "53290"
+	},
+	{
+		"lon": "23.586931",
+		"lat": "55.0458618",
+		"number": "21",
+		"street": "Raubatonių g.",
+		"city": "Vilkija",
+		"district": "Kauno",
+		"postcode": "54222"
+	},
+	{
+		"lon": "23.8452585",
+		"lat": "54.8226828",
+		"number": "5",
+		"street": "Žiedo g.",
+		"city": "Mastaičiai",
+		"district": "Kauno",
+		"postcode": "53308"
+	},
+	{
+		"lon": "24.2511981",
+		"lat": "54.5015809",
+		"number": "6",
+		"street": "Margirio g.",
+		"city": "Butrimonys",
+		"district": "Alytaus",
+		"postcode": "64428"
+	},
+	{
+		"lon": "23.8903301",
+		"lat": "54.8540539",
+		"number": "30",
+		"street": "Aušros g.",
+		"city": "Naugardiškė",
+		"district": "Kauno",
+		"postcode": "53271"
+	},
+	{
+		"lon": "23.7834786",
+		"lat": "55.1425849",
+		"number": "22",
+		"street": "Taikos g.",
+		"city": "Panevėžiukas",
+		"district": "Kauno",
+		"postcode": "54286"
+	},
+	{
+		"lon": "23.8418076",
+		"lat": "54.8203335",
+		"number": "63",
+		"street": "Garliavos g.",
+		"city": "Mastaičiai",
+		"district": "Kauno",
+		"postcode": "53315"
+	},
+	{
+		"lon": "23.9101096",
+		"lat": "54.9666064",
+		"number": "15",
+		"street": "Naujojo Gyvenimo g.",
+		"city": "Domeikava",
+		"district": "Kauno",
+		"postcode": "54354"
+	},
+	{
+		"lon": "23.8831779",
+		"lat": "54.7691054",
+		"number": "22",
+		"street": "Pagirių g.",
+		"city": "Ilgakiemis",
+		"district": "Kauno",
+		"postcode": "53288"
+	},
+	{
+		"lon": "25.2017656",
+		"lat": "54.7398447",
+		"number": "11",
+		"street": "Alyvų g.",
+		"city": "Gineitiškės",
+		"district": "Vilniaus",
+		"postcode": "14159"
+	},
+	{
+		"lon": "23.792774",
+		"lat": "55.0875523",
+		"number": "7",
+		"street": "Beržų g.",
+		"city": "Babtai",
+		"district": "Kauno",
+		"postcode": "54331"
+	},
+	{
+		"lon": "23.8679617",
+		"lat": "54.9470086",
+		"number": "5",
+		"street": "Aviečių g.",
+		"city": "Giraitė",
+		"district": "Kauno",
+		"postcode": "54308"
+	},
+	{
+		"lon": "23.896647",
+		"lat": "54.8769376",
+		"number": "51A",
+		"street": "Veiverių g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "46336"
+	},
+	{
+		"lon": "23.6138122",
+		"lat": "55.1464117",
+		"number": "4",
+		"street": "Šermukšnių g.",
+		"city": "Liučiūnai",
+		"district": "Kauno",
+		"postcode": "54202"
+	},
+	{
+		"lon": "23.8748708",
+		"lat": "54.82511",
+		"number": "8A",
+		"street": "Gėlių g.",
+		"city": "Garliava",
+		"district": "Kauno",
+		"postcode": "53259"
+	},
+	{
+		"lon": "25.2576013",
+		"lat": "54.8085747",
+		"number": "22",
+		"street": "Žvėrališkių g.",
+		"city": "Didžioji Riešė",
+		"district": "Vilniaus",
+		"postcode": "14260"
+	},
+	{
+		"lon": "23.6082873",
+		"lat": "54.8805878",
+		"number": "6",
+		"street": "J. Janonio g.",
+		"city": "Ežerėlis",
+		"district": "Kauno",
+		"postcode": "53392"
+	},
+	{
+		"lon": "24.9689647",
+		"lat": "54.8266086",
+		"number": "10",
+		"street": "J. Dembinskio g.",
+		"city": "Dūkštos",
+		"district": "Vilniaus",
+		"postcode": "14222"
+	},
+	{
+		"lon": "24.0162979",
+		"lat": "54.0037095",
+		"number": "5",
+		"street": "Gėlių g.",
+		"city": "Druskininkai",
+		"district": "Druskininkų ",
+		"postcode": "66227"
+	},
+	{
+		"lon": "25.324596",
+		"lat": "54.9002394",
+		"number": "18",
+		"street": "Legotės g.",
+		"city": "Radžiuliai",
+		"district": "Vilniaus",
+		"postcode": "15130"
+	},
+	{
+		"lon": "23.9608597",
+		"lat": "54.8674517",
+		"number": "59",
+		"street": "A. Smetonos al.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "45311"
+	},
+	{
+		"lon": "23.9338694",
+		"lat": "54.873271",
+		"number": "8",
+		"street": "Mažeikių g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "45263"
+	},
+	{
+		"lon": "23.9408809",
+		"lat": "54.8897705",
+		"number": "7",
+		"street": "Vievio g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "44433"
+	},
+	{
+		"lon": "24.0170932",
+		"lat": "54.8517544",
+		"number": "12",
+		"street": "Žaisos g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "45480"
+	},
+	{
+		"lon": "23.1237977",
+		"lat": "54.8182287",
+		"number": "5",
+		"street": "Ąžuolų g.",
+		"city": "Degutinė",
+		"district": "Šakių",
+		"postcode": "71297"
+	},
+	{
+		"lon": "24.0998549",
+		"lat": "54.8635601",
+		"number": "13",
+		"street": "Marių g.",
+		"city": "Šlienava",
+		"district": "Kauno",
+		"postcode": "53150"
+	},
+	{
+		"lon": "23.017619",
+		"lat": "54.6466015",
+		"number": "24",
+		"street": "Miško g.",
+		"city": "Vilkaviškis",
+		"district": "Vilkaviškio",
+		"postcode": "70113"
+	},
+	{
+		"lon": "23.8745478",
+		"lat": "54.8501949",
+		"number": "20",
+		"street": "J. Barkausko g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "46489"
+	},
+	{
+		"lon": "24.0849383",
+		"lat": "54.8699294",
+		"number": "11",
+		"street": "Vyšnių g.",
+		"city": "Šlienava",
+		"district": "Kauno",
+		"postcode": "53144"
+	},
+	{
+		"lon": "23.8946212",
+		"lat": "54.917021",
+		"number": "93",
+		"street": "Panerių g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "48425"
+	},
+	{
+		"lon": "23.9319882",
+		"lat": "54.8675152",
+		"number": "20A",
+		"street": "Kranto 10-oji g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "45284"
+	},
+	{
+		"lon": "23.3267513",
+		"lat": "55.9400872",
+		"number": "254",
+		"street": "Tilžės g.",
+		"city": "Šiauliai",
+		"district": "Šiaulių",
+		"postcode": "76202"
+	},
+	{
+		"lon": "23.9379809",
+		"lat": "54.9633521",
+		"number": "6",
+		"street": "Pietinė g.",
+		"city": "Radikiai",
+		"district": "Kauno",
+		"postcode": "54378"
+	},
+	{
+		"lon": "24.9660789",
+		"lat": "55.0330563",
+		"number": "1",
+		"street": "Statybininkų g.",
+		"city": "Širvintos",
+		"district": "Širvintų",
+		"postcode": "19125"
+	},
+	{
+		"lon": "23.3171574",
+		"lat": "55.9443556",
+		"number": "80",
+		"street": "Žemaitės g.",
+		"city": "Šiauliai",
+		"district": "Šiaulių",
+		"postcode": "76196"
+	},
+	{
+		"lon": "23.2738641",
+		"lat": "55.9541503",
+		"number": "62",
+		"street": "Šaltalankių g.",
+		"city": "Šiauliai",
+		"district": "Šiaulių",
+		"postcode": "76218"
+	},
+	{
+		"lon": "21.7035111",
+		"lat": "55.3631279",
+		"number": "33",
+		"street": "Sodų g.",
+		"city": "Žemaičių Naumiestis",
+		"district": "Šilutės",
+		"postcode": "99205"
+	},
+	{
+		"lon": "23.9164779",
+		"lat": "54.9600311",
+		"number": "12",
+		"street": "Plačioji g.",
+		"city": "Domeikava",
+		"district": "Kauno",
+		"postcode": "54360"
+	},
+	{
+		"lon": "23.7819259",
+		"lat": "54.9520179",
+		"number": "38",
+		"street": "Žalgirio g.",
+		"city": "Raudondvaris",
+		"district": "Kauno",
+		"postcode": "54114"
+	},
+	{
+		"lon": "23.7884681",
+		"lat": "54.8897136",
+		"number": "11",
+		"street": "Kamšos g.",
+		"city": "Ringaudai",
+		"district": "Kauno",
+		"postcode": "53331"
+	},
+	{
+		"lon": "23.6658737",
+		"lat": "54.9232384",
+		"number": "17",
+		"street": "Lakštingalų g.",
+		"city": "Dievogala",
+		"district": "Kauno",
+		"postcode": "53425"
+	},
+	{
+		"lon": "23.769938",
+		"lat": "54.9493979",
+		"number": "4",
+		"street": "Ešerinės g.",
+		"city": "Raudondvaris",
+		"district": "Kauno",
+		"postcode": "54117"
+	},
+	{
+		"lon": "24.1001694",
+		"lat": "54.9265943",
+		"number": "5",
+		"street": "Ramučių g.",
+		"city": "Neveronys",
+		"district": "Kauno",
+		"postcode": "54485"
+	},
+	{
+		"lon": "23.9677315",
+		"lat": "55.2839629",
+		"number": "34A",
+		"street": "Lauko g.",
+		"city": "Kėdainiai",
+		"district": "Kėdainių",
+		"postcode": "57303"
+	},
+	{
+		"lon": "23.9773849",
+		"lat": "55.3263924",
+		"number": "29",
+		"street": "Kosmonautų g.",
+		"city": "Kėdainiai",
+		"district": "Kėdainių",
+		"postcode": "57139"
+	},
+	{
+		"lon": "23.3277556",
+		"lat": "55.9369401",
+		"number": "20",
+		"street": "Rygos g.",
+		"city": "Šiauliai",
+		"district": "Šiaulių",
+		"postcode": "76203"
+	},
+	{
+		"lon": "23.120746",
+		"lat": "55.3729856",
+		"number": "11",
+		"street": "Kalnujų g.",
+		"city": "Raseiniai",
+		"district": "Raseinių",
+		"postcode": "60179"
+	},
+	{
+		"lon": "21.1648265",
+		"lat": "55.7521467",
+		"number": "6",
+		"street": "Lietaus g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "92348"
+	},
+	{
+		"lon": "23.1158154",
+		"lat": "55.3814143",
+		"number": "9",
+		"street": "Vytauto Didžiojo g.",
+		"city": "Raseiniai",
+		"district": "Raseinių",
+		"postcode": "60149"
+	},
+	{
+		"lon": "25.121214",
+		"lat": "55.2938199",
+		"number": "32",
+		"street": "Alaušų g.",
+		"city": "Balninkai",
+		"district": "Molėtų",
+		"postcode": "33303"
+	},
+	{
+		"lon": "23.8626303",
+		"lat": "55.3935541",
+		"number": "4",
+		"street": "Parko g.",
+		"city": "Akademija",
+		"district": "Kėdainių",
+		"postcode": "58350"
+	},
+	{
+		"lon": "22.8159952",
+		"lat": "54.6260832",
+		"number": "6",
+		"street": "Vištyčio g.",
+		"city": "Virbalis",
+		"district": "Vilkaviškio",
+		"postcode": "70386"
+	},
+	{
+		"lon": "23.2783591",
+		"lat": "55.954725",
+		"number": "75",
+		"street": "Karklų g.",
+		"city": "Šiauliai",
+		"district": "Šiaulių",
+		"postcode": "76218"
+	},
+	{
+		"lon": "22.7689902",
+		"lat": "54.6350321",
+		"number": "29",
+		"street": "Vasario 16-osios g.",
+		"city": "Kybartai",
+		"district": "Vilkaviškio",
+		"postcode": "70426"
+	},
+	{
+		"lon": "21.464769",
+		"lat": "55.3414155",
+		"number": "16B",
+		"street": "Lietuvininkų g.",
+		"city": "Šilutė",
+		"district": "Šilutės",
+		"postcode": "99184"
+	},
+	{
+		"lon": "21.087821",
+		"lat": "55.7314059",
+		"number": "3A",
+		"street": "Vėtros g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "92277"
+	},
+	{
+		"lon": "23.8768516",
+		"lat": "54.9271973",
+		"number": "40",
+		"street": "Baltų pr.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "48196"
+	},
+	{
+		"lon": "24.4865735",
+		"lat": "55.4938852",
+		"number": "41",
+		"street": "Malūno g.",
+		"city": "Mikėnai",
+		"district": "Panevėžio",
+		"postcode": "38206"
+	},
+	{
+		"lon": "21.1351329",
+		"lat": "55.7129054",
+		"number": "17",
+		"street": "Liepų g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "92138"
+	},
+	{
+		"lon": "22.7530914",
+		"lat": "55.7013578",
+		"number": "29",
+		"street": "Alyvų g.",
+		"city": "Vaiguva",
+		"district": "Kelmės",
+		"postcode": "86404"
+	},
+	{
+		"lon": "22.6345447",
+		"lat": "55.0445441",
+		"number": "9",
+		"street": "Mokyklos g.",
+		"city": "Burgaičiai",
+		"district": "Šakių",
+		"postcode": "71391"
+	},
+	{
+		"lon": "23.6673994",
+		"lat": "55.3406283",
+		"number": "5",
+		"street": "Kaštonų g.",
+		"city": "Pajieslys",
+		"district": "Kėdainių",
+		"postcode": "58238"
+	},
+	{
+		"lon": "23.9671502",
+		"lat": "55.2644685",
+		"number": "10",
+		"street": "Akloji g.",
+		"city": "Paobelys",
+		"district": "Kėdainių",
+		"postcode": "58158"
+	},
+	{
+		"lon": "22.9597688",
+		"lat": "54.5764939",
+		"number": "9",
+		"street": "Jaunimo g.",
+		"city": "Klampučiai",
+		"district": "Vilkaviškio",
+		"postcode": "70204"
+	},
+	{
+		"lon": "23.2573968",
+		"lat": "54.829132",
+		"number": "12",
+		"street": "Šukėtų g.",
+		"city": "Patašinė",
+		"district": "Šakių",
+		"postcode": "71273"
+	},
+	{
+		"lon": "23.0423911",
+		"lat": "54.6516134",
+		"number": "12",
+		"street": "Palangos g.",
+		"city": "Vilkaviškis",
+		"district": "Vilkaviškio",
+		"postcode": "70145"
+	},
+	{
+		"lon": "23.0489402",
+		"lat": "54.9617472",
+		"number": "8",
+		"street": "Žalgirio g.",
+		"city": "Šakiai",
+		"district": "Šakių",
+		"postcode": "71108"
+	},
+	{
+		"lon": "24.0086688",
+		"lat": "54.8977317",
+		"number": "32",
+		"street": "Medelyno g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "52317"
+	},
+	{
+		"lon": "21.1625843",
+		"lat": "55.6738858",
+		"number": "6",
+		"street": "Medvėgalio g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "93172"
+	},
+	{
+		"lon": "23.9707611",
+		"lat": "54.9021084",
+		"number": "5",
+		"street": "S. Šalkauskio g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "51384"
+	},
+	{
+		"lon": "23.9983341",
+		"lat": "54.8427053",
+		"number": "70",
+		"street": "Garšvės g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "45475"
+	},
+	{
+		"lon": "23.9621951",
+		"lat": "54.9092443",
+		"number": "27",
+		"street": "Rytų g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "51302"
+	},
+	{
+		"lon": "24.4607661",
+		"lat": "55.5003331",
+		"number": "15",
+		"street": "Pavasario g.",
+		"city": "Vadokliai",
+		"district": "Panevėžio",
+		"postcode": "38200"
+	},
+	{
+		"lon": "23.8812305",
+		"lat": "55.3705924",
+		"number": "7",
+		"street": "Vingio g.",
+		"city": "Dotnuva",
+		"district": "Kėdainių",
+		"postcode": "58381"
+	},
+	{
+		"lon": "21.1254643",
+		"lat": "55.7138444",
+		"number": "29A",
+		"street": "Puodžių g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "92125"
+	},
+	{
+		"lon": "26.4401534",
+		"lat": "55.5986734",
+		"number": "11",
+		"street": "Tarybų g.",
+		"city": "Visaginas",
+		"district": "Visagino ",
+		"postcode": "31202"
+	},
+	{
+		"lon": "23.1198752",
+		"lat": "55.3821157",
+		"number": "26",
+		"street": "Maironio g.",
+		"city": "Raseiniai",
+		"district": "Raseinių",
+		"postcode": "60151"
+	},
+	{
+		"lon": "24.1468961",
+		"lat": "55.6808428",
+		"number": "1",
+		"street": "Liepų g.",
+		"city": "Naujamiestis",
+		"district": "Panevėžio",
+		"postcode": "38340"
+	},
+	{
+		"lon": "24.4141659",
+		"lat": "55.5956554",
+		"number": "1",
+		"street": "Kabelių g.",
+		"city": "Katinai",
+		"district": "Panevėžio",
+		"postcode": "38224"
+	},
+	{
+		"lon": "23.9447556",
+		"lat": "54.9053248",
+		"number": "26",
+		"street": "J. I. Kraševskio g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "50281"
+	},
+	{
+		"lon": "23.8741624",
+		"lat": "54.9316823",
+		"number": "19",
+		"street": "Maironiškių g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "48183"
+	},
+	{
+		"lon": "23.9471163",
+		"lat": "54.8804383",
+		"number": "56",
+		"street": "Skuodo g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "45126"
+	},
+	{
+		"lon": "23.9255416",
+		"lat": "54.856869",
+		"number": "3",
+		"street": "Kalkinės g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "46237"
+	},
+	{
+		"lon": "23.9708777",
+		"lat": "55.2877751",
+		"number": "3",
+		"street": "Janušavos a.",
+		"city": "Kėdainiai",
+		"district": "Kėdainių",
+		"postcode": "57296"
+	},
+	{
+		"lon": "24.2245211",
+		"lat": "55.4311976",
+		"number": "2",
+		"street": "Linkuvės g.",
+		"city": "Truskava",
+		"district": "Kėdainių",
+		"postcode": "58462"
+	},
+	{
+		"lon": "23.1058017",
+		"lat": "55.3822398",
+		"number": "178",
+		"street": "Vilniaus g.",
+		"city": "Raseiniai",
+		"district": "Raseinių",
+		"postcode": "60143"
+	},
+	{
+		"lon": "24.0011635",
+		"lat": "55.2958403",
+		"number": "6",
+		"street": "Elektrėnų g.",
+		"city": "Kėdainiai",
+		"district": "Kėdainių",
+		"postcode": "58114"
+	},
+	{
+		"lon": "23.932826",
+		"lat": "54.8747214",
+		"number": "18",
+		"street": "Vokiečių g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "45272"
+	},
+	{
+		"lon": "23.7936858",
+		"lat": "54.9248292",
+		"number": "340",
+		"street": "Raudondvario pl.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "47165"
+	},
+	{
+		"lon": "23.8618035",
+		"lat": "54.9113052",
+		"number": "20",
+		"street": "Dubysos g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "47178"
+	},
+	{
+		"lon": "23.8921756",
+		"lat": "54.9497273",
+		"number": "62",
+		"street": "Agronomijos g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "47460"
+	},
+	{
+		"lon": "24.4791535",
+		"lat": "55.6241924",
+		"number": "4",
+		"street": "Lauko g.",
+		"city": "Kairiai",
+		"district": "Panevėžio",
+		"postcode": "38134"
+	},
+	{
+		"lon": "23.9447487",
+		"lat": "54.8350689",
+		"number": "21",
+		"street": "Striaunės g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "46128"
+	},
+	{
+		"lon": "23.9720654",
+		"lat": "54.9035104",
+		"number": "18",
+		"street": "S. Šalkauskio g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "51379"
+	},
+	{
+		"lon": "23.8981246",
+		"lat": "54.8731698",
+		"number": "22",
+		"street": "Simno g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "46365"
+	},
+	{
+		"lon": "23.9490467",
+		"lat": "54.870839",
+		"number": "41",
+		"street": "Drobės g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "45184"
+	},
+	{
+		"lon": "23.8725372",
+		"lat": "54.8751042",
+		"number": "43",
+		"street": "Julijanavos g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "46342"
+	},
+	{
+		"lon": "23.8957203",
+		"lat": "54.8857733",
+		"number": "25",
+		"street": "Veiverių g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "46274"
+	},
+	{
+		"lon": "23.9819391",
+		"lat": "54.9096263",
+		"number": "23",
+		"street": "Pramonės pr.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "51287"
+	},
+	{
+		"lon": "23.923418",
+		"lat": "54.8569845",
+		"number": "11",
+		"street": "Kalkinės g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "46237"
+	},
+	{
+		"lon": "24.0764306",
+		"lat": "54.9172498",
+		"number": "15",
+		"street": "Kopų g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "52283"
+	},
+	{
+		"lon": "23.881478",
+		"lat": "54.8632939",
+		"number": "25",
+		"street": "Pilviškių g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "46412"
+	},
+	{
+		"lon": "23.9203586",
+		"lat": "54.9270091",
+		"number": "83",
+		"street": "Lazūnų g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "49329"
+	},
+	{
+		"lon": "23.9665758",
+		"lat": "54.86182",
+		"number": "9",
+		"street": "Kareivinių g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "45391"
+	},
+	{
+		"lon": "23.9335639",
+		"lat": "54.8909617",
+		"number": "28",
+		"street": "E. Fryko g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "44229"
+	},
+	{
+		"lon": "23.8960178",
+		"lat": "54.889911",
+		"number": "7",
+		"street": "Antakalnio g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "46250"
+	},
+	{
+		"lon": "23.8476635",
+		"lat": "54.9180267",
+		"number": "7",
+		"street": "Šilainių pl.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "47104"
+	},
+	{
+		"lon": "23.905353",
+		"lat": "54.9001477",
+		"number": "37",
+		"street": "Savanorių pr.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "44255"
+	},
+	{
+		"lon": "23.9554306",
+		"lat": "54.8389098",
+		"number": "8",
+		"street": "Juodgirės g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "46139"
+	},
+	{
+		"lon": "23.9481337",
+		"lat": "54.8444639",
+		"number": "74",
+		"street": "Plytinės g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "46113"
+	},
+	{
+		"lon": "23.8832687",
+		"lat": "54.9149216",
+		"number": "32",
+		"street": "Tytuvėnų g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "48300"
+	},
+	{
+		"lon": "23.9489684",
+		"lat": "54.8430492",
+		"number": "8",
+		"street": "Rokų g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "46114"
+	},
+	{
+		"lon": "24.4050674",
+		"lat": "55.7397484",
+		"number": "9",
+		"street": "Veteranų g.",
+		"city": "Dembava",
+		"district": "Panevėžio",
+		"postcode": "38175"
+	},
+	{
+		"lon": "24.4639946",
+		"lat": "55.6905096",
+		"number": "5",
+		"street": "Parko g.",
+		"city": "Liūdynė",
+		"district": "Panevėžio",
+		"postcode": "38130"
+	},
+	{
+		"lon": "23.9866112",
+		"lat": "54.8646586",
+		"number": "12",
+		"street": "Pabradės g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "45450"
+	},
+	{
+		"lon": "24.304168",
+		"lat": "55.5097615",
+		"number": "7",
+		"street": "Vadoklių g.",
+		"city": "Ramygala",
+		"district": "Panevėžio",
+		"postcode": "38261"
+	},
+	{
+		"lon": "22.1881632",
+		"lat": "55.9876195",
+		"number": "17",
+		"street": "Džiugo Sodų 7-oji g.",
+		"city": "Džiuginėnai",
+		"district": "Telšių",
+		"postcode": "87404"
+	},
+	{
+		"lon": "22.5671249",
+		"lat": "56.0617937",
+		"number": "40",
+		"street": "Klaipėdos g.",
+		"city": "Tryškiai",
+		"district": "Telšių",
+		"postcode": "88152"
+	},
+	{
+		"lon": "22.587003",
+		"lat": "55.9906978",
+		"number": "49",
+		"street": "Geležinkelio g.",
+		"city": "Vainočiai",
+		"district": "Telšių",
+		"postcode": "88200"
+	},
+	{
+		"lon": "23.3231703",
+		"lat": "55.9330072",
+		"number": "65",
+		"street": "Ežero g.",
+		"city": "Šiauliai",
+		"district": "Šiaulių",
+		"postcode": "76243"
+	},
+	{
+		"lon": "22.3046899",
+		"lat": "55.9601399",
+		"number": "24",
+		"street": "K. Petrausko g.",
+		"city": "Rainiai",
+		"district": "Telšių",
+		"postcode": "88402"
+	},
+	{
+		"lon": "25.4211945",
+		"lat": "55.2334864",
+		"number": "6",
+		"street": "Kauno g.",
+		"city": "Molėtai",
+		"district": "Molėtų",
+		"postcode": "33101"
+	},
+	{
+		"lon": "22.2704867",
+		"lat": "55.9784352",
+		"number": "50",
+		"street": "Lygumų g.",
+		"city": "Telšiai",
+		"district": "Telšių",
+		"postcode": "87126"
+	},
+	{
+		"lon": "22.2702341",
+		"lat": "55.9858232",
+		"number": "14",
+		"street": "Anulėnų g.",
+		"city": "Telšiai",
+		"district": "Telšių",
+		"postcode": "87125"
+	},
+	{
+		"lon": "22.2615289",
+		"lat": "55.9906964",
+		"number": "30",
+		"street": "Lakštingalų g.",
+		"city": "Telšiai",
+		"district": "Telšių",
+		"postcode": "87107"
+	},
+	{
+		"lon": "24.0009835",
+		"lat": "54.8876108",
+		"number": "3A",
+		"street": "Ekskavatorininkų g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "52369"
+	},
+	{
+		"lon": "22.9645664",
+		"lat": "55.3785387",
+		"number": "8",
+		"street": "Paliepių g.",
+		"city": "Sujainiai",
+		"district": "Raseinių",
+		"postcode": "60344"
+	},
+	{
+		"lon": "24.0181379",
+		"lat": "54.8509833",
+		"number": "8",
+		"street": "Trakelių g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "45480"
+	},
+	{
+		"lon": "22.2214392",
+		"lat": "55.9789168",
+		"number": "47",
+		"street": "Plungės g.",
+		"city": "Telšiai",
+		"district": "Telšių",
+		"postcode": "87328"
+	},
+	{
+		"lon": "23.8918657",
+		"lat": "54.9172611",
+		"number": "25",
+		"street": "Švyturio g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "48308"
+	},
+	{
+		"lon": "22.2300397",
+		"lat": "55.9816139",
+		"number": "21",
+		"street": "J. Biliūno g.",
+		"city": "Telšiai",
+		"district": "Telšių",
+		"postcode": "87319"
+	},
+	{
+		"lon": "22.2650125",
+		"lat": "55.9840846",
+		"number": "44",
+		"street": "Šviesos g.",
+		"city": "Telšiai",
+		"district": "Telšių",
+		"postcode": "87124"
+	},
+	{
+		"lon": "22.2661023",
+		"lat": "55.9734972",
+		"number": "50",
+		"street": "Masčio g.",
+		"city": "Telšiai",
+		"district": "Telšių",
+		"postcode": "87147"
+	},
+	{
+		"lon": "23.8815731",
+		"lat": "54.9147538",
+		"number": "24",
+		"street": "Tytuvėnų g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "48300"
+	},
+	{
+		"lon": "23.9314882",
+		"lat": "54.8766254",
+		"number": "14",
+		"street": "Liepojos g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "45270"
+	},
+	{
+		"lon": "24.0212876",
+		"lat": "54.899343",
+		"number": "3B",
+		"street": "Intako g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "52181"
+	},
+	{
+		"lon": "23.8914907",
+		"lat": "54.8643814",
+		"number": "20",
+		"street": "Rąžės g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "46389"
+	},
+	{
+		"lon": "24.8486086",
+		"lat": "54.8875971",
+		"number": "17",
+		"street": "Mindaugo g.",
+		"city": "Kernavė",
+		"district": "Širvintų",
+		"postcode": "19172"
+	},
+	{
+		"lon": "24.3471697",
+		"lat": "54.3562647",
+		"number": "23",
+		"street": "Krantinės g.",
+		"city": "Daugai",
+		"district": "Alytaus",
+		"postcode": "64143"
+	},
+	{
+		"lon": "21.6232622",
+		"lat": "55.516106",
+		"number": "1",
+		"street": "Dariaus ir Girėno g.",
+		"city": "Švėkšna",
+		"district": "Šilutės",
+		"postcode": "99383"
+	},
+	{
+		"lon": "25.1843536",
+		"lat": "54.7917141",
+		"number": "244",
+		"street": "Bendorėlių al.",
+		"city": "Bendoriai",
+		"district": "Vilniaus",
+		"postcode": "14180"
+	},
+	{
+		"lon": "26.1350823",
+		"lat": "55.1223316",
+		"number": "3",
+		"street": "Pušų g.",
+		"city": "Cirkliškis",
+		"district": "Švenčionių",
+		"postcode": "18122"
+	},
+	{
+		"lon": "23.2028867",
+		"lat": "55.3114411",
+		"number": "1",
+		"street": "Ateities g.",
+		"city": "Girkalnis",
+		"district": "Raseinių",
+		"postcode": "60314"
+	},
+	{
+		"lon": "23.9177359",
+		"lat": "54.3991466",
+		"number": "4",
+		"street": "Aniškio g.",
+		"city": "Luksnėnai",
+		"district": "Alytaus",
+		"postcode": "64381"
+	},
+	{
+		"lon": "25.9833343",
+		"lat": "55.2519405",
+		"number": "7",
+		"street": "Geležinkelio g.",
+		"city": "Kaltanėnai",
+		"district": "Švenčionių",
+		"postcode": "18239"
+	},
+	{
+		"lon": "26.1623752",
+		"lat": "55.129173",
+		"number": "25",
+		"street": "Saulėtekio g.",
+		"city": "Švenčionys",
+		"district": "Švenčionių",
+		"postcode": "18125"
+	},
+	{
+		"lon": "24.5732566",
+		"lat": "55.1543055",
+		"number": "15",
+		"street": "Ukmergės g.",
+		"city": "Vepriai",
+		"district": "Ukmergės",
+		"postcode": "20282"
+	},
+	{
+		"lon": "23.9612494",
+		"lat": "54.9564464",
+		"number": "10",
+		"street": "Paupio g.",
+		"city": "Radikiai",
+		"district": "Kauno",
+		"postcode": "54374"
+	},
+	{
+		"lon": "25.3802497",
+		"lat": "55.4713543",
+		"number": "8",
+		"street": "Žvyrinkos g.",
+		"city": "Leliūnai",
+		"district": "Utenos",
+		"postcode": "28361"
+	},
+	{
+		"lon": "21.6237724",
+		"lat": "55.5161972",
+		"number": "3",
+		"street": "Dariaus ir Girėno g.",
+		"city": "Švėkšna",
+		"district": "Šilutės",
+		"postcode": "99383"
+	},
+	{
+		"lon": "23.836456",
+		"lat": "54.9227821",
+		"number": "39",
+		"street": "Šilo g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "47102"
+	},
+	{
+		"lon": "25.4958396",
+		"lat": "55.5760513",
+		"number": "12",
+		"street": "Sodo g.",
+		"city": "Vyžuonos",
+		"district": "Utenos",
+		"postcode": "28373"
+	},
+	{
+		"lon": "23.8915328",
+		"lat": "54.9097137",
+		"number": "41",
+		"street": "Skirmanto g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "48351"
+	},
+	{
+		"lon": "24.5042182",
+		"lat": "55.2931037",
+		"number": "7",
+		"street": "Draugystės g.",
+		"city": "Siesikai",
+		"district": "Ukmergės",
+		"postcode": "20316"
+	},
+	{
+		"lon": "24.859534",
+		"lat": "55.3063835",
+		"number": "16",
+		"street": "Liepų g.",
+		"city": "Vidiškiai",
+		"district": "Ukmergės",
+		"postcode": "20358"
+	},
+	{
+		"lon": "24.5476193",
+		"lat": "54.2490433",
+		"number": "21",
+		"street": "Varpilės g.",
+		"city": "Senoji Varėna",
+		"district": "Varėnos",
+		"postcode": "65489"
+	},
+	{
+		"lon": "22.4142745",
+		"lat": "55.909246",
+		"number": "35",
+		"street": "Mildagės g.",
+		"city": "Rūdupiai",
+		"district": "Telšių",
+		"postcode": "88408"
+	},
+	{
+		"lon": "21.1910066",
+		"lat": "55.694867",
+		"number": "10",
+		"street": "Vilniaus pl.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "94105"
+	},
+	{
+		"lon": "21.221522",
+		"lat": "55.6981293",
+		"number": "11B",
+		"street": "Bajorų g.",
+		"city": "Jakai",
+		"district": "Klaipėdos",
+		"postcode": "96324"
+	},
+	{
+		"lon": "21.0987315",
+		"lat": "56.0121978",
+		"number": "37",
+		"street": "Žibų g.",
+		"city": "Palanga",
+		"district": "Palangos",
+		"postcode": "00320"
+	},
+	{
+		"lon": "23.876208",
+		"lat": "54.9076326",
+		"number": "78",
+		"street": "Raudondvario pl.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "47182"
+	},
+	{
+		"lon": "23.9031357",
+		"lat": "54.9233173",
+		"number": "44",
+		"street": "Juodkrantės g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "48474"
+	},
+	{
+		"lon": "22.9514189",
+		"lat": "55.6175112",
+		"number": "2",
+		"street": "Tiesioji g.",
+		"city": "Dikšiai",
+		"district": "Kelmės",
+		"postcode": "86194"
+	},
+	{
+		"lon": "23.9098007",
+		"lat": "54.9242897",
+		"number": "39",
+		"street": "Plungės g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "48462"
+	},
+	{
+		"lon": "24.2535188",
+		"lat": "55.5775007",
+		"number": "10",
+		"street": "Žvirblių g.",
+		"city": "Ėriškiai",
+		"district": "Panevėžio",
+		"postcode": "38270"
+	},
+	{
+		"lon": "21.134782",
+		"lat": "55.7243659",
+		"number": "5",
+		"street": "Ąžuolų g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "92206"
+	},
+	{
+		"lon": "23.917373",
+		"lat": "54.9064772",
+		"number": "11",
+		"street": "Seinų g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "44146"
+	},
+	{
+		"lon": "23.9122108",
+		"lat": "54.904122",
+		"number": "24",
+		"street": "Vaisių g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "44181"
+	},
+	{
+		"lon": "23.8624568",
+		"lat": "54.0956961",
+		"number": "15",
+		"street": "Melioratorių g.",
+		"city": "Leipalingis",
+		"district": "Druskininkų ",
+		"postcode": "67278"
+	},
+	{
+		"lon": "22.5145054",
+		"lat": "56.2255806",
+		"number": "11",
+		"street": "Parko g.",
+		"city": "Užventė",
+		"district": "Mažeikių",
+		"postcode": "89496"
+	},
+	{
+		"lon": "21.2794775",
+		"lat": "55.7905364",
+		"number": "4",
+		"street": "Šermukšnio g.",
+		"city": "Plikiai",
+		"district": "Klaipėdos",
+		"postcode": "96232"
+	},
+	{
+		"lon": "21.2101444",
+		"lat": "55.7030862",
+		"number": "6",
+		"street": "Sudmantų g.",
+		"city": "Sudmantai",
+		"district": "Klaipėdos",
+		"postcode": "96327"
+	},
+	{
+		"lon": "24.038319",
+		"lat": "55.4515166",
+		"number": "3",
+		"street": "Kalno g.",
+		"city": "Surviliškis",
+		"district": "Kėdainių",
+		"postcode": "58313"
+	},
+	{
+		"lon": "21.7616273",
+		"lat": "56.1692715",
+		"number": "2",
+		"street": "Pagramantės g.",
+		"city": "Šatės",
+		"district": "Skuodo",
+		"postcode": "98246"
+	},
+	{
+		"lon": "21.1087",
+		"lat": "56.037444",
+		"number": "43",
+		"street": "Inkaro g.",
+		"city": "Palanga",
+		"district": "Palangos",
+		"postcode": "00315"
+	},
+	{
+		"lon": "23.0617253",
+		"lat": "54.9547522",
+		"number": "7",
+		"street": "Rožių g.",
+		"city": "Girėnai",
+		"district": "Šakių",
+		"postcode": "71148"
+	},
+	{
+		"lon": "23.497704",
+		"lat": "54.9843534",
+		"number": "32",
+		"street": "Draugystės g.",
+		"city": "Lekėčiai",
+		"district": "Šakių",
+		"postcode": "71224"
+	},
+	{
+		"lon": "23.0678683",
+		"lat": "54.8604136",
+		"number": "9",
+		"street": "Laisvės g.",
+		"city": "Veršiai",
+		"district": "Šakių",
+		"postcode": "71339"
+	},
+	{
+		"lon": "23.0269651",
+		"lat": "54.9624319",
+		"number": "4",
+		"street": "Ateities g.",
+		"city": "Giedručiai",
+		"district": "Šakių",
+		"postcode": "71105"
+	},
+	{
+		"lon": "23.183693",
+		"lat": "54.9499711",
+		"number": "18",
+		"street": "Vingio g.",
+		"city": "Lukšiai",
+		"district": "Šakių",
+		"postcode": "71179"
+	},
+	{
+		"lon": "23.370489",
+		"lat": "54.554528",
+		"number": "69",
+		"street": "Gedimino g.",
+		"city": "Marijampolė",
+		"district": "Marijampolės ",
+		"postcode": "68113"
+	},
+	{
+		"lon": "23.3437655",
+		"lat": "54.5405411",
+		"number": "81",
+		"street": "Vytauto g.",
+		"city": "Marijampolė",
+		"district": "Marijampolės ",
+		"postcode": "68278"
+	},
+	{
+		"lon": "24.8945646",
+		"lat": "55.7611071",
+		"number": "28",
+		"street": "Vilutiškio g.",
+		"city": "Rudiliai",
+		"district": "Kupiškio",
+		"postcode": "40361"
+	},
+	{
+		"lon": "24.2293509",
+		"lat": "55.6485706",
+		"number": "1A",
+		"street": "Upytės g.",
+		"city": "Upytė",
+		"district": "Panevėžio",
+		"postcode": "38294"
+	},
+	{
+		"lon": "25.1921476",
+		"lat": "55.8991309",
+		"number": "32",
+		"street": "Dariaus ir Girėno g.",
+		"city": "Skapiškis",
+		"district": "Kupiškio",
+		"postcode": "40464"
+	},
+	{
+		"lon": "23.0633898",
+		"lat": "54.9555407",
+		"number": "9",
+		"street": "Girėnų g.",
+		"city": "Girėnai",
+		"district": "Šakių",
+		"postcode": "71148"
+	},
+	{
+		"lon": "21.2442445",
+		"lat": "55.5189256",
+		"number": "5",
+		"street": "Žvejų g.",
+		"city": "Dreverna",
+		"district": "Klaipėdos",
+		"postcode": "96240"
+	},
+	{
+		"lon": "22.8815653",
+		"lat": "56.2486498",
+		"number": "51",
+		"street": "Žalioji g.",
+		"city": "Sablauskiai",
+		"district": "Akmenės",
+		"postcode": "85273"
+	},
+	{
+		"lon": "22.9388039",
+		"lat": "55.5908452",
+		"number": "29",
+		"street": "Alyvų g.",
+		"city": "Rikantai",
+		"district": "Kelmės",
+		"postcode": "86236"
+	},
+	{
+		"lon": "24.6147093",
+		"lat": "54.757004",
+		"number": "19",
+		"street": "Bažnyčios g.",
+		"city": "Naujosios Kietaviškės",
+		"district": "Elektrėnų ",
+		"postcode": "21413"
+	},
+	{
+		"lon": "23.0263247",
+		"lat": "54.6392546",
+		"number": "121",
+		"street": "Kapų g.",
+		"city": "Vilkaviškis",
+		"district": "Vilkaviškio",
+		"postcode": "70121"
+	},
+	{
+		"lon": "24.7199881",
+		"lat": "54.7818349",
+		"number": "9",
+		"street": "Beržų g.",
+		"city": "Abromiškės",
+		"district": "Elektrėnų ",
+		"postcode": "26130"
+	},
+	{
+		"lon": "24.9604239",
+		"lat": "55.8455173",
+		"number": "14",
+		"street": "Kalno g.",
+		"city": "Paketuriai",
+		"district": "Kupiškio",
+		"postcode": "40103"
+	},
+	{
+		"lon": "23.3119448",
+		"lat": "54.5469279",
+		"number": "25",
+		"street": "P. Dovydaičio g.",
+		"city": "Marijampolė",
+		"district": "Marijampolės ",
+		"postcode": "68138"
+	},
+	{
+		"lon": "24.8129777",
+		"lat": "55.9074016",
+		"number": "44",
+		"street": "Pergalės g.",
+		"city": "Antašava",
+		"district": "Kupiškio",
+		"postcode": "40423"
+	},
+	{
+		"lon": "24.2891477",
+		"lat": "55.7792685",
+		"number": "29",
+		"street": "Draugystės g.",
+		"city": "Bernatoniai",
+		"district": "Panevėžio",
+		"postcode": "38398"
+	},
+	{
+		"lon": "24.3134661",
+		"lat": "55.5124556",
+		"number": "17",
+		"street": "Garuckų g.",
+		"city": "Garuckai",
+		"district": "Panevėžio",
+		"postcode": "38254"
+	},
+	{
+		"lon": "24.0201831",
+		"lat": "55.8045999",
+		"number": "6",
+		"street": "Dariaus ir Girėno g.",
+		"city": "Smilgiai",
+		"district": "Panevėžio",
+		"postcode": "38379"
+	},
+	{
+		"lon": "24.2900325",
+		"lat": "55.7841278",
+		"number": "6",
+		"street": "Trako g.",
+		"city": "Bernatoniai",
+		"district": "Panevėžio",
+		"postcode": "38393"
+	},
+	{
+		"lon": "25.3807628",
+		"lat": "54.7268104",
+		"number": "12",
+		"street": "Dvarčionių g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "10234"
+	},
+	{
+		"lon": "25.3099752",
+		"lat": "54.7043847",
+		"number": "48A",
+		"street": "Antakalnio g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "10304"
+	},
+	{
+		"lon": "22.654729",
+		"lat": "55.6733481",
+		"number": "6",
+		"street": "Užvenčio g.",
+		"city": "Pagiai",
+		"district": "Kelmės",
+		"postcode": "86277"
+	},
+	{
+		"lon": "25.3192693",
+		"lat": "54.669557",
+		"number": "34",
+		"street": "Kuprioniškių g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "11346"
+	},
+	{
+		"lon": "25.2643016",
+		"lat": "54.7981856",
+		"number": "36B",
+		"street": "Parko g.",
+		"city": "Didžioji Riešė",
+		"district": "Vilniaus",
+		"postcode": "14261"
+	},
+	{
+		"lon": "25.3512747",
+		"lat": "54.8045994",
+		"number": "16",
+		"street": "Europos parko g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "14269"
+	},
+	{
+		"lon": "25.3250453",
+		"lat": "54.6894822",
+		"number": "21B",
+		"street": "Lyglaukių g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "01215"
+	},
+	{
+		"lon": "25.3254846",
+		"lat": "54.6860682",
+		"number": "26A",
+		"street": "Srovės g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "01206"
+	},
+	{
+		"lon": "21.1736092",
+		"lat": "55.6612351",
+		"number": "37",
+		"street": "Karlskronos g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "94315"
+	},
+	{
+		"lon": "25.4291795",
+		"lat": "54.69123",
+		"number": "34",
+		"street": "Karklų g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "11117"
+	},
+	{
+		"lon": "22.5710948",
+		"lat": "55.6569853",
+		"number": "4",
+		"street": "Ežero g.",
+		"city": "Karklėnai",
+		"district": "Kelmės",
+		"postcode": "86323"
+	},
+	{
+		"lon": "25.4252303",
+		"lat": "54.6851733",
+		"number": "37A",
+		"street": "Parko g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "11228"
+	},
+	{
+		"lon": "25.3694947",
+		"lat": "54.7265959",
+		"number": "31",
+		"street": "Moliakalnio g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "10231"
+	},
+	{
+		"lon": "25.3701754",
+		"lat": "54.7046617",
+		"number": "22",
+		"street": "Rokantiškių g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "10229"
+	},
+	{
+		"lon": "23.2851775",
+		"lat": "55.9021528",
+		"number": "18",
+		"street": "Jotvingių g.",
+		"city": "Šiauliai",
+		"district": "Šiaulių",
+		"postcode": "78309"
+	},
+	{
+		"lon": "23.0536659",
+		"lat": "55.5788212",
+		"number": "32",
+		"street": "Lyduvėnų g.",
+		"city": "Laugalis",
+		"district": "Kelmės",
+		"postcode": "86212"
+	},
+	{
+		"lon": "23.6822108",
+		"lat": "54.9219312",
+		"number": "62",
+		"street": "Dievogalos g.",
+		"city": "Dievogala",
+		"district": "Kauno",
+		"postcode": "53424"
+	},
+	{
+		"lon": "24.447961",
+		"lat": "56.0690371",
+		"number": "1",
+		"street": "Diliauskų g.",
+		"city": "Diliauskai",
+		"district": "Pasvalio",
+		"postcode": "39188"
+	},
+	{
+		"lon": "25.3542999",
+		"lat": "54.7937999",
+		"number": "10",
+		"street": "Kryžiokų Sodų 1-oji g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "08443"
+	},
+	{
+		"lon": "24.0245033",
+		"lat": "54.6080947",
+		"number": "5",
+		"street": "Pušyno g.",
+		"city": "Birštonas",
+		"district": "Birštono ",
+		"postcode": "59203"
+	},
+	{
+		"lon": "21.5687533",
+		"lat": "56.1247065",
+		"number": "5",
+		"street": "Vingio g.",
+		"city": "Šaukliai",
+		"district": "Skuodo",
+		"postcode": "98285"
+	},
+	{
+		"lon": "25.378123",
+		"lat": "54.7507681",
+		"number": "103",
+		"street": "Gvazdikų g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "10239"
+	},
+	{
+		"lon": "23.1605075",
+		"lat": "55.8898041",
+		"number": "21",
+		"street": "Salos g.",
+		"city": "Raizgiai",
+		"district": "Šiaulių",
+		"postcode": "80184"
+	},
+	{
+		"lon": "25.6179602",
+		"lat": "55.5193414",
+		"number": "20",
+		"street": "Žirgų g.",
+		"city": "Utena",
+		"district": "Utenos",
+		"postcode": "28215"
+	},
+	{
+		"lon": "23.9817457",
+		"lat": "54.8599818",
+		"number": "20",
+		"street": "Pelesos g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "45442"
+	},
+	{
+		"lon": "21.6481797",
+		"lat": "55.7390623",
+		"number": "17",
+		"street": "Viržintų g.",
+		"city": "Žadeikiai",
+		"district": "Klaipėdos",
+		"postcode": "96304"
+	},
+	{
+		"lon": "23.9547324",
+		"lat": "54.767601",
+		"number": "30",
+		"street": "Knygnešio P. Varkalos g.",
+		"city": "Girininkai",
+		"district": "Kauno",
+		"postcode": "46169"
+	},
+	{
+		"lon": "21.4249658",
+		"lat": "55.6965161",
+		"number": "21",
+		"street": "Skinijos g.",
+		"city": "Maciuičiai",
+		"district": "Klaipėdos",
+		"postcode": "96159"
+	},
+	{
+		"lon": "23.2951385",
+		"lat": "55.9039889",
+		"number": "20",
+		"street": "Sprudeikos g.",
+		"city": "Šiauliai",
+		"district": "Šiaulių",
+		"postcode": "78152"
+	},
+	{
+		"lon": "22.9282091",
+		"lat": "54.6358094",
+		"number": "10",
+		"street": "Širvintos g.",
+		"city": "Alvitas",
+		"district": "Vilkaviškio",
+		"postcode": "70369"
+	},
+	{
+		"lon": "24.9825278",
+		"lat": "54.503039",
+		"number": "39",
+		"street": "Luknos g.",
+		"city": "Paluknys",
+		"district": "Trakų",
+		"postcode": "21168"
+	},
+	{
+		"lon": "21.7982556",
+		"lat": "55.9142019",
+		"number": "42",
+		"street": "Alyvų g.",
+		"city": "Kaušėnai",
+		"district": "Plungės",
+		"postcode": "90100"
+	},
+	{
+		"lon": "22.8626329",
+		"lat": "55.4867421",
+		"number": "9",
+		"street": "Pėriškių g.",
+		"city": "Pėriškiai",
+		"district": "Kelmės",
+		"postcode": "86251"
+	},
+	{
+		"lon": "22.6974925",
+		"lat": "55.2618851",
+		"number": "11",
+		"street": "Tauragės g.",
+		"city": "Eržvilkas",
+		"district": "Jurbarko",
+		"postcode": "74287"
+	},
+	{
+		"lon": "24.266281",
+		"lat": "55.0400867",
+		"number": "16",
+		"street": "Barborlaukio g.",
+		"city": "Šveicarija",
+		"district": "Jonavos",
+		"postcode": "55302"
+	},
+	{
+		"lon": "22.5145142",
+		"lat": "56.234178",
+		"number": "9",
+		"street": "Bažnyčios g.",
+		"city": "Viekšniai",
+		"district": "Mažeikių",
+		"postcode": "89491"
+	},
+	{
+		"lon": "22.9281262",
+		"lat": "54.6336611",
+		"number": "22",
+		"street": "Siauroji g.",
+		"city": "Alvitas",
+		"district": "Vilkaviškio",
+		"postcode": "70369"
+	},
+	{
+		"lon": "23.6290567",
+		"lat": "54.7937098",
+		"number": "9",
+		"street": "Ramunių g.",
+		"city": "Papilvis",
+		"district": "Prienų",
+		"postcode": "59275"
+	},
+	{
+		"lon": "23.5356624",
+		"lat": "55.1012078",
+		"number": "11",
+		"street": "Kaštonų g.",
+		"city": "Daugeliškiai",
+		"district": "Kauno",
+		"postcode": "54203"
+	},
+	{
+		"lon": "21.2469444",
+		"lat": "55.5185999",
+		"number": "6",
+		"street": "Žemaičių g.",
+		"city": "Dreverna",
+		"district": "Klaipėdos",
+		"postcode": "96240"
+	},
+	{
+		"lon": "23.9394562",
+		"lat": "54.6325038",
+		"number": "3",
+		"street": "Kalnų Sodo g.",
+		"city": "Prienai",
+		"district": "Prienų",
+		"postcode": "59122"
+	},
+	{
+		"lon": "21.2500785",
+		"lat": "55.8742556",
+		"number": "9",
+		"street": "Kluonalių g.",
+		"city": "Kretinga",
+		"district": "Kretingos",
+		"postcode": "97149"
+	},
+	{
+		"lon": "22.8958515",
+		"lat": "55.4083954",
+		"number": "1",
+		"street": "Ateities g.",
+		"city": "Viduklė",
+		"district": "Raseinių",
+		"postcode": "60352"
+	},
+	{
+		"lon": "24.9754941",
+		"lat": "54.5033296",
+		"number": "23",
+		"street": "Užupio g.",
+		"city": "Paluknys",
+		"district": "Trakų",
+		"postcode": "21168"
+	},
+	{
+		"lon": "21.4694638",
+		"lat": "55.9173991",
+		"number": "34",
+		"street": "Kretingos g.",
+		"city": "Kartena",
+		"district": "Kretingos",
+		"postcode": "97353"
+	},
+	{
+		"lon": "22.8877551",
+		"lat": "56.3334098",
+		"number": "4",
+		"street": "Žvirbulių g.",
+		"city": "Ramučiai",
+		"district": "Akmenės",
+		"postcode": "85103"
+	},
+	{
+		"lon": "22.1739491",
+		"lat": "55.9555853",
+		"number": "38",
+		"street": "Klevo Sodų 12-oji g.",
+		"city": "Užgiriai",
+		"district": "Telšių",
+		"postcode": "87412"
+	},
+	{
+		"lon": "23.8670054",
+		"lat": "54.8873231",
+		"number": "7",
+		"street": "Forto g.",
+		"city": "Noreikiškės",
+		"district": "Kauno",
+		"postcode": "53363"
+	},
+	{
+		"lon": "22.1737197",
+		"lat": "55.9546744",
+		"number": "1",
+		"street": "Klevo Sodų 18-oji g.",
+		"city": "Užgiriai",
+		"district": "Telšių",
+		"postcode": "87412"
+	},
+	{
+		"lon": "21.9513987",
+		"lat": "56.2451192",
+		"number": "14",
+		"street": "Debesų g.",
+		"city": "Pašilė",
+		"district": "Skuodo",
+		"postcode": "98206"
+	},
+	{
+		"lon": "22.1729965",
+		"lat": "55.955068",
+		"number": "48",
+		"street": "Klevo Sodų 12-oji g.",
+		"city": "Užgiriai",
+		"district": "Telšių",
+		"postcode": "87412"
+	},
+	{
+		"lon": "22.5706196",
+		"lat": "56.3811935",
+		"number": "39",
+		"street": "Dariaus ir Girėno g.",
+		"city": "Laižuva",
+		"district": "Mažeikių",
+		"postcode": "89474"
+	},
+	{
+		"lon": "24.846361",
+		"lat": "54.8183529",
+		"number": "19",
+		"street": "Saulės g.",
+		"city": "Kazokiškės",
+		"district": "Elektrėnų ",
+		"postcode": "21354"
+	},
+	{
+		"lon": "24.363051",
+		"lat": "55.6198026",
+		"number": "1",
+		"street": "Pušyno g.",
+		"city": "Uliūnai",
+		"district": "Panevėžio",
+		"postcode": "38241"
+	},
+	{
+		"lon": "25.7470937",
+		"lat": "54.5836991",
+		"number": "5",
+		"street": "Barvoniškių g.",
+		"city": "Barvoniškės",
+		"district": "Vilniaus",
+		"postcode": "13167"
+	},
+	{
+		"lon": "25.7150661",
+		"lat": "54.5645396",
+		"number": "30",
+		"street": "Vindžiūnų g.",
+		"city": "Vindžiūnai",
+		"district": "Vilniaus",
+		"postcode": "13167"
+	},
+	{
+		"lon": "25.6854606",
+		"lat": "54.6370813",
+		"number": "13",
+		"street": "Kenos g.",
+		"city": "Kalveliai",
+		"district": "Vilniaus",
+		"postcode": "13151"
+	},
+	{
+		"lon": "23.8853148",
+		"lat": "54.5312727",
+		"number": "11",
+		"street": "Nemuno g.",
+		"city": "Balbieriškis",
+		"district": "Prienų",
+		"postcode": "59237"
+	},
+	{
+		"lon": "21.221208",
+		"lat": "55.8928215",
+		"number": "30",
+		"street": "Guobų aklg.",
+		"city": "Kretinga",
+		"district": "Kretingos",
+		"postcode": "97120"
+	},
+	{
+		"lon": "25.2804664",
+		"lat": "54.822457",
+		"number": "12",
+		"street": "Jadvygiškių g.",
+		"city": "Jadvygiškės",
+		"district": "Vilniaus",
+		"postcode": "14258"
+	},
+	{
+		"lon": "25.2379787",
+		"lat": "54.8767752",
+		"number": "15",
+		"street": "Naujoji g.",
+		"city": "Pikeliškės",
+		"district": "Vilniaus",
+		"postcode": "15140"
+	},
+	{
+		"lon": "24.6549057",
+		"lat": "54.9533773",
+		"number": "3",
+		"street": "Vilties g.",
+		"city": "Čiobiškis",
+		"district": "Širvintų",
+		"postcode": "19194"
+	},
+	{
+		"lon": "23.9134017",
+		"lat": "55.4968179",
+		"number": "8",
+		"street": "Mechanizatorių g.",
+		"city": "Miegėnai",
+		"district": "Kėdainių",
+		"postcode": "58304"
+	},
+	{
+		"lon": "24.3787687",
+		"lat": "55.4633455",
+		"number": "14",
+		"street": "Saulėtekio g.",
+		"city": "Daniūnai",
+		"district": "Panevėžio",
+		"postcode": "38230"
+	},
+	{
+		"lon": "22.8612756",
+		"lat": "55.8413213",
+		"number": "32",
+		"street": "Kuršėnų g.",
+		"city": "Kalniškiai",
+		"district": "Kelmės",
+		"postcode": "86378"
+	},
+	{
+		"lon": "22.7262875",
+		"lat": "55.799497",
+		"number": "3",
+		"street": "Volungių g.",
+		"city": "Čiotiškiai",
+		"district": "Kelmės",
+		"postcode": "86359"
+	},
+	{
+		"lon": "23.9161772",
+		"lat": "55.2775999",
+		"number": "3",
+		"street": "Aukštaičių g.",
+		"city": "Keleriškiai",
+		"district": "Kėdainių",
+		"postcode": "57342"
+	},
+	{
+		"lon": "23.2184388",
+		"lat": "54.6048827",
+		"number": "18",
+		"street": "Liepų g.",
+		"city": "Gižai",
+		"district": "Vilkaviškio",
+		"postcode": "70314"
+	},
+	{
+		"lon": "22.9202564",
+		"lat": "54.4680724",
+		"number": "7",
+		"street": "Liepų g.",
+		"city": "Gražiškiai",
+		"district": "Vilkaviškio",
+		"postcode": "70340"
+	},
+	{
+		"lon": "21.9530619",
+		"lat": "55.7270716",
+		"number": "27",
+		"street": "Atgimimo g.",
+		"city": "Rietavas",
+		"district": "Rietavo ",
+		"postcode": "90309"
+	},
+	{
+		"lon": "25.9365764",
+		"lat": "55.8802282",
+		"number": "15",
+		"street": "Dirbtuvių g.",
+		"city": "Aleksandravėlė",
+		"district": "Rokiškio",
+		"postcode": "42242"
+	},
+	{
+		"lon": "22.6395793",
+		"lat": "55.4457692",
+		"number": "2",
+		"street": "Vėjų g.",
+		"city": "Gedgaudiškė",
+		"district": "Tauragės",
+		"postcode": "73408"
+	},
+	{
+		"lon": "24.1240517",
+		"lat": "54.7767286",
+		"number": "1A",
+		"street": "Sodų g.",
+		"city": "Piliuona",
+		"district": "Kauno",
+		"postcode": "53182"
+	},
+	{
+		"lon": "22.3384227",
+		"lat": "56.3270987",
+		"number": "8",
+		"street": "Atžalyno g.",
+		"city": "Mažeikiai",
+		"district": "Mažeikių",
+		"postcode": "89215"
+	},
+	{
+		"lon": "23.2380436",
+		"lat": "55.1725937",
+		"number": "3",
+		"street": "Tujų g.",
+		"city": "Tamošiai",
+		"district": "Jurbarko",
+		"postcode": "74432"
+	},
+	{
+		"lon": "21.8670966",
+		"lat": "55.3615835",
+		"number": "1A",
+		"street": "Griaužinės g.",
+		"city": "Vainutas",
+		"district": "Šilutės",
+		"postcode": "99432"
+	},
+	{
+		"lon": "25.310645",
+		"lat": "54.4324052",
+		"number": "37",
+		"street": "Naujoji g.",
+		"city": "Jašiūnai",
+		"district": "Šalčininkų",
+		"postcode": "17247"
+	},
+	{
+		"lon": "25.3293494",
+		"lat": "54.4397672",
+		"number": "4",
+		"street": "Sodų g.",
+		"city": "Jašiūnai",
+		"district": "Šalčininkų",
+		"postcode": "17247"
+	},
+	{
+		"lon": "23.4065949",
+		"lat": "54.3990055",
+		"number": "19",
+		"street": "J. Zdebskio g.",
+		"city": "Naujiena",
+		"district": "Marijampolės ",
+		"postcode": "69130"
+	},
+	{
+		"lon": "23.6489208",
+		"lat": "54.2942728",
+		"number": "36",
+		"street": "Dusios g.",
+		"city": "Barčiai",
+		"district": "Lazdijų",
+		"postcode": "67200"
+	},
+	{
+		"lon": "25.3783836",
+		"lat": "54.85075",
+		"number": "4",
+		"street": "Upės g.",
+		"city": "Bratoniškės",
+		"district": "Vilniaus",
+		"postcode": "15179"
+	},
+	{
+		"lon": "25.405506",
+		"lat": "54.7636271",
+		"number": "3",
+		"street": "Vinciūniškių Sodų 22-oji g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "10241"
+	},
+	{
+		"lon": "23.3217644",
+		"lat": "56.1455659",
+		"number": "11",
+		"street": "Tujų g.",
+		"city": "Beržėnai",
+		"district": "Joniškio",
+		"postcode": "84278"
+	},
+	{
+		"lon": "24.0423248",
+		"lat": "54.4038525",
+		"number": "11C",
+		"street": "Medelyno g.",
+		"city": "Alytus",
+		"district": "Alytaus",
+		"postcode": "62100"
+	},
+	{
+		"lon": "25.3662955",
+		"lat": "54.6615191",
+		"number": "16",
+		"street": "Grūdų Sodų 6-oji g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "11314"
+	},
+	{
+		"lon": "23.2377353",
+		"lat": "54.7136032",
+		"number": "2",
+		"street": "Saulės g.",
+		"city": "Pilviškiai",
+		"district": "Vilkaviškio",
+		"postcode": "70495"
+	},
+	{
+		"lon": "25.3215761",
+		"lat": "54.5296333",
+		"number": "3",
+		"street": "Mėnulio g.",
+		"city": "Marijampolis",
+		"district": "Vilniaus",
+		"postcode": "13210"
+	},
+	{
+		"lon": "24.214585",
+		"lat": "56.1672457",
+		"number": "5",
+		"street": "Naujoji g.",
+		"city": "Vaškai",
+		"district": "Pasvalio",
+		"postcode": "39373"
+	},
+	{
+		"lon": "25.2916231",
+		"lat": "54.7951033",
+		"number": "19",
+		"street": "Padvarės g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "14281"
+	},
+	{
+		"lon": "23.5390383",
+		"lat": "56.0993523",
+		"number": "16",
+		"street": "Mūšos g.",
+		"city": "Mekiai",
+		"district": "Joniškio",
+		"postcode": "84254"
+	},
+	{
+		"lon": "23.8259618",
+		"lat": "56.247724",
+		"number": "6",
+		"street": "Laisvės g.",
+		"city": "Darginiai",
+		"district": "Joniškio",
+		"postcode": "84436"
+	},
+	{
+		"lon": "23.4510805",
+		"lat": "56.3234777",
+		"number": "40",
+		"street": "Šaltinio g.",
+		"city": "Alsiai",
+		"district": "Joniškio",
+		"postcode": "84389"
+	},
+	{
+		"lon": "25.0848603",
+		"lat": "54.6286572",
+		"number": "11",
+		"street": "Gaidžiabūdės g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "02233"
+	},
+	{
+		"lon": "22.3819711",
+		"lat": "55.2264544",
+		"number": "1A",
+		"street": "Tvenkinio g.",
+		"city": "Baltrušaičiai",
+		"district": "Tauragės",
+		"postcode": "72372"
+	},
+	{
+		"lon": "24.382151",
+		"lat": "55.4648173",
+		"number": "28",
+		"street": "Pavasario g.",
+		"city": "Daniūnai",
+		"district": "Panevėžio",
+		"postcode": "38230"
+	},
+	{
+		"lon": "23.7262078",
+		"lat": "54.9324067",
+		"number": "14B",
+		"street": "J. Biliūno g.",
+		"city": "Kačerginė",
+		"district": "Kauno",
+		"postcode": "53447"
+	},
+	{
+		"lon": "23.2427294",
+		"lat": "55.9600226",
+		"number": "22",
+		"street": "Ramunių g.",
+		"city": "Noreikiai",
+		"district": "Šiaulių",
+		"postcode": "81436"
+	},
+	{
+		"lon": "23.9697164",
+		"lat": "54.949854",
+		"number": "281",
+		"street": "Politechnikos g.",
+		"city": "Naujasodis",
+		"district": "Kauno",
+		"postcode": "44100"
+	},
+	{
+		"lon": "21.0831418",
+		"lat": "56.0427647",
+		"number": "18",
+		"street": "Kregždžių g.",
+		"city": "Palanga",
+		"district": "Palangos",
+		"postcode": "00318"
+	},
+	{
+		"lon": "22.304412",
+		"lat": "55.8418788",
+		"number": "34",
+		"street": "Ilgio g.",
+		"city": "Kegai",
+		"district": "Telšių",
+		"postcode": "88380"
+	},
+	{
+		"lon": "24.3927813",
+		"lat": "56.0722703",
+		"number": "6",
+		"street": "Medelyno g.",
+		"city": "Aukštikalniai",
+		"district": "Pasvalio",
+		"postcode": "39103"
+	},
+	{
+		"lon": "23.1240885",
+		"lat": "55.6084262",
+		"number": "15",
+		"street": "Sodų g.",
+		"city": "Pagryžuvys",
+		"district": "Kelmės",
+		"postcode": "86207"
+	},
+	{
+		"lon": "23.7994099",
+		"lat": "54.9342207",
+		"number": "141",
+		"street": "E. Volterio g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "47213"
+	},
+	{
+		"lon": "23.2353725",
+		"lat": "55.9700836",
+		"number": "12",
+		"street": "Ryto g.",
+		"city": "Noreikiai",
+		"district": "Šiaulių",
+		"postcode": "76221"
+	},
+	{
+		"lon": "22.7647605",
+		"lat": "55.5006455",
+		"number": "12",
+		"street": "Vilties g.",
+		"city": "Balčiai",
+		"district": "Raseinių",
+		"postcode": "60373"
+	},
+	{
+		"lon": "25.4041312",
+		"lat": "54.7072923",
+		"number": "102",
+		"street": "Šiaurės Sodų 4-oji g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "11123"
+	},
+	{
+		"lon": "24.8083322",
+		"lat": "54.7762468",
+		"number": "53",
+		"street": "Kauno g.",
+		"city": "Vievis",
+		"district": "Elektrėnų ",
+		"postcode": "21371"
+	},
+	{
+		"lon": "22.7191436",
+		"lat": "55.460132",
+		"number": "11",
+		"street": "Kadagių g.",
+		"city": "Užkalniai",
+		"district": "Raseinių",
+		"postcode": "60374"
+	},
+	{
+		"lon": "25.3740492",
+		"lat": "54.7079876",
+		"number": "4",
+		"street": "Rokantiškių Sodų 11-oji g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "10229"
+	},
+	{
+		"lon": "22.3210929",
+		"lat": "55.4294318",
+		"number": "6",
+		"street": "Bažnyčios g.",
+		"city": "Vaitimėnai",
+		"district": "Tauragės",
+		"postcode": "73351"
+	},
+	{
+		"lon": "21.1345828",
+		"lat": "55.7231086",
+		"number": "6H",
+		"street": "Klevų g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "92207"
+	},
+	{
+		"lon": "21.97207",
+		"lat": "55.270463",
+		"number": "7",
+		"street": "Miško g.",
+		"city": "Sartininkai",
+		"district": "Tauragės",
+		"postcode": "73245"
+	},
+	{
+		"lon": "22.8769515",
+		"lat": "55.5896114",
+		"number": "16",
+		"street": "Jaunimo g.",
+		"city": "Janaučiai",
+		"district": "Kelmės",
+		"postcode": "86119"
+	},
+	{
+		"lon": "22.1424677",
+		"lat": "55.2436115",
+		"number": "4",
+		"street": "Gaisrinės g.",
+		"city": "Kęsčiai",
+		"district": "Tauragės",
+		"postcode": "72123"
+	},
+	{
+		"lon": "21.0906304",
+		"lat": "55.9082547",
+		"number": "41A",
+		"street": "Valteriškės g.",
+		"city": "Palanga",
+		"district": "Palangos",
+		"postcode": "00174"
+	},
+	{
+		"lon": "21.1642",
+		"lat": "55.7086434",
+		"number": "41",
+		"street": "Aukštaičių g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "91268"
+	},
+	{
+		"lon": "23.5806019",
+		"lat": "56.1273389",
+		"number": "1",
+		"street": "Saulėtekio g.",
+		"city": "Stupurai",
+		"district": "Joniškio",
+		"postcode": "84255"
+	},
+	{
+		"lon": "25.3195675",
+		"lat": "55.5784896",
+		"number": "2",
+		"street": "Surviliškio g.",
+		"city": "Debeikiai",
+		"district": "Anykščių",
+		"postcode": "29371"
+	},
+	{
+		"lon": "22.1111225",
+		"lat": "55.2867031",
+		"number": "7",
+		"street": "Pamiškės g.",
+		"city": "Aukštupiai",
+		"district": "Tauragės",
+		"postcode": "73279"
+	},
+	{
+		"lon": "21.9673601",
+		"lat": "55.2693063",
+		"number": "9",
+		"street": "Malūnų g.",
+		"city": "Sartininkai",
+		"district": "Tauragės",
+		"postcode": "73245"
+	},
+	{
+		"lon": "23.0473591",
+		"lat": "55.710803",
+		"number": "3",
+		"street": "Alyvų g.",
+		"city": "Lupikai",
+		"district": "Kelmės",
+		"postcode": "86436"
+	},
+	{
+		"lon": "21.1033522",
+		"lat": "55.9305384",
+		"number": "14",
+		"street": "Bendrovių g.",
+		"city": "Palanga",
+		"district": "Palangos",
+		"postcode": "00147"
+	},
+	{
+		"lon": "25.61836",
+		"lat": "55.9933841",
+		"number": "27",
+		"street": "Bajorų g.",
+		"city": "Bajorai",
+		"district": "Rokiškio",
+		"postcode": "42102"
+	},
+	{
+		"lon": "25.2460658",
+		"lat": "54.7605086",
+		"number": "35",
+		"street": "Bajorų Sodų 19-oji g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "14191"
+	},
+	{
+		"lon": "23.9737353",
+		"lat": "54.9868898",
+		"number": "4",
+		"street": "Tiesioji g.",
+		"city": "Smiltynai I",
+		"district": "Kauno",
+		"postcode": "54429"
+	},
+	{
+		"lon": "23.9382689",
+		"lat": "54.9046579",
+		"number": "31",
+		"street": "Minties Rato g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "50277"
+	},
+	{
+		"lon": "22.2362779",
+		"lat": "55.6204355",
+		"number": "13",
+		"street": "Aušros g.",
+		"city": "Laukuva",
+		"district": "Šilalės",
+		"postcode": "75408"
+	},
+	{
+		"lon": "24.1614463",
+		"lat": "54.8228582",
+		"number": "1",
+		"street": "Pilėnų g.",
+		"city": "Sietynas",
+		"district": "Kauno",
+		"postcode": "53192"
+	},
+	{
+		"lon": "23.4825198",
+		"lat": "56.2544359",
+		"number": "5",
+		"street": "Tvenkinio g.",
+		"city": "Buivydžiai",
+		"district": "Joniškio",
+		"postcode": "84119"
+	},
+	{
+		"lon": "25.709384",
+		"lat": "55.9850936",
+		"number": "23",
+		"street": "Sniegių g.",
+		"city": "Skemai",
+		"district": "Rokiškio",
+		"postcode": "42101"
+	},
+	{
+		"lon": "22.7338445",
+		"lat": "55.8575681",
+		"number": "5",
+		"street": "Trumpoji g.",
+		"city": "Aunuvėnai",
+		"district": "Kelmės",
+		"postcode": "86369"
+	},
+	{
+		"lon": "25.2748369",
+		"lat": "54.560337",
+		"number": "11",
+		"street": "Melioratorių 14-oji g.",
+		"city": "Dusinėnai",
+		"district": "Vilniaus",
+		"postcode": "13223"
+	},
+	{
+		"lon": "25.3897996",
+		"lat": "54.7442548",
+		"number": "18",
+		"street": "Kairėnės g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "10239"
+	},
+	{
+		"lon": "23.3276777",
+		"lat": "55.8496317",
+		"number": "15",
+		"street": "Dukto g.",
+		"city": "Šiauliai",
+		"district": "Šiaulių",
+		"postcode": "79243"
+	},
+	{
+		"lon": "25.2939046",
+		"lat": "54.6160724",
+		"number": "18",
+		"street": "Pilikonių g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "02213"
+	},
+	{
+		"lon": "25.5336539",
+		"lat": "55.4939292",
+		"number": "7",
+		"street": "Vyturėlio g.",
+		"city": "Jasonys",
+		"district": "Utenos",
+		"postcode": "28103"
+	},
+	{
+		"lon": "25.3745938",
+		"lat": "54.6460681",
+		"number": "11",
+		"street": "Klonių 4-oji g.",
+		"city": "Pakalniškės",
+		"district": "Vilniaus",
+		"postcode": "13265"
+	},
+	{
+		"lon": "25.5281855",
+		"lat": "54.7035631",
+		"number": "26",
+		"street": "Vilniaus g.",
+		"city": "Mickūnai",
+		"district": "Vilniaus",
+		"postcode": "13116"
+	},
+	{
+		"lon": "25.4208435",
+		"lat": "55.2227102",
+		"number": "10",
+		"street": "Žvyrakalnio g.",
+		"city": "Molėtai",
+		"district": "Molėtų",
+		"postcode": "33120"
+	},
+	{
+		"lon": "25.2213481",
+		"lat": "54.768892",
+		"number": "36",
+		"street": "Žiedų g.",
+		"city": "Bukiškis",
+		"district": "Vilniaus",
+		"postcode": "14185"
+	},
+	{
+		"lon": "23.7624018",
+		"lat": "54.8698588",
+		"number": "9",
+		"street": "Vaikaičių g.",
+		"city": "Poderiškiai",
+		"district": "Kauno",
+		"postcode": "53370"
+	},
+	{
+		"lon": "25.0700507",
+		"lat": "54.685147",
+		"number": "3",
+		"street": "Vokės Sodų 2-oji g.",
+		"city": "Grigiškės",
+		"district": "Vilniaus",
+		"postcode": "27126"
+	},
+	{
+		"lon": "21.1996285",
+		"lat": "55.7285103",
+		"number": "7",
+		"street": "Daržų g.",
+		"city": "Ginduliai",
+		"district": "Klaipėdos",
+		"postcode": "91276"
+	},
+	{
+		"lon": "21.3891169",
+		"lat": "55.6890993",
+		"number": "21",
+		"street": "Dobilo g.",
+		"city": "Kuliai",
+		"district": "Klaipėdos",
+		"postcode": "95407"
+	},
+	{
+		"lon": "23.8553964",
+		"lat": "54.8474351",
+		"number": "6",
+		"street": "Kardelių g.",
+		"city": "Jonučiai",
+		"district": "Kauno",
+		"postcode": "53317"
+	},
+	{
+		"lon": "21.3920206",
+		"lat": "55.7508206",
+		"number": "1",
+		"street": "Ąžuolų g.",
+		"city": "Kvietiniai",
+		"district": "Klaipėdos",
+		"postcode": "96174"
+	},
+	{
+		"lon": "21.1438848",
+		"lat": "55.7570829",
+		"number": "7",
+		"street": "Laukpačio g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "92351"
+	},
+	{
+		"lon": "21.1237269",
+		"lat": "55.544474",
+		"number": "1B",
+		"street": "L. Rėzos g.",
+		"city": "Neringa",
+		"district": "Neringos ",
+		"postcode": "93101"
+	},
+	{
+		"lon": "23.8530272",
+		"lat": "54.8138468",
+		"number": "6",
+		"street": "Aukuro g.",
+		"city": "Mastaičiai",
+		"district": "Kauno",
+		"postcode": "53306"
+	},
+	{
+		"lon": "25.0589592",
+		"lat": "54.7070974",
+		"number": "5",
+		"street": "Smėlio g.",
+		"city": "Valai",
+		"district": "Trakų",
+		"postcode": "21401"
+	},
+	{
+		"lon": "22.9121909",
+		"lat": "55.613504",
+		"number": "4",
+		"street": "Beržų g.",
+		"city": "Kakoniškė",
+		"district": "Kelmės",
+		"postcode": "86149"
+	},
+	{
+		"lon": "22.4014405",
+		"lat": "56.0856876",
+		"number": "17",
+		"street": "Niurkių g.",
+		"city": "Nerimdaičiai",
+		"district": "Telšių",
+		"postcode": "88491"
+	},
+	{
+		"lon": "23.4955085",
+		"lat": "54.2388972",
+		"number": "5",
+		"street": "Ilgoji g.",
+		"city": "Lazdijai",
+		"district": "Lazdijų",
+		"postcode": "67173"
+	},
+	{
+		"lon": "25.0565171",
+		"lat": "54.7534211",
+		"number": "10",
+		"street": "Vagos 1-oji g.",
+		"city": "Pakonys",
+		"district": "Vilniaus",
+		"postcode": "14205"
+	},
+	{
+		"lon": "22.48649",
+		"lat": "55.5365081",
+		"number": "6",
+		"street": "D. Poškos g.",
+		"city": "Gineikiai",
+		"district": "Šilalės",
+		"postcode": "75445"
+	},
+	{
+		"lon": "24.3446398",
+		"lat": "55.8461705",
+		"number": "22",
+		"street": "Topolių g.",
+		"city": "Gegužinė",
+		"district": "Panevėžio",
+		"postcode": "38428"
+	},
+	{
+		"lon": "22.1540844",
+		"lat": "55.7323331",
+		"number": "11",
+		"street": "Varnių g.",
+		"city": "Tverai",
+		"district": "Rietavo ",
+		"postcode": "90282"
+	},
+	{
+		"lon": "22.3050186",
+		"lat": "55.2667524",
+		"number": "4",
+		"street": "P. Zuikausko g.",
+		"city": "Tauragė",
+		"district": "Tauragės",
+		"postcode": "72202"
+	},
+	{
+		"lon": "21.3820952",
+		"lat": "55.6860918",
+		"number": "11",
+		"street": "Pievų 3-oji g.",
+		"city": "Kuliai",
+		"district": "Klaipėdos",
+		"postcode": "95406"
+	},
+	{
+		"lon": "25.2523174",
+		"lat": "54.7606778",
+		"number": "46",
+		"street": "Bajorų Sodų 17-oji g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "08426"
+	},
+	{
+		"lon": "22.1428106",
+		"lat": "55.7353439",
+		"number": "1",
+		"street": "Žalioji g.",
+		"city": "Tverai",
+		"district": "Rietavo ",
+		"postcode": "90282"
+	},
+	{
+		"lon": "21.6070081",
+		"lat": "55.7761984",
+		"number": "3",
+		"street": "Trumpės g.",
+		"city": "Tilvikai",
+		"district": "Klaipėdos",
+		"postcode": "96310"
+	},
+	{
+		"lon": "21.5096998",
+		"lat": "55.6787096",
+		"number": "11",
+		"street": "Tvenkinio g.",
+		"city": "Girininkai",
+		"district": "Klaipėdos",
+		"postcode": "96212"
+	},
+	{
+		"lon": "23.5760027",
+		"lat": "54.178876",
+		"number": "6",
+		"street": "Šilo g.",
+		"city": "Jurčiūnai",
+		"district": "Lazdijų",
+		"postcode": "67169"
+	},
+	{
+		"lon": "21.806819",
+		"lat": "55.1865463",
+		"number": "3",
+		"street": "Saulėlydžio g.",
+		"city": "Rukai",
+		"district": "Pagėgių ",
+		"postcode": "99302"
+	},
+	{
+		"lon": "24.4383069",
+		"lat": "54.7722356",
+		"number": "18",
+		"street": "Žiedo g.",
+		"city": "Pakertai",
+		"district": "Kaišiadorių",
+		"postcode": "56262"
+	},
+	{
+		"lon": "24.3632019",
+		"lat": "55.7767825",
+		"number": "205",
+		"street": "Smėlynės g.",
+		"city": "Skynimai",
+		"district": "Panevėžio",
+		"postcode": "38410"
+	},
+	{
+		"lon": "22.9498198",
+		"lat": "55.6464447",
+		"number": "22",
+		"street": "Serbentų g.",
+		"city": "Paverpenis",
+		"district": "Kelmės",
+		"postcode": "86438"
+	},
+	{
+		"lon": "26.0022744",
+		"lat": "55.8277535",
+		"number": "3",
+		"street": "Alyvų g.",
+		"city": "Šniukštai",
+		"district": "Zarasų",
+		"postcode": "32293"
+	},
+	{
+		"lon": "21.8596966",
+		"lat": "55.8674008",
+		"number": "14",
+		"street": "A. Plechavičiaus g.",
+		"city": "Milašaičiai",
+		"district": "Plungės",
+		"postcode": "90355"
+	},
+	{
+		"lon": "24.9871434",
+		"lat": "55.850285",
+		"number": "5",
+		"street": "Aukštupio g.",
+		"city": "Aukštupėnai",
+		"district": "Kupiškio",
+		"postcode": "40104"
+	},
+	{
+		"lon": "21.206879",
+		"lat": "55.7895113",
+		"number": "35",
+		"street": "Laukžemių g.",
+		"city": "Radailiai",
+		"district": "Klaipėdos",
+		"postcode": "92404"
+	},
+	{
+		"lon": "23.056962",
+		"lat": "55.6311884",
+		"number": "71",
+		"street": "Maironio g.",
+		"city": "Svirniai",
+		"district": "Kelmės",
+		"postcode": "86204"
+	},
+	{
+		"lon": "21.2068867",
+		"lat": "55.7800478",
+		"number": "8",
+		"street": "Ievų g.",
+		"city": "Radailiai",
+		"district": "Klaipėdos",
+		"postcode": "92404"
+	},
+	{
+		"lon": "24.3623884",
+		"lat": "55.7646841",
+		"number": "12",
+		"street": "Beržų g.",
+		"city": "Senamiestis",
+		"district": "Panevėžio",
+		"postcode": "38410"
+	},
+	{
+		"lon": "22.9368124",
+		"lat": "55.5976111",
+		"number": "22",
+		"street": "Kražantės g.",
+		"city": "Rikantai",
+		"district": "Kelmės",
+		"postcode": "86236"
+	},
+	{
+		"lon": "22.4366679",
+		"lat": "55.5203743",
+		"number": "17",
+		"street": "Aušrinės g.",
+		"city": "Iždonai",
+		"district": "Šilalės",
+		"postcode": "75447"
+	},
+	{
+		"lon": "24.604885",
+		"lat": "54.7837213",
+		"number": "36B",
+		"street": "Šilo g.",
+		"city": "Kloniniai Mijaugonys",
+		"district": "Elektrėnų ",
+		"postcode": "21413"
+	},
+	{
+		"lon": "22.2879266",
+		"lat": "55.2210644",
+		"number": "15",
+		"street": "Tuopų g.",
+		"city": "Dacijonai",
+		"district": "Tauragės",
+		"postcode": "72365"
+	},
+	{
+		"lon": "21.9930968",
+		"lat": "55.1968001",
+		"number": "8",
+		"street": "Liepų g.",
+		"city": "Kentriai",
+		"district": "Pagėgių ",
+		"postcode": "99238"
+	},
+	{
+		"lon": "25.3663747",
+		"lat": "54.758494",
+		"number": "20",
+		"street": "Smėlynės Sodų 3-ioji g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "10106"
+	},
+	{
+		"lon": "22.174542",
+		"lat": "55.9661244",
+		"number": "7",
+		"street": "Ąžuolo Sodų 6-oji g.",
+		"city": "Užgiriai",
+		"district": "Telšių",
+		"postcode": "87412"
+	},
+	{
+		"lon": "25.1468413",
+		"lat": "54.8473979",
+		"number": "17",
+		"street": "Ąžuolų 6-oji g.",
+		"city": "Kalikstiškės",
+		"district": "Vilniaus",
+		"postcode": "14247"
+	},
+	{
+		"lon": "25.1983748",
+		"lat": "55.8636103",
+		"number": "6",
+		"street": "Ramioji g.",
+		"city": "Skapiškis",
+		"district": "Kupiškio",
+		"postcode": "40473"
+	},
+	{
+		"lon": "23.7626094",
+		"lat": "55.5607363",
+		"number": "26",
+		"street": "Dotnuvėlės g.",
+		"city": "Skėmiai",
+		"district": "Radviliškio",
+		"postcode": "82350"
+	},
+	{
+		"lon": "25.0911193",
+		"lat": "54.8101996",
+		"number": "2",
+		"street": "Žaros 4-oji g.",
+		"city": "Brinkiškės",
+		"district": "Vilniaus",
+		"postcode": "14202"
+	},
+	{
+		"lon": "23.5995384",
+		"lat": "55.7326652",
+		"number": "7",
+		"street": "Vyturių g.",
+		"city": "Miežaičiai",
+		"district": "Radviliškio",
+		"postcode": "82109"
+	},
+	{
+		"lon": "21.3803566",
+		"lat": "55.7180215",
+		"number": "61",
+		"street": "Pasienio g.",
+		"city": "Saulažoliai",
+		"district": "Klaipėdos",
+		"postcode": "96101"
+	},
+	{
+		"lon": "24.5030553",
+		"lat": "55.7832341",
+		"number": "41",
+		"street": "Tiesioji al.",
+		"city": "Kaubariškis",
+		"district": "Panevėžio",
+		"postcode": "38465"
+	},
+	{
+		"lon": "24.040227",
+		"lat": "55.2149299",
+		"number": "15",
+		"street": "Pėdžių g.",
+		"city": "Nociūnai",
+		"district": "Kėdainių",
+		"postcode": "58148"
+	},
+	{
+		"lon": "25.1534",
+		"lat": "54.4858851",
+		"number": "3",
+		"street": "Gulbių g.",
+		"city": "Papiškės",
+		"district": "Vilniaus",
+		"postcode": "13241"
+	},
+	{
+		"lon": "22.3541463",
+		"lat": "55.2873366",
+		"number": "7",
+		"street": "Ąžuolų g.",
+		"city": "Joniškė",
+		"district": "Tauragės",
+		"postcode": "72169"
+	},
+	{
+		"lon": "23.3069442",
+		"lat": "54.5510596",
+		"number": "3",
+		"street": "Įsručio g.",
+		"city": "Marijampolė",
+		"district": "Marijampolės ",
+		"postcode": "68132"
+	},
+	{
+		"lon": "21.3056186",
+		"lat": "55.6348266",
+		"number": "17",
+		"street": "Šernų g.",
+		"city": "Ketvergiai",
+		"district": "Klaipėdos",
+		"postcode": "95409"
+	},
+	{
+		"lon": "22.3693727",
+		"lat": "55.2876847",
+		"number": "51",
+		"street": "Birutės g.",
+		"city": "Joniškė",
+		"district": "Tauragės",
+		"postcode": "72171"
+	},
+	{
+		"lon": "21.9962183",
+		"lat": "55.6327155",
+		"number": "3",
+		"street": "Ateities g.",
+		"city": "Girėnai",
+		"district": "Rietavo ",
+		"postcode": "90306"
+	},
+	{
+		"lon": "22.3714928",
+		"lat": "55.287048",
+		"number": "60",
+		"street": "Ryto g.",
+		"city": "Joniškė",
+		"district": "Tauragės",
+		"postcode": "72162"
+	},
+	{
+		"lon": "22.3615579",
+		"lat": "55.2817035",
+		"number": "10A",
+		"street": "Bijūnų g.",
+		"city": "Joniškė",
+		"district": "Tauragės",
+		"postcode": "72178"
+	},
+	{
+		"lon": "25.3628853",
+		"lat": "54.8312642",
+		"number": "16",
+		"street": "Rugiagėlių g.",
+		"city": "Skirgiškės",
+		"district": "Vilniaus",
+		"postcode": "15143"
+	},
+	{
+		"lon": "25.00999",
+		"lat": "54.758454",
+		"number": "9",
+		"street": "Beržyno g.",
+		"city": "Rastinėnai",
+		"district": "Vilniaus",
+		"postcode": "14205"
+	},
+	{
+		"lon": "25.0145183",
+		"lat": "54.7562507",
+		"number": "3",
+		"street": "Sodų g.",
+		"city": "Rastinėnai",
+		"district": "Vilniaus",
+		"postcode": "14205"
+	},
+	{
+		"lon": "22.9738252",
+		"lat": "55.8291051",
+		"number": "27",
+		"street": "Aušros g.",
+		"city": "Pašvinės",
+		"district": "Šiaulių",
+		"postcode": "80228"
+	},
+	{
+		"lon": "24.1217013",
+		"lat": "55.0289606",
+		"number": "3",
+		"street": "Ąžuolų g.",
+		"city": "Salupiai",
+		"district": "Jonavos",
+		"postcode": "55300"
+	},
+	{
+		"lon": "24.7306477",
+		"lat": "55.2347879",
+		"number": "6",
+		"street": "Daigų g.",
+		"city": "Jonuškai",
+		"district": "Ukmergės",
+		"postcode": "20117"
+	},
+	{
+		"lon": "23.3568983",
+		"lat": "55.9339005",
+		"number": "3",
+		"street": "Piliakalnio g.",
+		"city": "Žuvininkai",
+		"district": "Šiaulių",
+		"postcode": "76167"
+	},
+	{
+		"lon": "24.727541",
+		"lat": "55.2351299",
+		"number": "26",
+		"street": "Žolės g.",
+		"city": "Jonuškai",
+		"district": "Ukmergės",
+		"postcode": "20117"
+	},
+	{
+		"lon": "25.0674591",
+		"lat": "54.7624725",
+		"number": "10",
+		"street": "Kalorijos 2-oji g.",
+		"city": "Rastinėnai",
+		"district": "Vilniaus",
+		"postcode": "14205"
+	},
+	{
+		"lon": "24.8143427",
+		"lat": "55.2397387",
+		"number": "22",
+		"street": "Strazdų g.",
+		"city": "Antakalnis I",
+		"district": "Ukmergės",
+		"postcode": "20101"
+	},
+	{
+		"lon": "24.1753523",
+		"lat": "55.051114",
+		"number": "16",
+		"street": "Žvirgždės 3-iasis tak.",
+		"city": "Bartoniai",
+		"district": "Jonavos",
+		"postcode": "55307"
+	},
+	{
+		"lon": "25.3614825",
+		"lat": "54.829357",
+		"number": "2",
+		"street": "Lelijų g.",
+		"city": "Skirgiškės",
+		"district": "Vilniaus",
+		"postcode": "15143"
+	},
+	{
+		"lon": "25.496017",
+		"lat": "54.6423736",
+		"number": "26",
+		"street": "Užupio g.",
+		"city": "Juodalaukis",
+		"district": "Vilniaus",
+		"postcode": "13133"
+	},
+	{
+		"lon": "24.8421522",
+		"lat": "55.253575",
+		"number": "32",
+		"street": "Baravykų g.",
+		"city": "Jogvilai",
+		"district": "Ukmergės",
+		"postcode": "20380"
+	},
+	{
+		"lon": "24.6788857",
+		"lat": "54.498269",
+		"number": "5",
+		"street": "Ąžuolų g.",
+		"city": "Grendavė",
+		"district": "Trakų",
+		"postcode": "21191"
+	},
+	{
+		"lon": "23.8600583",
+		"lat": "55.5712266",
+		"number": "10",
+		"street": "Parko g.",
+		"city": "Pociūnėliai",
+		"district": "Radviliškio",
+		"postcode": "82302"
+	},
+	{
+		"lon": "24.4157878",
+		"lat": "55.3326951",
+		"number": "17",
+		"street": "Liepų g.",
+		"city": "Tulpiakiemis",
+		"district": "Ukmergės",
+		"postcode": "20311"
+	},
+	{
+		"lon": "22.1752501",
+		"lat": "55.4526376",
+		"number": "16",
+		"street": "Kūtymų g.",
+		"city": "Jucaičiai",
+		"district": "Šilalės",
+		"postcode": "75115"
+	},
+	{
+		"lon": "23.8171703",
+		"lat": "54.8991542",
+		"number": "26",
+		"street": "Vyšnių tak.",
+		"city": "Akademija",
+		"district": "Kauno",
+		"postcode": "53347"
+	},
+	{
+		"lon": "23.9945696",
+		"lat": "54.9358775",
+		"number": "6",
+		"street": "Apynių g.",
+		"city": "Biruliškės",
+		"district": "Kauno",
+		"postcode": "54469"
+	},
+	{
+		"lon": "23.1119657",
+		"lat": "55.8775781",
+		"number": "1",
+		"street": "Miško g.",
+		"city": "Jakštaičiai",
+		"district": "Šiaulių",
+		"postcode": "80188"
+	},
+	{
+		"lon": "25.517195",
+		"lat": "54.650638",
+		"number": "23",
+		"street": "Tolimoji g.",
+		"city": "Verbuškės",
+		"district": "Vilniaus",
+		"postcode": "13133"
+	},
+	{
+		"lon": "24.6903919",
+		"lat": "54.4958137",
+		"number": "8",
+		"street": "Liepų g.",
+		"city": "Grendavė",
+		"district": "Trakų",
+		"postcode": "21191"
+	},
+	{
+		"lon": "24.1728769",
+		"lat": "54.4378272",
+		"number": "22",
+		"street": "Pakrantės g.",
+		"city": "Bazorai",
+		"district": "Alytaus",
+		"postcode": "62188"
+	},
+	{
+		"lon": "25.3655285",
+		"lat": "54.7578206",
+		"number": "39",
+		"street": "Smėlynės Sodų 1-oji g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "10106"
+	},
+	{
+		"lon": "23.9337805",
+		"lat": "55.2351153",
+		"number": "15",
+		"street": "Jazminų g.",
+		"city": "Pašiliai",
+		"district": "Kėdainių",
+		"postcode": "58156"
+	},
+	{
+		"lon": "23.9551928",
+		"lat": "54.955447",
+		"number": "4",
+		"street": "Politechnikos g.",
+		"city": "Naujasodis",
+		"district": "Kauno",
+		"postcode": "44100"
+	},
+	{
+		"lon": "25.2741933",
+		"lat": "55.215857",
+		"number": "19",
+		"street": "Ramybės g.",
+		"city": "Videniškiai",
+		"district": "Molėtų",
+		"postcode": "33295"
+	},
+	{
+		"lon": "23.969834",
+		"lat": "54.9596204",
+		"number": "2",
+		"street": "Lapėnės g.",
+		"city": "Smiltynai I",
+		"district": "Kauno",
+		"postcode": "54373"
+	},
+	{
+		"lon": "22.3067668",
+		"lat": "55.5996669",
+		"number": "12",
+		"street": "Sartalės g.",
+		"city": "Bilioniai",
+		"district": "Šilalės",
+		"postcode": "75382"
+	},
+	{
+		"lon": "21.1996891",
+		"lat": "55.7427838",
+		"number": "24",
+		"street": "Saulės g.",
+		"city": "Slengiai",
+		"district": "Klaipėdos",
+		"postcode": "92338"
+	},
+	{
+		"lon": "25.514171",
+		"lat": "55.4571982",
+		"number": "6",
+		"street": "Kalno g.",
+		"city": "Vosgėliai",
+		"district": "Utenos",
+		"postcode": "28430"
+	},
+	{
+		"lon": "24.3749905",
+		"lat": "55.7562017",
+		"number": "13",
+		"street": "Svirnupio g.",
+		"city": "Panevėžys",
+		"district": "Panevėžio",
+		"postcode": "37450"
+	},
+	{
+		"lon": "24.3374322",
+		"lat": "55.7200079",
+		"number": "10A",
+		"street": "Žygeivių g.",
+		"city": "Panevėžys",
+		"district": "Panevėžio",
+		"postcode": "37162"
+	},
+	{
+		"lon": "25.5241537",
+		"lat": "55.4634897",
+		"number": "36",
+		"street": "Vyšnių g.",
+		"city": "Narkūnai",
+		"district": "Utenos",
+		"postcode": "28104"
+	},
+	{
+		"lon": "25.122139",
+		"lat": "55.3472257",
+		"number": "2",
+		"street": "Kalno g.",
+		"city": "Dapkūniškiai",
+		"district": "Molėtų",
+		"postcode": "33300"
+	},
+	{
+		"lon": "21.4834751",
+		"lat": "55.6293942",
+		"number": "18",
+		"street": "Vyturių 3-oji g.",
+		"city": "Šiūpariai",
+		"district": "Klaipėdos",
+		"postcode": "96161"
+	},
+	{
+		"lon": "23.9154166",
+		"lat": "54.9536289",
+		"number": "58",
+		"street": "Rūgštynių takas",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "48443"
+	},
+	{
+		"lon": "23.6904353",
+		"lat": "54.9173971",
+		"number": "14",
+		"street": "Strazdų g.",
+		"city": "Gaižėnėliai",
+		"district": "Kauno",
+		"postcode": "53455"
+	},
+	{
+		"lon": "23.6880721",
+		"lat": "54.9164117",
+		"number": "3",
+		"street": "Rožių g.",
+		"city": "Gaižėnėliai",
+		"district": "Kauno",
+		"postcode": "53455"
+	},
+	{
+		"lon": "21.4951984",
+		"lat": "55.6273965",
+		"number": "5",
+		"street": "Sodų 1-oji g.",
+		"city": "Šiūpariai",
+		"district": "Klaipėdos",
+		"postcode": "96161"
+	},
+	{
+		"lon": "21.3866525",
+		"lat": "55.6912217",
+		"number": "13",
+		"street": "Miglos g.",
+		"city": "Kuliai",
+		"district": "Klaipėdos",
+		"postcode": "96229"
+	},
+	{
+		"lon": "25.2665557",
+		"lat": "54.866264",
+		"number": "18",
+		"street": "Tulpių g.",
+		"city": "Pikeliškės",
+		"district": "Vilniaus",
+		"postcode": "15140"
+	},
+	{
+		"lon": "22.2428298",
+		"lat": "56.021322",
+		"number": "15",
+		"street": "Dygulio g.",
+		"city": "Kalnėnai",
+		"district": "Telšių",
+		"postcode": "87101"
+	},
+	{
+		"lon": "24.7257993",
+		"lat": "54.9065943",
+		"number": "19",
+		"street": "Bažnyčios g.",
+		"city": "Paparčiai",
+		"district": "Kaišiadorių",
+		"postcode": "56438"
+	},
+	{
+		"lon": "25.2691264",
+		"lat": "54.8647815",
+		"number": "5",
+		"street": "Fazanų g.",
+		"city": "Pikeliškės",
+		"district": "Vilniaus",
+		"postcode": "15140"
+	},
+	{
+		"lon": "25.2718366",
+		"lat": "54.8613027",
+		"number": "67",
+		"street": "Žalesėlio g.",
+		"city": "Pikeliškės",
+		"district": "Vilniaus",
+		"postcode": "15140"
+	},
+	{
+		"lon": "25.6848199",
+		"lat": "55.5803569",
+		"number": "21",
+		"street": "Klevų g.",
+		"city": "Sudeikiai",
+		"district": "Utenos",
+		"postcode": "28405"
+	},
+	{
+		"lon": "23.0223703",
+		"lat": "54.637307",
+		"number": "10",
+		"street": "Vėjo g.",
+		"city": "Vilkaviškis",
+		"district": "Vilkaviškio",
+		"postcode": "70202"
+	},
+	{
+		"lon": "22.81691",
+		"lat": "56.1743114",
+		"number": "4",
+		"street": "Klevų g.",
+		"city": "Eglesiai",
+		"district": "Akmenės",
+		"postcode": "85222"
+	},
+	{
+		"lon": "21.3943792",
+		"lat": "55.6944146",
+		"number": "3",
+		"street": "Šermukšnių g.",
+		"city": "Kuliai",
+		"district": "Klaipėdos",
+		"postcode": "96229"
+	},
+	{
+		"lon": "21.5461023",
+		"lat": "55.9403739",
+		"number": "30",
+		"street": "Vyšnių g.",
+		"city": "Dauginčiai",
+		"district": "Kretingos",
+		"postcode": "97343"
+	},
+	{
+		"lon": "23.9769811",
+		"lat": "54.3909994",
+		"number": "3",
+		"street": "Tulpių g.",
+		"city": "Likiškėliai",
+		"district": "Alytaus",
+		"postcode": "62182"
+	},
+	{
+		"lon": "24.3454444",
+		"lat": "55.7676076",
+		"number": "21",
+		"street": "Sedulos g.",
+		"city": "Plukiai",
+		"district": "Panevėžio",
+		"postcode": "38396"
+	},
+	{
+		"lon": "23.9990158",
+		"lat": "54.9827148",
+		"number": "12",
+		"street": "Grikių g.",
+		"city": "Šatijai",
+		"district": "Kauno",
+		"postcode": "54432"
+	},
+	{
+		"lon": "25.2898883",
+		"lat": "54.5424211",
+		"number": "18",
+		"street": "Linksmoji g.",
+		"city": "Kalveliai",
+		"district": "Vilniaus",
+		"postcode": "13211"
+	},
+	{
+		"lon": "24.0022029",
+		"lat": "54.9832718",
+		"number": "4",
+		"street": "Abrikosų g.",
+		"city": "Šatijai",
+		"district": "Kauno",
+		"postcode": "54432"
+	},
+	{
+		"lon": "21.2802157",
+		"lat": "55.5795506",
+		"number": "19",
+		"street": "Ventos g.",
+		"city": "Lingiai",
+		"district": "Klaipėdos",
+		"postcode": "96355"
+	},
+	{
+		"lon": "21.2863887",
+		"lat": "55.579301",
+		"number": "2",
+		"street": "Žilvičių g.",
+		"city": "Lingiai",
+		"district": "Klaipėdos",
+		"postcode": "96355"
+	},
+	{
+		"lon": "21.2850964",
+		"lat": "55.5750393",
+		"number": "20",
+		"street": "Šešupės g.",
+		"city": "Lingiai",
+		"district": "Klaipėdos",
+		"postcode": "96355"
+	},
+	{
+		"lon": "22.2802652",
+		"lat": "55.2543654",
+		"number": "18",
+		"street": "Jūros g.",
+		"city": "Tauragė",
+		"district": "Tauragės",
+		"postcode": "72211"
+	},
+	{
+		"lon": "22.2839789",
+		"lat": "56.1087821",
+		"number": "2",
+		"street": "Žalioji g.",
+		"city": "Nevarėnai",
+		"district": "Telšių",
+		"postcode": "88466"
+	},
+	{
+		"lon": "25.2852411",
+		"lat": "54.5406104",
+		"number": "30",
+		"street": "Miško g.",
+		"city": "Kalveliai",
+		"district": "Vilniaus",
+		"postcode": "13211"
+	},
+	{
+		"lon": "24.3920657",
+		"lat": "55.1214344",
+		"number": "3",
+		"street": "Gėlių g.",
+		"city": "Stoškai",
+		"district": "Jonavos",
+		"postcode": "55466"
+	},
+	{
+		"lon": "23.1826879",
+		"lat": "55.8917051",
+		"number": "17F",
+		"street": "Sodybos g.",
+		"city": "Raizgiai",
+		"district": "Šiaulių",
+		"postcode": "80184"
+	},
+	{
+		"lon": "24.0523355",
+		"lat": "54.9939343",
+		"number": "12",
+		"street": "Žemuogių g.",
+		"city": "Lepšiškiai",
+		"district": "Kauno",
+		"postcode": "54428"
+	},
+	{
+		"lon": "24.9751931",
+		"lat": "54.4653939",
+		"number": "23",
+		"street": "Gėlių g.",
+		"city": "Madžiūnai",
+		"district": "Trakų",
+		"postcode": "21167"
+	},
+	{
+		"lon": "23.039676",
+		"lat": "54.9560299",
+		"number": "12",
+		"street": "Bažnyčios g.",
+		"city": "Šakiai",
+		"district": "Šakių",
+		"postcode": "71149"
+	},
+	{
+		"lon": "23.9849664",
+		"lat": "54.9946005",
+		"number": "6",
+		"street": "Šilo g.",
+		"city": "Šatijai",
+		"district": "Kauno",
+		"postcode": "54432"
+	},
+	{
+		"lon": "25.0605074",
+		"lat": "54.7990864",
+		"number": "2",
+		"street": "Žalumos 30-oji g.",
+		"city": "Brinkiškės",
+		"district": "Vilniaus",
+		"postcode": "14202"
+	},
+	{
+		"lon": "24.8786279",
+		"lat": "55.0214745",
+		"number": "5",
+		"street": "Tuopų g.",
+		"city": "Družai",
+		"district": "Širvintų",
+		"postcode": "19105"
+	},
+	{
+		"lon": "24.4818195",
+		"lat": "55.7973425",
+		"number": "4",
+		"street": "Draugystės g.",
+		"city": "Naujikai",
+		"district": "Panevėžio",
+		"postcode": "38464"
+	},
+	{
+		"lon": "24.4788688",
+		"lat": "55.7934103",
+		"number": "3",
+		"street": "Vapsvų g.",
+		"city": "Naujikai",
+		"district": "Panevėžio",
+		"postcode": "38464"
+	},
+	{
+		"lon": "25.0847763",
+		"lat": "54.8016484",
+		"number": "22",
+		"street": "Žalumos 2-oji g.",
+		"city": "Brinkiškės",
+		"district": "Vilniaus",
+		"postcode": "14202"
+	},
+	{
+		"lon": "25.0079186",
+		"lat": "55.0242101",
+		"number": "1",
+		"street": "Beržų g.",
+		"city": "Peliškiai",
+		"district": "Širvintų",
+		"postcode": "19128"
+	},
+	{
+		"lon": "24.5514854",
+		"lat": "54.6397724",
+		"number": "2",
+		"street": "Bičių g.",
+		"city": "Ubiškės",
+		"district": "Trakų",
+		"postcode": "21267"
+	},
+	{
+		"lon": "21.1444444",
+		"lat": "55.9484306",
+		"number": "12",
+		"street": "Neptūno aklg.",
+		"city": "Užpelkiai",
+		"district": "Kretingos",
+		"postcode": "97231"
+	},
+	{
+		"lon": "21.1517986",
+		"lat": "55.7593698",
+		"number": "26",
+		"street": "Tauro 4-oji g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "92344"
+	},
+	{
+		"lon": "25.0894684",
+		"lat": "54.8008785",
+		"number": "2",
+		"street": "Žalumos 9-oji g.",
+		"city": "Brinkiškės",
+		"district": "Vilniaus",
+		"postcode": "14202"
+	},
+	{
+		"lon": "25.0736679",
+		"lat": "54.8021246",
+		"number": "102",
+		"street": "Žalumos g.",
+		"city": "Brinkiškės",
+		"district": "Vilniaus",
+		"postcode": "14202"
+	},
+	{
+		"lon": "21.1511797",
+		"lat": "55.763265",
+		"number": "37",
+		"street": "Tauro 1-oji g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "92344"
+	},
+	{
+		"lon": "25.1397609",
+		"lat": "56.1468604",
+		"number": "2",
+		"street": "Nemunėlio g.",
+		"city": "Kvetkai",
+		"district": "Biržų",
+		"postcode": "41212"
+	},
+	{
+		"lon": "24.2419524",
+		"lat": "55.797168",
+		"number": "28",
+		"street": "Žaros g.",
+		"city": "Linoniai",
+		"district": "Panevėžio",
+		"postcode": "38398"
+	},
+	{
+		"lon": "24.2435181",
+		"lat": "55.7976231",
+		"number": "17",
+		"street": "Žaros g.",
+		"city": "Linoniai",
+		"district": "Panevėžio",
+		"postcode": "38398"
+	},
+	{
+		"lon": "22.1532969",
+		"lat": "55.2495358",
+		"number": "12",
+		"street": "Elbento g.",
+		"city": "Kęsčiai",
+		"district": "Tauragės",
+		"postcode": "72123"
+	},
+	{
+		"lon": "21.1437753",
+		"lat": "55.8300234",
+		"number": "10",
+		"street": "Rasos g.",
+		"city": "Peskojai",
+		"district": "Klaipėdos",
+		"postcode": "92381"
+	},
+	{
+		"lon": "21.7569795",
+		"lat": "55.9277173",
+		"number": "7",
+		"street": "Tujų g.",
+		"city": "Alksnėnai",
+		"district": "Plungės",
+		"postcode": "90100"
+	},
+	{
+		"lon": "22.4219728",
+		"lat": "55.8378275",
+		"number": "17",
+		"street": "Baltežerio g.",
+		"city": "Kuršai",
+		"district": "Telšių",
+		"postcode": "88268"
+	},
+	{
+		"lon": "22.0312401",
+		"lat": "56.2769278",
+		"number": "6",
+		"street": "Jazminų g.",
+		"city": "Račaliai",
+		"district": "Mažeikių",
+		"postcode": "89401"
+	},
+	{
+		"lon": "22.1804095",
+		"lat": "55.4971569",
+		"number": "1",
+		"street": "Pušyno g.",
+		"city": "Šilalė",
+		"district": "Šilalės",
+		"postcode": "75121"
+	},
+	{
+		"lon": "24.2683848",
+		"lat": "55.7866833",
+		"number": "12",
+		"street": "Vyšnių g.",
+		"city": "Bernatoniai",
+		"district": "Panevėžio",
+		"postcode": "38300"
+	},
+	{
+		"lon": "24.0503938",
+		"lat": "54.3899308",
+		"number": "13",
+		"street": "Šarūno g.",
+		"city": "Alytus",
+		"district": "Alytaus",
+		"postcode": "62151"
+	},
+	{
+		"lon": "25.2614979",
+		"lat": "54.6841139",
+		"number": "35",
+		"street": "Geležinio Vilko g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "01112"
+	},
+	{
+		"lon": "23.91793",
+		"lat": "54.9842594",
+		"number": "17",
+		"street": "Žiogų g.",
+		"city": "Ražiai",
+		"district": "Kauno",
+		"postcode": "54341"
+	},
+	{
+		"lon": "21.4620574",
+		"lat": "55.4610399",
+		"number": "4",
+		"street": "Romuvos g.",
+		"city": "Saugos",
+		"district": "Šilutės",
+		"postcode": "99403"
+	},
+	{
+		"lon": "24.2826278",
+		"lat": "55.0241831",
+		"number": "11",
+		"street": "Eglių g.",
+		"city": "Bulotai",
+		"district": "Jonavos",
+		"postcode": "55304"
+	},
+	{
+		"lon": "25.3699638",
+		"lat": "54.3563066",
+		"number": "6",
+		"street": "Bruknių g.",
+		"city": "Bruknynė",
+		"district": "Šalčininkų",
+		"postcode": "17100"
+	},
+	{
+		"lon": "22.721206",
+		"lat": "54.5711683",
+		"number": "4",
+		"street": "Vištyčio g.",
+		"city": "Kurpikai",
+		"district": "Vilkaviškio",
+		"postcode": "70350"
+	},
+	{
+		"lon": "25.6233628",
+		"lat": "54.7329327",
+		"number": "13",
+		"street": "Liesiškių g.",
+		"city": "Liesiškės",
+		"district": "Vilniaus",
+		"postcode": "15231"
+	},
+	{
+		"lon": "23.1098663",
+		"lat": "55.8792339",
+		"number": "22",
+		"street": "Skardžio g.",
+		"city": "Jakštaičiai",
+		"district": "Šiaulių",
+		"postcode": "80188"
+	},
+	{
+		"lon": "23.2371547",
+		"lat": "54.447296",
+		"number": "11",
+		"street": "Eglės g.",
+		"city": "Jonai",
+		"district": "Kalvarijos ",
+		"postcode": "69316"
+	},
+	{
+		"lon": "24.6643733",
+		"lat": "56.3743034",
+		"number": "2",
+		"street": "Lankos aklg.",
+		"city": "Germaniškis",
+		"district": "Biržų",
+		"postcode": "41431"
+	},
+	{
+		"lon": "24.2867777",
+		"lat": "55.0227717",
+		"number": "4",
+		"street": "Tuopų g.",
+		"city": "Bulotai",
+		"district": "Jonavos",
+		"postcode": "55304"
+	},
+	{
+		"lon": "25.3706284",
+		"lat": "54.3563979",
+		"number": "7",
+		"street": "Žirnių g.",
+		"city": "Bruknynė",
+		"district": "Šalčininkų",
+		"postcode": "17100"
+	},
+	{
+		"lon": "21.1667619",
+		"lat": "55.7530472",
+		"number": "56",
+		"street": "Vėjo g.",
+		"city": "Klaipėda",
+		"district": "Klaipėdos",
+		"postcode": "92353"
+	},
+	{
+		"lon": "25.3706494",
+		"lat": "54.3579523",
+		"number": "3",
+		"street": "Pupų g.",
+		"city": "Bruknynė",
+		"district": "Šalčininkų",
+		"postcode": "17100"
+	},
+	{
+		"lon": "23.0183859",
+		"lat": "54.6554436",
+		"number": "36",
+		"street": "Saulėtekio g.",
+		"city": "Vilkaviškis",
+		"district": "Vilkaviškio",
+		"postcode": "70111"
+	},
+	{
+		"lon": "24.5724499",
+		"lat": "55.7875662",
+		"number": "211",
+		"street": "Startų g.",
+		"city": "Startai",
+		"district": "Panevėžio",
+		"postcode": "38463"
+	},
+	{
+		"lon": "25.3696472",
+		"lat": "54.3569662",
+		"number": "16",
+		"street": "Rugiagėlių g.",
+		"city": "Bruknynė",
+		"district": "Šalčininkų",
+		"postcode": "17100"
+	},
+	{
+		"lon": "21.7290963",
+		"lat": "55.8412558",
+		"number": "1",
+		"street": "Lankų g.",
+		"city": "Vieštovėnai",
+		"district": "Plungės",
+		"postcode": "90102"
+	},
+	{
+		"lon": "21.6959391",
+		"lat": "55.8785512",
+		"number": "12",
+		"street": "Lakštingalų g.",
+		"city": "Karklėnai",
+		"district": "Plungės",
+		"postcode": "90102"
+	},
+	{
+		"lon": "24.5553009",
+		"lat": "54.2378202",
+		"number": "1",
+		"street": "Viržių g.",
+		"city": "Varėna",
+		"district": "Varėnos",
+		"postcode": "65491"
+	},
+	{
+		"lon": "22.9621978",
+		"lat": "55.6295429",
+		"number": "27",
+		"street": "Žvilgių g.",
+		"city": "Žvilgiai",
+		"district": "Kelmės",
+		"postcode": "86438"
+	},
+	{
+		"lon": "23.2362361",
+		"lat": "54.3773181",
+		"number": "18",
+		"street": "Ežero g.",
+		"city": "Raudeniškiai",
+		"district": "Kalvarijos ",
+		"postcode": "69230"
+	},
+	{
+		"lon": "23.3452002",
+		"lat": "54.3917872",
+		"number": "1",
+		"street": "Alytaus kel.",
+		"city": "Sūsninkai",
+		"district": "Kalvarijos ",
+		"postcode": "69227"
+	},
+	{
+		"lon": "21.6744522",
+		"lat": "55.9953154",
+		"number": "17",
+		"street": "Liepgirių g.",
+		"city": "Šateikiai",
+		"district": "Plungės",
+		"postcode": "90401"
+	},
+	{
+		"lon": "24.7629513",
+		"lat": "55.2493069",
+		"number": "2",
+		"street": "Kauno g.",
+		"city": "Ukmergė",
+		"district": "Ukmergės",
+		"postcode": "20114"
+	},
+	{
+		"lon": "22.4479402",
+		"lat": "55.449239",
+		"number": "6",
+		"street": "D. Poškos g.",
+		"city": "Upyna",
+		"district": "Šilalės",
+		"postcode": "75243"
+	},
+	{
+		"lon": "23.3868091",
+		"lat": "55.1459218",
+		"number": "22",
+		"street": "Armenos g.",
+		"city": "Armeniškiai",
+		"district": "Jurbarko",
+		"postcode": "74396"
+	},
+	{
+		"lon": "23.8453396",
+		"lat": "55.5885566",
+		"number": "1",
+		"street": "Pašakių g.",
+		"city": "Pašakiai",
+		"district": "Radviliškio",
+		"postcode": "82304"
+	},
+	{
+		"lon": "23.6260578",
+		"lat": "54.879354",
+		"number": "99",
+		"street": "Kauno g.",
+		"city": "Ežerėlis",
+		"district": "Kauno",
+		"postcode": "53391"
+	},
+	{
+		"lon": "24.4497091",
+		"lat": "54.8473804",
+		"number": "1",
+		"street": "Žiebenos g.",
+		"city": "Kiemeliai",
+		"district": "Kaišiadorių",
+		"postcode": "56123"
+	},
+	{
+		"lon": "21.0740445",
+		"lat": "55.9143236",
+		"number": "31",
+		"street": "Vasario 16-osios g.",
+		"city": "Palanga",
+		"district": "Palangos",
+		"postcode": "00129"
+	},
+	{
+		"lon": "21.0689838",
+		"lat": "55.9213664",
+		"number": "116",
+		"street": "Vytauto g.",
+		"city": "Palanga",
+		"district": "Palangos",
+		"postcode": "00153"
+	},
+	{
+		"lon": "21.0693379",
+		"lat": "55.9310904",
+		"number": "10",
+		"street": "Karklų g.",
+		"city": "Palanga",
+		"district": "Palangos",
+		"postcode": "00155"
+	},
+	{
+		"lon": "23.9283593",
+		"lat": "54.9180937",
+		"number": "46",
+		"street": "Kampo g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "50141"
+	},
+	{
+		"lon": "23.6640069",
+		"lat": "54.9256019",
+		"number": "25",
+		"street": "Vytauto g.",
+		"city": "Zapyškis",
+		"district": "Kauno",
+		"postcode": "53419"
+	},
+	{
+		"lon": "23.9324526",
+		"lat": "54.9140978",
+		"number": "116",
+		"street": "Kalniečių g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "50154"
+	},
+	{
+		"lon": "21.0739631",
+		"lat": "55.9200738",
+		"number": "8",
+		"street": "Ganyklų g.",
+		"city": "Palanga",
+		"district": "Palangos",
+		"postcode": "00126"
+	},
+	{
+		"lon": "23.9848196",
+		"lat": "54.0112421",
+		"number": "41",
+		"street": "Vytauto g.",
+		"city": "Druskininkai",
+		"district": "Druskininkų ",
+		"postcode": "66171"
+	},
+	{
+		"lon": "24.2717222",
+		"lat": "55.7186975",
+		"number": "39",
+		"street": "Žemynos g.",
+		"city": "Paviešečiai",
+		"district": "Panevėžio",
+		"postcode": "38366"
+	},
+	{
+		"lon": "23.9321722",
+		"lat": "54.9231722",
+		"number": "31",
+		"street": "Žvangučių g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "50108"
+	},
+	{
+		"lon": "25.7545972",
+		"lat": "54.9797541",
+		"number": "30",
+		"street": "Padubingės g.",
+		"city": "Pabradė",
+		"district": "Švenčionių",
+		"postcode": "18169"
+	},
+	{
+		"lon": "25.417678",
+		"lat": "54.6881383",
+		"number": "9",
+		"street": "Darželio g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "11208"
+	},
+	{
+		"lon": "25.3387967",
+		"lat": "54.7378287",
+		"number": "67",
+		"street": "Žuvėdrų g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "10103"
+	},
+	{
+		"lon": "24.7863141",
+		"lat": "55.2455404",
+		"number": "16",
+		"street": "A. Vienuolio-Žukausko g.",
+		"city": "Ukmergė",
+		"district": "Ukmergės",
+		"postcode": "20143"
+	},
+	{
+		"lon": "23.3587195",
+		"lat": "54.549881",
+		"number": "16",
+		"street": "Taikos g.",
+		"city": "Marijampolė",
+		"district": "Marijampolės ",
+		"postcode": "68292"
+	},
+	{
+		"lon": "25.361143",
+		"lat": "54.6674804",
+		"number": "14",
+		"street": "Žilvičių g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "11306"
+	},
+	{
+		"lon": "26.1737628",
+		"lat": "55.133384",
+		"number": "19A",
+		"street": "Miško g.",
+		"city": "Švenčionys",
+		"district": "Švenčionių",
+		"postcode": "18110"
+	},
+	{
+		"lon": "24.7691408",
+		"lat": "55.2585044",
+		"number": "14",
+		"street": "Lygioji g.",
+		"city": "Ukmergė",
+		"district": "Ukmergės",
+		"postcode": "20109"
+	},
+	{
+		"lon": "24.0908587",
+		"lat": "54.8697143",
+		"number": "46",
+		"street": "Nemuno g.",
+		"city": "Šlienava",
+		"district": "Kauno",
+		"postcode": "53147"
+	},
+	{
+		"lon": "23.9057966",
+		"lat": "54.9193168",
+		"number": "20",
+		"street": "A. Fromo-Gužučio g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "48487"
+	},
+	{
+		"lon": "22.1647929",
+		"lat": "55.2048696",
+		"number": "12",
+		"street": "Tuopų g.",
+		"city": "Lauksargiai",
+		"district": "Tauragės",
+		"postcode": "73204"
+	},
+	{
+		"lon": "23.7035116",
+		"lat": "54.2390581",
+		"number": "12",
+		"street": "Dusios g.",
+		"city": "Janėnai",
+		"district": "Lazdijų",
+		"postcode": "67204"
+	},
+	{
+		"lon": "21.0656242",
+		"lat": "55.9224648",
+		"number": "21",
+		"street": "Gintaro g.",
+		"city": "Palanga",
+		"district": "Palangos",
+		"postcode": "00133"
+	},
+	{
+		"lon": "21.3000494",
+		"lat": "55.565196",
+		"number": "1",
+		"street": "Lazdynų g.",
+		"city": "Lingiai",
+		"district": "Klaipėdos",
+		"postcode": "96355"
+	},
+	{
+		"lon": "24.3130569",
+		"lat": "55.7985527",
+		"number": "40",
+		"street": "Sodų g.",
+		"city": "Gasparai",
+		"district": "Panevėžio",
+		"postcode": "38391"
+	},
+	{
+		"lon": "21.2918811",
+		"lat": "55.5746502",
+		"number": "3",
+		"street": "Kaštonų g.",
+		"city": "Lingiai",
+		"district": "Klaipėdos",
+		"postcode": "96355"
+	},
+	{
+		"lon": "23.8708069",
+		"lat": "55.5717056",
+		"number": "4",
+		"street": "Krekenavos g.",
+		"city": "Pociūnėliai",
+		"district": "Radviliškio",
+		"postcode": "82302"
+	},
+	{
+		"lon": "21.9309989",
+		"lat": "55.7049924",
+		"number": "5",
+		"street": "Bangos g.",
+		"city": "Pelaičiai",
+		"district": "Rietavo ",
+		"postcode": "90304"
+	},
+	{
+		"lon": "23.9808199",
+		"lat": "55.7555236",
+		"number": "21",
+		"street": "Ąžuolo g.",
+		"city": "Dapšioniai",
+		"district": "Radviliškio",
+		"postcode": "82204"
+	},
+	{
+		"lon": "23.6432428",
+		"lat": "55.2668655",
+		"number": "26",
+		"street": "J. Juškytės g.",
+		"city": "Pernarava",
+		"district": "Kėdainių",
+		"postcode": "58227"
+	},
+	{
+		"lon": "22.1578531",
+		"lat": "55.534451",
+		"number": "5",
+		"street": "Mokyklos g.",
+		"city": "Nevočiai",
+		"district": "Šilalės",
+		"postcode": "75101"
+	},
+	{
+		"lon": "24.0378966",
+		"lat": "54.9448474",
+		"number": "6",
+		"street": "Centrinė g.",
+		"city": "Ramučiai",
+		"district": "Kauno",
+		"postcode": "54464"
+	},
+	{
+		"lon": "24.0098875",
+		"lat": "56.2372911",
+		"number": "6",
+		"street": "Berštalio g.",
+		"city": "Nociūnai",
+		"district": "Pakruojo",
+		"postcode": "83354"
+	},
+	{
+		"lon": "23.7005419",
+		"lat": "54.0982057",
+		"number": "14",
+		"street": "V. Montvilos g.",
+		"city": "Veisiejai",
+		"district": "Lazdijų",
+		"postcode": "67338"
+	},
+	{
+		"lon": "21.0875908",
+		"lat": "56.0265576",
+		"number": "17",
+		"street": "Žuvėdrų g.",
+		"city": "Palanga",
+		"district": "Palangos",
+		"postcode": "00301"
+	},
+	{
+		"lon": "24.4802312",
+		"lat": "55.7862001",
+		"number": "8",
+		"street": "Pušų al.",
+		"city": "Naujikai",
+		"district": "Panevėžio",
+		"postcode": "38464"
+	},
+	{
+		"lon": "22.2519506",
+		"lat": "55.9817122",
+		"number": "11",
+		"street": "Telšės g.",
+		"city": "Telšiai",
+		"district": "Telšių",
+		"postcode": "87130"
+	},
+	{
+		"lon": "21.1906719",
+		"lat": "55.7538571",
+		"number": "40",
+		"street": "Rasytės g.",
+		"city": "Mazūriškiai",
+		"district": "Klaipėdos",
+		"postcode": "92337"
+	},
+	{
+		"lon": "24.1769217",
+		"lat": "54.6000429",
+		"number": "1",
+		"street": "Taikos g.",
+		"city": "Jieznas",
+		"district": "Prienų",
+		"postcode": "59423"
+	},
+	{
+		"lon": "21.093673",
+		"lat": "56.0028664",
+		"number": "20",
+		"street": "Latgalos g.",
+		"city": "Palanga",
+		"district": "Palangos",
+		"postcode": "00170"
+	},
+	{
+		"lon": "25.2544271",
+		"lat": "54.6952219",
+		"number": "1",
+		"street": "Latvių g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "08123"
+	},
+	{
+		"lon": "23.8943263",
+		"lat": "54.8699104",
+		"number": "25",
+		"street": "Pievų g.",
+		"city": "Kaunas",
+		"district": "Kauno",
+		"postcode": "46356"
+	},
+	{
+		"lon": "21.4120671",
+		"lat": "55.7476768",
+		"number": "4",
+		"street": "Papelkės g.",
+		"city": "Kvietiniai",
+		"district": "Klaipėdos",
+		"postcode": "96174"
+	},
+	{
+		"lon": "23.8368274",
+		"lat": "54.8187768",
+		"number": "49",
+		"street": "Mokslo g.",
+		"city": "Mastaičiai",
+		"district": "Kauno",
+		"postcode": "53316"
+	},
+	{
+		"lon": "21.3500914",
+		"lat": "55.8312014",
+		"number": "1",
+		"street": "Sodų g.",
+		"city": "Jokūbavas",
+		"district": "Kretingos",
+		"postcode": "97210"
+	},
+	{
+		"lon": "25.3850106",
+		"lat": "54.7409219",
+		"number": "29",
+		"street": "Kairėnės Sodų 1-oji g.",
+		"city": "Vilnius",
+		"district": "Vilniaus",
+		"postcode": "10247"
+	},
+	{
+		"lon": "24.2536518",
+		"lat": "55.7397936",
+		"number": "86B",
+		"street": "J. Janonio g.",
+		"city": "Panevėžys",
+		"district": "Panevėžio",
+		"postcode": "35290"
+	},
+	{
+		"lon": "22.8704574",
+		"lat": "56.3282673",
+		"number": "12",
+		"street": "Beržyno g.",
+		"city": "Naujoji Akmenė",
+		"district": "Akmenės",
+		"postcode": "85112"
+	},
+	{
+		"lon": "22.8895816",
+		"lat": "56.3279785",
+		"number": "8",
+		"street": "Žemaitės g.",
+		"city": "Naujoji Akmenė",
+		"district": "Akmenės",
+		"postcode": "85115"
+	},
+	{
+		"lon": "24.7563531",
+		"lat": "56.1928246",
+		"number": "71",
+		"street": "Vytauto g.",
+		"city": "Biržai",
+		"district": "Biržų",
+		"postcode": "41119"
+	},
+	{
+		"lon": "24.7391037",
+		"lat": "56.1938624",
+		"number": "19B",
+		"street": "Gedimino g.",
+		"city": "Biržai",
+		"district": "Biržų",
+		"postcode": "41127"
+	},
+	{
+		"lon": "24.7406858",
+		"lat": "56.1932884",
+		"number": "92",
+		"street": "V. Kudirkos g.",
+		"city": "Biržai",
+		"district": "Biržų",
+		"postcode": "41127"
+	},
+	{
+		"lon": "24.75698",
+		"lat": "56.1897633",
+		"number": "1",
+		"street": "Pušų g.",
+		"city": "Biržai",
+		"district": "Biržų",
+		"postcode": "41120"
+	},
+	{
+		"lon": "24.7394205",
+		"lat": "56.1983536",
+		"number": "12",
+		"street": "Sąjungos g.",
+		"city": "Biržai",
+		"district": "Biržų",
+		"postcode": "41133"
+	},
+	{
+		"lon": "24.7670428",
+		"lat": "56.2014739",
+		"number": "33",
+		"street": "Kilučių g.",
+		"city": "Biržai",
+		"district": "Biržų",
+		"postcode": "41154"
+	},
+	{
+		"lon": "24.7601479",
+		"lat": "56.1961818",
+		"number": "70A",
+		"street": "Žemaitės g.",
+		"city": "Biržai",
+		"district": "Biržų",
+		"postcode": "41150"
+	},
+	{
+		"lon": "24.4769497",
+		"lat": "56.1196245",
+		"number": "9",
+		"street": "Alyvų g.",
+		"city": "Raubonys",
+		"district": "Pasvalio",
+		"postcode": "39446"
+	},
+	{
+		"lon": "24.7516675",
+		"lat": "55.9838541",
+		"number": "42",
+		"street": "B. Sruogos g.",
+		"city": "Vabalninkas",
+		"district": "Biržų",
+		"postcode": "41335"
+	},
+	{
+		"lon": "24.4149298",
+		"lat": "56.2256216",
+		"number": "10",
+		"street": "J. Basanavičiaus g.",
+		"city": "Saločiai",
+		"district": "Pasvalio",
+		"postcode": "39426"
+	},
+	{
+		"lon": "24.3417426",
+		"lat": "55.9311532",
+		"number": "8",
+		"street": "Parko g.",
+		"city": "Pumpėnai",
+		"district": "Pasvalio",
+		"postcode": "39235"
+	},
+	{
+		"lon": "24.4024207",
+		"lat": "56.2284837",
+		"number": "4",
+		"street": "Žilvičių g.",
+		"city": "Saločiai",
+		"district": "Pasvalio",
+		"postcode": "39423"
+	},
+	{
+		"lon": "24.3977398",
+		"lat": "56.0592308",
+		"number": "11A",
+		"street": "Svalios g.",
+		"city": "Pasvalys",
+		"district": "Pasvalio",
+		"postcode": "39152"
+	},
+	{
+		"lon": "24.4828662",
+		"lat": "56.0128062",
+		"number": "9",
+		"street": "Pasvalio g.",
+		"city": "Girsūdai",
+		"district": "Pasvalio",
+		"postcode": "39200"
+	},
+	{
+		"lon": "24.823556",
+		"lat": "56.2757249",
+		"number": "11",
+		"street": "Vilniaus g.",
+		"city": "Medeikiai",
+		"district": "Biržų",
+		"postcode": "41461"
+	},
+	{
+		"lon": "25.0962839",
+		"lat": "55.5199211",
+		"number": "63",
+		"street": "Vilniaus g.",
+		"city": "Anykščiai",
+		"district": "Anykščių",
+		"postcode": "29145"
+	},
+	{
+		"lon": "25.1254529",
+		"lat": "55.5348441",
+		"number": "98",
+		"street": "J. Biliūno g.",
+		"city": "Anykščiai",
+		"district": "Anykščių",
+		"postcode": "29109"
+	},
+	{
+		"lon": "25.0945841",
+		"lat": "55.5168698",
+		"number": "25",
+		"street": "Puntuko g.",
+		"city": "Anykščiai",
+		"district": "Anykščių",
+		"postcode": "29142"
+	},
+	{
+		"lon": "24.9246492",
+		"lat": "55.4318297",
+		"number": "16",
+		"street": "P. Cvirkos g.",
+		"city": "Kavarskas",
+		"district": "Anykščių",
+		"postcode": "29260"
+	},
+	{
+		"lon": "23.94079",
+		"lat": "55.9564711",
+		"number": "33",
+		"street": "Užupio g.",
+		"city": "Klovainiai",
+		"district": "Pakruojo",
+		"postcode": "83203"
+	},
+	{
+		"lon": "23.492595",
+		"lat": "54.771094",
+		"number": "9",
+		"street": "Žilvičio g.",
+		"city": "Jūrė",
+		"district": "Kazlų Rūdos ",
+		"postcode": "69446"
+	},
+	{
+		"lon": "23.9358872",
+		"lat": "55.8650939",
+		"number": "30",
+		"street": "Rozalimo g.",
+		"city": "Žvirbloniai",
+		"district": "Pakruojo",
+		"postcode": "83234"
+	},
+	{
+		"lon": "24.280912",
+		"lat": "55.0807066",
+		"number": "15",
+		"street": "Lietavos g.",
+		"city": "Jonava",
+		"district": "Jonavos",
+		"postcode": "55139"
+	},
+	{
+		"lon": "21.8482419",
+		"lat": "55.9054417",
+		"number": "53",
+		"street": "Taikos g.",
+		"city": "Plungė",
+		"district": "Plungės",
+		"postcode": "90158"
+	},
+	{
+		"lon": "24.2642265",
+		"lat": "55.0750771",
+		"number": "106",
+		"street": "Chemikų g.",
+		"city": "Jonava",
+		"district": "Jonavos",
+		"postcode": "55232"
+	},
+	{
+		"lon": "23.8790237",
+		"lat": "55.8877968",
+		"number": "29",
+		"street": "Pušyno g.",
+		"city": "Rozalimas",
+		"district": "Pakruojo",
+		"postcode": "83249"
+	},
+	{
+		"lon": "21.9232239",
+		"lat": "55.7296653",
+		"number": "8",
+		"street": "Birutės g.",
+		"city": "Rietavas",
+		"district": "Rietavo ",
+		"postcode": "90312"
+	},
+	{
+		"lon": "24.7254695",
+		"lat": "56.2067396",
+		"number": "2",
+		"street": "Eglių g.",
+		"city": "Biržai",
+		"district": "Biržų",
+		"postcode": "41180"
+	},
+	{
+		"lon": "22.8634673",
+		"lat": "56.3206769",
+		"number": "11",
+		"street": "Ramučių g.",
+		"city": "Naujoji Akmenė",
+		"district": "Akmenės",
+		"postcode": "85135"
+	},
+	{
+		"lon": "25.3714006",
+		"lat": "55.6798852",
+		"number": "23",
+		"street": "Vilniaus g.",
+		"city": "Svėdasai",
+		"district": "Anykščių",
+		"postcode": "29352"
+	},
+	{
+		"lon": "25.0561466",
+		"lat": "55.4109037",
+		"number": "11",
+		"street": "Gegužės g.",
+		"city": "Kurkliai",
+		"district": "Anykščių",
+		"postcode": "29234"
+	},
+	{
+		"lon": "25.3659597",
+		"lat": "55.6875516",
+		"number": "14",
+		"street": "Kranto g.",
+		"city": "Svėdasai",
+		"district": "Anykščių",
+		"postcode": "29353"
+	},
+	{
+		"lon": "21.852558",
+		"lat": "55.8987746",
+		"number": "30",
+		"street": "Miškų g.",
+		"city": "Plungė",
+		"district": "Plungės",
+		"postcode": "90155"
+	},
+	{
+		"lon": "23.8600673",
+		"lat": "55.9818417",
+		"number": "12",
+		"street": "Žalioji g.",
+		"city": "Pakruojis",
+		"district": "Pakruojo",
+		"postcode": "83128"
+	},
+	{
+		"lon": "24.2609183",
+		"lat": "55.069134",
+		"number": "4",
+		"street": "Veterinarijos g.",
+		"city": "Jonava",
+		"district": "Jonavos",
+		"postcode": "55165"
+	},
+	{
+		"lon": "24.2907698",
+		"lat": "55.0760683",
+		"number": "3",
+		"street": "Ateities g.",
+		"city": "Jonava",
+		"district": "Jonavos",
+		"postcode": "55156"
+	},
+	{
+		"lon": "24.2720575",
+		"lat": "55.0889163",
+		"number": "8",
+		"street": "Aukštaičių g.",
+		"city": "Jonava",
+		"district": "Jonavos",
+		"postcode": "55116"
+	},
+	{
+		"lon": "21.8578635",
+		"lat": "55.9129408",
+		"number": "17",
+		"street": "Vandentiekio g.",
+		"city": "Plungė",
+		"district": "Plungės",
+		"postcode": "90166"
+	},
+	{
+		"lon": "23.8806742",
+		"lat": "55.8926082",
+		"number": "4",
+		"street": "Laisvės a.",
+		"city": "Rozalimas",
+		"district": "Pakruojo",
+		"postcode": "83248"
+	},
+	{
+		"lon": "23.5001254",
+		"lat": "54.7467589",
+		"number": "26",
+		"street": "Dariaus ir Girėno g.",
+		"city": "Kazlų Rūda",
+		"district": "Kazlų Rūdos ",
+		"postcode": "69428"
+	},
+	{
+		"lon": "25.6121171",
+		"lat": "56.0878789",
+		"number": "11",
+		"street": "Skersinė g.",
+		"city": "Juodupė",
+		"district": "Rokiškio",
+		"postcode": "42459"
+	},
+	{
+		"lon": "22.1747631",
+		"lat": "55.4898755",
+		"number": "19",
+		"street": "Kvėdarnos g.",
+		"city": "Šilalė",
+		"district": "Šilalės",
+		"postcode": "75129"
+	},
+	{
+		"lon": "24.2174519",
+		"lat": "55.1766415",
+		"number": "23",
+		"street": "Kauno g.",
+		"city": "Žeimiai",
+		"district": "Jonavos",
+		"postcode": "55384"
+	},
+	{
+		"lon": "22.0027428",
+		"lat": "56.1117628",
+		"number": "19",
+		"street": "Barstyčių g.",
+		"city": "Žemaičių Kalvarija",
+		"district": "Plungės",
+		"postcode": "90445"
+	},
+	{
+		"lon": "23.7401001",
+		"lat": "54.7669729",
+		"number": "14",
+		"street": "Petkeliškių g.",
+		"city": "Veiveriai",
+		"district": "Prienų",
+		"postcode": "59295"
+	},
+	{
+		"lon": "23.6580943",
+		"lat": "54.750621",
+		"number": "1",
+		"street": "Patašinės g.",
+		"city": "Skriaudžiai",
+		"district": "Prienų",
+		"postcode": "59276"
+	},
+	{
+		"lon": "25.6030041",
+		"lat": "56.0877087",
+		"number": "2",
+		"street": "Palangos g.",
+		"city": "Juodupė",
+		"district": "Rokiškio",
+		"postcode": "42466"
+	},
+	{
+		"lon": "22.0371794",
+		"lat": "56.0252106",
+		"number": "25",
+		"street": "Draugystės g.",
+		"city": "Alsėdžiai",
+		"district": "Plungės",
+		"postcode": "90471"
+	},
+	{
+		"lon": "24.3323484",
+		"lat": "55.1229146",
+		"number": "2",
+		"street": "Beržų g.",
+		"city": "Šilai",
+		"district": "Jonavos",
+		"postcode": "55463"
+	},
+	{
+		"lon": "24.1779104",
+		"lat": "54.5998213",
+		"number": "5",
+		"street": "Taikos g.",
+		"city": "Jieznas",
+		"district": "Prienų",
+		"postcode": "59423"
+	},
+	{
+		"lon": "25.5937394",
+		"lat": "55.9583772",
+		"number": "1",
+		"street": "Gedimino g.",
+		"city": "Rokiškis",
+		"district": "Rokiškio",
+		"postcode": "42133"
+	},
+	{
+		"lon": "21.8406306",
+		"lat": "55.903713",
+		"number": "36",
+		"street": "A. Jucio g.",
+		"city": "Plungė",
+		"district": "Plungės",
+		"postcode": "90151"
+	},
+	{
+		"lon": "23.9485323",
+		"lat": "54.6298028",
+		"number": "7",
+		"street": "Kranto g.",
+		"city": "Prienai",
+		"district": "Prienų",
+		"postcode": "59114"
+	},
+	{
+		"lon": "23.9496294",
+		"lat": "54.6453658",
+		"number": "33",
+		"street": "Stadiono g.",
+		"city": "Prienai",
+		"district": "Prienų",
+		"postcode": "59133"
+	},
+	{
+		"lon": "21.8636012",
+		"lat": "55.9147119",
+		"number": "54",
+		"street": "Žemaitės g.",
+		"city": "Plungė",
+		"district": "Plungės",
+		"postcode": "90168"
+	},
+	{
+		"lon": "23.936145",
+		"lat": "54.6349378",
+		"number": "22",
+		"street": "Vyšnių g.",
+		"city": "Prienai",
+		"district": "Prienų",
+		"postcode": "59122"
+	},
+	{
+		"lon": "24.1746224",
+		"lat": "54.5974631",
+		"number": "2",
+		"street": "Sodo g.",
+		"city": "Jieznas",
+		"district": "Prienų",
+		"postcode": "59424"
+	},
+	{
+		"lon": "25.5670962",
+		"lat": "55.9675946",
+		"number": "9",
+		"street": "Ryšininkų g.",
+		"city": "Rokiškis",
+		"district": "Rokiškio",
+		"postcode": "42109"
+	},
+	{
+		"lon": "25.5884532",
+		"lat": "55.9693375",
+		"number": "8",
+		"street": "J. Biliūno g.",
+		"city": "Rokiškis",
+		"district": "Rokiškio",
+		"postcode": "42105"
+	},
+	{
+		"lon": "23.9533474",
+		"lat": "54.6214976",
+		"number": "111",
+		"street": "F. Vaitkaus g.",
+		"city": "Prienai",
+		"district": "Prienų",
+		"postcode": "59110"
+	},
+	{
+		"lon": "24.1873025",
+		"lat": "54.6033584",
+		"number": "22",
+		"street": "Lentpjūvės g.",
+		"city": "Jieznas",
+		"district": "Prienų",
+		"postcode": "59422"
+	},
+	{
+		"lon": "25.5828069",
+		"lat": "55.9605267",
+		"number": "7",
+		"street": "Sodų g.",
+		"city": "Rokiškis",
+		"district": "Rokiškio",
+		"postcode": "42120"
+	},
+	{
+		"lon": "23.5200646",
+		"lat": "54.2281105",
+		"number": "29",
+		"street": "Parko g.",
+		"city": "Lazdijai",
+		"district": "Lazdijų",
+		"postcode": "67105"
+	},
+	{
+		"lon": "23.2057978",
+		"lat": "55.5989098",
+		"number": "11",
+		"street": "Sodų g.",
+		"city": "Tytuvėnai",
+		"district": "Kelmės",
+		"postcode": "86485"
+	},
+	{
+		"lon": "23.5095338",
+		"lat": "54.2241432",
+		"number": "97",
+		"street": "Seinų g.",
+		"city": "Lazdijai",
+		"district": "Lazdijų",
+		"postcode": "67113"
+	},
+	{
+		"lon": "23.1922152",
+		"lat": "55.6002308",
+		"number": "30",
+		"street": "Ežero g.",
+		"city": "Tytuvėnai",
+		"district": "Kelmės",
+		"postcode": "86488"
+	},
+	{
+		"lon": "22.9260531",
+		"lat": "55.6246171",
+		"number": "8",
+		"street": "Smėlio g.",
+		"city": "Kelmė",
+		"district": "Kelmės",
+		"postcode": "86147"
+	},
+	{
+		"lon": "25.9948179",
+		"lat": "55.1697317",
+		"number": "30",
+		"street": "Žeimenos g.",
+		"city": "Švenčionėliai",
+		"district": "Švenčionių",
+		"postcode": "18208"
+	},
+	{
+		"lon": "25.7583563",
+		"lat": "54.9793987",
+		"number": "84",
+		"street": "Vilniaus g.",
+		"city": "Pabradė",
+		"district": "Švenčionių",
+		"postcode": "18177"
+	},
+	{
+		"lon": "24.6711943",
+		"lat": "54.6638373",
+		"number": "7",
+		"street": "Šilo g.",
+		"city": "Semeliškės",
+		"district": "Elektrėnų ",
+		"postcode": "21302"
+	},
+	{
+		"lon": "21.9096084",
+		"lat": "55.1360114",
+		"number": "1",
+		"street": "Vytauto g.",
+		"city": "Pagėgiai",
+		"district": "Pagėgių ",
+		"postcode": "99288"
+	},
+	{
+		"lon": "25.9913893",
+		"lat": "55.1528543",
+		"number": "51",
+		"street": "Partizanų g.",
+		"city": "Švenčionėliai",
+		"district": "Švenčionių",
+		"postcode": "18223"
+	},
+	{
+		"lon": "24.5246406",
+		"lat": "54.5796803",
+		"number": "6",
+		"street": "Aušros g.",
+		"city": "Aukštadvaris",
+		"district": "Trakų",
+		"postcode": "21253"
+	},
+	{
+		"lon": "22.9335563",
+		"lat": "55.6241922",
+		"number": "34",
+		"street": "Taikos g.",
+		"city": "Kelmė",
+		"district": "Kelmės",
+		"postcode": "86154"
+	},
+	{
+		"lon": "24.4424882",
+		"lat": "54.8597631",
+		"number": "55",
+		"street": "Girelės g.",
+		"city": "Kaišiadorys",
+		"district": "Kaišiadorių",
+		"postcode": "56163"
+	},
+	{
+		"lon": "24.1876634",
+		"lat": "54.9833238",
+		"number": "14",
+		"street": "Jaunimo g.",
+		"city": "Užusaliai",
+		"district": "Jonavos",
+		"postcode": "55334"
+	},
+	{
+		"lon": "22.0576456",
+		"lat": "56.0271829",
+		"number": "8",
+		"street": "Žvirblaičių g.",
+		"city": "Alsėdžiai",
+		"district": "Plungės",
+		"postcode": "90472"
+	},
+	{
+		"lon": "21.8109544",
+		"lat": "56.0508859",
+		"number": "19",
+		"street": "Medsėdžių g.",
+		"city": "Plateliai",
+		"district": "Plungės",
+		"postcode": "90422"
+	},
+	{
+		"lon": "21.9937762",
+		"lat": "55.5541219",
+		"number": "21",
+		"street": "Jūros g.",
+		"city": "Kvėdarna",
+		"district": "Šilalės",
+		"postcode": "75344"
+	},
+	{
+		"lon": "23.6694231",
+		"lat": "54.8024525",
+		"number": "9",
+		"street": "Žvejų takas",
+		"city": "Byliškės",
+		"district": "Prienų",
+		"postcode": "59286"
+	},
+	{
+		"lon": "23.6607349",
+		"lat": "54.7470597",
+		"number": "4",
+		"street": "Vairuotojų g.",
+		"city": "Skriaudžiai",
+		"district": "Prienų",
+		"postcode": "59276"
+	},
+	{
+		"lon": "25.3895178",
+		"lat": "55.9046927",
+		"number": "13",
+		"street": "Stoties g.",
+		"city": "Panemunėlis",
+		"district": "Rokiškio",
+		"postcode": "42326"
+	},
+	{
+		"lon": "25.6095698",
+		"lat": "55.9880942",
+		"number": "7",
+		"street": "Pušyno g.",
+		"city": "Bajorai",
+		"district": "Rokiškio",
+		"postcode": "42102"
+	},
+	{
+		"lon": "22.0028667",
+		"lat": "55.5508518",
+		"number": "6",
+		"street": "Gen. P. Liatuko g.",
+		"city": "Kvėdarna",
+		"district": "Šilalės",
+		"postcode": "75348"
+	},
+	{
+		"lon": "26.2343702",
+		"lat": "55.7431842",
+		"number": "40",
+		"street": "Šaltupės g.",
+		"city": "Zarasai",
+		"district": "Zarasų",
+		"postcode": "32115"
+	}
+]

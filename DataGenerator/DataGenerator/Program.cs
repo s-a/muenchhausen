@@ -9,6 +9,7 @@ namespace DataGenerator
 {
   using System;
   using System.Globalization;
+  using System.Reflection;
 
   class I18nFile
   {
@@ -32,9 +33,19 @@ namespace DataGenerator
     public string _false = "False";
   }
 
+  class I18nCulture
+  {
+    public string name;
+    public string englishname;
+    public string nativename;
+  }
+
+ 
   class Program {
 
     private static string rootPath;
+
+
     private static string[] s =  {
               "af-ZA",
               "sq-AL",
@@ -266,6 +277,83 @@ namespace DataGenerator
       Console.ReadKey();
     }
 
+    static void SetDefaultCulture(CultureInfo culture)
+    {
+      Type type = typeof(CultureInfo);
+
+      try
+      {
+        type.InvokeMember("s_userDefaultCulture",
+                            System.Reflection.BindingFlags.SetField | BindingFlags.NonPublic | BindingFlags.Static,
+                            null,
+                            culture,
+                            new object[] { culture });
+
+        type.InvokeMember("s_userDefaultUICulture",
+                            BindingFlags.SetField | BindingFlags.NonPublic | BindingFlags.Static,
+                            null,
+                            culture,
+                            new object[] { culture });
+      }
+      catch { }
+
+      try
+      {
+        type.InvokeMember("m_userDefaultCulture",
+                            BindingFlags.SetField | BindingFlags.NonPublic | BindingFlags.Static,
+                            null,
+                            culture,
+                            new object[] { culture });
+
+        type.InvokeMember("m_userDefaultUICulture",
+                            BindingFlags.SetField | BindingFlags.NonPublic | BindingFlags.Static,
+                            null,
+                            culture,
+                            new object[] { culture });
+      }
+      catch { }
+    }
+
+    static void fake_culture()
+    {
+
+
+
+      foreach (string lng in s)
+      {
+
+        CultureInfo cu = new CultureInfo("ja-JP");
+        System.Threading.Thread.CurrentThread.CurrentCulture = cu;
+        CultureInfo.DefaultThreadCurrentCulture = cu;
+         CultureInfo.DefaultThreadCurrentUICulture = cu;
+         SetDefaultCulture(cu);
+        Dictionary<string, string> ifile = new Dictionary<string, string>();
+        var regex = new System.Text.RegularExpressions.Regex(@"([\w+\s*\.*]+\))");
+        foreach (var item in CultureInfo.GetCultures(CultureTypes.FrameworkCultures))
+        {
+
+          I18nCulture country = new I18nCulture();
+          var match = regex.Match(item.DisplayName);
+          string countryName = match.Value.Length == 0 ? item.EnglishName : match.Value.Substring(0, match.Value.Length - 1);
+          if (item.Name != "")
+          { 
+            ifile.Add(item.Name, item.DisplayName);
+          }
+        }
+
+        string fn = System.IO.Path.Combine(rootPath, "lib", "i18n", "culture", lng + ".json");
+        Console.WriteLine("save : " + fn);
+        saveObjectToJSON(ifile, fn);
+      }
+
+
+      //string fn = System.IO.Path.Combine(rootPath, "lib", "i18n", "numberformat", lng + ".json");
+      //saveObjectToJSON(ifile, fn);
+
+      Console.WriteLine("done");
+     // Console.ReadKey();
+    }
+
 
     static void fake_boolean()
     {
@@ -290,9 +378,10 @@ namespace DataGenerator
 
       string d = System.IO.Path.Combine(rootPath, "lib", "cultures.json");
       saveObjectToJSON(s, d);
-       
-      fake_date();
-      fake_number();
+
+      fake_culture();
+      ///fake_date();
+      ///fake_number();
     }
   }
 

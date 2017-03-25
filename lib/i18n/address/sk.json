@@ -1,0 +1,9002 @@
+[
+	{
+		"lon": "18.1078415",
+		"lat": "47.7654452",
+		"number": "6",
+		"street": "Rožná ul.",
+		"city": "Komárno",
+		"district": "",
+		"postcode": "94501"
+	},
+	{
+		"lon": "18.650423",
+		"lat": "48.7824034",
+		"number": "12",
+		"street": "Dubová ulica",
+		"city": "Prievidza",
+		"district": "",
+		"postcode": "97101"
+	},
+	{
+		"lon": "21.2543725",
+		"lat": "48.7000502",
+		"number": "19",
+		"street": "Miškovecká",
+		"city": "Košice-Juh",
+		"district": "",
+		"postcode": "04011"
+	},
+	{
+		"lon": "20.539288",
+		"lat": "49.0188981",
+		"number": "2132",
+		"street": "Levoča",
+		"city": "Levoča",
+		"district": "",
+		"postcode": "05401"
+	},
+	{
+		"lon": "21.655592",
+		"lat": "48.6948776",
+		"number": "9",
+		"street": "Fialková",
+		"city": "Sečovce",
+		"district": "",
+		"postcode": "07801"
+	},
+	{
+		"lon": "21.3039383",
+		"lat": "48.5910747",
+		"number": "13",
+		"street": "Hlavná",
+		"city": "Gyňov",
+		"district": "",
+		"postcode": "04414"
+	},
+	{
+		"lon": "21.2411974",
+		"lat": "48.9308096",
+		"number": "303",
+		"street": "Kendice",
+		"city": "Kendice",
+		"district": "",
+		"postcode": "08201"
+	},
+	{
+		"lon": "18.0735548",
+		"lat": "48.2918669",
+		"number": "62",
+		"street": "Tehelná",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "18.1229842",
+		"lat": "48.9686579",
+		"number": "15",
+		"street": "Revolučná",
+		"city": "Nemšová",
+		"district": "",
+		"postcode": "91441"
+	},
+	{
+		"lon": "21.9438727",
+		"lat": "48.7411585",
+		"number": "40",
+		"street": "Kapušianska",
+		"city": "Michalovce",
+		"district": "",
+		"postcode": "07101"
+	},
+	{
+		"lon": "21.2663414",
+		"lat": "48.7065291",
+		"number": "5",
+		"street": "Jantárova",
+		"city": "Košice-Juh",
+		"district": "",
+		"postcode": "04001"
+	},
+	{
+		"lon": "18.4143526",
+		"lat": "48.4182839",
+		"number": "13",
+		"street": "Machulinská",
+		"city": "Topoľčianky",
+		"district": "",
+		"postcode": "95193"
+	},
+	{
+		"lon": "17.0510536",
+		"lat": "48.2320362",
+		"number": "137",
+		"street": "Strmý vŕšok",
+		"city": "Bratislava-Záhorská Bystrica",
+		"district": "",
+		"postcode": "84106"
+	},
+	{
+		"lon": "21.3229732",
+		"lat": "48.6182241",
+		"number": "30",
+		"street": "Záhradná",
+		"city": "Čaňa",
+		"district": "",
+		"postcode": "04414"
+	},
+	{
+		"lon": "18.8791906",
+		"lat": "49.0508242",
+		"number": "388",
+		"street": "Bystrička",
+		"city": "Bystrička",
+		"district": "",
+		"postcode": "03804"
+	},
+	{
+		"lon": "17.0004874",
+		"lat": "48.3746265",
+		"number": "407",
+		"street": "Plavecký Štvrtok",
+		"city": "Plavecký Štvrtok",
+		"district": "",
+		"postcode": "90068"
+	},
+	{
+		"lon": "19.3014527",
+		"lat": "48.500263",
+		"number": "162",
+		"street": "Slatinské Lazy",
+		"city": "Slatinské Lazy",
+		"district": "",
+		"postcode": "96225"
+	},
+	{
+		"lon": "18.7446315",
+		"lat": "49.3144858",
+		"number": "744",
+		"street": "Nesluša",
+		"city": "Nesluša",
+		"district": "",
+		"postcode": "02341"
+	},
+	{
+		"lon": "17.3551547",
+		"lat": "48.7457503",
+		"number": "213",
+		"street": "Častkov",
+		"city": "Častkov",
+		"district": "",
+		"postcode": "90604"
+	},
+	{
+		"lon": "17.6863945",
+		"lat": "48.3855355",
+		"number": "49",
+		"street": "Joža Nižnanského",
+		"city": "Brestovany",
+		"district": "",
+		"postcode": "91927"
+	},
+	{
+		"lon": "19.1689364",
+		"lat": "48.7375787",
+		"number": "20",
+		"street": "Jegorovova",
+		"city": "Banská Bystrica",
+		"district": "",
+		"postcode": "97401"
+	},
+	{
+		"lon": "18.2836048",
+		"lat": "48.6065583",
+		"number": "5",
+		"street": "Pálenice",
+		"city": "Chynorany",
+		"district": "",
+		"postcode": "95633"
+	},
+	{
+		"lon": "21.5484712",
+		"lat": "48.9031929",
+		"number": "406",
+		"street": "Zámutov",
+		"city": "Zámutov",
+		"district": "",
+		"postcode": "09415"
+	},
+	{
+		"lon": "21.1923335",
+		"lat": "48.8568419",
+		"number": "728",
+		"street": "Kysak",
+		"city": "Kysak",
+		"district": "",
+		"postcode": "04481"
+	},
+	{
+		"lon": "19.1541221",
+		"lat": "48.091231",
+		"number": "74",
+		"street": "Dolinka",
+		"city": "Dolinka",
+		"district": "",
+		"postcode": "99128"
+	},
+	{
+		"lon": "17.7229037",
+		"lat": "48.1916112",
+		"number": "15",
+		"street": "Hodská",
+		"city": "Galanta",
+		"district": "",
+		"postcode": "92401"
+	},
+	{
+		"lon": "18.017115",
+		"lat": "48.8960513",
+		"number": "36",
+		"street": "Vážska",
+		"city": "Trenčín",
+		"district": "",
+		"postcode": "91105"
+	},
+	{
+		"lon": "18.8557954",
+		"lat": "48.8791543",
+		"number": "22",
+		"street": "Budovateľská",
+		"city": "Turčianske Teplice",
+		"district": "",
+		"postcode": "03901"
+	},
+	{
+		"lon": "17.3558323",
+		"lat": "48.0937586",
+		"number": "99",
+		"street": "Funduš",
+		"city": "Štvrtok na Ostrove",
+		"district": "",
+		"postcode": "93040"
+	},
+	{
+		"lon": "20.6141423",
+		"lat": "48.5594444",
+		"number": "7",
+		"street": "Silická Jablonica",
+		"city": "Silická Jablonica",
+		"district": "",
+		"postcode": "04943"
+	},
+	{
+		"lon": "17.2629082",
+		"lat": "48.1810878",
+		"number": "58",
+		"street": "Hviezdoslavova",
+		"city": "Ivanka pri Dunaji",
+		"district": "",
+		"postcode": "90028"
+	},
+	{
+		"lon": "18.9915385",
+		"lat": "49.1009111",
+		"number": "24",
+		"street": "Námestie SNP",
+		"city": "Sučany",
+		"district": "",
+		"postcode": "03852"
+	},
+	{
+		"lon": "19.9415239",
+		"lat": "48.6802298",
+		"number": "0",
+		"street": "Francisciho",
+		"city": "Tisovec",
+		"district": "",
+		"postcode": "98061"
+	},
+	{
+		"lon": "18.2491763",
+		"lat": "48.0764579",
+		"number": "11",
+		"street": "Juraja Holčeka",
+		"city": "Dolný Ohaj",
+		"district": "",
+		"postcode": "94143"
+	},
+	{
+		"lon": "18.8737992",
+		"lat": "48.5912951",
+		"number": "150",
+		"street": "Partizánska",
+		"city": "Žiar nad Hronom",
+		"district": "",
+		"postcode": "96501"
+	},
+	{
+		"lon": "18.8750092",
+		"lat": "49.0536891",
+		"number": "526",
+		"street": "Bystrička",
+		"city": "Bystrička",
+		"district": "",
+		"postcode": "03804"
+	},
+	{
+		"lon": "17.6073971",
+		"lat": "47.8363196",
+		"number": "182",
+		"street": "Ňárad",
+		"city": "Ňárad",
+		"district": "",
+		"postcode": "93006"
+	},
+	{
+		"lon": "19.6719762",
+		"lat": "48.3235661",
+		"number": "23A",
+		"street": "Ulica J. Vargu",
+		"city": "Lučenec",
+		"district": "",
+		"postcode": "98401"
+	},
+	{
+		"lon": "19.1224311",
+		"lat": "49.2798265",
+		"number": "103",
+		"street": "Zázrivá",
+		"city": "Zázrivá",
+		"district": "",
+		"postcode": "02705"
+	},
+	{
+		"lon": "20.7989618",
+		"lat": "48.9483625",
+		"number": "139",
+		"street": "Vajanského",
+		"city": "Spišské Vlachy",
+		"district": "",
+		"postcode": "05361"
+	},
+	{
+		"lon": "18.0802566",
+		"lat": "48.8643282",
+		"number": "732",
+		"street": "Soblahov",
+		"city": "Soblahov",
+		"district": "",
+		"postcode": "91338"
+	},
+	{
+		"lon": "20.539288",
+		"lat": "49.0188981",
+		"number": "2795",
+		"street": "Levoča",
+		"city": "Levoča",
+		"district": "",
+		"postcode": "05401"
+	},
+	{
+		"lon": "18.3826671",
+		"lat": "48.3848959",
+		"number": "54",
+		"street": "1.mája",
+		"city": "Zlaté Moravce",
+		"district": "",
+		"postcode": "95301"
+	},
+	{
+		"lon": "18.7629257",
+		"lat": "48.738714",
+		"number": "13",
+		"street": "Mostná",
+		"city": "Handlová",
+		"district": "",
+		"postcode": "97251"
+	},
+	{
+		"lon": "18.6345546",
+		"lat": "49.0855212",
+		"number": "137",
+		"street": "Partizánska",
+		"city": "Rajec",
+		"district": "",
+		"postcode": "01501"
+	},
+	{
+		"lon": "19.8336634",
+		"lat": "49.0483021",
+		"number": "579",
+		"street": "Hybe",
+		"city": "Hybe",
+		"district": "",
+		"postcode": "03231"
+	},
+	{
+		"lon": "18.737126",
+		"lat": "49.2216903",
+		"number": "32",
+		"street": "Kuzmányho",
+		"city": "Žilina",
+		"district": "",
+		"postcode": "01001"
+	},
+	{
+		"lon": "17.2357065",
+		"lat": "48.5824432",
+		"number": "3",
+		"street": "Bílkove Humence",
+		"city": "Bílkove Humence",
+		"district": "",
+		"postcode": "90877"
+	},
+	{
+		"lon": "19.3352047",
+		"lat": "48.2399911",
+		"number": "68",
+		"street": "Jarmočná",
+		"city": "Modrý Kameň",
+		"district": "",
+		"postcode": "99201"
+	},
+	{
+		"lon": "19.1618832",
+		"lat": "48.7297309",
+		"number": "11",
+		"street": "Pod Turíčkou",
+		"city": "Banská Bystrica",
+		"district": "",
+		"postcode": "97401"
+	},
+	{
+		"lon": "18.8398695",
+		"lat": "49.0044719",
+		"number": "519",
+		"street": "Valča",
+		"city": "Valča",
+		"district": "",
+		"postcode": "03835"
+	},
+	{
+		"lon": "18.4151815",
+		"lat": "47.8942259",
+		"number": "620",
+		"street": "Strekov",
+		"city": "Strekov",
+		"district": "",
+		"postcode": "94137"
+	},
+	{
+		"lon": "17.6585696",
+		"lat": "48.3256209",
+		"number": "184",
+		"street": "Križovany nad Dudváhom",
+		"city": "Križovany nad Dudváhom",
+		"district": "",
+		"postcode": "91924"
+	},
+	{
+		"lon": "18.39159",
+		"lat": "48.3751407",
+		"number": "54",
+		"street": "Ľ. Podjavorinskej",
+		"city": "Zlaté Moravce",
+		"district": "",
+		"postcode": "95301"
+	},
+	{
+		"lon": "17.4432084",
+		"lat": "48.0114506",
+		"number": "73",
+		"street": "Blatná na Ostrove",
+		"city": "Blatná na Ostrove",
+		"district": "",
+		"postcode": "93032"
+	},
+	{
+		"lon": "18.1931832",
+		"lat": "48.742816",
+		"number": "160",
+		"street": "Ruskovce",
+		"city": "Ruskovce",
+		"district": "",
+		"postcode": "95654"
+	},
+	{
+		"lon": "18.4231004",
+		"lat": "49.2154681",
+		"number": "141",
+		"street": "Brvnište",
+		"city": "Brvnište",
+		"district": "",
+		"postcode": "01812"
+	},
+	{
+		"lon": "18.9401218",
+		"lat": "48.4058988",
+		"number": "155",
+		"street": "Svätý Anton",
+		"city": "Svätý Anton",
+		"district": "",
+		"postcode": "96972"
+	},
+	{
+		"lon": "21.2548842",
+		"lat": "48.7222438",
+		"number": "30",
+		"street": "Mäsiarska",
+		"city": "Košice-Staré Mesto",
+		"district": "",
+		"postcode": "04001"
+	},
+	{
+		"lon": "17.1078082",
+		"lat": "48.7861248",
+		"number": "20",
+		"street": "Hurbanova",
+		"city": "Kopčany",
+		"district": "",
+		"postcode": "90848"
+	},
+	{
+		"lon": "18.019948",
+		"lat": "47.9458467",
+		"number": "209",
+		"street": "Komoča",
+		"city": "Komoča",
+		"district": "",
+		"postcode": "94121"
+	},
+	{
+		"lon": "22.202525",
+		"lat": "48.7571997",
+		"number": "89",
+		"street": "Horňa",
+		"city": "Horňa",
+		"district": "",
+		"postcode": "07301"
+	},
+	{
+		"lon": "19.2304769",
+		"lat": "48.2739156",
+		"number": "122",
+		"street": "Sucháň",
+		"city": "Sucháň",
+		"district": "",
+		"postcode": "99135"
+	},
+	{
+		"lon": "17.5941309",
+		"lat": "48.3282801",
+		"number": "1",
+		"street": "Výhon",
+		"city": "Zeleneč",
+		"district": "",
+		"postcode": "91921"
+	},
+	{
+		"lon": "18.1439669",
+		"lat": "48.2188745",
+		"number": "14",
+		"street": "Cintorínska ulica",
+		"city": "Branč",
+		"district": "",
+		"postcode": "95113"
+	},
+	{
+		"lon": "19.1902587",
+		"lat": "48.7507729",
+		"number": "82",
+		"street": "Senická cesta",
+		"city": "Banská Bystrica",
+		"district": "",
+		"postcode": "97401"
+	},
+	{
+		"lon": "18.2084267",
+		"lat": "48.0718481",
+		"number": "3",
+		"street": "Riečna",
+		"city": "Šurany",
+		"district": "",
+		"postcode": "94201"
+	},
+	{
+		"lon": "18.0556114",
+		"lat": "48.9018232",
+		"number": "8",
+		"street": "Kpt.Nálepku",
+		"city": "Trenčín",
+		"district": "",
+		"postcode": "91101"
+	},
+	{
+		"lon": "18.9671387",
+		"lat": "49.038178",
+		"number": "49",
+		"street": "Dolný Kalník",
+		"city": "Dolný Kalník",
+		"district": "",
+		"postcode": "03802"
+	},
+	{
+		"lon": "17.9594362",
+		"lat": "48.8883515",
+		"number": "370",
+		"street": "Drietoma",
+		"city": "Drietoma",
+		"district": "",
+		"postcode": "91303"
+	},
+	{
+		"lon": "17.7651638",
+		"lat": "48.6292131",
+		"number": "262",
+		"street": "Ostrov",
+		"city": "Ostrov",
+		"district": "",
+		"postcode": "92201"
+	},
+	{
+		"lon": "19.4783523",
+		"lat": "49.4444713",
+		"number": "359",
+		"street": "Klin",
+		"city": "Klin",
+		"district": "",
+		"postcode": "02941"
+	},
+	{
+		"lon": "18.9212248",
+		"lat": "49.1283777",
+		"number": "0",
+		"street": "Pod Kanálom",
+		"city": "Lipovec",
+		"district": "",
+		"postcode": "03861"
+	},
+	{
+		"lon": "17.1353389",
+		"lat": "48.1718205",
+		"number": "23",
+		"street": "Lombardiniho",
+		"city": "Bratislava-Nové Mesto",
+		"district": "",
+		"postcode": "83103"
+	},
+	{
+		"lon": "19.9501793",
+		"lat": "48.469418",
+		"number": "4",
+		"street": "Kováčska",
+		"city": "Hrachovo",
+		"district": "",
+		"postcode": "98052"
+	},
+	{
+		"lon": "19.842318",
+		"lat": "48.5750939",
+		"number": "43",
+		"street": "Kukučínova",
+		"city": "Kokava nad Rimavicou",
+		"district": "",
+		"postcode": "98505"
+	},
+	{
+		"lon": "17.4419325",
+		"lat": "48.1995672",
+		"number": "18",
+		"street": "Kráľová pri Senci",
+		"city": "Kráľová pri Senci",
+		"district": "",
+		"postcode": "90050"
+	},
+	{
+		"lon": "18.5099205",
+		"lat": "48.1348558",
+		"number": "48",
+		"street": "Ondrejovce",
+		"city": "Ondrejovce",
+		"district": "",
+		"postcode": "93551"
+	},
+	{
+		"lon": "19.8804071",
+		"lat": "49.0556813",
+		"number": "899",
+		"street": "Východná",
+		"city": "Východná",
+		"district": "",
+		"postcode": "03232"
+	},
+	{
+		"lon": "17.7689918",
+		"lat": "48.6706372",
+		"number": "689",
+		"street": "Podolie",
+		"city": "Podolie",
+		"district": "",
+		"postcode": "91622"
+	},
+	{
+		"lon": "17.0300225",
+		"lat": "48.6610985",
+		"number": "87",
+		"street": "Štefánikova",
+		"city": "Kúty",
+		"district": "",
+		"postcode": "90801"
+	},
+	{
+		"lon": "18.2886665",
+		"lat": "48.2327884",
+		"number": "11",
+		"street": "Vráble",
+		"city": "Vráble",
+		"district": "",
+		"postcode": "95201"
+	},
+	{
+		"lon": "17.3000455",
+		"lat": "48.27772",
+		"number": "63",
+		"street": "Brezová",
+		"city": "Viničné",
+		"district": "",
+		"postcode": "90023"
+	},
+	{
+		"lon": "21.7294119",
+		"lat": "48.8760502",
+		"number": "40",
+		"street": "Letná",
+		"city": "Hencovce",
+		"district": "",
+		"postcode": "09302"
+	},
+	{
+		"lon": "17.2304",
+		"lat": "48.10213",
+		"number": "28",
+		"street": "Hlavná",
+		"city": "Rovinka",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "21.1880238",
+		"lat": "48.9260371",
+		"number": "133",
+		"street": "Radatice",
+		"city": "Radatice",
+		"district": "",
+		"postcode": "08242"
+	},
+	{
+		"lon": "20.5361858",
+		"lat": "48.6546144",
+		"number": "24",
+		"street": "Pavla Dobšinského",
+		"city": "Rožňava",
+		"district": "",
+		"postcode": "04801"
+	},
+	{
+		"lon": "18.0586282",
+		"lat": "48.350262",
+		"number": "31",
+		"street": "Topoľčianska",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "20.5510721",
+		"lat": "48.9371905",
+		"number": "38",
+		"street": "F. Urbánka",
+		"city": "Spišská Nová Ves",
+		"district": "",
+		"postcode": "05201"
+	},
+	{
+		"lon": "19.1379378",
+		"lat": "49.2742396",
+		"number": "159",
+		"street": "Zázrivá",
+		"city": "Zázrivá",
+		"district": "",
+		"postcode": "02705"
+	},
+	{
+		"lon": "17.4175835",
+		"lat": "48.1217565",
+		"number": "1",
+		"street": "Kolárska ulica",
+		"city": "Zlaté Klasy",
+		"district": "",
+		"postcode": "93039"
+	},
+	{
+		"lon": "18.5301218",
+		"lat": "48.107835",
+		"number": "2",
+		"street": "Lužianska",
+		"city": "Tekovské Lužany",
+		"district": "",
+		"postcode": "93541"
+	},
+	{
+		"lon": "18.9248789",
+		"lat": "49.0761616",
+		"number": "5",
+		"street": "Tomášikova",
+		"city": "Martin",
+		"district": "",
+		"postcode": "03601"
+	},
+	{
+		"lon": "18.3017787",
+		"lat": "48.2442779",
+		"number": "6",
+		"street": "Sídl. Žitava",
+		"city": "Vráble",
+		"district": "",
+		"postcode": "95201"
+	},
+	{
+		"lon": "18.3919603",
+		"lat": "48.3774056",
+		"number": "107",
+		"street": "Sládkovičova",
+		"city": "Zlaté Moravce",
+		"district": "",
+		"postcode": "95301"
+	},
+	{
+		"lon": "17.5686101",
+		"lat": "48.1660555",
+		"number": "47",
+		"street": "Piesková",
+		"city": "Veľké Úľany",
+		"district": "",
+		"postcode": "92522"
+	},
+	{
+		"lon": "18.0576179",
+		"lat": "48.3074173",
+		"number": "39",
+		"street": "Nitrianska",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "18.6391592",
+		"lat": "47.9140042",
+		"number": "22",
+		"street": "Bíňa",
+		"city": "Bíňa",
+		"district": "",
+		"postcode": "94356"
+	},
+	{
+		"lon": "17.608378",
+		"lat": "48.3528365",
+		"number": "47",
+		"street": "Ulica Seredská",
+		"city": "Trnava",
+		"district": "",
+		"postcode": "91705"
+	},
+	{
+		"lon": "17.1441932",
+		"lat": "48.6388846",
+		"number": "0",
+		"street": "Kláštorné nám.",
+		"city": "Šaštín-Stráže",
+		"district": "",
+		"postcode": "90841"
+	},
+	{
+		"lon": "20.6775668",
+		"lat": "49.2913772",
+		"number": "37",
+		"street": "Zimná",
+		"city": "Stará Ľubovňa",
+		"district": "",
+		"postcode": "06401"
+	},
+	{
+		"lon": "17.7772103",
+		"lat": "48.252942",
+		"number": "578",
+		"street": "Váhovce",
+		"city": "Váhovce",
+		"district": "",
+		"postcode": "92562"
+	},
+	{
+		"lon": "17.7868495",
+		"lat": "48.2468568",
+		"number": "318",
+		"street": "Váhovce",
+		"city": "Váhovce",
+		"district": "",
+		"postcode": "92562"
+	},
+	{
+		"lon": "18.1676315",
+		"lat": "48.5692564",
+		"number": "55",
+		"street": "Sládkovičova",
+		"city": "Topoľčany",
+		"district": "",
+		"postcode": "95501"
+	},
+	{
+		"lon": "18.9287007",
+		"lat": "48.9408746",
+		"number": "79",
+		"street": "Blatnica",
+		"city": "Blatnica",
+		"district": "",
+		"postcode": "03815"
+	},
+	{
+		"lon": "18.0990167",
+		"lat": "48.3267633",
+		"number": "12",
+		"street": "Svätoplukova",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "18.8806338",
+		"lat": "48.9127891",
+		"number": "14",
+		"street": "Dolný dvor",
+		"city": "Mošovce",
+		"district": "",
+		"postcode": "03821"
+	},
+	{
+		"lon": "18.0259488",
+		"lat": "48.8784385",
+		"number": "16",
+		"street": "Kalinčiakova",
+		"city": "Trenčín",
+		"district": "",
+		"postcode": "91101"
+	},
+	{
+		"lon": "18.4632298",
+		"lat": "48.4303968",
+		"number": "342",
+		"street": "Obyce",
+		"city": "Obyce",
+		"district": "",
+		"postcode": "95195"
+	},
+	{
+		"lon": "21.1678356",
+		"lat": "48.6313604",
+		"number": "10",
+		"street": "Kamenná",
+		"city": "Košice-Šaca",
+		"district": "",
+		"postcode": "04015"
+	},
+	{
+		"lon": "21.7160983",
+		"lat": "48.6084748",
+		"number": "32",
+		"street": "Repná",
+		"city": "Trebišov",
+		"district": "",
+		"postcode": "07501"
+	},
+	{
+		"lon": "19.5442356",
+		"lat": "49.1218842",
+		"number": "47",
+		"street": "Liptovský Trnovec",
+		"city": "Liptovský Trnovec",
+		"district": "",
+		"postcode": "03101"
+	},
+	{
+		"lon": "17.5644109",
+		"lat": "47.9934836",
+		"number": "8",
+		"street": "Kráľovičove Kračany",
+		"city": "Kráľovičove Kračany",
+		"district": "",
+		"postcode": "93003"
+	},
+	{
+		"lon": "18.8859271",
+		"lat": "48.8631698",
+		"number": "105",
+		"street": "Háj",
+		"city": "Háj",
+		"district": "",
+		"postcode": "03901"
+	},
+	{
+		"lon": "20.7479177",
+		"lat": "48.6072656",
+		"number": "262",
+		"street": "Hrhov",
+		"city": "Hrhov",
+		"district": "",
+		"postcode": "04944"
+	},
+	{
+		"lon": "18.0553868",
+		"lat": "48.8973118",
+		"number": "27",
+		"street": "Hodžova",
+		"city": "Trenčín",
+		"district": "",
+		"postcode": "91101"
+	},
+	{
+		"lon": "18.2833472",
+		"lat": "49.1513733",
+		"number": "395",
+		"street": "Dohňany",
+		"city": "Dohňany",
+		"district": "",
+		"postcode": "02051"
+	},
+	{
+		"lon": "17.788333",
+		"lat": "47.9708321",
+		"number": "10",
+		"street": "Krivá",
+		"city": "Topoľníky",
+		"district": "",
+		"postcode": "93011"
+	},
+	{
+		"lon": "21.8723752",
+		"lat": "48.7922569",
+		"number": "136",
+		"street": "Petrovce nad Laborcom",
+		"city": "Petrovce nad Laborcom",
+		"district": "",
+		"postcode": "07101"
+	},
+	{
+		"lon": "18.2717606",
+		"lat": "48.1052825",
+		"number": "22",
+		"street": "Nová",
+		"city": "Hul",
+		"district": "",
+		"postcode": "94144"
+	},
+	{
+		"lon": "19.3564116",
+		"lat": "48.7956821",
+		"number": "24",
+		"street": "Za Mlynom",
+		"city": "Medzibrod",
+		"district": "",
+		"postcode": "97696"
+	},
+	{
+		"lon": "18.2511037",
+		"lat": "49.1091388",
+		"number": "29",
+		"street": "Horná Breznica",
+		"city": "Horná Breznica",
+		"district": "",
+		"postcode": "02061"
+	},
+	{
+		"lon": "17.1920187",
+		"lat": "48.1516018",
+		"number": "35",
+		"street": "Podpriehradná",
+		"city": "Bratislava-Vrakuňa",
+		"district": "",
+		"postcode": "82107"
+	},
+	{
+		"lon": "17.4372716",
+		"lat": "48.46151",
+		"number": "518",
+		"street": "Horné Orešany",
+		"city": "Horné Orešany",
+		"district": "",
+		"postcode": "91903"
+	},
+	{
+		"lon": "17.2997325",
+		"lat": "48.1574037",
+		"number": "8",
+		"street": "Námestie 1. mája",
+		"city": "Malinovo",
+		"district": "",
+		"postcode": "90045"
+	},
+	{
+		"lon": "18.2503706",
+		"lat": "48.0743062",
+		"number": "25",
+		"street": "Geríb",
+		"city": "Dolný Ohaj",
+		"district": "",
+		"postcode": "94143"
+	},
+	{
+		"lon": "18.2730252",
+		"lat": "48.1055221",
+		"number": "117",
+		"street": "Hlavná ulica",
+		"city": "Hul",
+		"district": "",
+		"postcode": "94144"
+	},
+	{
+		"lon": "19.6528368",
+		"lat": "49.0828617",
+		"number": "1",
+		"street": "Dubová",
+		"city": "Liptovský Mikuláš",
+		"district": "",
+		"postcode": "03104"
+	},
+	{
+		"lon": "19.9176793",
+		"lat": "48.8552209",
+		"number": "56",
+		"street": "Mierová",
+		"city": "Závadka nad Hronom",
+		"district": "",
+		"postcode": "97667"
+	},
+	{
+		"lon": "17.855615",
+		"lat": "48.5847486",
+		"number": "30",
+		"street": "Pokojná",
+		"city": "Banka",
+		"district": "",
+		"postcode": "92101"
+	},
+	{
+		"lon": "18.9514689",
+		"lat": "48.0648967",
+		"number": "10",
+		"street": "Hontianska cesta",
+		"city": "Šahy",
+		"district": "",
+		"postcode": "93601"
+	},
+	{
+		"lon": "21.0028929",
+		"lat": "48.9916926",
+		"number": "137",
+		"street": "Chminianske Jakubovany",
+		"city": "Chminianske Jakubovany",
+		"district": "",
+		"postcode": "08233"
+	},
+	{
+		"lon": "17.2641599",
+		"lat": "48.2908948",
+		"number": "45",
+		"street": "Kupeckého",
+		"city": "Pezinok",
+		"district": "",
+		"postcode": "90201"
+	},
+	{
+		"lon": "20.63086",
+		"lat": "48.9142322",
+		"number": "47",
+		"street": "Sv.J.Nepomuckého",
+		"city": "Markušovce",
+		"district": "",
+		"postcode": "05321"
+	},
+	{
+		"lon": "18.9059605",
+		"lat": "49.0771562",
+		"number": "16",
+		"street": "Pivovarská",
+		"city": "Martin",
+		"district": "",
+		"postcode": "03601"
+	},
+	{
+		"lon": "18.6009186",
+		"lat": "47.7919582",
+		"number": "708",
+		"street": "Mužla",
+		"city": "Mužla",
+		"district": "",
+		"postcode": "94352"
+	},
+	{
+		"lon": "21.017888",
+		"lat": "48.9577735",
+		"number": "170",
+		"street": "Hrabkov",
+		"city": "Hrabkov",
+		"district": "",
+		"postcode": "08233"
+	},
+	{
+		"lon": "21.3464774",
+		"lat": "49.0041877",
+		"number": "10",
+		"street": "Podhradík",
+		"city": "Podhradík",
+		"district": "",
+		"postcode": "08006"
+	},
+	{
+		"lon": "18.4560294",
+		"lat": "48.3389277",
+		"number": "13",
+		"street": "Pekáreňská",
+		"city": "Volkovce",
+		"district": "",
+		"postcode": "95187"
+	},
+	{
+		"lon": "21.0103419",
+		"lat": "49.1852922",
+		"number": "111",
+		"street": "Milpoš",
+		"city": "Milpoš",
+		"district": "",
+		"postcode": "08271"
+	},
+	{
+		"lon": "17.5972912",
+		"lat": "48.5467106",
+		"number": "20",
+		"street": "Dechtice",
+		"city": "Dechtice",
+		"district": "",
+		"postcode": "91953"
+	},
+	{
+		"lon": "18.8722533",
+		"lat": "48.9956038",
+		"number": "26",
+		"street": "Benice",
+		"city": "Benice",
+		"district": "",
+		"postcode": "03842"
+	},
+	{
+		"lon": "21.359222",
+		"lat": "49.0404699",
+		"number": "40",
+		"street": "Lada",
+		"city": "Lada",
+		"district": "",
+		"postcode": "08212"
+	},
+	{
+		"lon": "20.4838231",
+		"lat": "48.4939216",
+		"number": "107",
+		"street": "Kečovo",
+		"city": "Kečovo",
+		"district": "",
+		"postcode": "04955"
+	},
+	{
+		"lon": "17.0988159",
+		"lat": "48.3438802",
+		"number": "221",
+		"street": "Jablonové",
+		"city": "Jablonové",
+		"district": "",
+		"postcode": "90054"
+	},
+	{
+		"lon": "18.2921327",
+		"lat": "48.237654",
+		"number": "127",
+		"street": "Vráble",
+		"city": "Vráble",
+		"district": "",
+		"postcode": "95201"
+	},
+	{
+		"lon": "19.4808878",
+		"lat": "49.4429714",
+		"number": "500",
+		"street": "Klin",
+		"city": "Klin",
+		"district": "",
+		"postcode": "02941"
+	},
+	{
+		"lon": "18.6764845",
+		"lat": "48.1812534",
+		"number": "82",
+		"street": "Levice",
+		"city": "Levice",
+		"district": "",
+		"postcode": "93401"
+	},
+	{
+		"lon": "16.9324938",
+		"lat": "48.4712165",
+		"number": "76",
+		"street": "Levárska",
+		"city": "Gajary",
+		"district": "",
+		"postcode": "90061"
+	},
+	{
+		"lon": "21.2923167",
+		"lat": "49.3272654",
+		"number": "8",
+		"street": "Hlavná",
+		"city": "Bardejov",
+		"district": "",
+		"postcode": "08501"
+	},
+	{
+		"lon": "18.9230647",
+		"lat": "48.9348127",
+		"number": "352",
+		"street": "Blatnica",
+		"city": "Blatnica",
+		"district": "",
+		"postcode": "03815"
+	},
+	{
+		"lon": "17.120213",
+		"lat": "48.1475871",
+		"number": "19",
+		"street": "Cintorínska",
+		"city": "Bratislava-Staré Mesto",
+		"district": "",
+		"postcode": "81108"
+	},
+	{
+		"lon": "17.0539161",
+		"lat": "48.2381107",
+		"number": "43",
+		"street": "Prídavková",
+		"city": "Bratislava-Záhorská Bystrica",
+		"district": "",
+		"postcode": "84106"
+	},
+	{
+		"lon": "18.8603834",
+		"lat": "48.4385377",
+		"number": "157",
+		"street": "Štiavnické Bane",
+		"city": "Štiavnické Bane",
+		"district": "",
+		"postcode": "96981"
+	},
+	{
+		"lon": "19.7344588",
+		"lat": "48.423521",
+		"number": "122",
+		"street": "Breznička",
+		"city": "Breznička",
+		"district": "",
+		"postcode": "98502"
+	},
+	{
+		"lon": "21.88226",
+		"lat": "48.6370919",
+		"number": "136",
+		"street": "Dúbravka",
+		"city": "Dúbravka",
+		"district": "",
+		"postcode": "07215"
+	},
+	{
+		"lon": "17.0990553",
+		"lat": "48.1163957",
+		"number": "2",
+		"street": "Andrusovova",
+		"city": "Bratislava-Petržalka",
+		"district": "",
+		"postcode": "85101"
+	},
+	{
+		"lon": "21.5895682",
+		"lat": "48.9842909",
+		"number": "149",
+		"street": "Vyšný Žipov",
+		"city": "Vyšný Žipov",
+		"district": "",
+		"postcode": "09433"
+	},
+	{
+		"lon": "18.1046654",
+		"lat": "47.992155",
+		"number": "4",
+		"street": "Múzejná",
+		"city": "Andovce",
+		"district": "",
+		"postcode": "94123"
+	},
+	{
+		"lon": "18.7524329",
+		"lat": "49.2198923",
+		"number": "80",
+		"street": "Predmestská",
+		"city": "Žilina",
+		"district": "",
+		"postcode": "01001"
+	},
+	{
+		"lon": "20.047488",
+		"lat": "48.511488",
+		"number": "12",
+		"street": "Hrušovo",
+		"city": "Hrušovo",
+		"district": "",
+		"postcode": "98025"
+	},
+	{
+		"lon": "20.02366",
+		"lat": "48.4930029",
+		"number": "17",
+		"street": "Lukovištia",
+		"city": "Lukovištia",
+		"district": "",
+		"postcode": "98026"
+	},
+	{
+		"lon": "18.3878277",
+		"lat": "48.3029551",
+		"number": "47",
+		"street": "Červený Hrádok",
+		"city": "Červený Hrádok",
+		"district": "",
+		"postcode": "95182"
+	},
+	{
+		"lon": "19.2971736",
+		"lat": "48.6076895",
+		"number": "39",
+		"street": "J. R. Poničana",
+		"city": "Očová",
+		"district": "",
+		"postcode": "96223"
+	},
+	{
+		"lon": "18.1484677",
+		"lat": "48.5635199",
+		"number": "42",
+		"street": "Komenského",
+		"city": "Topoľčany",
+		"district": "",
+		"postcode": "95501"
+	},
+	{
+		"lon": "21.2410074",
+		"lat": "48.7326948",
+		"number": "10",
+		"street": "Němcovej",
+		"city": "Košice-Sever",
+		"district": "",
+		"postcode": "04001"
+	},
+	{
+		"lon": "18.7479653",
+		"lat": "49.2234459",
+		"number": "9",
+		"street": "Nám. gen. M. R. Štefánika",
+		"city": "Žilina",
+		"district": "",
+		"postcode": "01001"
+	},
+	{
+		"lon": "20.5338056",
+		"lat": "48.6618364",
+		"number": "13",
+		"street": "Námestie baníkov",
+		"city": "Rožňava",
+		"district": "",
+		"postcode": "04801"
+	},
+	{
+		"lon": "19.4304539",
+		"lat": "49.0600948",
+		"number": "335",
+		"street": "Partizánska Ľupča",
+		"city": "Partizánska Ľupča",
+		"district": "",
+		"postcode": "03215"
+	},
+	{
+		"lon": "17.0418334",
+		"lat": "48.4411405",
+		"number": "19",
+		"street": "Táborisko",
+		"city": "Malacky",
+		"district": "",
+		"postcode": "90101"
+	},
+	{
+		"lon": "20.3275926",
+		"lat": "48.4222033",
+		"number": "11",
+		"street": "Daxnerova",
+		"city": "Tornaľa",
+		"district": "",
+		"postcode": "98201"
+	},
+	{
+		"lon": "21.2448795",
+		"lat": "48.7231731",
+		"number": "2",
+		"street": "Námestie L.Novomeského",
+		"city": "Košice-Staré Mesto",
+		"district": "",
+		"postcode": "04001"
+	},
+	{
+		"lon": "18.0407525",
+		"lat": "48.8958174",
+		"number": "21",
+		"street": "Palackého",
+		"city": "Trenčín",
+		"district": "",
+		"postcode": "91101"
+	},
+	{
+		"lon": "18.9055653",
+		"lat": "49.0352",
+		"number": "4",
+		"street": "Košťany nad Turcom",
+		"city": "Košťany nad Turcom",
+		"district": "",
+		"postcode": "03841"
+	},
+	{
+		"lon": "18.5400408",
+		"lat": "48.0997605",
+		"number": "39",
+		"street": "SNP",
+		"city": "Tekovské Lužany",
+		"district": "",
+		"postcode": "93541"
+	},
+	{
+		"lon": "22.0729343",
+		"lat": "48.5498722",
+		"number": "13",
+		"street": "Hadabuda",
+		"city": "Veľké Kapušany",
+		"district": "",
+		"postcode": "07901"
+	},
+	{
+		"lon": "20.4152949",
+		"lat": "48.9746858",
+		"number": "5",
+		"street": "Nová",
+		"city": "Hrabušice",
+		"district": "",
+		"postcode": "05315"
+	},
+	{
+		"lon": "17.1530358",
+		"lat": "48.2151272",
+		"number": "25",
+		"street": "Pri vinohradoch",
+		"city": "Bratislava-Rača",
+		"district": "",
+		"postcode": "83106"
+	},
+	{
+		"lon": "17.9333605",
+		"lat": "48.3113443",
+		"number": "0",
+		"street": "Veľká Urbankova",
+		"city": "Veľké Zálužie",
+		"district": "",
+		"postcode": "95135"
+	},
+	{
+		"lon": "17.2832138",
+		"lat": "48.2576971",
+		"number": "29",
+		"street": "Záhradná",
+		"city": "Slovenský Grob",
+		"district": "",
+		"postcode": "90026"
+	},
+	{
+		"lon": "17.860188",
+		"lat": "48.6025949",
+		"number": "24",
+		"street": "Kaštieľska",
+		"city": "Moravany nad Váhom",
+		"district": "",
+		"postcode": "92221"
+	},
+	{
+		"lon": "17.0961504",
+		"lat": "48.1592758",
+		"number": "13",
+		"street": "Gorazdova",
+		"city": "Bratislava-Staré Mesto",
+		"district": "",
+		"postcode": "81104"
+	},
+	{
+		"lon": "21.2582388",
+		"lat": "48.6866935",
+		"number": "11",
+		"street": "Ľanová",
+		"city": "Košice-Barca",
+		"district": "",
+		"postcode": "04017"
+	},
+	{
+		"lon": "17.1441",
+		"lat": "48.2208574",
+		"number": "61",
+		"street": "Zvončeková",
+		"city": "Bratislava-Rača",
+		"district": "",
+		"postcode": "83106"
+	},
+	{
+		"lon": "19.9330636",
+		"lat": "48.6945037",
+		"number": "0",
+		"street": "Hviezdoslavova",
+		"city": "Tisovec",
+		"district": "",
+		"postcode": "98061"
+	},
+	{
+		"lon": "21.8707949",
+		"lat": "48.3655021",
+		"number": "25",
+		"street": "Ružová",
+		"city": "Strážne",
+		"district": "",
+		"postcode": "07652"
+	},
+	{
+		"lon": "19.6648603",
+		"lat": "49.3607466",
+		"number": "298",
+		"street": "Liesek",
+		"city": "Liesek",
+		"district": "",
+		"postcode": "02712"
+	},
+	{
+		"lon": "21.9460693",
+		"lat": "48.6738348",
+		"number": "19",
+		"street": "Sliepkovce",
+		"city": "Sliepkovce",
+		"district": "",
+		"postcode": "07237"
+	},
+	{
+		"lon": "18.0728416",
+		"lat": "48.8641228",
+		"number": "444",
+		"street": "Soblahov",
+		"city": "Soblahov",
+		"district": "",
+		"postcode": "91338"
+	},
+	{
+		"lon": "18.1164971",
+		"lat": "48.2392317",
+		"number": "45",
+		"street": "Krakovská",
+		"city": "Ivanka pri Nitre",
+		"district": "",
+		"postcode": "95112"
+	},
+	{
+		"lon": "18.8580043",
+		"lat": "48.8761512",
+		"number": "3",
+		"street": "Červenej armády",
+		"city": "Turčianske Teplice",
+		"district": "",
+		"postcode": "03901"
+	},
+	{
+		"lon": "18.5298832",
+		"lat": "48.1008492",
+		"number": "59",
+		"street": "Tekovská",
+		"city": "Tekovské Lužany",
+		"district": "",
+		"postcode": "93541"
+	},
+	{
+		"lon": "19.3762335",
+		"lat": "49.2188753",
+		"number": "7",
+		"street": "Pucov",
+		"city": "Pucov",
+		"district": "",
+		"postcode": "02601"
+	},
+	{
+		"lon": "17.9705573",
+		"lat": "48.0251559",
+		"number": "1266",
+		"street": "Neded",
+		"city": "Neded",
+		"district": "",
+		"postcode": "92585"
+	},
+	{
+		"lon": "21.2689492",
+		"lat": "48.9941869",
+		"number": "36",
+		"street": "Exnárova",
+		"city": "Prešov",
+		"district": "",
+		"postcode": "08001"
+	},
+	{
+		"lon": "18.1656758",
+		"lat": "47.981378",
+		"number": "33",
+		"street": "G. Bethlena",
+		"city": "Nové Zámky",
+		"district": "",
+		"postcode": "94002"
+	},
+	{
+		"lon": "18.2156705",
+		"lat": "49.2349874",
+		"number": "342",
+		"street": "Lazy pod Makytou",
+		"city": "Lazy pod Makytou",
+		"district": "",
+		"postcode": "02055"
+	},
+	{
+		"lon": "17.4232072",
+		"lat": "48.6136277",
+		"number": "115",
+		"street": "Jablonica",
+		"city": "Jablonica",
+		"district": "",
+		"postcode": "90632"
+	},
+	{
+		"lon": "21.7331976",
+		"lat": "49.1069746",
+		"number": "27",
+		"street": "Piskorovce",
+		"city": "Piskorovce",
+		"district": "",
+		"postcode": "09405"
+	},
+	{
+		"lon": "18.1993554",
+		"lat": "48.9780773",
+		"number": "29",
+		"street": "Prejtská",
+		"city": "Dubnica nad Váhom",
+		"district": "",
+		"postcode": "01841"
+	},
+	{
+		"lon": "19.2814023",
+		"lat": "49.0814382",
+		"number": "34",
+		"street": "Hrabovská cesta",
+		"city": "Ružomberok",
+		"district": "",
+		"postcode": "03401"
+	},
+	{
+		"lon": "18.5636404",
+		"lat": "47.8676984",
+		"number": "173",
+		"street": "Šarkan",
+		"city": "Šarkan",
+		"district": "",
+		"postcode": "94342"
+	},
+	{
+		"lon": "20.0827628",
+		"lat": "48.2907783",
+		"number": "290",
+		"street": "Širkovce",
+		"city": "Širkovce",
+		"district": "",
+		"postcode": "98002"
+	},
+	{
+		"lon": "18.3841814",
+		"lat": "48.6298901",
+		"number": "11",
+		"street": "Tajovského",
+		"city": "Partizánske",
+		"district": "",
+		"postcode": "95803"
+	},
+	{
+		"lon": "17.3030905",
+		"lat": "48.2704615",
+		"number": "169",
+		"street": "Hlavná",
+		"city": "Viničné",
+		"district": "",
+		"postcode": "90023"
+	},
+	{
+		"lon": "18.1708565",
+		"lat": "48.9635436",
+		"number": "26",
+		"street": "Nad kostolom",
+		"city": "Dubnica nad Váhom",
+		"district": "",
+		"postcode": "01841"
+	},
+	{
+		"lon": "21.2274704",
+		"lat": "49.0552191",
+		"number": "5",
+		"street": "Orgovánová",
+		"city": "Veľký Šariš",
+		"district": "",
+		"postcode": "08221"
+	},
+	{
+		"lon": "21.4175297",
+		"lat": "49.0621227",
+		"number": "183",
+		"street": "Chmeľov",
+		"city": "Chmeľov",
+		"district": "",
+		"postcode": "08215"
+	},
+	{
+		"lon": "18.0708116",
+		"lat": "48.2948141",
+		"number": "45",
+		"street": "Čulenova",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "21.7214596",
+		"lat": "48.6171935",
+		"number": "1",
+		"street": "Gorkého",
+		"city": "Trebišov",
+		"district": "",
+		"postcode": "07501"
+	},
+	{
+		"lon": "21.3603639",
+		"lat": "48.6566927",
+		"number": "2",
+		"street": "Krátka",
+		"city": "Nižná Hutka",
+		"district": "",
+		"postcode": "04018"
+	},
+	{
+		"lon": "18.3335813",
+		"lat": "48.0559431",
+		"number": "18",
+		"street": "Veľké Lovce",
+		"city": "Veľké Lovce",
+		"district": "",
+		"postcode": "94142"
+	},
+	{
+		"lon": "18.0128958",
+		"lat": "48.9061602",
+		"number": "29A",
+		"street": "Na Vinohrady",
+		"city": "Trenčín",
+		"district": "",
+		"postcode": "91105"
+	},
+	{
+		"lon": "17.2551929",
+		"lat": "48.1909443",
+		"number": "6",
+		"street": "Matičná",
+		"city": "Ivanka pri Dunaji",
+		"district": "",
+		"postcode": "90028"
+	},
+	{
+		"lon": "17.2123319",
+		"lat": "48.2069475",
+		"number": "308",
+		"street": "Roľnícka",
+		"city": "Bratislava-Vajnory",
+		"district": "",
+		"postcode": "83107"
+	},
+	{
+		"lon": "18.8855554",
+		"lat": "48.9121079",
+		"number": "39",
+		"street": "J. Kollára",
+		"city": "Mošovce",
+		"district": "",
+		"postcode": "03821"
+	},
+	{
+		"lon": "17.783735",
+		"lat": "48.2543533",
+		"number": "101",
+		"street": "Váhovce",
+		"city": "Váhovce",
+		"district": "",
+		"postcode": "92562"
+	},
+	{
+		"lon": "19.1581634",
+		"lat": "48.7559183",
+		"number": "12",
+		"street": "Sásovská cesta",
+		"city": "Banská Bystrica",
+		"district": "",
+		"postcode": "97411"
+	},
+	{
+		"lon": "19.555131",
+		"lat": "48.4664116",
+		"number": "34",
+		"street": "Mýtna",
+		"city": "Mýtna",
+		"district": "",
+		"postcode": "98553"
+	},
+	{
+		"lon": "17.0126006",
+		"lat": "48.2701264",
+		"number": "19",
+		"street": "Wolkerova",
+		"city": "Stupava",
+		"district": "",
+		"postcode": "90031"
+	},
+	{
+		"lon": "17.4439087",
+		"lat": "48.0580664",
+		"number": "675",
+		"street": "Lehnice",
+		"city": "Lehnice",
+		"district": "",
+		"postcode": "93037"
+	},
+	{
+		"lon": "18.4994347",
+		"lat": "47.906867",
+		"number": "43",
+		"street": "Malokostolná ulica",
+		"city": "Svodín",
+		"district": "",
+		"postcode": "94354"
+	},
+	{
+		"lon": "17.1310385",
+		"lat": "48.1608423",
+		"number": "22",
+		"street": "Vajnorská",
+		"city": "Bratislava-Nové Mesto",
+		"district": "",
+		"postcode": "83104"
+	},
+	{
+		"lon": "22.1791298",
+		"lat": "48.7409497",
+		"number": "38",
+		"street": "Tyršova",
+		"city": "Sobrance",
+		"district": "",
+		"postcode": "07301"
+	},
+	{
+		"lon": "19.3578548",
+		"lat": "48.5338664",
+		"number": "182",
+		"street": "Stožok",
+		"city": "Stožok",
+		"district": "",
+		"postcode": "96212"
+	},
+	{
+		"lon": "18.7411995",
+		"lat": "49.2213872",
+		"number": "3",
+		"street": "Námestie Ľ. Štúra",
+		"city": "Žilina",
+		"district": "",
+		"postcode": "01001"
+	},
+	{
+		"lon": "17.2329084",
+		"lat": "48.2186031",
+		"number": "5",
+		"street": "Šalviová",
+		"city": "Chorvátsky Grob",
+		"district": "",
+		"postcode": "90025"
+	},
+	{
+		"lon": "21.7302901",
+		"lat": "49.0002959",
+		"number": "51",
+		"street": "Giglovce",
+		"city": "Giglovce",
+		"district": "",
+		"postcode": "09405"
+	},
+	{
+		"lon": "17.0364804",
+		"lat": "48.2683481",
+		"number": "17",
+		"street": "Kosatcová",
+		"city": "Stupava",
+		"district": "",
+		"postcode": "90031"
+	},
+	{
+		"lon": "18.7744949",
+		"lat": "49.3054869",
+		"number": "39",
+		"street": "Kukučinova",
+		"city": "Kysucké Nové Mesto",
+		"district": "",
+		"postcode": "02401"
+	},
+	{
+		"lon": "18.6412961",
+		"lat": "47.9227458",
+		"number": "78",
+		"street": "Bíňa",
+		"city": "Bíňa",
+		"district": "",
+		"postcode": "94356"
+	},
+	{
+		"lon": "18.1738142",
+		"lat": "48.5594417",
+		"number": "14",
+		"street": "Nám. M. R. Štefánika",
+		"city": "Topoľčany",
+		"district": "",
+		"postcode": "95501"
+	},
+	{
+		"lon": "19.6762345",
+		"lat": "49.0463616",
+		"number": "0",
+		"street": "Nová",
+		"city": "Liptovský Ján",
+		"district": "",
+		"postcode": "03203"
+	},
+	{
+		"lon": "17.0171596",
+		"lat": "48.4292546",
+		"number": "9",
+		"street": "V. Clementisa",
+		"city": "Malacky",
+		"district": "",
+		"postcode": "90101"
+	},
+	{
+		"lon": "17.8812371",
+		"lat": "48.6992731",
+		"number": "169",
+		"street": "Hrádok",
+		"city": "Hrádok",
+		"district": "",
+		"postcode": "91633"
+	},
+	{
+		"lon": "18.6000719",
+		"lat": "48.7751281",
+		"number": "5",
+		"street": "Stredná ulica",
+		"city": "Prievidza",
+		"district": "",
+		"postcode": "97101"
+	},
+	{
+		"lon": "18.8114312",
+		"lat": "48.0617016",
+		"number": "95",
+		"street": "Kubáňovo",
+		"city": "Kubáňovo",
+		"district": "",
+		"postcode": "93575"
+	},
+	{
+		"lon": "18.1433612",
+		"lat": "48.7398552",
+		"number": "82",
+		"street": "Veľké Držkovce",
+		"city": "Veľké Držkovce",
+		"district": "",
+		"postcode": "95654"
+	},
+	{
+		"lon": "17.7515994",
+		"lat": "48.119983",
+		"number": "482",
+		"street": "Horné Saliby",
+		"city": "Horné Saliby",
+		"district": "",
+		"postcode": "92503"
+	},
+	{
+		"lon": "17.2994806",
+		"lat": "48.1987753",
+		"number": "106",
+		"street": "Hlavná",
+		"city": "Bernolákovo",
+		"district": "",
+		"postcode": "90027"
+	},
+	{
+		"lon": "17.0622114",
+		"lat": "48.1534202",
+		"number": "66",
+		"street": "Líščie údolie",
+		"city": "Bratislava-Karlova Ves",
+		"district": "",
+		"postcode": "84104"
+	},
+	{
+		"lon": "18.5386906",
+		"lat": "48.241174",
+		"number": "17",
+		"street": "Poľná",
+		"city": "Starý Tekov",
+		"district": "",
+		"postcode": "93526"
+	},
+	{
+		"lon": "21.6705513",
+		"lat": "48.8760843",
+		"number": "18",
+		"street": "Ružová",
+		"city": "Vranov nad Topľou",
+		"district": "",
+		"postcode": "09303"
+	},
+	{
+		"lon": "18.9839564",
+		"lat": "49.1017949",
+		"number": "18",
+		"street": "Železničná",
+		"city": "Sučany",
+		"district": "",
+		"postcode": "03852"
+	},
+	{
+		"lon": "17.1647116",
+		"lat": "48.1700563",
+		"number": "49",
+		"street": "Bulharská",
+		"city": "Bratislava-Ružinov",
+		"district": "",
+		"postcode": "82104"
+	},
+	{
+		"lon": "21.2691127",
+		"lat": "49.0110208",
+		"number": "7",
+		"street": "Platanova",
+		"city": "Ľubotice",
+		"district": "",
+		"postcode": "08006"
+	},
+	{
+		"lon": "17.3026697",
+		"lat": "48.198804",
+		"number": "10",
+		"street": "Hviezdoslavova",
+		"city": "Bernolákovo",
+		"district": "",
+		"postcode": "90027"
+	},
+	{
+		"lon": "17.306644",
+		"lat": "48.033952",
+		"number": "13",
+		"street": "Vinohradská ulica",
+		"city": "Šamorín",
+		"district": "",
+		"postcode": "93101"
+	},
+	{
+		"lon": "18.0310117",
+		"lat": "48.8830077",
+		"number": "33",
+		"street": "Legionárska",
+		"city": "Trenčín",
+		"district": "",
+		"postcode": "91101"
+	},
+	{
+		"lon": "19.4754915",
+		"lat": "49.0533774",
+		"number": "88",
+		"street": "Ľubeľa",
+		"city": "Ľubeľa",
+		"district": "",
+		"postcode": "03214"
+	},
+	{
+		"lon": "18.9278211",
+		"lat": "48.7055244",
+		"number": "71",
+		"street": "Angyalova",
+		"city": "Kremnica",
+		"district": "",
+		"postcode": "96701"
+	},
+	{
+		"lon": "17.8016727",
+		"lat": "48.5923673",
+		"number": "82",
+		"street": "Vrbovská cesta",
+		"city": "Piešťany",
+		"district": "",
+		"postcode": "92101"
+	},
+	{
+		"lon": "18.0755951",
+		"lat": "48.8996038",
+		"number": "7",
+		"street": "Pádivého",
+		"city": "Trenčín",
+		"district": "",
+		"postcode": "91101"
+	},
+	{
+		"lon": "18.9262931",
+		"lat": "48.7052371",
+		"number": "59",
+		"street": "Angyalova",
+		"city": "Kremnica",
+		"district": "",
+		"postcode": "96701"
+	},
+	{
+		"lon": "18.3069774",
+		"lat": "47.7456771",
+		"number": "329",
+		"street": "Patince",
+		"city": "Patince",
+		"district": "",
+		"postcode": "94639"
+	},
+	{
+		"lon": "21.7677654",
+		"lat": "48.8102623",
+		"number": "251",
+		"street": "Nižný Hrušov",
+		"city": "Nižný Hrušov",
+		"district": "",
+		"postcode": "09422"
+	},
+	{
+		"lon": "18.8390516",
+		"lat": "48.9393526",
+		"number": "19",
+		"street": "Blažovce",
+		"city": "Blažovce",
+		"district": "",
+		"postcode": "03844"
+	},
+	{
+		"lon": "18.8973362",
+		"lat": "48.5785984",
+		"number": "97",
+		"street": "Žiar nad Hronom",
+		"city": "Žiar nad Hronom",
+		"district": "",
+		"postcode": "96501"
+	},
+	{
+		"lon": "18.0442288",
+		"lat": "47.7677059",
+		"number": "26",
+		"street": "Dlhá ul.",
+		"city": "Komárno",
+		"district": "",
+		"postcode": "94504"
+	},
+	{
+		"lon": "19.7344485",
+		"lat": "48.5630732",
+		"number": "15",
+		"street": "Ďubákovo",
+		"city": "Ďubákovo",
+		"district": "",
+		"postcode": "98507"
+	},
+	{
+		"lon": "18.0772554",
+		"lat": "48.295559",
+		"number": "6",
+		"street": "Cabajská",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "18.192499",
+		"lat": "48.0560239",
+		"number": "10",
+		"street": "Obrancov mieru",
+		"city": "Bánov",
+		"district": "",
+		"postcode": "94101"
+	},
+	{
+		"lon": "17.2822461",
+		"lat": "48.7624467",
+		"number": "38",
+		"street": "Radošovce",
+		"city": "Radošovce",
+		"district": "",
+		"postcode": "90863"
+	},
+	{
+		"lon": "18.1461647",
+		"lat": "47.9758779",
+		"number": "24",
+		"street": "Trávna",
+		"city": "Nové Zámky",
+		"district": "",
+		"postcode": "94002"
+	},
+	{
+		"lon": "21.2535935",
+		"lat": "48.7366281",
+		"number": "44",
+		"street": "Národná trieda",
+		"city": "Košice-Sever",
+		"district": "",
+		"postcode": "04001"
+	},
+	{
+		"lon": "21.5759047",
+		"lat": "48.8286843",
+		"number": "27",
+		"street": "Banské",
+		"city": "Banské",
+		"district": "",
+		"postcode": "09412"
+	},
+	{
+		"lon": "18.0689353",
+		"lat": "48.0928447",
+		"number": "32",
+		"street": "Dolná",
+		"city": "Tvrdošovce",
+		"district": "",
+		"postcode": "94110"
+	},
+	{
+		"lon": "17.3095384",
+		"lat": "48.0328884",
+		"number": "15",
+		"street": "Nová",
+		"city": "Šamorín",
+		"district": "",
+		"postcode": "93101"
+	},
+	{
+		"lon": "21.8880405",
+		"lat": "48.781008",
+		"number": "180",
+		"street": "Topolianska",
+		"city": "Michalovce",
+		"district": "",
+		"postcode": "07101"
+	},
+	{
+		"lon": "17.2065484",
+		"lat": "48.1515104",
+		"number": "11",
+		"street": "Mostná",
+		"city": "Bratislava-Vrakuňa",
+		"district": "",
+		"postcode": "82107"
+	},
+	{
+		"lon": "21.5765518",
+		"lat": "48.8281135",
+		"number": "46",
+		"street": "Banské",
+		"city": "Banské",
+		"district": "",
+		"postcode": "09412"
+	},
+	{
+		"lon": "17.7134235",
+		"lat": "48.332185",
+		"number": "39",
+		"street": "Krakovská",
+		"city": "Šúrovce",
+		"district": "",
+		"postcode": "91925"
+	},
+	{
+		"lon": "20.9336372",
+		"lat": "48.8506619",
+		"number": "53",
+		"street": "Banícke Námestie",
+		"city": "Gelnica",
+		"district": "",
+		"postcode": "05601"
+	},
+	{
+		"lon": "18.7979177",
+		"lat": "49.2272204",
+		"number": "26",
+		"street": "Školská",
+		"city": "Teplička nad Váhom",
+		"district": "",
+		"postcode": "01301"
+	},
+	{
+		"lon": "17.2731438",
+		"lat": "48.2870458",
+		"number": "10",
+		"street": "Meisslova",
+		"city": "Pezinok",
+		"district": "",
+		"postcode": "90201"
+	},
+	{
+		"lon": "17.8022879",
+		"lat": "48.513423",
+		"number": "79",
+		"street": "Dedinská",
+		"city": "Drahovce",
+		"district": "",
+		"postcode": "92241"
+	},
+	{
+		"lon": "19.3124279",
+		"lat": "49.2049006",
+		"number": "64",
+		"street": "E. Hroboňovej",
+		"city": "Dolný Kubín",
+		"district": "",
+		"postcode": "02601"
+	},
+	{
+		"lon": "18.8378435",
+		"lat": "49.2476555",
+		"number": "118",
+		"street": "Kotrčiná Lúčka",
+		"city": "Kotrčiná Lúčka",
+		"district": "",
+		"postcode": "01302"
+	},
+	{
+		"lon": "18.0401677",
+		"lat": "48.8946551",
+		"number": "3",
+		"street": "Mierové nám.",
+		"city": "Trenčín",
+		"district": "",
+		"postcode": "91101"
+	},
+	{
+		"lon": "19.5505107",
+		"lat": "49.3392985",
+		"number": "84",
+		"street": "Vladina",
+		"city": "Tvrdošín",
+		"district": "",
+		"postcode": "02744"
+	},
+	{
+		"lon": "21.2715526",
+		"lat": "48.9805803",
+		"number": "66",
+		"street": "Lesnícka",
+		"city": "Prešov",
+		"district": "",
+		"postcode": "08005"
+	},
+	{
+		"lon": "17.5900168",
+		"lat": "48.3850686",
+		"number": "16",
+		"street": "Ulica Jána Hajdóczyho",
+		"city": "Trnava",
+		"district": "",
+		"postcode": "91701"
+	},
+	{
+		"lon": "18.0064793",
+		"lat": "48.1253779",
+		"number": "230",
+		"street": "Jatov",
+		"city": "Jatov",
+		"district": "",
+		"postcode": "94110"
+	},
+	{
+		"lon": "17.6875864",
+		"lat": "48.649102",
+		"number": "700",
+		"street": "Prašník",
+		"city": "Prašník",
+		"district": "",
+		"postcode": "92211"
+	},
+	{
+		"lon": "17.2370391",
+		"lat": "48.2245931",
+		"number": "62",
+		"street": "Na Pasienku",
+		"city": "Chorvátsky Grob",
+		"district": "",
+		"postcode": "90025"
+	},
+	{
+		"lon": "18.0163908",
+		"lat": "48.8952991",
+		"number": "37",
+		"street": "Lipová",
+		"city": "Trenčín",
+		"district": "",
+		"postcode": "91105"
+	},
+	{
+		"lon": "18.2530885",
+		"lat": "49.2058335",
+		"number": "74",
+		"street": "Vydrná",
+		"city": "Vydrná",
+		"district": "",
+		"postcode": "02053"
+	},
+	{
+		"lon": "21.6845615",
+		"lat": "48.9370368",
+		"number": "67",
+		"street": "Vyšný Kazimír",
+		"city": "Vyšný Kazimír",
+		"district": "",
+		"postcode": "09409"
+	},
+	{
+		"lon": "19.0634665",
+		"lat": "48.3557139",
+		"number": "2",
+		"street": "Nová",
+		"city": "Krupina",
+		"district": "",
+		"postcode": "96301"
+	},
+	{
+		"lon": "17.8228136",
+		"lat": "48.6015501",
+		"number": "60",
+		"street": "Vodárenská",
+		"city": "Piešťany",
+		"district": "",
+		"postcode": "92101"
+	},
+	{
+		"lon": "16.916625",
+		"lat": "48.4178059",
+		"number": "479",
+		"street": "Jakubov",
+		"city": "Jakubov",
+		"district": "",
+		"postcode": "90063"
+	},
+	{
+		"lon": "17.1668992",
+		"lat": "48.1606841",
+		"number": "8",
+		"street": "Ostredková",
+		"city": "Bratislava-Ružinov",
+		"district": "",
+		"postcode": "82102"
+	},
+	{
+		"lon": "17.2538643",
+		"lat": "48.1872726",
+		"number": "9",
+		"street": "Cintorínska",
+		"city": "Ivanka pri Dunaji",
+		"district": "",
+		"postcode": "90028"
+	},
+	{
+		"lon": "18.7217715",
+		"lat": "49.2385021",
+		"number": "33",
+		"street": "Pod Laščeky",
+		"city": "Žilina",
+		"district": "",
+		"postcode": "01003"
+	},
+	{
+		"lon": "18.8524302",
+		"lat": "49.2663471",
+		"number": "106",
+		"street": "Dolný Vadičov",
+		"city": "Dolný Vadičov",
+		"district": "",
+		"postcode": "02345"
+	},
+	{
+		"lon": "17.2389037",
+		"lat": "48.2203691",
+		"number": "34",
+		"street": "Bottova",
+		"city": "Chorvátsky Grob",
+		"district": "",
+		"postcode": "90025"
+	},
+	{
+		"lon": "18.9214438",
+		"lat": "48.7008426",
+		"number": "3",
+		"street": "Sama Chalupku",
+		"city": "Kremnica",
+		"district": "",
+		"postcode": "96701"
+	},
+	{
+		"lon": "18.4891348",
+		"lat": "48.890912",
+		"number": "271",
+		"street": "Čavoj",
+		"city": "Čavoj",
+		"district": "",
+		"postcode": "97229"
+	},
+	{
+		"lon": "17.2706019",
+		"lat": "48.6522278",
+		"number": "207",
+		"street": "Šajdíkove Humence",
+		"city": "Šajdíkove Humence",
+		"district": "",
+		"postcode": "90607"
+	},
+	{
+		"lon": "18.1316818",
+		"lat": "47.7663195",
+		"number": "45",
+		"street": "Ul. práce",
+		"city": "Komárno",
+		"district": "",
+		"postcode": "94501"
+	},
+	{
+		"lon": "18.3468847",
+		"lat": "48.0107916",
+		"number": "110",
+		"street": "Semerovo",
+		"city": "Semerovo",
+		"district": "",
+		"postcode": "94132"
+	},
+	{
+		"lon": "21.3772861",
+		"lat": "49.3454551",
+		"number": "32",
+		"street": "Šarišské Čierne",
+		"city": "Šarišské Čierne",
+		"district": "",
+		"postcode": "08637"
+	},
+	{
+		"lon": "18.5149827",
+		"lat": "49.1797772",
+		"number": "155",
+		"street": "Maršová-Rašov",
+		"city": "Maršová-Rašov",
+		"district": "",
+		"postcode": "01351"
+	},
+	{
+		"lon": "17.2103737",
+		"lat": "48.6346491",
+		"number": "39",
+		"street": "Na Barine",
+		"city": "Borský Mikuláš",
+		"district": "",
+		"postcode": "90877"
+	},
+	{
+		"lon": "18.9853131",
+		"lat": "49.1015362",
+		"number": "23A",
+		"street": "J.A.Komenského",
+		"city": "Sučany",
+		"district": "",
+		"postcode": "03852"
+	},
+	{
+		"lon": "21.2702031",
+		"lat": "48.9873449",
+		"number": "24",
+		"street": "L.Novomeského",
+		"city": "Prešov",
+		"district": "",
+		"postcode": "08001"
+	},
+	{
+		"lon": "17.1896648",
+		"lat": "48.5767086",
+		"number": "309",
+		"street": "Lakšárska Nová Ves",
+		"city": "Lakšárska Nová Ves",
+		"district": "",
+		"postcode": "90876"
+	},
+	{
+		"lon": "19.314667",
+		"lat": "49.1854402",
+		"number": "8",
+		"street": "Hviezdoslavova",
+		"city": "Vyšný Kubín",
+		"district": "",
+		"postcode": "02601"
+	},
+	{
+		"lon": "20.6725759",
+		"lat": "48.5967981",
+		"number": "28",
+		"street": "Jablonov nad Turňou",
+		"city": "Jablonov nad Turňou",
+		"district": "",
+		"postcode": "04943"
+	},
+	{
+		"lon": "18.6415824",
+		"lat": "47.8904545",
+		"number": "50",
+		"street": "Kamenín",
+		"city": "Kamenín",
+		"district": "",
+		"postcode": "94357"
+	},
+	{
+		"lon": "18.9338756",
+		"lat": "48.4433851",
+		"number": "8",
+		"street": "Drieňová",
+		"city": "Banská Štiavnica",
+		"district": "",
+		"postcode": "96901"
+	},
+	{
+		"lon": "18.8481764",
+		"lat": "48.1146379",
+		"number": "66",
+		"street": "Dolné Semerovce",
+		"city": "Dolné Semerovce",
+		"district": "",
+		"postcode": "93585"
+	},
+	{
+		"lon": "21.1377164",
+		"lat": "49.1011164",
+		"number": "74",
+		"street": "Záhradná",
+		"city": "Jakubovany",
+		"district": "",
+		"postcode": "08301"
+	},
+	{
+		"lon": "19.1918347",
+		"lat": "48.7535269",
+		"number": "105",
+		"street": "Senická cesta",
+		"city": "Banská Bystrica",
+		"district": "",
+		"postcode": "97401"
+	},
+	{
+		"lon": "21.6962651",
+		"lat": "49.0600749",
+		"number": "15",
+		"street": "Nová Kelča",
+		"city": "Nová Kelča",
+		"district": "",
+		"postcode": "09404"
+	},
+	{
+		"lon": "17.574467",
+		"lat": "48.3808969",
+		"number": "12",
+		"street": "Ulica Terézie Vansovej",
+		"city": "Trnava",
+		"district": "",
+		"postcode": "91701"
+	},
+	{
+		"lon": "19.0754893",
+		"lat": "48.7581688",
+		"number": "1",
+		"street": "Na ihrisko",
+		"city": "Riečka",
+		"district": "",
+		"postcode": "97401"
+	},
+	{
+		"lon": "20.8015472",
+		"lat": "48.9436517",
+		"number": "14",
+		"street": "Kukučínova",
+		"city": "Spišské Vlachy",
+		"district": "",
+		"postcode": "05361"
+	},
+	{
+		"lon": "18.4575182",
+		"lat": "48.4268684",
+		"number": "441",
+		"street": "Obyce",
+		"city": "Obyce",
+		"district": "",
+		"postcode": "95195"
+	},
+	{
+		"lon": "18.5074297",
+		"lat": "47.9016581",
+		"number": "66",
+		"street": "Dolná mlynská ulica",
+		"city": "Svodín",
+		"district": "",
+		"postcode": "94354"
+	},
+	{
+		"lon": "21.2769272",
+		"lat": "48.8705057",
+		"number": "52",
+		"street": "Žižkova",
+		"city": "Drienov",
+		"district": "",
+		"postcode": "08204"
+	},
+	{
+		"lon": "18.0686919",
+		"lat": "48.3099712",
+		"number": "61",
+		"street": "Štúrova",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "21.2378282",
+		"lat": "49.0000373",
+		"number": "0",
+		"street": "Okružná",
+		"city": "Prešov",
+		"district": "",
+		"postcode": "08001"
+	},
+	{
+		"lon": "20.2871694",
+		"lat": "48.3676527",
+		"number": "27",
+		"street": "Rumince",
+		"city": "Rumince",
+		"district": "",
+		"postcode": "98050"
+	},
+	{
+		"lon": "17.4165205",
+		"lat": "48.118333",
+		"number": "42",
+		"street": "Nový Rad",
+		"city": "Zlaté Klasy",
+		"district": "",
+		"postcode": "93039"
+	},
+	{
+		"lon": "17.7569639",
+		"lat": "48.4570897",
+		"number": "21",
+		"street": "Bernolákova",
+		"city": "Červeník",
+		"district": "",
+		"postcode": "92042"
+	},
+	{
+		"lon": "18.1874895",
+		"lat": "48.083505",
+		"number": "61",
+		"street": "Bernolákova",
+		"city": "Šurany",
+		"district": "",
+		"postcode": "94201"
+	},
+	{
+		"lon": "18.0411032",
+		"lat": "48.0945002",
+		"number": "9",
+		"street": "Jánošíkovská cesta",
+		"city": "Tvrdošovce",
+		"district": "",
+		"postcode": "94110"
+	},
+	{
+		"lon": "19.1410761",
+		"lat": "48.7351536",
+		"number": "17",
+		"street": "M. Rázusa",
+		"city": "Banská Bystrica",
+		"district": "",
+		"postcode": "97401"
+	},
+	{
+		"lon": "17.1294267",
+		"lat": "48.6742564",
+		"number": "138",
+		"street": "Smolinské",
+		"city": "Smolinské",
+		"district": "",
+		"postcode": "90842"
+	},
+	{
+		"lon": "19.5009721",
+		"lat": "49.1478303",
+		"number": "80",
+		"street": "Prosiek",
+		"city": "Prosiek",
+		"district": "",
+		"postcode": "03223"
+	},
+	{
+		"lon": "21.263923",
+		"lat": "48.7292111",
+		"number": "27",
+		"street": "Masarykova",
+		"city": "Košice-Staré Mesto",
+		"district": "",
+		"postcode": "04001"
+	},
+	{
+		"lon": "18.8369271",
+		"lat": "49.2504549",
+		"number": "97",
+		"street": "Kotrčiná Lúčka",
+		"city": "Kotrčiná Lúčka",
+		"district": "",
+		"postcode": "01302"
+	},
+	{
+		"lon": "19.0817049",
+		"lat": "49.1213537",
+		"number": "9",
+		"street": "Osloboditeľov",
+		"city": "Krpeľany",
+		"district": "",
+		"postcode": "03854"
+	},
+	{
+		"lon": "19.3376106",
+		"lat": "48.2371376",
+		"number": "25",
+		"street": "Športová",
+		"city": "Modrý Kameň",
+		"district": "",
+		"postcode": "99201"
+	},
+	{
+		"lon": "18.3321757",
+		"lat": "48.6320622",
+		"number": "26",
+		"street": "Prvá za parkom",
+		"city": "Partizánske",
+		"district": "",
+		"postcode": "95801"
+	},
+	{
+		"lon": "18.7196327",
+		"lat": "49.2270805",
+		"number": "15",
+		"street": "Kragujevská",
+		"city": "Žilina",
+		"district": "",
+		"postcode": "01001"
+	},
+	{
+		"lon": "20.3001855",
+		"lat": "48.7015234",
+		"number": "35",
+		"street": "Rochovce",
+		"city": "Rochovce",
+		"district": "",
+		"postcode": "04936"
+	},
+	{
+		"lon": "18.9389046",
+		"lat": "48.4281191",
+		"number": "382",
+		"street": "Svätý Anton",
+		"city": "Svätý Anton",
+		"district": "",
+		"postcode": "96972"
+	},
+	{
+		"lon": "20.5146619",
+		"lat": "48.6693003",
+		"number": "112",
+		"street": "Rožňava",
+		"city": "Rožňava",
+		"district": "",
+		"postcode": "04801"
+	},
+	{
+		"lon": "18.6174461",
+		"lat": "48.209344",
+		"number": "6",
+		"street": "Vinohradnícka ul.",
+		"city": "Levice",
+		"district": "",
+		"postcode": "93401"
+	},
+	{
+		"lon": "21.1857033",
+		"lat": "49.043489",
+		"number": "12",
+		"street": "Zámocká",
+		"city": "Veľký Šariš",
+		"district": "",
+		"postcode": "08221"
+	},
+	{
+		"lon": "17.1607209",
+		"lat": "48.2104071",
+		"number": "12",
+		"street": "Výhonská",
+		"city": "Bratislava-Rača",
+		"district": "",
+		"postcode": "83106"
+	},
+	{
+		"lon": "18.33874",
+		"lat": "48.0639069",
+		"number": "327",
+		"street": "Veľké Lovce",
+		"city": "Veľké Lovce",
+		"district": "",
+		"postcode": "94142"
+	},
+	{
+		"lon": "21.2933664",
+		"lat": "48.739274",
+		"number": "50",
+		"street": "Ortvaňová",
+		"city": "Košice-Košická Nová Ves",
+		"district": "",
+		"postcode": "04014"
+	},
+	{
+		"lon": "21.9426169",
+		"lat": "48.7415438",
+		"number": "27",
+		"street": "Kapušianska",
+		"city": "Michalovce",
+		"district": "",
+		"postcode": "07101"
+	},
+	{
+		"lon": "18.3557767",
+		"lat": "48.6256328",
+		"number": "28",
+		"street": "Javorová",
+		"city": "Partizánske",
+		"district": "",
+		"postcode": "95804"
+	},
+	{
+		"lon": "17.9761339",
+		"lat": "48.0181559",
+		"number": "1166",
+		"street": "Neded",
+		"city": "Neded",
+		"district": "",
+		"postcode": "92585"
+	},
+	{
+		"lon": "21.2814942",
+		"lat": "49.0129304",
+		"number": "91",
+		"street": "Makarenkova",
+		"city": "Ľubotice",
+		"district": "",
+		"postcode": "08006"
+	},
+	{
+		"lon": "17.30071",
+		"lat": "48.0266364",
+		"number": "39",
+		"street": "Záhradnícka",
+		"city": "Šamorín",
+		"district": "",
+		"postcode": "93101"
+	},
+	{
+		"lon": "17.23492",
+		"lat": "48.09692",
+		"number": "4",
+		"street": "Sadová",
+		"city": "Rovinka",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "17.5889814",
+		"lat": "48.7900194",
+		"number": "136",
+		"street": "Stará Myjava",
+		"city": "Stará Myjava",
+		"district": "",
+		"postcode": "90701"
+	},
+	{
+		"lon": "17.0115199",
+		"lat": "48.6901396",
+		"number": "36",
+		"street": "Kukučínova",
+		"city": "Brodské",
+		"district": "",
+		"postcode": "90885"
+	},
+	{
+		"lon": "17.6646923",
+		"lat": "48.1765587",
+		"number": "398",
+		"street": "Košúty",
+		"city": "Košúty",
+		"district": "",
+		"postcode": "92509"
+	},
+	{
+		"lon": "17.1014001",
+		"lat": "48.1543531",
+		"number": "14",
+		"street": "Boženy Němcovej",
+		"city": "Bratislava-Staré Mesto",
+		"district": "",
+		"postcode": "81104"
+	},
+	{
+		"lon": "18.2660448",
+		"lat": "48.0443583",
+		"number": "412",
+		"street": "Bešeňov",
+		"city": "Bešeňov",
+		"district": "",
+		"postcode": "94141"
+	},
+	{
+		"lon": "17.153401",
+		"lat": "48.045875",
+		"number": "22",
+		"street": "Balkánska",
+		"city": "Bratislava-Rusovce",
+		"district": "",
+		"postcode": "85110"
+	},
+	{
+		"lon": "20.9525119",
+		"lat": "49.184524",
+		"number": "540",
+		"street": "Kamenica",
+		"city": "Kamenica",
+		"district": "",
+		"postcode": "08271"
+	},
+	{
+		"lon": "19.9598193",
+		"lat": "48.4481874",
+		"number": "6",
+		"street": "Veľké Teriakovce",
+		"city": "Veľké Teriakovce",
+		"district": "",
+		"postcode": "98052"
+	},
+	{
+		"lon": "20.1021991",
+		"lat": "48.340765",
+		"number": "1",
+		"street": "Belín",
+		"city": "Belín",
+		"district": "",
+		"postcode": "98001"
+	},
+	{
+		"lon": "17.7497748",
+		"lat": "48.2684256",
+		"number": "678",
+		"street": "Dolná Streda",
+		"city": "Dolná Streda",
+		"district": "",
+		"postcode": "92563"
+	},
+	{
+		"lon": "20.9264761",
+		"lat": "48.8556209",
+		"number": "78",
+		"street": "Banícka",
+		"city": "Gelnica",
+		"district": "",
+		"postcode": "05601"
+	},
+	{
+		"lon": "21.7497981",
+		"lat": "48.8808612",
+		"number": "77",
+		"street": "Kladzany",
+		"city": "Kladzany",
+		"district": "",
+		"postcode": "09421"
+	},
+	{
+		"lon": "21.2600765",
+		"lat": "48.5527484",
+		"number": "146",
+		"street": "Kechnec",
+		"city": "Kechnec",
+		"district": "",
+		"postcode": "04458"
+	},
+	{
+		"lon": "17.6125732",
+		"lat": "47.8332636",
+		"number": "357",
+		"street": "Ňárad",
+		"city": "Ňárad",
+		"district": "",
+		"postcode": "93006"
+	},
+	{
+		"lon": "17.3499236",
+		"lat": "48.6749466",
+		"number": "52",
+		"street": "Železničná",
+		"city": "Senica",
+		"district": "",
+		"postcode": "90501"
+	},
+	{
+		"lon": "17.2838616",
+		"lat": "48.7629234",
+		"number": "144",
+		"street": "Radošovce",
+		"city": "Radošovce",
+		"district": "",
+		"postcode": "90863"
+	},
+	{
+		"lon": "21.6550343",
+		"lat": "48.9103654",
+		"number": "109",
+		"street": "Nižný Kručov",
+		"city": "Nižný Kručov",
+		"district": "",
+		"postcode": "09301"
+	},
+	{
+		"lon": "18.9228401",
+		"lat": "49.1096689",
+		"number": "15",
+		"street": "Nábrežná",
+		"city": "Vrútky",
+		"district": "",
+		"postcode": "03861"
+	},
+	{
+		"lon": "17.0921102",
+		"lat": "48.1452307",
+		"number": "4",
+		"street": "Staroturský chodník",
+		"city": "Bratislava-Staré Mesto",
+		"district": "",
+		"postcode": "81101"
+	},
+	{
+		"lon": "20.4283245",
+		"lat": "49.087361",
+		"number": "72",
+		"street": "Vrbov",
+		"city": "Vrbov",
+		"district": "",
+		"postcode": "05972"
+	},
+	{
+		"lon": "19.9459424",
+		"lat": "48.1705209",
+		"number": "95",
+		"street": "Nová Bašta",
+		"city": "Nová Bašta",
+		"district": "",
+		"postcode": "98034"
+	},
+	{
+		"lon": "20.209704",
+		"lat": "49.133415",
+		"number": "56",
+		"street": "Vysoké Tatry",
+		"city": "Vysoké Tatry",
+		"district": "",
+		"postcode": "06201"
+	},
+	{
+		"lon": "20.539288",
+		"lat": "49.0188981",
+		"number": "1816",
+		"street": "Levoča",
+		"city": "Levoča",
+		"district": "",
+		"postcode": "05401"
+	},
+	{
+		"lon": "17.3934216",
+		"lat": "48.3886188",
+		"number": "154",
+		"street": "Štefanová",
+		"city": "Štefanová",
+		"district": "",
+		"postcode": "90086"
+	},
+	{
+		"lon": "17.8578424",
+		"lat": "48.5775979",
+		"number": "149",
+		"street": "Podhorská",
+		"city": "Banka",
+		"district": "",
+		"postcode": "92101"
+	},
+	{
+		"lon": "18.8780261",
+		"lat": "49.0511393",
+		"number": "396",
+		"street": "Bystrička",
+		"city": "Bystrička",
+		"district": "",
+		"postcode": "03804"
+	},
+	{
+		"lon": "19.4890265",
+		"lat": "49.4144454",
+		"number": "0",
+		"street": "Kliňanská cesta",
+		"city": "Námestovo",
+		"district": "",
+		"postcode": "02901"
+	},
+	{
+		"lon": "17.0677182",
+		"lat": "48.6438941",
+		"number": "202",
+		"street": "Kuklov",
+		"city": "Kuklov",
+		"district": "",
+		"postcode": "90878"
+	},
+	{
+		"lon": "18.3932752",
+		"lat": "48.632033",
+		"number": "50",
+		"street": "Jilemnického",
+		"city": "Partizánske",
+		"district": "",
+		"postcode": "95803"
+	},
+	{
+		"lon": "20.2761303",
+		"lat": "48.3149186",
+		"number": "92",
+		"street": "Číž",
+		"city": "Číž",
+		"district": "",
+		"postcode": "98043"
+	},
+	{
+		"lon": "18.0954883",
+		"lat": "48.3272981",
+		"number": "9",
+		"street": "Pod Zlatým brehom",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "18.0849694",
+		"lat": "48.3334127",
+		"number": "6",
+		"street": "Šafranová",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "17.9948056",
+		"lat": "48.8922331",
+		"number": "18",
+		"street": "Dolné Pažite",
+		"city": "Trenčín",
+		"district": "",
+		"postcode": "91105"
+	},
+	{
+		"lon": "18.6356404",
+		"lat": "49.0837338",
+		"number": "13",
+		"street": "Pri Rajčanke",
+		"city": "Rajec",
+		"district": "",
+		"postcode": "01501"
+	},
+	{
+		"lon": "19.1468136",
+		"lat": "48.6685592",
+		"number": "90",
+		"street": "Vlkanovská",
+		"city": "Vlkanová",
+		"district": "",
+		"postcode": "97631"
+	},
+	{
+		"lon": "19.8804991",
+		"lat": "48.5965096",
+		"number": "0",
+		"street": "Kpt.Nálepku",
+		"city": "Klenovec",
+		"district": "",
+		"postcode": "98055"
+	},
+	{
+		"lon": "17.0950284",
+		"lat": "48.6560446",
+		"number": "23",
+		"street": "Agnelliho",
+		"city": "Čáry",
+		"district": "",
+		"postcode": "90843"
+	},
+	{
+		"lon": "18.1757318",
+		"lat": "47.9818256",
+		"number": "3",
+		"street": "Továrenská",
+		"city": "Nové Zámky",
+		"district": "",
+		"postcode": "94002"
+	},
+	{
+		"lon": "17.1626655",
+		"lat": "48.1472497",
+		"number": "24",
+		"street": "Kladnianska",
+		"city": "Bratislava-Ružinov",
+		"district": "",
+		"postcode": "82105"
+	},
+	{
+		"lon": "19.4020138",
+		"lat": "48.2995002",
+		"number": "43",
+		"street": "Brusník",
+		"city": "Brusník",
+		"district": "",
+		"postcode": "99101"
+	},
+	{
+		"lon": "18.1536332",
+		"lat": "48.1866368",
+		"number": "56",
+		"street": "Mlynská",
+		"city": "Veľký Kýr",
+		"district": "",
+		"postcode": "94107"
+	},
+	{
+		"lon": "18.1624288",
+		"lat": "49.2079945",
+		"number": "682",
+		"street": "Lysá pod Makytou",
+		"city": "Lysá pod Makytou",
+		"district": "",
+		"postcode": "02054"
+	},
+	{
+		"lon": "21.3618541",
+		"lat": "49.0816863",
+		"number": "1",
+		"street": "Chmeľovec",
+		"city": "Chmeľovec",
+		"district": "",
+		"postcode": "08212"
+	},
+	{
+		"lon": "19.9050175",
+		"lat": "48.5122809",
+		"number": "56",
+		"street": "Lehota nad Rimavicou",
+		"city": "Lehota nad Rimavicou",
+		"district": "",
+		"postcode": "98053"
+	},
+	{
+		"lon": "21.8852283",
+		"lat": "48.6337433",
+		"number": "229",
+		"street": "Dúbravka",
+		"city": "Dúbravka",
+		"district": "",
+		"postcode": "07215"
+	},
+	{
+		"lon": "17.1693107",
+		"lat": "48.1741026",
+		"number": "7",
+		"street": "Táborská",
+		"city": "Bratislava-Ružinov",
+		"district": "",
+		"postcode": "82104"
+	},
+	{
+		"lon": "21.6638479",
+		"lat": "48.8792687",
+		"number": "28",
+		"street": "Zimná",
+		"city": "Vranov nad Topľou",
+		"district": "",
+		"postcode": "09303"
+	},
+	{
+		"lon": "17.3056736",
+		"lat": "48.3386513",
+		"number": "20",
+		"street": "Vinárska",
+		"city": "Modra",
+		"district": "",
+		"postcode": "90001"
+	},
+	{
+		"lon": "18.2502642",
+		"lat": "48.0779466",
+		"number": "156",
+		"street": "Hlavná",
+		"city": "Dolný Ohaj",
+		"district": "",
+		"postcode": "94143"
+	},
+	{
+		"lon": "18.0006922",
+		"lat": "48.9039896",
+		"number": "23",
+		"street": "Malozáblatská",
+		"city": "Trenčín",
+		"district": "",
+		"postcode": "91105"
+	},
+	{
+		"lon": "18.7367422",
+		"lat": "48.9214939",
+		"number": "28",
+		"street": "Brieštie",
+		"city": "Brieštie",
+		"district": "",
+		"postcode": "03822"
+	},
+	{
+		"lon": "21.6546943",
+		"lat": "48.6975803",
+		"number": "1",
+		"street": "Narcisova",
+		"city": "Sečovce",
+		"district": "",
+		"postcode": "07801"
+	},
+	{
+		"lon": "21.3185467",
+		"lat": "48.9054635",
+		"number": "26",
+		"street": "Mirkovce",
+		"city": "Mirkovce",
+		"district": "",
+		"postcode": "08206"
+	},
+	{
+		"lon": "18.6004422",
+		"lat": "48.7691112",
+		"number": "37",
+		"street": "Malookružná ulica",
+		"city": "Prievidza",
+		"district": "",
+		"postcode": "97101"
+	},
+	{
+		"lon": "18.1627064",
+		"lat": "48.3511435",
+		"number": "3",
+		"street": "Fábryho",
+		"city": "Štitáre",
+		"district": "",
+		"postcode": "95101"
+	},
+	{
+		"lon": "20.9876464",
+		"lat": "48.6103935",
+		"number": "43",
+		"street": "SNP",
+		"city": "Moldava nad Bodvou",
+		"district": "",
+		"postcode": "04501"
+	},
+	{
+		"lon": "20.5021234",
+		"lat": "49.3734891",
+		"number": "203",
+		"street": "Veľký Lipník",
+		"city": "Veľký Lipník",
+		"district": "",
+		"postcode": "06533"
+	},
+	{
+		"lon": "21.9289541",
+		"lat": "48.7558773",
+		"number": "24",
+		"street": "Farská",
+		"city": "Michalovce",
+		"district": "",
+		"postcode": "07101"
+	},
+	{
+		"lon": "19.1445357",
+		"lat": "48.7365624",
+		"number": "2",
+		"street": "Lazovná",
+		"city": "Banská Bystrica",
+		"district": "",
+		"postcode": "97401"
+	},
+	{
+		"lon": "21.2185717",
+		"lat": "48.9899261",
+		"number": "8",
+		"street": "Súľovská",
+		"city": "Prešov",
+		"district": "",
+		"postcode": "08001"
+	},
+	{
+		"lon": "18.0398015",
+		"lat": "48.0978152",
+		"number": "26",
+		"street": "Sládkovičova",
+		"city": "Tvrdošovce",
+		"district": "",
+		"postcode": "94110"
+	},
+	{
+		"lon": "18.7779301",
+		"lat": "49.3048212",
+		"number": "21",
+		"street": "Kukučinova",
+		"city": "Kysucké Nové Mesto",
+		"district": "",
+		"postcode": "02401"
+	},
+	{
+		"lon": "18.9845584",
+		"lat": "48.0619271",
+		"number": "35",
+		"street": "Šahy",
+		"city": "Šahy",
+		"district": "",
+		"postcode": "93601"
+	},
+	{
+		"lon": "21.9936581",
+		"lat": "48.7209571",
+		"number": "73",
+		"street": "Čečehov",
+		"city": "Čečehov",
+		"district": "",
+		"postcode": "07211"
+	},
+	{
+		"lon": "17.4057797",
+		"lat": "48.3587005",
+		"number": "524",
+		"street": "Budmerice",
+		"city": "Budmerice",
+		"district": "",
+		"postcode": "90086"
+	},
+	{
+		"lon": "17.09984",
+		"lat": "48.6553857",
+		"number": "57",
+		"street": "Brezina",
+		"city": "Čáry",
+		"district": "",
+		"postcode": "90843"
+	},
+	{
+		"lon": "18.0300791",
+		"lat": "48.8787577",
+		"number": "33",
+		"street": "Beckovská",
+		"city": "Trenčín",
+		"district": "",
+		"postcode": "91101"
+	},
+	{
+		"lon": "18.1115328",
+		"lat": "48.3299384",
+		"number": "46",
+		"street": "Moskovská",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "20.6373924",
+		"lat": "49.0010543",
+		"number": "13",
+		"street": "Čsl. Armády",
+		"city": "Spišský Hrhov",
+		"district": "",
+		"postcode": "05302"
+	},
+	{
+		"lon": "17.4493299",
+		"lat": "48.3330051",
+		"number": "79",
+		"street": "Jablonec",
+		"city": "Jablonec",
+		"district": "",
+		"postcode": "90086"
+	},
+	{
+		"lon": "17.2078838",
+		"lat": "48.2065633",
+		"number": "8",
+		"street": "Baničova",
+		"city": "Bratislava-Vajnory",
+		"district": "",
+		"postcode": "83107"
+	},
+	{
+		"lon": "18.990704",
+		"lat": "49.0306189",
+		"number": "122",
+		"street": "Turčianske Jaseno",
+		"city": "Turčianske Jaseno",
+		"district": "",
+		"postcode": "03802"
+	},
+	{
+		"lon": "18.2340353",
+		"lat": "48.3355521",
+		"number": "212",
+		"street": "Čeľadice",
+		"city": "Čeľadice",
+		"district": "",
+		"postcode": "95103"
+	},
+	{
+		"lon": "17.0310795",
+		"lat": "48.2626975",
+		"number": "67",
+		"street": "Hviezdoslavova",
+		"city": "Stupava",
+		"district": "",
+		"postcode": "90031"
+	},
+	{
+		"lon": "19.159797",
+		"lat": "48.7315445",
+		"number": "14",
+		"street": "Mičinská cesta",
+		"city": "Banská Bystrica",
+		"district": "",
+		"postcode": "97401"
+	},
+	{
+		"lon": "19.4332076",
+		"lat": "48.4116248",
+		"number": "79",
+		"street": "Ábelová",
+		"city": "Ábelová",
+		"district": "",
+		"postcode": "98513"
+	},
+	{
+		"lon": "21.2845056",
+		"lat": "49.3049003",
+		"number": "27",
+		"street": "Tehelná",
+		"city": "Bardejov",
+		"district": "",
+		"postcode": "08501"
+	},
+	{
+		"lon": "20.95208",
+		"lat": "49.1338119",
+		"number": "77",
+		"street": "Dubovica",
+		"city": "Dubovica",
+		"district": "",
+		"postcode": "08271"
+	},
+	{
+		"lon": "21.4867473",
+		"lat": "49.0059477",
+		"number": "106",
+		"street": "Petrovce",
+		"city": "Petrovce",
+		"district": "",
+		"postcode": "09431"
+	},
+	{
+		"lon": "17.9403028",
+		"lat": "48.3069501",
+		"number": "0",
+		"street": "Rínok",
+		"city": "Veľké Zálužie",
+		"district": "",
+		"postcode": "95135"
+	},
+	{
+		"lon": "17.2798726",
+		"lat": "48.1632857",
+		"number": "134",
+		"street": "Malinovská",
+		"city": "Zálesie",
+		"district": "",
+		"postcode": "90028"
+	},
+	{
+		"lon": "17.7949374",
+		"lat": "48.7125065",
+		"number": "0",
+		"street": "Hviezdoslavova",
+		"city": "Čachtice",
+		"district": "",
+		"postcode": "91621"
+	},
+	{
+		"lon": "17.7613611",
+		"lat": "47.8544565",
+		"number": "38",
+		"street": "Dunajská",
+		"city": "Veľký Meder",
+		"district": "",
+		"postcode": "93201"
+	},
+	{
+		"lon": "18.1829532",
+		"lat": "48.8284913",
+		"number": "77",
+		"street": "Motešice",
+		"city": "Motešice",
+		"district": "",
+		"postcode": "91326"
+	},
+	{
+		"lon": "18.7459367",
+		"lat": "49.3030491",
+		"number": "835",
+		"street": "Nesluša",
+		"city": "Nesluša",
+		"district": "",
+		"postcode": "02341"
+	},
+	{
+		"lon": "18.057497",
+		"lat": "48.3528166",
+		"number": "1",
+		"street": "Atlasová",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "21.0001236",
+		"lat": "48.6167231",
+		"number": "1",
+		"street": "Janka Kráľa",
+		"city": "Moldava nad Bodvou",
+		"district": "",
+		"postcode": "04501"
+	},
+	{
+		"lon": "19.2458623",
+		"lat": "49.2182297",
+		"number": "324",
+		"street": "Veličná",
+		"city": "Veličná",
+		"district": "",
+		"postcode": "02754"
+	},
+	{
+		"lon": "18.56462",
+		"lat": "48.2973988",
+		"number": "22",
+		"street": "Kráľovka",
+		"city": "Rybník",
+		"district": "",
+		"postcode": "93523"
+	},
+	{
+		"lon": "20.2819494",
+		"lat": "48.403697",
+		"number": "73",
+		"street": "Stránska",
+		"city": "Stránska",
+		"district": "",
+		"postcode": "98251"
+	},
+	{
+		"lon": "18.2989966",
+		"lat": "48.7031983",
+		"number": "125",
+		"street": "Brezolupy",
+		"city": "Brezolupy",
+		"district": "",
+		"postcode": "95701"
+	},
+	{
+		"lon": "18.1029505",
+		"lat": "48.2723501",
+		"number": "61",
+		"street": "Roľnícka",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94905"
+	},
+	{
+		"lon": "18.1334321",
+		"lat": "48.3348217",
+		"number": "252",
+		"street": "Jelenecká",
+		"city": "Nitrianske Hrnčiarovce",
+		"district": "",
+		"postcode": "95101"
+	},
+	{
+		"lon": "17.737057",
+		"lat": "48.2983354",
+		"number": "41",
+		"street": "Stromová",
+		"city": "Sereď",
+		"district": "",
+		"postcode": "92601"
+	},
+	{
+		"lon": "17.4125576",
+		"lat": "48.6221191",
+		"number": "208",
+		"street": "Jablonica",
+		"city": "Jablonica",
+		"district": "",
+		"postcode": "90632"
+	},
+	{
+		"lon": "21.1890606",
+		"lat": "48.665307",
+		"number": "20",
+		"street": "Kovaľská",
+		"city": "Košice-Poľov",
+		"district": "",
+		"postcode": "04015"
+	},
+	{
+		"lon": "17.3198936",
+		"lat": "48.0309675",
+		"number": "2",
+		"street": "Ulica Vicenzy",
+		"city": "Šamorín",
+		"district": "",
+		"postcode": "93101"
+	},
+	{
+		"lon": "18.6300536",
+		"lat": "48.7801329",
+		"number": "8",
+		"street": "Veľkonecpalská ulica",
+		"city": "Prievidza",
+		"district": "",
+		"postcode": "97101"
+	},
+	{
+		"lon": "18.361756",
+		"lat": "48.6475099",
+		"number": "28",
+		"street": "Stará cesta",
+		"city": "Partizánske",
+		"district": "",
+		"postcode": "95804"
+	},
+	{
+		"lon": "18.2594665",
+		"lat": "49.1761605",
+		"number": "101",
+		"street": "Mestečko",
+		"city": "Mestečko",
+		"district": "",
+		"postcode": "02052"
+	},
+	{
+		"lon": "19.1692203",
+		"lat": "48.6276567",
+		"number": "5",
+		"street": "Chalupkova",
+		"city": "Veľká Lúka",
+		"district": "",
+		"postcode": "96231"
+	},
+	{
+		"lon": "17.9679577",
+		"lat": "48.0914321",
+		"number": "0",
+		"street": "Čsl. Armády",
+		"city": "Selice",
+		"district": "",
+		"postcode": "92572"
+	},
+	{
+		"lon": "17.880313",
+		"lat": "48.8190328",
+		"number": "140",
+		"street": "Štvrtok",
+		"city": "Štvrtok",
+		"district": "",
+		"postcode": "91305"
+	},
+	{
+		"lon": "17.8519433",
+		"lat": "48.1640462",
+		"number": "600",
+		"street": "Kráľová nad Váhom",
+		"city": "Kráľová nad Váhom",
+		"district": "",
+		"postcode": "92591"
+	},
+	{
+		"lon": "18.7486711",
+		"lat": "49.2396485",
+		"number": "21",
+		"street": "Žltá",
+		"city": "Žilina",
+		"district": "",
+		"postcode": "01003"
+	},
+	{
+		"lon": "20.0043859",
+		"lat": "48.3759721",
+		"number": "8",
+		"street": "Tehlová",
+		"city": "Rimavská Sobota",
+		"district": "",
+		"postcode": "97901"
+	},
+	{
+		"lon": "21.1549725",
+		"lat": "48.8649495",
+		"number": "211",
+		"street": "Veľká Lodina",
+		"city": "Veľká Lodina",
+		"district": "",
+		"postcode": "04481"
+	},
+	{
+		"lon": "18.3149535",
+		"lat": "49.0424291",
+		"number": "1428",
+		"street": "Beluša",
+		"city": "Beluša",
+		"district": "",
+		"postcode": "01861"
+	},
+	{
+		"lon": "18.8873116",
+		"lat": "48.8623554",
+		"number": "25",
+		"street": "Háj",
+		"city": "Háj",
+		"district": "",
+		"postcode": "03901"
+	},
+	{
+		"lon": "21.2400269",
+		"lat": "48.9906161",
+		"number": "18",
+		"street": "Pavlovičovo námestie",
+		"city": "Prešov",
+		"district": "",
+		"postcode": "08001"
+	},
+	{
+		"lon": "18.5100831",
+		"lat": "47.9123384",
+		"number": "81",
+		"street": "Škovránková ulica",
+		"city": "Svodín",
+		"district": "",
+		"postcode": "94354"
+	},
+	{
+		"lon": "21.3146835",
+		"lat": "48.84612",
+		"number": "141",
+		"street": "Šarišské Bohdanovce",
+		"city": "Šarišské Bohdanovce",
+		"district": "",
+		"postcode": "08205"
+	},
+	{
+		"lon": "18.0681116",
+		"lat": "48.896365",
+		"number": "4",
+		"street": "Tichá",
+		"city": "Trenčín",
+		"district": "",
+		"postcode": "91101"
+	},
+	{
+		"lon": "17.0840306",
+		"lat": "48.1677512",
+		"number": "26",
+		"street": "Ďumbierska",
+		"city": "Bratislava-Nové Mesto",
+		"district": "",
+		"postcode": "83101"
+	},
+	{
+		"lon": "18.7091119",
+		"lat": "49.2436501",
+		"number": "123",
+		"street": "Bytčianska",
+		"city": "Žilina",
+		"district": "",
+		"postcode": "01003"
+	},
+	{
+		"lon": "19.1580387",
+		"lat": "48.755454",
+		"number": "4",
+		"street": "Sásovská cesta",
+		"city": "Banská Bystrica",
+		"district": "",
+		"postcode": "97411"
+	},
+	{
+		"lon": "22.1839802",
+		"lat": "48.7408971",
+		"number": "24",
+		"street": "Švermova",
+		"city": "Sobrance",
+		"district": "",
+		"postcode": "07301"
+	},
+	{
+		"lon": "17.551284",
+		"lat": "48.4793613",
+		"number": "18",
+		"street": "Dolný Chríb",
+		"city": "Dolná Krupá",
+		"district": "",
+		"postcode": "91965"
+	},
+	{
+		"lon": "18.7874549",
+		"lat": "49.3037323",
+		"number": "14",
+		"street": "Belanského",
+		"city": "Kysucké Nové Mesto",
+		"district": "",
+		"postcode": "02401"
+	},
+	{
+		"lon": "19.2082161",
+		"lat": "48.7655422",
+		"number": "629",
+		"street": "Selce",
+		"city": "Selce",
+		"district": "",
+		"postcode": "97611"
+	},
+	{
+		"lon": "18.3047321",
+		"lat": "49.0494764",
+		"number": "2093",
+		"street": "Beluša",
+		"city": "Beluša",
+		"district": "",
+		"postcode": "01861"
+	},
+	{
+		"lon": "17.2628244",
+		"lat": "48.1398373",
+		"number": "505",
+		"street": "Most pri Bratislave",
+		"city": "Most pri Bratislave",
+		"district": "",
+		"postcode": "90046"
+	},
+	{
+		"lon": "18.0205086",
+		"lat": "48.2502577",
+		"number": "1057",
+		"street": "Cabaj-Čápor",
+		"city": "Cabaj-Čápor",
+		"district": "",
+		"postcode": "95117"
+	},
+	{
+		"lon": "17.2860802",
+		"lat": "48.772962",
+		"number": "357",
+		"street": "Radošovce",
+		"city": "Radošovce",
+		"district": "",
+		"postcode": "90863"
+	},
+	{
+		"lon": "18.0153017",
+		"lat": "47.7642509",
+		"number": "20",
+		"street": "Komárno",
+		"city": "Komárno",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "21.259169",
+		"lat": "48.720742",
+		"number": "3",
+		"street": "Mlynská",
+		"city": "Košice-Staré Mesto",
+		"district": "",
+		"postcode": "04001"
+	},
+	{
+		"lon": "18.716042",
+		"lat": "49.2097554",
+		"number": "5",
+		"street": "Gogoľova",
+		"city": "Žilina",
+		"district": "",
+		"postcode": "01004"
+	},
+	{
+		"lon": "16.9807745",
+		"lat": "48.2251363",
+		"number": "17",
+		"street": "Bystrická",
+		"city": "Bratislava-Devínska Nová Ves",
+		"district": "",
+		"postcode": "84107"
+	},
+	{
+		"lon": "20.0934639",
+		"lat": "48.470075",
+		"number": "93",
+		"street": "Teplý Vrch",
+		"city": "Teplý Vrch",
+		"district": "",
+		"postcode": "98023"
+	},
+	{
+		"lon": "17.7903677",
+		"lat": "48.7087406",
+		"number": "0",
+		"street": "Špitálska",
+		"city": "Čachtice",
+		"district": "",
+		"postcode": "91621"
+	},
+	{
+		"lon": "19.7611252",
+		"lat": "49.0496723",
+		"number": "194",
+		"street": "Liptovský Hrádok",
+		"city": "Liptovský Hrádok",
+		"district": "",
+		"postcode": "03301"
+	},
+	{
+		"lon": "19.0714684",
+		"lat": "48.7442367",
+		"number": "111",
+		"street": "Tajov",
+		"city": "Tajov",
+		"district": "",
+		"postcode": "97634"
+	},
+	{
+		"lon": "18.2874317",
+		"lat": "48.1540336",
+		"number": "3",
+		"street": "Domovina",
+		"city": "Maňa",
+		"district": "",
+		"postcode": "94145"
+	},
+	{
+		"lon": "17.7292304",
+		"lat": "48.2174858",
+		"number": "90",
+		"street": "Galanta",
+		"city": "Galanta",
+		"district": "",
+		"postcode": "92401"
+	},
+	{
+		"lon": "21.4933219",
+		"lat": "49.0210859",
+		"number": "76",
+		"street": "SNP",
+		"city": "Hanušovce nad Topľou",
+		"district": "",
+		"postcode": "09431"
+	},
+	{
+		"lon": "21.9252689",
+		"lat": "48.7045392",
+		"number": "58",
+		"street": "Lastomír",
+		"city": "Lastomír",
+		"district": "",
+		"postcode": "07237"
+	},
+	{
+		"lon": "20.3666744",
+		"lat": "48.6633602",
+		"number": "0",
+		"street": "Malá Maša",
+		"city": "Štítnik",
+		"district": "",
+		"postcode": "04932"
+	},
+	{
+		"lon": "18.0430007",
+		"lat": "48.8806874",
+		"number": "50",
+		"street": "Partizánska",
+		"city": "Trenčín",
+		"district": "",
+		"postcode": "91101"
+	},
+	{
+		"lon": "18.1702032",
+		"lat": "48.9635466",
+		"number": "6",
+		"street": "Nad kostolom",
+		"city": "Dubnica nad Váhom",
+		"district": "",
+		"postcode": "01841"
+	},
+	{
+		"lon": "21.3102436",
+		"lat": "48.630358",
+		"number": "17",
+		"street": "Rovná",
+		"city": "Geča",
+		"district": "",
+		"postcode": "04410"
+	},
+	{
+		"lon": "19.3572694",
+		"lat": "48.7922257",
+		"number": "2",
+		"street": "Nová",
+		"city": "Medzibrod",
+		"district": "",
+		"postcode": "97696"
+	},
+	{
+		"lon": "19.2936633",
+		"lat": "49.0832159",
+		"number": "12",
+		"street": "Štefana Moyzesa",
+		"city": "Ružomberok",
+		"district": "",
+		"postcode": "03401"
+	},
+	{
+		"lon": "17.1752644",
+		"lat": "48.8321357",
+		"number": "72",
+		"street": "Kátov",
+		"city": "Kátov",
+		"district": "",
+		"postcode": "90849"
+	},
+	{
+		"lon": "17.8519304",
+		"lat": "48.5820693",
+		"number": "55",
+		"street": "Podhorská",
+		"city": "Banka",
+		"district": "",
+		"postcode": "92101"
+	},
+	{
+		"lon": "22.0906784",
+		"lat": "48.3937091",
+		"number": "160",
+		"street": "Veľké Trakany",
+		"city": "Veľké Trakany",
+		"district": "",
+		"postcode": "07642"
+	},
+	{
+		"lon": "18.663462",
+		"lat": "49.2225794",
+		"number": "10",
+		"street": "Ovčiarsko",
+		"city": "Ovčiarsko",
+		"district": "",
+		"postcode": "01004"
+	},
+	{
+		"lon": "18.5995114",
+		"lat": "48.7714426",
+		"number": "22",
+		"street": "Ulica S. Chalupku",
+		"city": "Prievidza",
+		"district": "",
+		"postcode": "97101"
+	},
+	{
+		"lon": "21.2732111",
+		"lat": "49.0917403",
+		"number": "18A",
+		"street": "Záhradná",
+		"city": "Záhradné",
+		"district": "",
+		"postcode": "08216"
+	},
+	{
+		"lon": "18.0800752",
+		"lat": "48.3385468",
+		"number": "45",
+		"street": "Klinčeková",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "18.1573065",
+		"lat": "48.9655115",
+		"number": "35",
+		"street": "Bottova",
+		"city": "Dubnica nad Váhom",
+		"district": "",
+		"postcode": "01841"
+	},
+	{
+		"lon": "17.0833307",
+		"lat": "48.1604907",
+		"number": "9",
+		"street": "Súbežná",
+		"city": "Bratislava-Staré Mesto",
+		"district": "",
+		"postcode": "81104"
+	},
+	{
+		"lon": "20.5556957",
+		"lat": "48.9429027",
+		"number": "5",
+		"street": "Slobody",
+		"city": "Spišská Nová Ves",
+		"district": "",
+		"postcode": "05201"
+	},
+	{
+		"lon": "17.5807913",
+		"lat": "48.3752182",
+		"number": "8",
+		"street": "Ulica Hodžova",
+		"city": "Trnava",
+		"district": "",
+		"postcode": "91701"
+	},
+	{
+		"lon": "22.0238913",
+		"lat": "48.6981752",
+		"number": "19",
+		"street": "Iňačovce",
+		"city": "Iňačovce",
+		"district": "",
+		"postcode": "07211"
+	},
+	{
+		"lon": "17.3959013",
+		"lat": "48.6618507",
+		"number": "34",
+		"street": "Košútovec",
+		"city": "Senica",
+		"district": "",
+		"postcode": "90631"
+	},
+	{
+		"lon": "19.4783939",
+		"lat": "49.0486018",
+		"number": "528",
+		"street": "Ľubeľa",
+		"city": "Ľubeľa",
+		"district": "",
+		"postcode": "03214"
+	},
+	{
+		"lon": "17.1559731",
+		"lat": "48.1573568",
+		"number": "3",
+		"street": "Ružinovská",
+		"city": "Bratislava-Ružinov",
+		"district": "",
+		"postcode": "82102"
+	},
+	{
+		"lon": "17.740768",
+		"lat": "48.2900162",
+		"number": "15",
+		"street": "Pivovarská",
+		"city": "Sereď",
+		"district": "",
+		"postcode": "92601"
+	},
+	{
+		"lon": "20.8346576",
+		"lat": "49.1706367",
+		"number": "195",
+		"street": "Poloma",
+		"city": "Poloma",
+		"district": "",
+		"postcode": "08273"
+	},
+	{
+		"lon": "18.5483398",
+		"lat": "48.0948805",
+		"number": "24",
+		"street": "Topoľská",
+		"city": "Tekovské Lužany",
+		"district": "",
+		"postcode": "93541"
+	},
+	{
+		"lon": "18.5075582",
+		"lat": "49.1793752",
+		"number": "82",
+		"street": "Maršová-Rašov",
+		"city": "Maršová-Rašov",
+		"district": "",
+		"postcode": "01351"
+	},
+	{
+		"lon": "18.4065919",
+		"lat": "48.4172145",
+		"number": "36",
+		"street": "Partizánska",
+		"city": "Topoľčianky",
+		"district": "",
+		"postcode": "95193"
+	},
+	{
+		"lon": "20.1440137",
+		"lat": "48.4195566",
+		"number": "228",
+		"street": "Uzovská Panica",
+		"city": "Uzovská Panica",
+		"district": "",
+		"postcode": "98022"
+	},
+	{
+		"lon": "21.6566431",
+		"lat": "48.6948297",
+		"number": "2",
+		"street": "Jazmínová",
+		"city": "Sečovce",
+		"district": "",
+		"postcode": "07801"
+	},
+	{
+		"lon": "19.2761432",
+		"lat": "48.5973659",
+		"number": "15",
+		"street": "Letecká",
+		"city": "Očová",
+		"district": "",
+		"postcode": "96223"
+	},
+	{
+		"lon": "17.2667658",
+		"lat": "48.2981267",
+		"number": "22",
+		"street": "Svätoplukova",
+		"city": "Pezinok",
+		"district": "",
+		"postcode": "90201"
+	},
+	{
+		"lon": "19.1198269",
+		"lat": "48.7350268",
+		"number": "8",
+		"street": "Jazmínová",
+		"city": "Banská Bystrica",
+		"district": "",
+		"postcode": "97404"
+	},
+	{
+		"lon": "19.1963015",
+		"lat": "48.7577603",
+		"number": "39",
+		"street": "Selčianska cesta",
+		"city": "Selce",
+		"district": "",
+		"postcode": "97611"
+	},
+	{
+		"lon": "17.5951107",
+		"lat": "48.3298998",
+		"number": "27",
+		"street": "Nová",
+		"city": "Zeleneč",
+		"district": "",
+		"postcode": "91921"
+	},
+	{
+		"lon": "18.7650643",
+		"lat": "49.1910977",
+		"number": "593",
+		"street": "Rosina",
+		"city": "Rosina",
+		"district": "",
+		"postcode": "01322"
+	},
+	{
+		"lon": "20.4808411",
+		"lat": "48.7765515",
+		"number": "556",
+		"street": "Gemerská Poloma",
+		"city": "Gemerská Poloma",
+		"district": "",
+		"postcode": "04922"
+	},
+	{
+		"lon": "18.0989213",
+		"lat": "47.809993",
+		"number": "1",
+		"street": "Hlavná ul.",
+		"city": "Komárno",
+		"district": "",
+		"postcode": "94501"
+	},
+	{
+		"lon": "18.3605288",
+		"lat": "49.1830378",
+		"number": "11",
+		"street": "Klieština",
+		"city": "Klieština",
+		"district": "",
+		"postcode": "01802"
+	},
+	{
+		"lon": "18.3758171",
+		"lat": "48.2882217",
+		"number": "256",
+		"street": "Nevidzany",
+		"city": "Nevidzany",
+		"district": "",
+		"postcode": "95162"
+	},
+	{
+		"lon": "17.3488585",
+		"lat": "48.30227",
+		"number": "49",
+		"street": "Poľná",
+		"city": "Šenkvice",
+		"district": "",
+		"postcode": "90081"
+	},
+	{
+		"lon": "21.0477301",
+		"lat": "48.9738126",
+		"number": "51",
+		"street": "Krížovany",
+		"city": "Krížovany",
+		"district": "",
+		"postcode": "08233"
+	},
+	{
+		"lon": "16.9936326",
+		"lat": "48.6027221",
+		"number": "228",
+		"street": "Sekule",
+		"city": "Sekule",
+		"district": "",
+		"postcode": "90880"
+	},
+	{
+		"lon": "18.1755324",
+		"lat": "48.043461",
+		"number": "66",
+		"street": "J. Fučíka",
+		"city": "Bánov",
+		"district": "",
+		"postcode": "94101"
+	},
+	{
+		"lon": "17.1616567",
+		"lat": "48.1467443",
+		"number": "25",
+		"street": "Stachanovská",
+		"city": "Bratislava-Ružinov",
+		"district": "",
+		"postcode": "82105"
+	},
+	{
+		"lon": "19.0726797",
+		"lat": "48.7464304",
+		"number": "40",
+		"street": "Tajov",
+		"city": "Tajov",
+		"district": "",
+		"postcode": "97634"
+	},
+	{
+		"lon": "21.3239861",
+		"lat": "48.6478245",
+		"number": "179",
+		"street": "Kokšov-Bakša",
+		"city": "Kokšov-Bakša",
+		"district": "",
+		"postcode": "04413"
+	},
+	{
+		"lon": "18.7428377",
+		"lat": "49.3279969",
+		"number": "432",
+		"street": "Nesluša",
+		"city": "Nesluša",
+		"district": "",
+		"postcode": "02341"
+	},
+	{
+		"lon": "17.3649333",
+		"lat": "48.6793008",
+		"number": "20",
+		"street": "Robotnícka",
+		"city": "Senica",
+		"district": "",
+		"postcode": "90501"
+	},
+	{
+		"lon": "18.7358657",
+		"lat": "48.3706325",
+		"number": "801",
+		"street": "Pukanec",
+		"city": "Pukanec",
+		"district": "",
+		"postcode": "93505"
+	},
+	{
+		"lon": "17.5851773",
+		"lat": "48.377699",
+		"number": "48",
+		"street": "Ulica Štefánikova",
+		"city": "Trnava",
+		"district": "",
+		"postcode": "91701"
+	},
+	{
+		"lon": "18.3141515",
+		"lat": "48.2540942",
+		"number": "298",
+		"street": "Vráble",
+		"city": "Vráble",
+		"district": "",
+		"postcode": "95201"
+	},
+	{
+		"lon": "21.2412321",
+		"lat": "49.1099765",
+		"number": "11",
+		"street": "Záhradná",
+		"city": "Terňa",
+		"district": "",
+		"postcode": "08267"
+	},
+	{
+		"lon": "20.5806016",
+		"lat": "48.6252955",
+		"number": "170",
+		"street": "Krásnohorská Dlhá Lúka",
+		"city": "Krásnohorská Dlhá Lúka",
+		"district": "",
+		"postcode": "04945"
+	},
+	{
+		"lon": "20.0387661",
+		"lat": "48.3790009",
+		"number": "34",
+		"street": "Veterná",
+		"city": "Rimavská Sobota",
+		"district": "",
+		"postcode": "97901"
+	},
+	{
+		"lon": "17.7752461",
+		"lat": "48.67815",
+		"number": "7",
+		"street": "Podolie",
+		"city": "Podolie",
+		"district": "",
+		"postcode": "91622"
+	},
+	{
+		"lon": "17.4084859",
+		"lat": "48.3535779",
+		"number": "429",
+		"street": "Budmerice",
+		"city": "Budmerice",
+		"district": "",
+		"postcode": "90086"
+	},
+	{
+		"lon": "17.7446902",
+		"lat": "48.3613074",
+		"number": "50",
+		"street": "Siladice",
+		"city": "Siladice",
+		"district": "",
+		"postcode": "92052"
+	},
+	{
+		"lon": "17.2742352",
+		"lat": "48.2557542",
+		"number": "51",
+		"street": "Hlavná",
+		"city": "Slovenský Grob",
+		"district": "",
+		"postcode": "90026"
+	},
+	{
+		"lon": "20.9598142",
+		"lat": "49.160958",
+		"number": "63",
+		"street": "Hviezdoslavova",
+		"city": "Lipany",
+		"district": "",
+		"postcode": "08271"
+	},
+	{
+		"lon": "17.2230996",
+		"lat": "48.6326562",
+		"number": "86",
+		"street": "Štúrova",
+		"city": "Borský Mikuláš",
+		"district": "",
+		"postcode": "90877"
+	},
+	{
+		"lon": "21.7164625",
+		"lat": "48.6406537",
+		"number": "17",
+		"street": "Cukrovarská",
+		"city": "Trebišov",
+		"district": "",
+		"postcode": "07501"
+	},
+	{
+		"lon": "17.2413959",
+		"lat": "48.8162421",
+		"number": "228",
+		"street": "Mokrý Háj",
+		"city": "Mokrý Háj",
+		"district": "",
+		"postcode": "90865"
+	},
+	{
+		"lon": "18.1732666",
+		"lat": "48.7324422",
+		"number": "271",
+		"street": "Veľké Držkovce",
+		"city": "Veľké Držkovce",
+		"district": "",
+		"postcode": "95654"
+	},
+	{
+		"lon": "21.6604318",
+		"lat": "48.7024678",
+		"number": "32",
+		"street": "Obchodná",
+		"city": "Sečovce",
+		"district": "",
+		"postcode": "07801"
+	},
+	{
+		"lon": "17.4037233",
+		"lat": "48.2200408",
+		"number": "4",
+		"street": "Hurbanova",
+		"city": "Senec",
+		"district": "",
+		"postcode": "90301"
+	},
+	{
+		"lon": "21.2422414",
+		"lat": "48.7444573",
+		"number": "12",
+		"street": "Horolezecká",
+		"city": "Košice-Sever",
+		"district": "",
+		"postcode": "04001"
+	},
+	{
+		"lon": "19.5913367",
+		"lat": "48.4392245",
+		"number": "14",
+		"street": "Partizánska",
+		"city": "Lovinobaňa",
+		"district": "",
+		"postcode": "98554"
+	},
+	{
+		"lon": "18.7661681",
+		"lat": "49.1900942",
+		"number": "948",
+		"street": "Rosina",
+		"city": "Rosina",
+		"district": "",
+		"postcode": "01322"
+	},
+	{
+		"lon": "19.2831169",
+		"lat": "48.5982249",
+		"number": "41",
+		"street": "SNP",
+		"city": "Očová",
+		"district": "",
+		"postcode": "96223"
+	},
+	{
+		"lon": "18.5993455",
+		"lat": "48.212853",
+		"number": "7",
+		"street": "Ul. Z. Nejedlého",
+		"city": "Levice",
+		"district": "",
+		"postcode": "93401"
+	},
+	{
+		"lon": "19.9447342",
+		"lat": "48.6766777",
+		"number": "0",
+		"street": "Daxnerova",
+		"city": "Tisovec",
+		"district": "",
+		"postcode": "98061"
+	},
+	{
+		"lon": "20.2305468",
+		"lat": "48.3053614",
+		"number": "447",
+		"street": "Rimavská Seč",
+		"city": "Rimavská Seč",
+		"district": "",
+		"postcode": "98042"
+	},
+	{
+		"lon": "18.0999241",
+		"lat": "48.2723912",
+		"number": "139",
+		"street": "Novozámocká",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94905"
+	},
+	{
+		"lon": "19.9437305",
+		"lat": "48.6745747",
+		"number": "0",
+		"street": "Daxnerova",
+		"city": "Tisovec",
+		"district": "",
+		"postcode": "98061"
+	},
+	{
+		"lon": "20.5121378",
+		"lat": "48.6626365",
+		"number": "5",
+		"street": "Rožňava",
+		"city": "Rožňava",
+		"district": "",
+		"postcode": "04801"
+	},
+	{
+		"lon": "18.5071274",
+		"lat": "47.9629561",
+		"number": "561",
+		"street": "Veľké Ludince",
+		"city": "Veľké Ludince",
+		"district": "",
+		"postcode": "93565"
+	},
+	{
+		"lon": "18.4592537",
+		"lat": "48.1869754",
+		"number": "36",
+		"street": "Kalnická",
+		"city": "Lok",
+		"district": "",
+		"postcode": "93538"
+	},
+	{
+		"lon": "20.2948472",
+		"lat": "48.4196653",
+		"number": "84",
+		"street": "Tornaľa",
+		"city": "Tornaľa",
+		"district": "",
+		"postcode": "98201"
+	},
+	{
+		"lon": "21.2422696",
+		"lat": "48.7919462",
+		"number": "10",
+		"street": "Svornosti",
+		"city": "Kostoľany nad Hornádom",
+		"district": "",
+		"postcode": "04431"
+	},
+	{
+		"lon": "18.2243129",
+		"lat": "47.7536196",
+		"number": "609",
+		"street": "Iža",
+		"city": "Iža",
+		"district": "",
+		"postcode": "94639"
+	},
+	{
+		"lon": "19.484613",
+		"lat": "49.051455",
+		"number": "424",
+		"street": "Ľubeľa",
+		"city": "Ľubeľa",
+		"district": "",
+		"postcode": "03214"
+	},
+	{
+		"lon": "18.8836667",
+		"lat": "49.0017449",
+		"number": "151",
+		"street": "Príbovce",
+		"city": "Príbovce",
+		"district": "",
+		"postcode": "03842"
+	},
+	{
+		"lon": "20.5480238",
+		"lat": "48.9268134",
+		"number": "12",
+		"street": "Pieninská",
+		"city": "Spišská Nová Ves",
+		"district": "",
+		"postcode": "05201"
+	},
+	{
+		"lon": "17.5910996",
+		"lat": "48.7006169",
+		"number": "62",
+		"street": "Priepasné",
+		"city": "Priepasné",
+		"district": "",
+		"postcode": "90615"
+	},
+	{
+		"lon": "18.0978901",
+		"lat": "47.7659605",
+		"number": "12",
+		"street": "Ul. J. Baranyaiho",
+		"city": "Komárno",
+		"district": "",
+		"postcode": "94501"
+	},
+	{
+		"lon": "18.5942425",
+		"lat": "48.2140873",
+		"number": "0",
+		"street": "Dopravná ul.",
+		"city": "Levice",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "21.6590498",
+		"lat": "48.8803394",
+		"number": "33",
+		"street": "Slanská",
+		"city": "Vranov nad Topľou",
+		"district": "",
+		"postcode": "09303"
+	},
+	{
+		"lon": "17.7615427",
+		"lat": "48.4355046",
+		"number": "83",
+		"street": "Nádražná",
+		"city": "Leopoldov",
+		"district": "",
+		"postcode": "92041"
+	},
+	{
+		"lon": "20.4399089",
+		"lat": "48.4919254",
+		"number": "0",
+		"street": "Hlavná",
+		"city": "Dlhá Ves",
+		"district": "",
+		"postcode": "04955"
+	},
+	{
+		"lon": "21.646917",
+		"lat": "48.7020969",
+		"number": "8",
+		"street": "Široká",
+		"city": "Sečovce",
+		"district": "",
+		"postcode": "07801"
+	},
+	{
+		"lon": "20.532606",
+		"lat": "49.2587812",
+		"number": "39",
+		"street": "Jozefa Smreka",
+		"city": "Podolínec",
+		"district": "",
+		"postcode": "06503"
+	},
+	{
+		"lon": "17.018628",
+		"lat": "48.4308983",
+		"number": "8",
+		"street": "Štúrova",
+		"city": "Malacky",
+		"district": "",
+		"postcode": "90101"
+	},
+	{
+		"lon": "17.7015642",
+		"lat": "48.831957",
+		"number": "749",
+		"street": "Lubina",
+		"city": "Lubina",
+		"district": "",
+		"postcode": "91612"
+	},
+	{
+		"lon": "20.2403277",
+		"lat": "48.6261515",
+		"number": "0",
+		"street": "Kúpelná",
+		"city": "Jelšava",
+		"district": "",
+		"postcode": "04916"
+	},
+	{
+		"lon": "17.3600304",
+		"lat": "48.2173526",
+		"number": "2",
+		"street": "Cintorínska",
+		"city": "Veľký Biel",
+		"district": "",
+		"postcode": "90024"
+	},
+	{
+		"lon": "18.6189683",
+		"lat": "48.2084164",
+		"number": "62",
+		"street": "Kvetná ul.",
+		"city": "Levice",
+		"district": "",
+		"postcode": "93401"
+	},
+	{
+		"lon": "17.1053417",
+		"lat": "48.108665",
+		"number": "18",
+		"street": "Holíčska",
+		"city": "Bratislava-Petržalka",
+		"district": "",
+		"postcode": "85105"
+	},
+	{
+		"lon": "19.6686053",
+		"lat": "48.3185548",
+		"number": "1A",
+		"street": "Ulica poľná",
+		"city": "Lučenec",
+		"district": "",
+		"postcode": "98401"
+	},
+	{
+		"lon": "18.8003123",
+		"lat": "49.2260178",
+		"number": "11",
+		"street": "Školská",
+		"city": "Teplička nad Váhom",
+		"district": "",
+		"postcode": "01301"
+	},
+	{
+		"lon": "18.2796112",
+		"lat": "49.1450227",
+		"number": "252",
+		"street": "Dohňany",
+		"city": "Dohňany",
+		"district": "",
+		"postcode": "02051"
+	},
+	{
+		"lon": "21.2781386",
+		"lat": "49.0112925",
+		"number": "7",
+		"street": "Šalgovická",
+		"city": "Ľubotice",
+		"district": "",
+		"postcode": "08006"
+	},
+	{
+		"lon": "18.0654272",
+		"lat": "48.0398914",
+		"number": "13",
+		"street": "Hlavná",
+		"city": "Palárikovo",
+		"district": "",
+		"postcode": "94111"
+	},
+	{
+		"lon": "17.1591246",
+		"lat": "48.6326354",
+		"number": "12",
+		"street": "Piesočná",
+		"city": "Šaštín-Stráže",
+		"district": "",
+		"postcode": "90841"
+	},
+	{
+		"lon": "18.0200652",
+		"lat": "48.4214548",
+		"number": "124",
+		"street": "Šurianky",
+		"city": "Šurianky",
+		"district": "",
+		"postcode": "95126"
+	},
+	{
+		"lon": "17.2110264",
+		"lat": "48.1978777",
+		"number": "52",
+		"street": "Pri mlyne",
+		"city": "Bratislava-Vajnory",
+		"district": "",
+		"postcode": "83107"
+	},
+	{
+		"lon": "18.4732318",
+		"lat": "48.7936208",
+		"number": "32",
+		"street": "Štúrova",
+		"city": "Nitrianske Rudno",
+		"district": "",
+		"postcode": "97226"
+	},
+	{
+		"lon": "21.7578048",
+		"lat": "48.9136309",
+		"number": "5",
+		"street": "Tovarné",
+		"city": "Tovarné",
+		"district": "",
+		"postcode": "09401"
+	},
+	{
+		"lon": "17.7294012",
+		"lat": "48.1952815",
+		"number": "2",
+		"street": "Priečna",
+		"city": "Galanta",
+		"district": "",
+		"postcode": "92401"
+	},
+	{
+		"lon": "18.0620738",
+		"lat": "48.3498765",
+		"number": "6",
+		"street": "Zoborská",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "17.178269",
+		"lat": "48.1524044",
+		"number": "32",
+		"street": "Mlynské luhy",
+		"city": "Bratislava-Ružinov",
+		"district": "",
+		"postcode": "82105"
+	},
+	{
+		"lon": "17.4100201",
+		"lat": "48.3548276",
+		"number": "44",
+		"street": "Budmerice",
+		"city": "Budmerice",
+		"district": "",
+		"postcode": "90086"
+	},
+	{
+		"lon": "17.7878482",
+		"lat": "48.2450209",
+		"number": "240",
+		"street": "Váhovce",
+		"city": "Váhovce",
+		"district": "",
+		"postcode": "92562"
+	},
+	{
+		"lon": "18.1571966",
+		"lat": "48.3504327",
+		"number": "33",
+		"street": "Pri Prameni",
+		"city": "Štitáre",
+		"district": "",
+		"postcode": "95101"
+	},
+	{
+		"lon": "19.2978327",
+		"lat": "49.0847428",
+		"number": "25",
+		"street": "Antona Bernoláka",
+		"city": "Ružomberok",
+		"district": "",
+		"postcode": "03401"
+	},
+	{
+		"lon": "18.0319121",
+		"lat": "48.876644",
+		"number": "50",
+		"street": "Bezručova",
+		"city": "Trenčín",
+		"district": "",
+		"postcode": "91101"
+	},
+	{
+		"lon": "17.4139836",
+		"lat": "48.2192528",
+		"number": "49A",
+		"street": "Rybárska",
+		"city": "Senec",
+		"district": "",
+		"postcode": "90301"
+	},
+	{
+		"lon": "19.648599",
+		"lat": "48.4466982",
+		"number": "6",
+		"street": "Mlynská ulica",
+		"city": "Cinobaňa",
+		"district": "",
+		"postcode": "98522"
+	},
+	{
+		"lon": "20.9075169",
+		"lat": "49.1694581",
+		"number": "16",
+		"street": "Pod Koscelcom",
+		"city": "Krivany",
+		"district": "",
+		"postcode": "08271"
+	},
+	{
+		"lon": "19.8348474",
+		"lat": "49.0494546",
+		"number": "588",
+		"street": "Hybe",
+		"city": "Hybe",
+		"district": "",
+		"postcode": "03231"
+	},
+	{
+		"lon": "19.7337005",
+		"lat": "49.0306703",
+		"number": "156",
+		"street": "Liptovská Porúbka",
+		"city": "Liptovská Porúbka",
+		"district": "",
+		"postcode": "03301"
+	},
+	{
+		"lon": "17.745808",
+		"lat": "48.2730536",
+		"number": "202",
+		"street": "Dolná Streda",
+		"city": "Dolná Streda",
+		"district": "",
+		"postcode": "92563"
+	},
+	{
+		"lon": "17.2316018",
+		"lat": "48.8454909",
+		"number": "14",
+		"street": "Gorkého",
+		"city": "Skalica",
+		"district": "",
+		"postcode": "90901"
+	},
+	{
+		"lon": "17.2257794",
+		"lat": "48.290516",
+		"number": "15",
+		"street": "Športová",
+		"city": "Limbach",
+		"district": "",
+		"postcode": "90091"
+	},
+	{
+		"lon": "20.7835258",
+		"lat": "48.7117189",
+		"number": "107",
+		"street": "Štós",
+		"city": "Štós",
+		"district": "",
+		"postcode": "04426"
+	},
+	{
+		"lon": "18.4070853",
+		"lat": "48.4175233",
+		"number": "28",
+		"street": "Partizánska",
+		"city": "Topoľčianky",
+		"district": "",
+		"postcode": "95193"
+	},
+	{
+		"lon": "19.5568653",
+		"lat": "49.332874",
+		"number": "15",
+		"street": "Farská",
+		"city": "Tvrdošín",
+		"district": "",
+		"postcode": "02744"
+	},
+	{
+		"lon": "21.4067758",
+		"lat": "48.8973707",
+		"number": "86",
+		"street": "Tuhrina",
+		"city": "Tuhrina",
+		"district": "",
+		"postcode": "08207"
+	},
+	{
+		"lon": "17.7211489",
+		"lat": "48.3239261",
+		"number": "48",
+		"street": "Valtašúrska",
+		"city": "Šúrovce",
+		"district": "",
+		"postcode": "91925"
+	},
+	{
+		"lon": "19.5600144",
+		"lat": "49.3390676",
+		"number": "14",
+		"street": "Kukučínova",
+		"city": "Tvrdošín",
+		"district": "",
+		"postcode": "02744"
+	},
+	{
+		"lon": "19.1613053",
+		"lat": "48.7503403",
+		"number": "19",
+		"street": "Kapitána Jaroša",
+		"city": "Banská Bystrica",
+		"district": "",
+		"postcode": "97411"
+	},
+	{
+		"lon": "17.2707778",
+		"lat": "48.6459948",
+		"number": "174",
+		"street": "Šajdíkove Humence",
+		"city": "Šajdíkove Humence",
+		"district": "",
+		"postcode": "90607"
+	},
+	{
+		"lon": "21.366186",
+		"lat": "48.853408",
+		"number": "126",
+		"street": "Varhaňovce",
+		"city": "Varhaňovce",
+		"district": "",
+		"postcode": "08205"
+	},
+	{
+		"lon": "19.6493732",
+		"lat": "49.0565218",
+		"number": "91",
+		"street": "Hlavná",
+		"city": "Závažná Poruba",
+		"district": "",
+		"postcode": "03202"
+	},
+	{
+		"lon": "19.2699837",
+		"lat": "48.7660005",
+		"number": "92",
+		"street": "Námestie SNP",
+		"city": "Slovenská Ľupča",
+		"district": "",
+		"postcode": "97613"
+	},
+	{
+		"lon": "20.019868",
+		"lat": "48.3863311",
+		"number": "36",
+		"street": "Daxnerova",
+		"city": "Rimavská Sobota",
+		"district": "",
+		"postcode": "97901"
+	},
+	{
+		"lon": "18.1487482",
+		"lat": "48.1870318",
+		"number": "22",
+		"street": "Nitrianska",
+		"city": "Veľký Kýr",
+		"district": "",
+		"postcode": "94107"
+	},
+	{
+		"lon": "19.4371436",
+		"lat": "49.0672097",
+		"number": "29",
+		"street": "Partizánska Ľupča",
+		"city": "Partizánska Ľupča",
+		"district": "",
+		"postcode": "03215"
+	},
+	{
+		"lon": "20.9997193",
+		"lat": "48.6139209",
+		"number": "7",
+		"street": "Jiskrova",
+		"city": "Moldava nad Bodvou",
+		"district": "",
+		"postcode": "04501"
+	},
+	{
+		"lon": "18.0434088",
+		"lat": "48.3032326",
+		"number": "4",
+		"street": "Pod kaplnkou",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94911"
+	},
+	{
+		"lon": "18.2519008",
+		"lat": "48.5790966",
+		"number": "36",
+		"street": "ČSA",
+		"city": "Bošany",
+		"district": "",
+		"postcode": "95618"
+	},
+	{
+		"lon": "21.2467339",
+		"lat": "48.9892504",
+		"number": "17",
+		"street": "Masarykova",
+		"city": "Prešov",
+		"district": "",
+		"postcode": "08001"
+	},
+	{
+		"lon": "17.5735506",
+		"lat": "48.0081083",
+		"number": "249",
+		"street": "Veľké Blahovo",
+		"city": "Veľké Blahovo",
+		"district": "",
+		"postcode": "93001"
+	},
+	{
+		"lon": "17.8187744",
+		"lat": "48.5946184",
+		"number": "3",
+		"street": "J. Jesenského",
+		"city": "Piešťany",
+		"district": "",
+		"postcode": "92101"
+	},
+	{
+		"lon": "20.9732112",
+		"lat": "48.5563501",
+		"number": "255",
+		"street": "Janík",
+		"city": "Janík",
+		"district": "",
+		"postcode": "04405"
+	},
+	{
+		"lon": "18.2023473",
+		"lat": "48.0685297",
+		"number": "18",
+		"street": "Na pažiti",
+		"city": "Šurany",
+		"district": "",
+		"postcode": "94201"
+	},
+	{
+		"lon": "20.9623378",
+		"lat": "49.1932608",
+		"number": "186",
+		"street": "Kamenica",
+		"city": "Kamenica",
+		"district": "",
+		"postcode": "08271"
+	},
+	{
+		"lon": "18.1763008",
+		"lat": "48.592304",
+		"number": "18",
+		"street": "Záhumnie",
+		"city": "Topoľčany",
+		"district": "",
+		"postcode": "95501"
+	},
+	{
+		"lon": "21.2522187",
+		"lat": "48.5641645",
+		"number": "107",
+		"street": "Seňa",
+		"city": "Seňa",
+		"district": "",
+		"postcode": "04458"
+	},
+	{
+		"lon": "18.0696862",
+		"lat": "48.2894849",
+		"number": "11",
+		"street": "Mudrochova",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "17.6364208",
+		"lat": "48.7178015",
+		"number": "519",
+		"street": "Krajné",
+		"city": "Krajné",
+		"district": "",
+		"postcode": "91616"
+	},
+	{
+		"lon": "19.5530209",
+		"lat": "49.4334209",
+		"number": "0",
+		"street": "Vyšný koniec",
+		"city": "Bobrov",
+		"district": "",
+		"postcode": "02942"
+	},
+	{
+		"lon": "18.7340748",
+		"lat": "49.2180698",
+		"number": "9",
+		"street": "Suvorovova",
+		"city": "Žilina",
+		"district": "",
+		"postcode": "01001"
+	},
+	{
+		"lon": "18.3087765",
+		"lat": "48.5641407",
+		"number": "103",
+		"street": "Klátova Nová Ves",
+		"city": "Klátova Nová Ves",
+		"district": "",
+		"postcode": "95844"
+	},
+	{
+		"lon": "21.5876315",
+		"lat": "48.898936",
+		"number": "438",
+		"street": "Čaklov",
+		"city": "Čaklov",
+		"district": "",
+		"postcode": "09435"
+	},
+	{
+		"lon": "18.1970745",
+		"lat": "49.1999839",
+		"number": "292",
+		"street": "Lysá pod Makytou",
+		"city": "Lysá pod Makytou",
+		"district": "",
+		"postcode": "02054"
+	},
+	{
+		"lon": "18.7948846",
+		"lat": "49.2263692",
+		"number": "20",
+		"street": "Za Jarkom",
+		"city": "Teplička nad Váhom",
+		"district": "",
+		"postcode": "01301"
+	},
+	{
+		"lon": "21.7513721",
+		"lat": "48.8548572",
+		"number": "141",
+		"street": "Nižný Hrabovec",
+		"city": "Nižný Hrabovec",
+		"district": "",
+		"postcode": "09421"
+	},
+	{
+		"lon": "18.1268915",
+		"lat": "48.3329575",
+		"number": "157",
+		"street": "Jelenecká",
+		"city": "Nitrianske Hrnčiarovce",
+		"district": "",
+		"postcode": "95101"
+	},
+	{
+		"lon": "21.6454934",
+		"lat": "48.8033203",
+		"number": "101",
+		"street": "Cabov",
+		"city": "Cabov",
+		"district": "",
+		"postcode": "09414"
+	},
+	{
+		"lon": "18.1073814",
+		"lat": "48.9598516",
+		"number": "22",
+		"street": "Ľuborčianska",
+		"city": "Nemšová",
+		"district": "",
+		"postcode": "91441"
+	},
+	{
+		"lon": "19.5868871",
+		"lat": "49.0857091",
+		"number": "3",
+		"street": "Eduarda Penkalu",
+		"city": "Liptovský Mikuláš",
+		"district": "",
+		"postcode": "03101"
+	},
+	{
+		"lon": "18.601433",
+		"lat": "48.6913938",
+		"number": "63",
+		"street": "Partizánska",
+		"city": "Lehota pod Vtáčnikom",
+		"district": "",
+		"postcode": "97242"
+	},
+	{
+		"lon": "21.2470152",
+		"lat": "48.802693",
+		"number": "12",
+		"street": "Prešovská",
+		"city": "Družstevná pri Hornáde",
+		"district": "",
+		"postcode": "04431"
+	},
+	{
+		"lon": "19.5625474",
+		"lat": "48.4782173",
+		"number": "104",
+		"street": "Dobroč",
+		"city": "Dobroč",
+		"district": "",
+		"postcode": "98553"
+	},
+	{
+		"lon": "17.6895482",
+		"lat": "48.3904001",
+		"number": "138",
+		"street": "Joža Nižnanského",
+		"city": "Brestovany",
+		"district": "",
+		"postcode": "91927"
+	},
+	{
+		"lon": "16.9247925",
+		"lat": "48.4715557",
+		"number": "50",
+		"street": "Športová",
+		"city": "Gajary",
+		"district": "",
+		"postcode": "90061"
+	},
+	{
+		"lon": "22.1792714",
+		"lat": "48.7314259",
+		"number": "88",
+		"street": "Sobrance",
+		"city": "Sobrance",
+		"district": "",
+		"postcode": "07301"
+	},
+	{
+		"lon": "22.1735171",
+		"lat": "48.7417058",
+		"number": "65",
+		"street": "1.mája",
+		"city": "Sobrance",
+		"district": "",
+		"postcode": "07301"
+	},
+	{
+		"lon": "19.6685056",
+		"lat": "48.819788",
+		"number": "10",
+		"street": "Vagnárska",
+		"city": "Brezno",
+		"district": "",
+		"postcode": "97701"
+	},
+	{
+		"lon": "17.7224483",
+		"lat": "48.3271074",
+		"number": "95",
+		"street": "Hlavná",
+		"city": "Šúrovce",
+		"district": "",
+		"postcode": "91925"
+	},
+	{
+		"lon": "18.5313232",
+		"lat": "48.6807865",
+		"number": "156",
+		"street": "Domovina",
+		"city": "Zemianske Kostoľany",
+		"district": "",
+		"postcode": "97243"
+	},
+	{
+		"lon": "17.4930997",
+		"lat": "48.6238588",
+		"number": "132",
+		"street": "Hradište pod Vrátnom",
+		"city": "Hradište pod Vrátnom",
+		"district": "",
+		"postcode": "90612"
+	},
+	{
+		"lon": "16.9254448",
+		"lat": "48.4127566",
+		"number": "424",
+		"street": "Jakubov",
+		"city": "Jakubov",
+		"district": "",
+		"postcode": "90063"
+	},
+	{
+		"lon": "20.2783889",
+		"lat": "48.4856434",
+		"number": "31",
+		"street": "Gemerská Ves",
+		"city": "Gemerská Ves",
+		"district": "",
+		"postcode": "98262"
+	},
+	{
+		"lon": "17.2182466",
+		"lat": "48.2898422",
+		"number": "58",
+		"street": "SNP",
+		"city": "Limbach",
+		"district": "",
+		"postcode": "90091"
+	},
+	{
+		"lon": "18.8995343",
+		"lat": "49.0799009",
+		"number": "70",
+		"street": "Hollého",
+		"city": "Martin",
+		"district": "",
+		"postcode": "03601"
+	},
+	{
+		"lon": "22.2464223",
+		"lat": "48.7809924",
+		"number": "147",
+		"street": "Choňkovce",
+		"city": "Choňkovce",
+		"district": "",
+		"postcode": "07263"
+	},
+	{
+		"lon": "20.5395627",
+		"lat": "48.6575256",
+		"number": "5",
+		"street": "Rumunská",
+		"city": "Rožňava",
+		"district": "",
+		"postcode": "04801"
+	},
+	{
+		"lon": "21.2406292",
+		"lat": "49.0128765",
+		"number": "26",
+		"street": "Tatranská",
+		"city": "Prešov",
+		"district": "",
+		"postcode": "08001"
+	},
+	{
+		"lon": "20.0229613",
+		"lat": "48.3810172",
+		"number": "1",
+		"street": "Trhové námestie",
+		"city": "Rimavská Sobota",
+		"district": "",
+		"postcode": "97901"
+	},
+	{
+		"lon": "18.1116161",
+		"lat": "48.3183803",
+		"number": "3",
+		"street": "Doležalova",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "17.2197297",
+		"lat": "48.2545204",
+		"number": "2",
+		"street": "Vinohradnícka",
+		"city": "Svätý Jur",
+		"district": "",
+		"postcode": "90021"
+	},
+	{
+		"lon": "17.5985846",
+		"lat": "48.392502",
+		"number": "4",
+		"street": "Ulica parašutistov",
+		"city": "Trnava",
+		"district": "",
+		"postcode": "91701"
+	},
+	{
+		"lon": "17.0390522",
+		"lat": "48.2424939",
+		"number": "4",
+		"street": "Jána Raka",
+		"city": "Bratislava-Záhorská Bystrica",
+		"district": "",
+		"postcode": "84106"
+	},
+	{
+		"lon": "17.6012246",
+		"lat": "48.6687665",
+		"number": "285",
+		"street": "Košariská",
+		"city": "Košariská",
+		"district": "",
+		"postcode": "90615"
+	},
+	{
+		"lon": "19.6456775",
+		"lat": "48.337406",
+		"number": "54",
+		"street": "Rúbanisko III",
+		"city": "Lučenec",
+		"district": "",
+		"postcode": "98403"
+	},
+	{
+		"lon": "18.2194824",
+		"lat": "48.9882402",
+		"number": "30",
+		"street": "Pluhová",
+		"city": "Ilava",
+		"district": "",
+		"postcode": "01901"
+	},
+	{
+		"lon": "18.7073515",
+		"lat": "49.2337864",
+		"number": "13",
+		"street": "Dedinská",
+		"city": "Žilina",
+		"district": "",
+		"postcode": "01001"
+	},
+	{
+		"lon": "18.119757",
+		"lat": "48.9705729",
+		"number": "8",
+		"street": "Duklianska",
+		"city": "Nemšová",
+		"district": "",
+		"postcode": "91441"
+	},
+	{
+		"lon": "21.7070195",
+		"lat": "48.6255845",
+		"number": "18",
+		"street": "Šafarikova",
+		"city": "Trebišov",
+		"district": "",
+		"postcode": "07501"
+	},
+	{
+		"lon": "17.769252",
+		"lat": "48.4442351",
+		"number": "15",
+		"street": "Rázusova",
+		"city": "Leopoldov",
+		"district": "",
+		"postcode": "92041"
+	},
+	{
+		"lon": "21.6502436",
+		"lat": "48.8460458",
+		"number": "47",
+		"street": "Kamenná Poruba",
+		"city": "Kamenná Poruba",
+		"district": "",
+		"postcode": "09303"
+	},
+	{
+		"lon": "20.5205587",
+		"lat": "48.9557016",
+		"number": "73",
+		"street": "Tatranská",
+		"city": "Smižany",
+		"district": "",
+		"postcode": "05311"
+	},
+	{
+		"lon": "18.0110258",
+		"lat": "48.8507793",
+		"number": "1324",
+		"street": "Trenčianska Turná",
+		"city": "Trenčianska Turná",
+		"district": "",
+		"postcode": "91321"
+	},
+	{
+		"lon": "18.1896565",
+		"lat": "48.0892815",
+		"number": "121",
+		"street": "SNP",
+		"city": "Šurany",
+		"district": "",
+		"postcode": "94201"
+	},
+	{
+		"lon": "17.2747389",
+		"lat": "48.2273514",
+		"number": "16",
+		"street": "Záhradná",
+		"city": "Chorvátsky Grob",
+		"district": "",
+		"postcode": "90025"
+	},
+	{
+		"lon": "17.2376623",
+		"lat": "48.5855928",
+		"number": "76",
+		"street": "Bílkove Humence",
+		"city": "Bílkove Humence",
+		"district": "",
+		"postcode": "90877"
+	},
+	{
+		"lon": "18.3430742",
+		"lat": "48.7681142",
+		"number": "200",
+		"street": "Žitná-Radiša",
+		"city": "Žitná-Radiša",
+		"district": "",
+		"postcode": "95641"
+	},
+	{
+		"lon": "18.3068238",
+		"lat": "48.0939937",
+		"number": "160",
+		"street": "Radava",
+		"city": "Radava",
+		"district": "",
+		"postcode": "94147"
+	},
+	{
+		"lon": "18.0955848",
+		"lat": "48.3350926",
+		"number": "35",
+		"street": "Hornozoborská",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "20.5248293",
+		"lat": "48.6381479",
+		"number": "22",
+		"street": "Jovická",
+		"city": "Brzotín",
+		"district": "",
+		"postcode": "04951"
+	},
+	{
+		"lon": "18.0724218",
+		"lat": "48.9287157",
+		"number": "56",
+		"street": "Skalka nad Váhom",
+		"city": "Skalka nad Váhom",
+		"district": "",
+		"postcode": "91331"
+	},
+	{
+		"lon": "21.0767434",
+		"lat": "48.534339",
+		"number": "265",
+		"street": "Buzica",
+		"city": "Buzica",
+		"district": "",
+		"postcode": "04473"
+	},
+	{
+		"lon": "18.1731836",
+		"lat": "47.9897665",
+		"number": "1",
+		"street": "Medzimlynie",
+		"city": "Nové Zámky",
+		"district": "",
+		"postcode": "94002"
+	},
+	{
+		"lon": "17.7961468",
+		"lat": "48.0211453",
+		"number": "976",
+		"street": "Trstice",
+		"city": "Trstice",
+		"district": "",
+		"postcode": "92542"
+	},
+	{
+		"lon": "18.1550082",
+		"lat": "48.964708",
+		"number": "57",
+		"street": "Bottova",
+		"city": "Dubnica nad Váhom",
+		"district": "",
+		"postcode": "01841"
+	},
+	{
+		"lon": "20.2135809",
+		"lat": "49.1353974",
+		"number": "19234",
+		"street": "Vysoké Tatry",
+		"city": "Vysoké Tatry",
+		"district": "",
+		"postcode": "06201"
+	},
+	{
+		"lon": "20.4148382",
+		"lat": "48.9795215",
+		"number": "29",
+		"street": "Zimná",
+		"city": "Hrabušice",
+		"district": "",
+		"postcode": "05315"
+	},
+	{
+		"lon": "21.2757402",
+		"lat": "49.0015432",
+		"number": "34",
+		"street": "Sibírska",
+		"city": "Prešov",
+		"district": "",
+		"postcode": "08001"
+	},
+	{
+		"lon": "19.7612981",
+		"lat": "49.0507335",
+		"number": "301",
+		"street": "Liptovský Hrádok",
+		"city": "Liptovský Hrádok",
+		"district": "",
+		"postcode": "03301"
+	},
+	{
+		"lon": "17.7942511",
+		"lat": "47.9597948",
+		"number": "227",
+		"street": "Hlavná",
+		"city": "Topoľníky",
+		"district": "",
+		"postcode": "93011"
+	},
+	{
+		"lon": "18.6285344",
+		"lat": "48.7673357",
+		"number": "21",
+		"street": "Východná ulica",
+		"city": "Prievidza",
+		"district": "",
+		"postcode": "97101"
+	},
+	{
+		"lon": "18.6404811",
+		"lat": "47.8856039",
+		"number": "4",
+		"street": "Kamenín",
+		"city": "Kamenín",
+		"district": "",
+		"postcode": "94357"
+	},
+	{
+		"lon": "18.4924944",
+		"lat": "49.0129697",
+		"number": "318",
+		"street": "Pružina",
+		"city": "Pružina",
+		"district": "",
+		"postcode": "01822"
+	},
+	{
+		"lon": "17.7359806",
+		"lat": "48.2888869",
+		"number": "16",
+		"street": "A.Hlinku",
+		"city": "Sereď",
+		"district": "",
+		"postcode": "92601"
+	},
+	{
+		"lon": "20.4122186",
+		"lat": "48.7762548",
+		"number": "0",
+		"street": "Letná",
+		"city": "Vlachovo",
+		"district": "",
+		"postcode": "04924"
+	},
+	{
+		"lon": "21.611651",
+		"lat": "48.6588919",
+		"number": "65",
+		"street": "Hlavná",
+		"city": "Veľké Ozorovce",
+		"district": "",
+		"postcode": "07801"
+	},
+	{
+		"lon": "17.0202856",
+		"lat": "48.6617007",
+		"number": "12",
+		"street": "Školská",
+		"city": "Kúty",
+		"district": "",
+		"postcode": "90801"
+	},
+	{
+		"lon": "20.9929621",
+		"lat": "49.1342899",
+		"number": "222",
+		"street": "Rožkovany",
+		"city": "Rožkovany",
+		"district": "",
+		"postcode": "08271"
+	},
+	{
+		"lon": "17.5938945",
+		"lat": "48.3316672",
+		"number": "55",
+		"street": "Nová",
+		"city": "Zeleneč",
+		"district": "",
+		"postcode": "91921"
+	},
+	{
+		"lon": "21.2650995",
+		"lat": "48.9859309",
+		"number": "1A",
+		"street": "Zemplínska",
+		"city": "Prešov",
+		"district": "",
+		"postcode": "08001"
+	},
+	{
+		"lon": "20.4122406",
+		"lat": "48.9786976",
+		"number": "9",
+		"street": "Zimná",
+		"city": "Hrabušice",
+		"district": "",
+		"postcode": "05315"
+	},
+	{
+		"lon": "21.9190728",
+		"lat": "48.7539192",
+		"number": "2",
+		"street": "Fr. Kráľa",
+		"city": "Michalovce",
+		"district": "",
+		"postcode": "07101"
+	},
+	{
+		"lon": "18.5251492",
+		"lat": "48.3571851",
+		"number": "0",
+		"street": "Nové Grunty",
+		"city": "Tekovské Nemce",
+		"district": "",
+		"postcode": "96654"
+	},
+	{
+		"lon": "18.7409061",
+		"lat": "48.2641861",
+		"number": "103",
+		"street": "Mjr. Daniela Gondu",
+		"city": "Žemberovce",
+		"district": "",
+		"postcode": "93502"
+	},
+	{
+		"lon": "17.0144366",
+		"lat": "48.4437146",
+		"number": "84",
+		"street": "Kukučínova",
+		"city": "Malacky",
+		"district": "",
+		"postcode": "90101"
+	},
+	{
+		"lon": "19.5147751",
+		"lat": "49.3123546",
+		"number": "0",
+		"street": "Radlinského",
+		"city": "Nižná",
+		"district": "",
+		"postcode": "02743"
+	},
+	{
+		"lon": "18.4160869",
+		"lat": "48.4188591",
+		"number": "4",
+		"street": "Športová",
+		"city": "Topoľčianky",
+		"district": "",
+		"postcode": "95193"
+	},
+	{
+		"lon": "18.1501807",
+		"lat": "48.6088837",
+		"number": "60",
+		"street": "Čerešňová",
+		"city": "Topoľčany",
+		"district": "",
+		"postcode": "95501"
+	},
+	{
+		"lon": "17.4255596",
+		"lat": "48.1154861",
+		"number": "17",
+		"street": "Ulica Zsigmondovcov",
+		"city": "Zlaté Klasy",
+		"district": "",
+		"postcode": "93039"
+	},
+	{
+		"lon": "18.356962",
+		"lat": "48.62384",
+		"number": "28",
+		"street": "Veľká okružná",
+		"city": "Partizánske",
+		"district": "",
+		"postcode": "95801"
+	},
+	{
+		"lon": "17.1400079",
+		"lat": "48.1550538",
+		"number": "4",
+		"street": "Zelinárska",
+		"city": "Bratislava-Ružinov",
+		"district": "",
+		"postcode": "82108"
+	},
+	{
+		"lon": "19.7220726",
+		"lat": "48.5820968",
+		"number": "131",
+		"street": "Málinec",
+		"city": "Málinec",
+		"district": "",
+		"postcode": "98526"
+	},
+	{
+		"lon": "19.9503071",
+		"lat": "48.273988",
+		"number": "145",
+		"street": "Blhovce",
+		"city": "Blhovce",
+		"district": "",
+		"postcode": "98032"
+	},
+	{
+		"lon": "17.8546131",
+		"lat": "48.1025543",
+		"number": "1445",
+		"street": "Tešedíkovo",
+		"city": "Tešedíkovo",
+		"district": "",
+		"postcode": "92582"
+	},
+	{
+		"lon": "20.2889525",
+		"lat": "49.1606076",
+		"number": "144",
+		"street": "Vysoké Tatry",
+		"city": "Vysoké Tatry",
+		"district": "",
+		"postcode": "05960"
+	},
+	{
+		"lon": "19.1217911",
+		"lat": "49.2789312",
+		"number": "151",
+		"street": "Zázrivá",
+		"city": "Zázrivá",
+		"district": "",
+		"postcode": "02705"
+	},
+	{
+		"lon": "18.7641804",
+		"lat": "48.1551827",
+		"number": "9",
+		"street": "Parková",
+		"city": "Santovka",
+		"district": "",
+		"postcode": "93587"
+	},
+	{
+		"lon": "18.9474859",
+		"lat": "49.116275",
+		"number": "203",
+		"street": "Turčianske Kľačany",
+		"city": "Turčianske Kľačany",
+		"district": "",
+		"postcode": "03861"
+	},
+	{
+		"lon": "18.9277154",
+		"lat": "48.9320844",
+		"number": "257",
+		"street": "Blatnica",
+		"city": "Blatnica",
+		"district": "",
+		"postcode": "03815"
+	},
+	{
+		"lon": "18.5580182",
+		"lat": "49.2272003",
+		"number": "35",
+		"street": "Hlinkova",
+		"city": "Bytča",
+		"district": "",
+		"postcode": "01401"
+	},
+	{
+		"lon": "18.6083113",
+		"lat": "48.7710502",
+		"number": "12",
+		"street": "Vnútorná ulica",
+		"city": "Prievidza",
+		"district": "",
+		"postcode": "97101"
+	},
+	{
+		"lon": "18.1163632",
+		"lat": "48.3124622",
+		"number": "33",
+		"street": "Pri strelnici",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "18.5855553",
+		"lat": "47.9200141",
+		"number": "71",
+		"street": "Bruty",
+		"city": "Bruty",
+		"district": "",
+		"postcode": "94355"
+	},
+	{
+		"lon": "20.0023242",
+		"lat": "48.3816753",
+		"number": "15",
+		"street": "L. Novomeského",
+		"city": "Rimavská Sobota",
+		"district": "",
+		"postcode": "97901"
+	},
+	{
+		"lon": "18.5000948",
+		"lat": "48.4775921",
+		"number": "549",
+		"street": "Jedľové Kostoľany",
+		"city": "Jedľové Kostoľany",
+		"district": "",
+		"postcode": "95196"
+	},
+	{
+		"lon": "20.5739031",
+		"lat": "48.6253726",
+		"number": "88",
+		"street": "Krásnohorská Dlhá Lúka",
+		"city": "Krásnohorská Dlhá Lúka",
+		"district": "",
+		"postcode": "04945"
+	},
+	{
+		"lon": "18.0307348",
+		"lat": "48.2475334",
+		"number": "13",
+		"street": "Cabaj-Čápor",
+		"city": "Cabaj-Čápor",
+		"district": "",
+		"postcode": "95117"
+	},
+	{
+		"lon": "17.7611837",
+		"lat": "48.4382731",
+		"number": "28",
+		"street": "Sládkovičova",
+		"city": "Leopoldov",
+		"district": "",
+		"postcode": "92041"
+	},
+	{
+		"lon": "17.0159392",
+		"lat": "48.2710393",
+		"number": "45",
+		"street": "Dlhá",
+		"city": "Stupava",
+		"district": "",
+		"postcode": "90031"
+	},
+	{
+		"lon": "19.5060244",
+		"lat": "49.2037586",
+		"number": "22",
+		"street": "Veľké Borové",
+		"city": "Veľké Borové",
+		"district": "",
+		"postcode": "02732"
+	},
+	{
+		"lon": "20.6856336",
+		"lat": "49.2916589",
+		"number": "65",
+		"street": "Štúrova",
+		"city": "Stará Ľubovňa",
+		"district": "",
+		"postcode": "06401"
+	},
+	{
+		"lon": "17.2537634",
+		"lat": "48.2862972",
+		"number": "6",
+		"street": "Saulaková",
+		"city": "Pezinok",
+		"district": "",
+		"postcode": "90201"
+	},
+	{
+		"lon": "18.9008622",
+		"lat": "49.0825242",
+		"number": "18",
+		"street": "Generála Svobodu",
+		"city": "Martin",
+		"district": "",
+		"postcode": "03601"
+	},
+	{
+		"lon": "16.9772883",
+		"lat": "48.2203703",
+		"number": "13",
+		"street": "Janšákova",
+		"city": "Bratislava-Devínska Nová Ves",
+		"district": "",
+		"postcode": "84107"
+	},
+	{
+		"lon": "21.2228233",
+		"lat": "48.9935571",
+		"number": "29",
+		"street": "Petőfiho",
+		"city": "Prešov",
+		"district": "",
+		"postcode": "08001"
+	},
+	{
+		"lon": "19.9753212",
+		"lat": "48.1956743",
+		"number": "265",
+		"street": "Gemerský Jablonec",
+		"city": "Gemerský Jablonec",
+		"district": "",
+		"postcode": "98035"
+	},
+	{
+		"lon": "17.1128578",
+		"lat": "48.0635589",
+		"number": "75",
+		"street": "Mandľová",
+		"city": "Bratislava-Jarovce",
+		"district": "",
+		"postcode": "85110"
+	},
+	{
+		"lon": "17.25207",
+		"lat": "48.1854487",
+		"number": "56",
+		"street": "Štefánikova",
+		"city": "Ivanka pri Dunaji",
+		"district": "",
+		"postcode": "90028"
+	},
+	{
+		"lon": "19.8809143",
+		"lat": "48.2694295",
+		"number": "307",
+		"street": "Šíd",
+		"city": "Šíd",
+		"district": "",
+		"postcode": "98601"
+	},
+	{
+		"lon": "18.0894314",
+		"lat": "48.2827971",
+		"number": "70",
+		"street": "Novozámocká",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94905"
+	},
+	{
+		"lon": "16.9954832",
+		"lat": "48.5907494",
+		"number": "780",
+		"street": "Moravský Svätý Ján",
+		"city": "Moravský Svätý Ján",
+		"district": "",
+		"postcode": "90871"
+	},
+	{
+		"lon": "21.0973163",
+		"lat": "48.6772244",
+		"number": "56",
+		"street": "Hodkovce",
+		"city": "Hodkovce",
+		"district": "",
+		"postcode": "04421"
+	},
+	{
+		"lon": "17.8620304",
+		"lat": "48.1697608",
+		"number": "253",
+		"street": "Dlhá nad Váhom",
+		"city": "Dlhá nad Váhom",
+		"district": "",
+		"postcode": "92705"
+	},
+	{
+		"lon": "17.2473719",
+		"lat": "48.7730171",
+		"number": "43",
+		"street": "Dubovce",
+		"city": "Dubovce",
+		"district": "",
+		"postcode": "90862"
+	},
+	{
+		"lon": "17.7616931",
+		"lat": "47.8632852",
+		"number": "25",
+		"street": "Zahradnícka",
+		"city": "Veľký Meder",
+		"district": "",
+		"postcode": "93201"
+	},
+	{
+		"lon": "18.6801534",
+		"lat": "49.1267165",
+		"number": "3",
+		"street": "Kvetná",
+		"city": "Rajecké Teplice",
+		"district": "",
+		"postcode": "01313"
+	},
+	{
+		"lon": "21.8839705",
+		"lat": "48.7332057",
+		"number": "81",
+		"street": "Močarianska",
+		"city": "Michalovce",
+		"district": "",
+		"postcode": "07101"
+	},
+	{
+		"lon": "20.8788473",
+		"lat": "48.6034683",
+		"number": "5",
+		"street": "Muškátová ulica",
+		"city": "Turňa nad Bodvou",
+		"district": "",
+		"postcode": "04402"
+	},
+	{
+		"lon": "17.2175455",
+		"lat": "48.2079209",
+		"number": "99",
+		"street": "Tomanova",
+		"city": "Bratislava-Vajnory",
+		"district": "",
+		"postcode": "83107"
+	},
+	{
+		"lon": "19.7977358",
+		"lat": "49.0994496",
+		"number": "22",
+		"street": "Ulica Dr. Jána Rumanna",
+		"city": "Pribylina",
+		"district": "",
+		"postcode": "03242"
+	},
+	{
+		"lon": "17.8655085",
+		"lat": "48.6077266",
+		"number": "1",
+		"street": "Sladová",
+		"city": "Moravany nad Váhom",
+		"district": "",
+		"postcode": "92221"
+	},
+	{
+		"lon": "20.4035596",
+		"lat": "48.5463403",
+		"number": "0",
+		"street": "Čsl. Armády",
+		"city": "Plešivec",
+		"district": "",
+		"postcode": "04911"
+	},
+	{
+		"lon": "21.5719712",
+		"lat": "48.9898602",
+		"number": "108",
+		"street": "Čierne nad Topľou",
+		"city": "Čierne nad Topľou",
+		"district": "",
+		"postcode": "09434"
+	},
+	{
+		"lon": "17.6550674",
+		"lat": "48.3223203",
+		"number": "222",
+		"street": "Križovany nad Dudváhom",
+		"city": "Križovany nad Dudváhom",
+		"district": "",
+		"postcode": "91924"
+	},
+	{
+		"lon": "21.2205411",
+		"lat": "48.8496005",
+		"number": "361",
+		"street": "Kysak",
+		"city": "Kysak",
+		"district": "",
+		"postcode": "04481"
+	},
+	{
+		"lon": "18.1877205",
+		"lat": "48.0791345",
+		"number": "24",
+		"street": "Kpt.Nálepku",
+		"city": "Šurany",
+		"district": "",
+		"postcode": "94201"
+	},
+	{
+		"lon": "17.7689081",
+		"lat": "47.8600882",
+		"number": "74A",
+		"street": "Stará",
+		"city": "Veľký Meder",
+		"district": "",
+		"postcode": "93201"
+	},
+	{
+		"lon": "18.1663991",
+		"lat": "48.7362135",
+		"number": "112",
+		"street": "Veľké Držkovce",
+		"city": "Veľké Držkovce",
+		"district": "",
+		"postcode": "95654"
+	},
+	{
+		"lon": "19.8366174",
+		"lat": "48.2509777",
+		"number": "12",
+		"street": "J. Dózsu",
+		"city": "Biskupice",
+		"district": "",
+		"postcode": "98601"
+	},
+	{
+		"lon": "20.6044885",
+		"lat": "48.6530627",
+		"number": "0",
+		"street": "Osloboditeľov",
+		"city": "Krásnohorské Podhradie",
+		"district": "",
+		"postcode": "04941"
+	},
+	{
+		"lon": "17.0920635",
+		"lat": "48.1628068",
+		"number": "49",
+		"street": "Gorazdova",
+		"city": "Bratislava-Staré Mesto",
+		"district": "",
+		"postcode": "81104"
+	},
+	{
+		"lon": "20.0483704",
+		"lat": "48.7410261",
+		"number": "408",
+		"street": "Muráň",
+		"city": "Muráň",
+		"district": "",
+		"postcode": "04901"
+	},
+	{
+		"lon": "18.3342897",
+		"lat": "48.7400674",
+		"number": "31",
+		"street": "A.Dubčeka",
+		"city": "Uhrovec",
+		"district": "",
+		"postcode": "95641"
+	},
+	{
+		"lon": "19.2591993",
+		"lat": "48.7976305",
+		"number": "340",
+		"street": "Podkonice",
+		"city": "Podkonice",
+		"district": "",
+		"postcode": "97613"
+	},
+	{
+		"lon": "17.4010566",
+		"lat": "48.6940372",
+		"number": "161",
+		"street": "Senica",
+		"city": "Senica",
+		"district": "",
+		"postcode": "90501"
+	},
+	{
+		"lon": "18.2176316",
+		"lat": "48.9715842",
+		"number": "245",
+		"street": "Prejtská",
+		"city": "Dubnica nad Váhom",
+		"district": "",
+		"postcode": "01841"
+	},
+	{
+		"lon": "18.6357525",
+		"lat": "48.7804254",
+		"number": "6",
+		"street": "Na stráňach",
+		"city": "Prievidza",
+		"district": "",
+		"postcode": "97101"
+	},
+	{
+		"lon": "18.5019903",
+		"lat": "48.7727393",
+		"number": "419",
+		"street": "Diviaky nad Nitricou",
+		"city": "Diviaky nad Nitricou",
+		"district": "",
+		"postcode": "97225"
+	},
+	{
+		"lon": "17.2314002",
+		"lat": "48.2152456",
+		"number": "138",
+		"street": "Suché Miesto",
+		"city": "Chorvátsky Grob",
+		"district": "",
+		"postcode": "90025"
+	},
+	{
+		"lon": "18.2853532",
+		"lat": "49.1491033",
+		"number": "162",
+		"street": "Dohňany",
+		"city": "Dohňany",
+		"district": "",
+		"postcode": "02051"
+	},
+	{
+		"lon": "20.4180452",
+		"lat": "48.7727605",
+		"number": "0",
+		"street": "Osloboditeľov",
+		"city": "Vlachovo",
+		"district": "",
+		"postcode": "04924"
+	},
+	{
+		"lon": "18.1157706",
+		"lat": "48.3825791",
+		"number": "143",
+		"street": "Podhorany",
+		"city": "Podhorany",
+		"district": "",
+		"postcode": "95146"
+	},
+	{
+		"lon": "18.1038347",
+		"lat": "48.3341149",
+		"number": "35",
+		"street": "Hraničná",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "17.0389066",
+		"lat": "48.1873336",
+		"number": "14",
+		"street": "Trhová",
+		"city": "Bratislava-Dúbravka",
+		"district": "",
+		"postcode": "84101"
+	},
+	{
+		"lon": "21.239857",
+		"lat": "48.9946445",
+		"number": "5",
+		"street": "Tkáčska",
+		"city": "Prešov",
+		"district": "",
+		"postcode": "08001"
+	},
+	{
+		"lon": "18.7358657",
+		"lat": "48.3706325",
+		"number": "950",
+		"street": "Pukanec",
+		"city": "Pukanec",
+		"district": "",
+		"postcode": "93505"
+	},
+	{
+		"lon": "18.907785",
+		"lat": "48.0707369",
+		"number": "135",
+		"street": "Šahy",
+		"city": "Šahy",
+		"district": "",
+		"postcode": "93601"
+	},
+	{
+		"lon": "18.6161778",
+		"lat": "48.773638",
+		"number": "1",
+		"street": "Ulica T. Vansovej",
+		"city": "Prievidza",
+		"district": "",
+		"postcode": "97101"
+	},
+	{
+		"lon": "17.6226017",
+		"lat": "48.5664114",
+		"number": "7",
+		"street": "Parková",
+		"city": "Chtelnica",
+		"district": "",
+		"postcode": "92205"
+	},
+	{
+		"lon": "17.8224086",
+		"lat": "48.592576",
+		"number": "20",
+		"street": "Bratislavská",
+		"city": "Piešťany",
+		"district": "",
+		"postcode": "92101"
+	},
+	{
+		"lon": "18.1144923",
+		"lat": "48.331549",
+		"number": "58",
+		"street": "Pod Sokolom",
+		"city": "Nitrianske Hrnčiarovce",
+		"district": "",
+		"postcode": "95101"
+	},
+	{
+		"lon": "21.6634482",
+		"lat": "48.9190525",
+		"number": "2",
+		"street": "Čičava",
+		"city": "Čičava",
+		"district": "",
+		"postcode": "09301"
+	},
+	{
+		"lon": "19.8590988",
+		"lat": "48.4317985",
+		"number": "213",
+		"street": "Hrnčiarska Ves",
+		"city": "Hrnčiarska Ves",
+		"district": "",
+		"postcode": "98013"
+	},
+	{
+		"lon": "18.3020391",
+		"lat": "48.25798",
+		"number": "10",
+		"street": "Staničná",
+		"city": "Vráble",
+		"district": "",
+		"postcode": "95201"
+	},
+	{
+		"lon": "17.7212594",
+		"lat": "48.7455704",
+		"number": "288",
+		"street": "Vaďovce",
+		"city": "Vaďovce",
+		"district": "",
+		"postcode": "91613"
+	},
+	{
+		"lon": "19.4782809",
+		"lat": "49.4037367",
+		"number": "9",
+		"street": "Mláka",
+		"city": "Námestovo",
+		"district": "",
+		"postcode": "02901"
+	},
+	{
+		"lon": "19.3871932",
+		"lat": "49.2161737",
+		"number": "100",
+		"street": "Pucov",
+		"city": "Pucov",
+		"district": "",
+		"postcode": "02601"
+	},
+	{
+		"lon": "17.7594511",
+		"lat": "48.1212103",
+		"number": "200",
+		"street": "Horné Saliby",
+		"city": "Horné Saliby",
+		"district": "",
+		"postcode": "92503"
+	},
+	{
+		"lon": "21.3605165",
+		"lat": "48.6597299",
+		"number": "37",
+		"street": "Hlavná",
+		"city": "Nižná Hutka",
+		"district": "",
+		"postcode": "04018"
+	},
+	{
+		"lon": "18.9501789",
+		"lat": "48.069959",
+		"number": "4",
+		"street": "Školská",
+		"city": "Šahy",
+		"district": "",
+		"postcode": "93601"
+	},
+	{
+		"lon": "18.7911814",
+		"lat": "49.3476116",
+		"number": "231",
+		"street": "Ochodnica",
+		"city": "Ochodnica",
+		"district": "",
+		"postcode": "02335"
+	},
+	{
+		"lon": "17.3519492",
+		"lat": "48.0950119",
+		"number": "62",
+		"street": "Funduš",
+		"city": "Štvrtok na Ostrove",
+		"district": "",
+		"postcode": "93040"
+	},
+	{
+		"lon": "17.8513011",
+		"lat": "48.1309471",
+		"number": "331",
+		"street": "Diakovce",
+		"city": "Diakovce",
+		"district": "",
+		"postcode": "92581"
+	},
+	{
+		"lon": "17.6996564",
+		"lat": "47.9243588",
+		"number": "785",
+		"street": "Dolný Štál",
+		"city": "Dolný Štál",
+		"district": "",
+		"postcode": "93010"
+	},
+	{
+		"lon": "18.1681243",
+		"lat": "48.1511898",
+		"number": "81",
+		"street": "Dolná",
+		"city": "Komjatice",
+		"district": "",
+		"postcode": "94106"
+	},
+	{
+		"lon": "20.5386706",
+		"lat": "48.6621884",
+		"number": "7",
+		"street": "Jasná",
+		"city": "Rožňava",
+		"district": "",
+		"postcode": "04801"
+	},
+	{
+		"lon": "21.2617696",
+		"lat": "48.6811036",
+		"number": "6",
+		"street": "Matičná",
+		"city": "Košice-Barca",
+		"district": "",
+		"postcode": "04017"
+	},
+	{
+		"lon": "21.252594",
+		"lat": "48.996012",
+		"number": "5",
+		"street": "Šafárikova",
+		"city": "Prešov",
+		"district": "",
+		"postcode": "08001"
+	},
+	{
+		"lon": "17.386098",
+		"lat": "48.3358109",
+		"number": "252",
+		"street": "Vištuk",
+		"city": "Vištuk",
+		"district": "",
+		"postcode": "90085"
+	},
+	{
+		"lon": "21.3036379",
+		"lat": "49.0893292",
+		"number": "99",
+		"street": "Tulčík",
+		"city": "Tulčík",
+		"district": "",
+		"postcode": "08213"
+	},
+	{
+		"lon": "21.2083823",
+		"lat": "48.6904078",
+		"number": "71A",
+		"street": "Bystrická",
+		"city": "Košice-Pereš",
+		"district": "",
+		"postcode": "04011"
+	},
+	{
+		"lon": "20.3327528",
+		"lat": "48.4401752",
+		"number": "4",
+		"street": "Dlhá",
+		"city": "Tornaľa",
+		"district": "",
+		"postcode": "98201"
+	},
+	{
+		"lon": "21.2868963",
+		"lat": "49.0519058",
+		"number": "106",
+		"street": "Hlavná",
+		"city": "Fintice",
+		"district": "",
+		"postcode": "08216"
+	},
+	{
+		"lon": "18.6147837",
+		"lat": "48.2063448",
+		"number": "24",
+		"street": "Ul. L. Exnára",
+		"city": "Levice",
+		"district": "",
+		"postcode": "93405"
+	},
+	{
+		"lon": "18.6550428",
+		"lat": "48.0539526",
+		"number": "33",
+		"street": "Poľná",
+		"city": "Želiezovce",
+		"district": "",
+		"postcode": "93701"
+	},
+	{
+		"lon": "19.3890865",
+		"lat": "48.792997",
+		"number": "61",
+		"street": "Pod Dubinkou",
+		"city": "Brusno",
+		"district": "",
+		"postcode": "97662"
+	},
+	{
+		"lon": "18.5097457",
+		"lat": "49.2431354",
+		"number": "161",
+		"street": "Bytča",
+		"city": "Bytča",
+		"district": "",
+		"postcode": "01401"
+	},
+	{
+		"lon": "18.0582746",
+		"lat": "48.2188353",
+		"number": "417",
+		"street": "Svätoplukovo",
+		"city": "Svätoplukovo",
+		"district": "",
+		"postcode": "95116"
+	},
+	{
+		"lon": "19.8834889",
+		"lat": "49.0574694",
+		"number": "54",
+		"street": "Východná",
+		"city": "Východná",
+		"district": "",
+		"postcode": "03232"
+	},
+	{
+		"lon": "21.1705016",
+		"lat": "48.9147951",
+		"number": "50",
+		"street": "Ľubovec",
+		"city": "Ľubovec",
+		"district": "",
+		"postcode": "08242"
+	},
+	{
+		"lon": "17.7209422",
+		"lat": "48.7485884",
+		"number": "328",
+		"street": "Vaďovce",
+		"city": "Vaďovce",
+		"district": "",
+		"postcode": "91613"
+	},
+	{
+		"lon": "17.6613869",
+		"lat": "48.1541905",
+		"number": "184",
+		"street": "Čierny Brod",
+		"city": "Čierny Brod",
+		"district": "",
+		"postcode": "92508"
+	},
+	{
+		"lon": "18.9847329",
+		"lat": "48.0623012",
+		"number": "31",
+		"street": "Šahy",
+		"city": "Šahy",
+		"district": "",
+		"postcode": "93601"
+	},
+	{
+		"lon": "17.2438596",
+		"lat": "48.2310026",
+		"number": "16",
+		"street": "Hornodvorská",
+		"city": "Chorvátsky Grob",
+		"district": "",
+		"postcode": "90025"
+	},
+	{
+		"lon": "20.507586",
+		"lat": "49.3740006",
+		"number": "140",
+		"street": "Veľký Lipník",
+		"city": "Veľký Lipník",
+		"district": "",
+		"postcode": "06533"
+	},
+	{
+		"lon": "18.0698694",
+		"lat": "48.0962897",
+		"number": "48",
+		"street": "Hviezdoslavova",
+		"city": "Tvrdošovce",
+		"district": "",
+		"postcode": "94110"
+	},
+	{
+		"lon": "20.6861003",
+		"lat": "49.2923342",
+		"number": "55",
+		"street": "Štúrova",
+		"city": "Stará Ľubovňa",
+		"district": "",
+		"postcode": "06401"
+	},
+	{
+		"lon": "22.0671706",
+		"lat": "48.5559978",
+		"number": "50",
+		"street": "Vojanská",
+		"city": "Veľké Kapušany",
+		"district": "",
+		"postcode": "07901"
+	},
+	{
+		"lon": "21.6660247",
+		"lat": "48.8728083",
+		"number": "9",
+		"street": "Gorkého",
+		"city": "Vranov nad Topľou",
+		"district": "",
+		"postcode": "09303"
+	},
+	{
+		"lon": "20.5286989",
+		"lat": "48.6516443",
+		"number": "51",
+		"street": "Ernesta Rótha",
+		"city": "Rožňava",
+		"district": "",
+		"postcode": "04801"
+	},
+	{
+		"lon": "18.2584791",
+		"lat": "49.1752005",
+		"number": "87",
+		"street": "Mestečko",
+		"city": "Mestečko",
+		"district": "",
+		"postcode": "02052"
+	},
+	{
+		"lon": "19.7741468",
+		"lat": "48.3194682",
+		"number": "19",
+		"street": "Nitra nad Ipľom",
+		"city": "Nitra nad Ipľom",
+		"district": "",
+		"postcode": "98557"
+	},
+	{
+		"lon": "19.0324734",
+		"lat": "49.2542222",
+		"number": "72",
+		"street": "Školská",
+		"city": "Terchová",
+		"district": "",
+		"postcode": "01306"
+	},
+	{
+		"lon": "18.041875",
+		"lat": "48.3061278",
+		"number": "29B",
+		"street": "Šúdolská",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94911"
+	},
+	{
+		"lon": "17.3180983",
+		"lat": "48.7739954",
+		"number": "36",
+		"street": "Chropov",
+		"city": "Chropov",
+		"district": "",
+		"postcode": "90864"
+	},
+	{
+		"lon": "19.1703814",
+		"lat": "48.6290547",
+		"number": "11",
+		"street": "Novomeského",
+		"city": "Veľká Lúka",
+		"district": "",
+		"postcode": "96231"
+	},
+	{
+		"lon": "21.26289",
+		"lat": "48.6575267",
+		"number": "167",
+		"street": "Košice-Šebastovce",
+		"city": "Košice-Šebastovce",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "21.1417173",
+		"lat": "48.9620035",
+		"number": "56",
+		"street": "Rokycany",
+		"city": "Rokycany",
+		"district": "",
+		"postcode": "08241"
+	},
+	{
+		"lon": "17.3748794",
+		"lat": "48.6776641",
+		"number": "24",
+		"street": "Brezová",
+		"city": "Senica",
+		"district": "",
+		"postcode": "90501"
+	},
+	{
+		"lon": "17.4208211",
+		"lat": "48.1175354",
+		"number": "11",
+		"street": "Hlavná ulica",
+		"city": "Zlaté Klasy",
+		"district": "",
+		"postcode": "93039"
+	},
+	{
+		"lon": "17.4949801",
+		"lat": "48.2538227",
+		"number": "419",
+		"street": "Veľký Grob",
+		"city": "Veľký Grob",
+		"district": "",
+		"postcode": "92527"
+	},
+	{
+		"lon": "19.4826333",
+		"lat": "49.4405972",
+		"number": "157",
+		"street": "Hlavná",
+		"city": "Klin",
+		"district": "",
+		"postcode": "02941"
+	},
+	{
+		"lon": "20.5384531",
+		"lat": "48.6646138",
+		"number": "6",
+		"street": "Čučmianska",
+		"city": "Rožňava",
+		"district": "",
+		"postcode": "04801"
+	},
+	{
+		"lon": "21.7096456",
+		"lat": "48.7525229",
+		"number": "2",
+		"street": "Lúčna",
+		"city": "Parchovany",
+		"district": "",
+		"postcode": "07662"
+	},
+	{
+		"lon": "20.836521",
+		"lat": "48.5985015",
+		"number": "151",
+		"street": "Dvorníky-Včeláre",
+		"city": "Dvorníky-Včeláre",
+		"district": "",
+		"postcode": "04402"
+	},
+	{
+		"lon": "18.714427",
+		"lat": "49.1742547",
+		"number": "12",
+		"street": "Na Pleš",
+		"city": "Lietavská Lúčka",
+		"district": "",
+		"postcode": "01311"
+	},
+	{
+		"lon": "18.6063762",
+		"lat": "48.2265966",
+		"number": "1",
+		"street": "Robotnícka ul.",
+		"city": "Levice",
+		"district": "",
+		"postcode": "93401"
+	},
+	{
+		"lon": "17.2264547",
+		"lat": "48.4672823",
+		"number": "451",
+		"street": "Sološnica",
+		"city": "Sološnica",
+		"district": "",
+		"postcode": "90637"
+	},
+	{
+		"lon": "20.6472389",
+		"lat": "48.6394688",
+		"number": "30",
+		"street": "Drnava",
+		"city": "Drnava",
+		"district": "",
+		"postcode": "04942"
+	},
+	{
+		"lon": "18.2084321",
+		"lat": "48.9746361",
+		"number": "151",
+		"street": "Prejtská",
+		"city": "Dubnica nad Váhom",
+		"district": "",
+		"postcode": "01841"
+	},
+	{
+		"lon": "18.9281105",
+		"lat": "49.1001941",
+		"number": "26",
+		"street": "Priehradná",
+		"city": "Martin",
+		"district": "",
+		"postcode": "03861"
+	},
+	{
+		"lon": "17.1312506",
+		"lat": "48.1732652",
+		"number": "66",
+		"street": "Riazanská",
+		"city": "Bratislava-Nové Mesto",
+		"district": "",
+		"postcode": "83103"
+	},
+	{
+		"lon": "21.9785517",
+		"lat": "48.4159492",
+		"number": "22",
+		"street": "Horešská",
+		"city": "Kráľovský Chlmec",
+		"district": "",
+		"postcode": "07701"
+	},
+	{
+		"lon": "18.6862574",
+		"lat": "49.1286257",
+		"number": "7A",
+		"street": "1.mája",
+		"city": "Rajecké Teplice",
+		"district": "",
+		"postcode": "01313"
+	},
+	{
+		"lon": "18.9096981",
+		"lat": "48.4590915",
+		"number": "15",
+		"street": "SNP",
+		"city": "Banská Štiavnica",
+		"district": "",
+		"postcode": "96901"
+	},
+	{
+		"lon": "18.1028122",
+		"lat": "48.964604",
+		"number": "71",
+		"street": "Závadská",
+		"city": "Nemšová",
+		"district": "",
+		"postcode": "91441"
+	},
+	{
+		"lon": "17.0064724",
+		"lat": "48.5904562",
+		"number": "88",
+		"street": "Moravský Svätý Ján",
+		"city": "Moravský Svätý Ján",
+		"district": "",
+		"postcode": "90871"
+	},
+	{
+		"lon": "18.0833081",
+		"lat": "48.3383024",
+		"number": "8",
+		"street": "Levanduľová",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "21.2410548",
+		"lat": "48.994765",
+		"number": "27",
+		"street": "Jarková",
+		"city": "Prešov",
+		"district": "",
+		"postcode": "08001"
+	},
+	{
+		"lon": "17.5971003",
+		"lat": "48.417434",
+		"number": "20",
+		"street": "Farárske",
+		"city": "Trnava",
+		"district": "",
+		"postcode": "91701"
+	},
+	{
+		"lon": "17.8502456",
+		"lat": "48.1355084",
+		"number": "167",
+		"street": "Diakovce",
+		"city": "Diakovce",
+		"district": "",
+		"postcode": "92581"
+	},
+	{
+		"lon": "18.1477191",
+		"lat": "47.7614283",
+		"number": "11",
+		"street": "Novozámocká cesta",
+		"city": "Komárno",
+		"district": "",
+		"postcode": "94501"
+	},
+	{
+		"lon": "22.0666471",
+		"lat": "48.5547188",
+		"number": "17",
+		"street": "Vinohradská",
+		"city": "Veľké Kapušany",
+		"district": "",
+		"postcode": "07901"
+	},
+	{
+		"lon": "18.9908779",
+		"lat": "49.1009352",
+		"number": "37",
+		"street": "Námestie SNP",
+		"city": "Sučany",
+		"district": "",
+		"postcode": "03852"
+	},
+	{
+		"lon": "16.9978174",
+		"lat": "48.5888553",
+		"number": "438",
+		"street": "Moravský Svätý Ján",
+		"city": "Moravský Svätý Ján",
+		"district": "",
+		"postcode": "90871"
+	},
+	{
+		"lon": "18.0596106",
+		"lat": "48.0972519",
+		"number": "8",
+		"street": "Hlboká",
+		"city": "Tvrdošovce",
+		"district": "",
+		"postcode": "94110"
+	},
+	{
+		"lon": "17.0414404",
+		"lat": "48.2408665",
+		"number": "188",
+		"street": "Čsl. tankistov",
+		"city": "Bratislava-Záhorská Bystrica",
+		"district": "",
+		"postcode": "84106"
+	},
+	{
+		"lon": "18.9131203",
+		"lat": "48.7082945",
+		"number": "1",
+		"street": "Rumunskej armády",
+		"city": "Kremnica",
+		"district": "",
+		"postcode": "96701"
+	},
+	{
+		"lon": "17.2148852",
+		"lat": "48.207988",
+		"number": "344",
+		"street": "Roľnícka",
+		"city": "Bratislava-Vajnory",
+		"district": "",
+		"postcode": "83107"
+	},
+	{
+		"lon": "17.6842361",
+		"lat": "48.7033895",
+		"number": "285",
+		"street": "Krajné",
+		"city": "Krajné",
+		"district": "",
+		"postcode": "91616"
+	},
+	{
+		"lon": "17.2445402",
+		"lat": "48.2306976",
+		"number": "38",
+		"street": "Hornodvorská",
+		"city": "Chorvátsky Grob",
+		"district": "",
+		"postcode": "90025"
+	},
+	{
+		"lon": "21.2258664",
+		"lat": "49.0520548",
+		"number": "33",
+		"street": "Lúčna",
+		"city": "Veľký Šariš",
+		"district": "",
+		"postcode": "08221"
+	},
+	{
+		"lon": "18.5231634",
+		"lat": "48.3569549",
+		"number": "0",
+		"street": "Hradská",
+		"city": "Tekovské Nemce",
+		"district": "",
+		"postcode": "96654"
+	},
+	{
+		"lon": "19.1527341",
+		"lat": "48.8523335",
+		"number": "201",
+		"street": "Staré Hory",
+		"city": "Staré Hory",
+		"district": "",
+		"postcode": "97602"
+	},
+	{
+		"lon": "21.2670762",
+		"lat": "48.8747193",
+		"number": "32",
+		"street": "Okružná",
+		"city": "Drienov",
+		"district": "",
+		"postcode": "08204"
+	},
+	{
+		"lon": "18.7146402",
+		"lat": "48.777224",
+		"number": "6",
+		"street": "Chrenovec-Brusno",
+		"city": "Chrenovec-Brusno",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "17.2624621",
+		"lat": "48.310859",
+		"number": "51",
+		"street": "Šteberlova",
+		"city": "Pezinok",
+		"district": "",
+		"postcode": "90201"
+	},
+	{
+		"lon": "18.4271652",
+		"lat": "48.0190003",
+		"number": "792",
+		"street": "Kolta",
+		"city": "Kolta",
+		"district": "",
+		"postcode": "94133"
+	},
+	{
+		"lon": "18.2567673",
+		"lat": "48.7179649",
+		"number": "14",
+		"street": "Farská",
+		"city": "Bánovce nad Bebravou",
+		"district": "",
+		"postcode": "95701"
+	},
+	{
+		"lon": "18.0982558",
+		"lat": "48.3300364",
+		"number": "22A",
+		"street": "Svätourbanská",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "21.1005033",
+		"lat": "49.1063084",
+		"number": "23",
+		"street": "Janka Jesenského",
+		"city": "Sabinov",
+		"district": "",
+		"postcode": "08301"
+	},
+	{
+		"lon": "21.237502",
+		"lat": "48.9964264",
+		"number": "28",
+		"street": "Baštová",
+		"city": "Prešov",
+		"district": "",
+		"postcode": "08001"
+	},
+	{
+		"lon": "18.8947777",
+		"lat": "49.1175872",
+		"number": "50",
+		"street": "Karvaša a Bláhovca",
+		"city": "Vrútky",
+		"district": "",
+		"postcode": "03861"
+	},
+	{
+		"lon": "17.8442192",
+		"lat": "48.1704579",
+		"number": "387",
+		"street": "Kráľová nad Váhom",
+		"city": "Kráľová nad Váhom",
+		"district": "",
+		"postcode": "92591"
+	},
+	{
+		"lon": "20.5661196",
+		"lat": "48.9461541",
+		"number": "11",
+		"street": "Gorazdova",
+		"city": "Spišská Nová Ves",
+		"district": "",
+		"postcode": "05201"
+	},
+	{
+		"lon": "19.2128435",
+		"lat": "48.6967865",
+		"number": "79",
+		"street": "Horná Mičiná",
+		"city": "Horná Mičiná",
+		"district": "",
+		"postcode": "97401"
+	},
+	{
+		"lon": "19.9917206",
+		"lat": "48.6036008",
+		"number": "60",
+		"street": "Hnúšťa",
+		"city": "Hnúšťa",
+		"district": "",
+		"postcode": "98101"
+	},
+	{
+		"lon": "18.2383091",
+		"lat": "48.1390037",
+		"number": "294",
+		"street": "Mojzesovo",
+		"city": "Mojzesovo",
+		"district": "",
+		"postcode": "94104"
+	},
+	{
+		"lon": "18.3411444",
+		"lat": "48.0110451",
+		"number": "39",
+		"street": "Semerovo",
+		"city": "Semerovo",
+		"district": "",
+		"postcode": "94132"
+	},
+	{
+		"lon": "18.1815408",
+		"lat": "48.0976781",
+		"number": "4",
+		"street": "Na vŕšku",
+		"city": "Šurany",
+		"district": "",
+		"postcode": "94201"
+	},
+	{
+		"lon": "18.1954893",
+		"lat": "49.1530426",
+		"number": "277",
+		"street": "Zubák",
+		"city": "Zubák",
+		"district": "",
+		"postcode": "02064"
+	},
+	{
+		"lon": "18.2000297",
+		"lat": "48.6549926",
+		"number": "202",
+		"street": "Šišov",
+		"city": "Šišov",
+		"district": "",
+		"postcode": "95638"
+	},
+	{
+		"lon": "21.3511494",
+		"lat": "48.7067879",
+		"number": "57",
+		"street": "Sady nad Torysou",
+		"city": "Sady nad Torysou",
+		"district": "",
+		"postcode": "04441"
+	},
+	{
+		"lon": "18.949256",
+		"lat": "48.0711373",
+		"number": "19",
+		"street": "J. Rotaridesa",
+		"city": "Šahy",
+		"district": "",
+		"postcode": "93601"
+	},
+	{
+		"lon": "17.2032231",
+		"lat": "48.1307422",
+		"number": "31",
+		"street": "Nákovná",
+		"city": "Bratislava-Podunajské Biskupice",
+		"district": "",
+		"postcode": "82106"
+	},
+	{
+		"lon": "20.7653752",
+		"lat": "48.6339154",
+		"number": "72",
+		"street": "Bôrka",
+		"city": "Bôrka",
+		"district": "",
+		"postcode": "04942"
+	},
+	{
+		"lon": "19.2316175",
+		"lat": "48.7791581",
+		"number": "276",
+		"street": "Priechod",
+		"city": "Priechod",
+		"district": "",
+		"postcode": "97611"
+	},
+	{
+		"lon": "21.4608241",
+		"lat": "48.6006775",
+		"number": "29",
+		"street": "Slanská Huta",
+		"city": "Slanská Huta",
+		"district": "",
+		"postcode": "04417"
+	},
+	{
+		"lon": "21.2432238",
+		"lat": "48.7130821",
+		"number": "47",
+		"street": "Ružová",
+		"city": "Košice-Západ",
+		"district": "",
+		"postcode": "04011"
+	},
+	{
+		"lon": "17.2278119",
+		"lat": "48.2888101",
+		"number": "10",
+		"street": "1.mája",
+		"city": "Limbach",
+		"district": "",
+		"postcode": "90091"
+	},
+	{
+		"lon": "17.7638049",
+		"lat": "48.4534178",
+		"number": "10",
+		"street": "Dlhá",
+		"city": "Leopoldov",
+		"district": "",
+		"postcode": "92041"
+	},
+	{
+		"lon": "18.1227739",
+		"lat": "47.7633688",
+		"number": "19",
+		"street": "Gazdovská ul.",
+		"city": "Komárno",
+		"district": "",
+		"postcode": "94505"
+	},
+	{
+		"lon": "17.5883365",
+		"lat": "48.3298668",
+		"number": "5",
+		"street": "Bernolákova",
+		"city": "Zeleneč",
+		"district": "",
+		"postcode": "91921"
+	},
+	{
+		"lon": "17.6277425",
+		"lat": "48.2921629",
+		"number": "179",
+		"street": "Majcichov",
+		"city": "Majcichov",
+		"district": "",
+		"postcode": "91922"
+	},
+	{
+		"lon": "18.6138539",
+		"lat": "48.7749186",
+		"number": "14",
+		"street": "Tenisová ulica",
+		"city": "Prievidza",
+		"district": "",
+		"postcode": "97101"
+	},
+	{
+		"lon": "19.2673516",
+		"lat": "48.7666993",
+		"number": "21",
+		"street": "Ľupčianska",
+		"city": "Slovenská Ľupča",
+		"district": "",
+		"postcode": "97613"
+	},
+	{
+		"lon": "17.4111342",
+		"lat": "48.2112944",
+		"number": "15",
+		"street": "Šamorínska",
+		"city": "Senec",
+		"district": "",
+		"postcode": "90301"
+	},
+	{
+		"lon": "18.0228327",
+		"lat": "48.8829962",
+		"number": "35",
+		"street": "Puškinova",
+		"city": "Trenčín",
+		"district": "",
+		"postcode": "91101"
+	},
+	{
+		"lon": "19.6453603",
+		"lat": "49.0744907",
+		"number": "12",
+		"street": "Riečna",
+		"city": "Liptovský Mikuláš",
+		"district": "",
+		"postcode": "03104"
+	},
+	{
+		"lon": "17.2698937",
+		"lat": "48.2847233",
+		"number": "16",
+		"street": "Holubyho",
+		"city": "Pezinok",
+		"district": "",
+		"postcode": "90201"
+	},
+	{
+		"lon": "20.6016195",
+		"lat": "48.6471445",
+		"number": "0",
+		"street": "Osloboditeľov",
+		"city": "Krásnohorské Podhradie",
+		"district": "",
+		"postcode": "04941"
+	},
+	{
+		"lon": "19.2525086",
+		"lat": "48.3188815",
+		"number": "90",
+		"street": "Dačov Lom",
+		"city": "Dačov Lom",
+		"district": "",
+		"postcode": "99135"
+	},
+	{
+		"lon": "21.642805",
+		"lat": "48.6991473",
+		"number": "104",
+		"street": "SNP",
+		"city": "Sečovce",
+		"district": "",
+		"postcode": "07801"
+	},
+	{
+		"lon": "17.2658695",
+		"lat": "48.1419113",
+		"number": "240",
+		"street": "Most pri Bratislave",
+		"city": "Most pri Bratislave",
+		"district": "",
+		"postcode": "90046"
+	},
+	{
+		"lon": "18.7348366",
+		"lat": "48.7754234",
+		"number": "461",
+		"street": "Chrenovec-Brusno",
+		"city": "Chrenovec-Brusno",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "19.6449112",
+		"lat": "48.3376871",
+		"number": "58",
+		"street": "Rúbanisko III",
+		"city": "Lučenec",
+		"district": "",
+		"postcode": "98403"
+	},
+	{
+		"lon": "18.177487",
+		"lat": "48.3762166",
+		"number": "232",
+		"street": "Žirany",
+		"city": "Žirany",
+		"district": "",
+		"postcode": "95174"
+	},
+	{
+		"lon": "21.5656728",
+		"lat": "49.3264181",
+		"number": "962",
+		"street": "Svidník",
+		"city": "Svidník",
+		"district": "",
+		"postcode": "08901"
+	},
+	{
+		"lon": "20.539288",
+		"lat": "49.0188981",
+		"number": "2621",
+		"street": "Levoča",
+		"city": "Levoča",
+		"district": "",
+		"postcode": "05401"
+	},
+	{
+		"lon": "17.5949713",
+		"lat": "48.3903763",
+		"number": "81",
+		"street": "Špačinská cesta",
+		"city": "Trnava",
+		"district": "",
+		"postcode": "91701"
+	},
+	{
+		"lon": "17.0467452",
+		"lat": "48.2480992",
+		"number": "51",
+		"street": "Lipová",
+		"city": "Marianka",
+		"district": "",
+		"postcode": "90033"
+	},
+	{
+		"lon": "21.055006",
+		"lat": "48.929616",
+		"number": "154",
+		"street": "Klenov",
+		"city": "Klenov",
+		"district": "",
+		"postcode": "08244"
+	},
+	{
+		"lon": "17.7465666",
+		"lat": "48.1300987",
+		"number": "957",
+		"street": "Horné Saliby",
+		"city": "Horné Saliby",
+		"district": "",
+		"postcode": "92503"
+	},
+	{
+		"lon": "18.2738449",
+		"lat": "48.1062762",
+		"number": "80",
+		"street": "Hlavná ulica",
+		"city": "Hul",
+		"district": "",
+		"postcode": "94144"
+	},
+	{
+		"lon": "18.0922286",
+		"lat": "48.2914191",
+		"number": "88",
+		"street": "Stračia",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "20.973662",
+		"lat": "48.687432",
+		"number": "69",
+		"street": "Potočná",
+		"city": "Jasov",
+		"district": "",
+		"postcode": "04423"
+	},
+	{
+		"lon": "19.2754547",
+		"lat": "48.7683125",
+		"number": "4",
+		"street": "Cintorínska",
+		"city": "Slovenská Ľupča",
+		"district": "",
+		"postcode": "97613"
+	},
+	{
+		"lon": "21.2261153",
+		"lat": "48.7065959",
+		"number": "14",
+		"street": "Štiavnická",
+		"city": "Košice-Západ",
+		"district": "",
+		"postcode": "04011"
+	},
+	{
+		"lon": "18.916178",
+		"lat": "48.4733934",
+		"number": "12",
+		"street": "Belianska",
+		"city": "Banská Štiavnica",
+		"district": "",
+		"postcode": "96901"
+	},
+	{
+		"lon": "21.0528378",
+		"lat": "48.9305327",
+		"number": "75",
+		"street": "Klenov",
+		"city": "Klenov",
+		"district": "",
+		"postcode": "08244"
+	},
+	{
+		"lon": "20.2302788",
+		"lat": "48.3087051",
+		"number": "4",
+		"street": "Rimavská Seč",
+		"city": "Rimavská Seč",
+		"district": "",
+		"postcode": "98042"
+	},
+	{
+		"lon": "17.4442263",
+		"lat": "48.1532625",
+		"number": "22",
+		"street": "Hurbanova Ves",
+		"city": "Hurbanova Ves",
+		"district": "",
+		"postcode": "90301"
+	},
+	{
+		"lon": "17.0503517",
+		"lat": "48.1942757",
+		"number": "30",
+		"street": "Studenohorská",
+		"city": "Bratislava-Lamač",
+		"district": "",
+		"postcode": "84103"
+	},
+	{
+		"lon": "17.6537455",
+		"lat": "48.726569",
+		"number": "438",
+		"street": "Krajné",
+		"city": "Krajné",
+		"district": "",
+		"postcode": "91616"
+	},
+	{
+		"lon": "20.5373428",
+		"lat": "48.6597067",
+		"number": "4",
+		"street": "Záhradnícka",
+		"city": "Rožňava",
+		"district": "",
+		"postcode": "04801"
+	},
+	{
+		"lon": "17.4535412",
+		"lat": "48.0542052",
+		"number": "631",
+		"street": "Lehnice",
+		"city": "Lehnice",
+		"district": "",
+		"postcode": "93037"
+	},
+	{
+		"lon": "17.7808457",
+		"lat": "48.4781291",
+		"number": "46",
+		"street": "Jána Hollého",
+		"city": "Madunice",
+		"district": "",
+		"postcode": "92242"
+	},
+	{
+		"lon": "20.6723411",
+		"lat": "48.5959674",
+		"number": "153",
+		"street": "Jablonov nad Turňou",
+		"city": "Jablonov nad Turňou",
+		"district": "",
+		"postcode": "04943"
+	},
+	{
+		"lon": "17.2325127",
+		"lat": "48.2226412",
+		"number": "1",
+		"street": "Triblavinská",
+		"city": "Chorvátsky Grob",
+		"district": "",
+		"postcode": "90025"
+	},
+	{
+		"lon": "17.7396205",
+		"lat": "48.2981235",
+		"number": "92",
+		"street": "Športová",
+		"city": "Sereď",
+		"district": "",
+		"postcode": "92601"
+	},
+	{
+		"lon": "19.7992122",
+		"lat": "49.0998865",
+		"number": "53",
+		"street": "Ulica Dr. Jána Rumanna",
+		"city": "Pribylina",
+		"district": "",
+		"postcode": "03242"
+	},
+	{
+		"lon": "21.0006203",
+		"lat": "49.0228972",
+		"number": "73",
+		"street": "Hendrichovce",
+		"city": "Hendrichovce",
+		"district": "",
+		"postcode": "08235"
+	},
+	{
+		"lon": "18.0752905",
+		"lat": "48.3002155",
+		"number": "10",
+		"street": "Hattalova",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "17.9776098",
+		"lat": "48.2269506",
+		"number": "7268",
+		"street": "Bratislava-Devínska Nová Ves",
+		"city": "Bratislava-Devínska Nová Ves",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "17.9848443",
+		"lat": "48.8568206",
+		"number": "153",
+		"street": "Veľké Bierovce",
+		"city": "Veľké Bierovce",
+		"district": "",
+		"postcode": "91311"
+	},
+	{
+		"lon": "19.607618",
+		"lat": "49.1131429",
+		"number": "431",
+		"street": "Bobrovec",
+		"city": "Bobrovec",
+		"district": "",
+		"postcode": "03221"
+	},
+	{
+		"lon": "18.0540517",
+		"lat": "48.3525901",
+		"number": "106",
+		"street": "Topoľčianska",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "21.2397383",
+		"lat": "48.7471936",
+		"number": "8A",
+		"street": "Vihorlatská",
+		"city": "Košice-Sever",
+		"district": "",
+		"postcode": "04001"
+	},
+	{
+		"lon": "21.7303023",
+		"lat": "48.6146067",
+		"number": "15",
+		"street": "8.marca",
+		"city": "Trebišov",
+		"district": "",
+		"postcode": "07501"
+	},
+	{
+		"lon": "17.6578575",
+		"lat": "48.1538632",
+		"number": "200",
+		"street": "Čierny Brod",
+		"city": "Čierny Brod",
+		"district": "",
+		"postcode": "92508"
+	},
+	{
+		"lon": "17.2526614",
+		"lat": "48.2845271",
+		"number": "50",
+		"street": "Ľudovíta Rajtera",
+		"city": "Pezinok",
+		"district": "",
+		"postcode": "90201"
+	},
+	{
+		"lon": "17.1369864",
+		"lat": "48.1513895",
+		"number": "6",
+		"street": "Kohútova",
+		"city": "Bratislava-Ružinov",
+		"district": "",
+		"postcode": "82108"
+	},
+	{
+		"lon": "18.7346963",
+		"lat": "49.2002124",
+		"number": "3",
+		"street": "Gaštanová",
+		"city": "Žilina",
+		"district": "",
+		"postcode": "01007"
+	},
+	{
+		"lon": "20.0584195",
+		"lat": "48.6459745",
+		"number": "69",
+		"street": "Ratkovské Bystré",
+		"city": "Ratkovské Bystré",
+		"district": "",
+		"postcode": "98266"
+	},
+	{
+		"lon": "19.8038006",
+		"lat": "48.7544717",
+		"number": "26",
+		"street": "Železničná",
+		"city": "Pohronská Polhora",
+		"district": "",
+		"postcode": "97656"
+	},
+	{
+		"lon": "21.3116211",
+		"lat": "49.1044047",
+		"number": "209",
+		"street": "Demjata",
+		"city": "Demjata",
+		"district": "",
+		"postcode": "08213"
+	},
+	{
+		"lon": "21.7561",
+		"lat": "48.3782008",
+		"number": "143",
+		"street": "Hlavná",
+		"city": "Streda nad Bodrogom",
+		"district": "",
+		"postcode": "07631"
+	},
+	{
+		"lon": "19.1538933",
+		"lat": "48.7273937",
+		"number": "6",
+		"street": "Viestova",
+		"city": "Banská Bystrica",
+		"district": "",
+		"postcode": "97401"
+	},
+	{
+		"lon": "17.20782",
+		"lat": "48.2569791",
+		"number": "14",
+		"street": "Horné Predmestie",
+		"city": "Svätý Jur",
+		"district": "",
+		"postcode": "90021"
+	},
+	{
+		"lon": "19.587845",
+		"lat": "49.0960711",
+		"number": "1",
+		"street": "Ondrašovská",
+		"city": "Liptovský Mikuláš",
+		"district": "",
+		"postcode": "03105"
+	},
+	{
+		"lon": "22.1670452",
+		"lat": "48.8259281",
+		"number": "28",
+		"street": "Vyšné Remety",
+		"city": "Vyšné Remety",
+		"district": "",
+		"postcode": "07241"
+	},
+	{
+		"lon": "18.6373094",
+		"lat": "48.1043473",
+		"number": "81",
+		"street": "Šarovce",
+		"city": "Šarovce",
+		"district": "",
+		"postcode": "93552"
+	},
+	{
+		"lon": "21.4095819",
+		"lat": "49.0862139",
+		"number": "65",
+		"street": "Pušovce",
+		"city": "Pušovce",
+		"district": "",
+		"postcode": "08214"
+	},
+	{
+		"lon": "19.8029817",
+		"lat": "48.4764002",
+		"number": "184",
+		"street": "České Brezovo",
+		"city": "České Brezovo",
+		"district": "",
+		"postcode": "98503"
+	},
+	{
+		"lon": "19.2831724",
+		"lat": "48.241518",
+		"number": "47",
+		"street": "Horné Plachtince",
+		"city": "Horné Plachtince",
+		"district": "",
+		"postcode": "99124"
+	},
+	{
+		"lon": "18.0583112",
+		"lat": "48.3533087",
+		"number": "1",
+		"street": "Pri Perinovej studni",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "18.2778796",
+		"lat": "48.1881393",
+		"number": "180",
+		"street": "Michal nad Žitavou",
+		"city": "Michal nad Žitavou",
+		"district": "",
+		"postcode": "94162"
+	},
+	{
+		"lon": "18.9525947",
+		"lat": "48.0730504",
+		"number": "1A",
+		"street": "Pivničná",
+		"city": "Šahy",
+		"district": "",
+		"postcode": "93601"
+	},
+	{
+		"lon": "18.8772895",
+		"lat": "48.446968",
+		"number": "359",
+		"street": "Štiavnické Bane",
+		"city": "Štiavnické Bane",
+		"district": "",
+		"postcode": "96981"
+	},
+	{
+		"lon": "21.553581",
+		"lat": "48.8999289",
+		"number": "70",
+		"street": "Zámutov",
+		"city": "Zámutov",
+		"district": "",
+		"postcode": "09415"
+	},
+	{
+		"lon": "19.5757441",
+		"lat": "49.1717635",
+		"number": "162",
+		"street": "Liptovské Matiašovce",
+		"city": "Liptovské Matiašovce",
+		"district": "",
+		"postcode": "03223"
+	},
+	{
+		"lon": "19.7339751",
+		"lat": "49.0316457",
+		"number": "96",
+		"street": "Liptovská Porúbka",
+		"city": "Liptovská Porúbka",
+		"district": "",
+		"postcode": "03301"
+	},
+	{
+		"lon": "16.9852233",
+		"lat": "48.1725101",
+		"number": "24",
+		"street": "Hutnícka",
+		"city": "Bratislava-Devín",
+		"district": "",
+		"postcode": "84110"
+	},
+	{
+		"lon": "20.8105791",
+		"lat": "48.5994893",
+		"number": "33",
+		"street": "Dvorníky-Včeláre",
+		"city": "Dvorníky-Včeláre",
+		"district": "",
+		"postcode": "04402"
+	},
+	{
+		"lon": "17.0438253",
+		"lat": "48.154589",
+		"number": "18",
+		"street": "Hlaváčiková",
+		"city": "Bratislava-Karlova Ves",
+		"district": "",
+		"postcode": "84105"
+	},
+	{
+		"lon": "22.0851219",
+		"lat": "48.3935407",
+		"number": "54",
+		"street": "Veľké Trakany",
+		"city": "Veľké Trakany",
+		"district": "",
+		"postcode": "07642"
+	},
+	{
+		"lon": "19.4617906",
+		"lat": "49.2328557",
+		"number": "38",
+		"street": "Chlebnice",
+		"city": "Chlebnice",
+		"district": "",
+		"postcode": "02755"
+	},
+	{
+		"lon": "20.5415251",
+		"lat": "48.6673591",
+		"number": "26",
+		"street": "Krátka",
+		"city": "Rožňava",
+		"district": "",
+		"postcode": "04801"
+	},
+	{
+		"lon": "19.0835109",
+		"lat": "48.6980204",
+		"number": "66",
+		"street": "Horné Pršany",
+		"city": "Horné Pršany",
+		"district": "",
+		"postcode": "97405"
+	},
+	{
+		"lon": "17.6586522",
+		"lat": "48.3257217",
+		"number": "183",
+		"street": "Križovany nad Dudváhom",
+		"city": "Križovany nad Dudváhom",
+		"district": "",
+		"postcode": "91924"
+	},
+	{
+		"lon": "17.1462103",
+		"lat": "48.0512394",
+		"number": "69",
+		"street": "Kovácsova",
+		"city": "Bratislava-Rusovce",
+		"district": "",
+		"postcode": "85110"
+	},
+	{
+		"lon": "21.9763316",
+		"lat": "48.4273457",
+		"number": "2",
+		"street": "M. Leczu",
+		"city": "Kráľovský Chlmec",
+		"district": "",
+		"postcode": "07701"
+	},
+	{
+		"lon": "18.7128465",
+		"lat": "49.2089864",
+		"number": "1A",
+		"street": "Emanuela Fila",
+		"city": "Žilina",
+		"district": "",
+		"postcode": "01015"
+	},
+	{
+		"lon": "20.5072042",
+		"lat": "48.6994758",
+		"number": "0",
+		"street": "Rožňavská",
+		"city": "Betliar",
+		"district": "",
+		"postcode": "04921"
+	},
+	{
+		"lon": "20.3249224",
+		"lat": "48.5806808",
+		"number": "95",
+		"street": "Gemerský Sad",
+		"city": "Gemerský Sad",
+		"district": "",
+		"postcode": "04913"
+	},
+	{
+		"lon": "17.7117943",
+		"lat": "48.4361193",
+		"number": "439",
+		"street": "Trakovice",
+		"city": "Trakovice",
+		"district": "",
+		"postcode": "91933"
+	},
+	{
+		"lon": "19.8284863",
+		"lat": "49.0441681",
+		"number": "187",
+		"street": "Hybe",
+		"city": "Hybe",
+		"district": "",
+		"postcode": "03231"
+	},
+	{
+		"lon": "19.5103974",
+		"lat": "49.4499496",
+		"number": "0",
+		"street": "Výhonová",
+		"city": "Zubrohlava",
+		"district": "",
+		"postcode": "02943"
+	},
+	{
+		"lon": "18.2352487",
+		"lat": "48.1326456",
+		"number": "429",
+		"street": "Mojzesovo",
+		"city": "Mojzesovo",
+		"district": "",
+		"postcode": "94104"
+	},
+	{
+		"lon": "18.7394791",
+		"lat": "49.2215407",
+		"number": "10",
+		"street": "Romualda Zaymusa",
+		"city": "Žilina",
+		"district": "",
+		"postcode": "01001"
+	},
+	{
+		"lon": "17.3080374",
+		"lat": "48.2704476",
+		"number": "68",
+		"street": "Orechová",
+		"city": "Viničné",
+		"district": "",
+		"postcode": "90023"
+	},
+	{
+		"lon": "21.0986334",
+		"lat": "49.0353373",
+		"number": "27",
+		"street": "Lažany",
+		"city": "Lažany",
+		"district": "",
+		"postcode": "08232"
+	},
+	{
+		"lon": "21.0958308",
+		"lat": "49.1059225",
+		"number": "18",
+		"street": "Gen. Svobodu",
+		"city": "Sabinov",
+		"district": "",
+		"postcode": "08301"
+	},
+	{
+		"lon": "18.1040951",
+		"lat": "48.325523",
+		"number": "18",
+		"street": "Kamenná",
+		"city": "Nitra",
+		"district": "",
+		"postcode": "94901"
+	},
+	{
+		"lon": "19.5816402",
+		"lat": "48.3532218",
+		"number": "8",
+		"street": "Staničná",
+		"city": "Halič",
+		"district": "",
+		"postcode": "98511"
+	},
+	{
+		"lon": "18.2399732",
+		"lat": "48.8090506",
+		"number": "4",
+		"street": "Timoradza",
+		"city": "Timoradza",
+		"district": "",
+		"postcode": "95652"
+	},
+	{
+		"lon": "17.7660454",
+		"lat": "47.8639278",
+		"number": "28B",
+		"street": "Tichá",
+		"city": "Veľký Meder",
+		"district": "",
+		"postcode": "93201"
+	},
+	{
+		"lon": "19.4148306",
+		"lat": "48.4129735",
+		"number": "15",
+		"street": "Ábelová",
+		"city": "Ábelová",
+		"district": "",
+		"postcode": "98513"
+	},
+	{
+		"lon": "18.4117581",
+		"lat": "48.0229945",
+		"number": "294",
+		"street": "Kolta",
+		"city": "Kolta",
+		"district": "",
+		"postcode": "94133"
+	},
+	{
+		"lon": "17.8741177",
+		"lat": "48.2549532",
+		"number": "316",
+		"street": "Hájske",
+		"city": "Hájske",
+		"district": "",
+		"postcode": "95133"
+	},
+	{
+		"lon": "18.5128603",
+		"lat": "48.0064274",
+		"number": "58",
+		"street": "Farná",
+		"city": "Farná",
+		"district": "",
+		"postcode": "93566"
+	},
+	{
+		"lon": "18.6046571",
+		"lat": "48.7671779",
+		"number": "46",
+		"street": "Ulica J. Murgaša",
+		"city": "Prievidza",
+		"district": "",
+		"postcode": "97101"
+	},
+	{
+		"lon": "19.6066432",
+		"lat": "49.0978759",
+		"number": "4",
+		"street": "Mútnik",
+		"city": "Liptovský Mikuláš",
+		"district": "",
+		"postcode": "03101"
+	}
+]

@@ -1,0 +1,9002 @@
+[
+	{
+		"lon": "14.8026541",
+		"lat": "56.8469471",
+		"number": "8",
+		"street": "HUMLEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8025035",
+		"lat": "56.8467012",
+		"number": "10",
+		"street": "HUMLEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8036544",
+		"lat": "56.846673",
+		"number": "8",
+		"street": "VÖRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8030424",
+		"lat": "56.8468546",
+		"number": "7",
+		"street": "HUMLEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8031763",
+		"lat": "56.8470594",
+		"number": "5",
+		"street": "HUMLEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8037954",
+		"lat": "56.8468989",
+		"number": "6",
+		"street": "VÖRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8042922",
+		"lat": "56.8469355",
+		"number": "5",
+		"street": "VÖRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8041802",
+		"lat": "56.8467313",
+		"number": "7",
+		"street": "VÖRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8058483",
+		"lat": "56.8470009",
+		"number": "6",
+		"street": "LOTUSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8058731",
+		"lat": "56.846892",
+		"number": "8",
+		"street": "LOTUSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8059005",
+		"lat": "56.8467798",
+		"number": "10",
+		"street": "LOTUSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8059281",
+		"lat": "56.8466708",
+		"number": "12",
+		"street": "LOTUSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7983581",
+		"lat": "56.8475735",
+		"number": "150",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7982927",
+		"lat": "56.8474698",
+		"number": "152",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7982333",
+		"lat": "56.8473695",
+		"number": "154",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7985958",
+		"lat": "56.8477111",
+		"number": "147",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7990882",
+		"lat": "56.8476225",
+		"number": "132",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7986518",
+		"lat": "56.8475179",
+		"number": "149",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7985875",
+		"lat": "56.8474146",
+		"number": "151",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.798522",
+		"lat": "56.847316",
+		"number": "153",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7984584",
+		"lat": "56.8472131",
+		"number": "155",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7989766",
+		"lat": "56.8471117",
+		"number": "140",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.799042",
+		"lat": "56.8472153",
+		"number": "138",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7991094",
+		"lat": "56.8473174",
+		"number": "136",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.799173",
+		"lat": "56.8474178",
+		"number": "134",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8032941",
+		"lat": "56.847253",
+		"number": "3",
+		"street": "HUMLEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8034506",
+		"lat": "56.847449",
+		"number": "1",
+		"street": "HUMLEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.80304",
+		"lat": "56.8475887",
+		"number": "2",
+		"street": "HUMLEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8028947",
+		"lat": "56.8473509",
+		"number": "4",
+		"street": "HUMLEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8027741",
+		"lat": "56.8471477",
+		"number": "6",
+		"street": "HUMLEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8040442",
+		"lat": "56.8473127",
+		"number": "2",
+		"street": "VÖRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8039128",
+		"lat": "56.8470941",
+		"number": "4",
+		"street": "VÖRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8045528",
+		"lat": "56.8473688",
+		"number": "1",
+		"street": "VÖRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.804436",
+		"lat": "56.8471618",
+		"number": "3",
+		"street": "VÖRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8057968",
+		"lat": "56.8472218",
+		"number": "2",
+		"street": "LOTUSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8058259",
+		"lat": "56.8471119",
+		"number": "4",
+		"street": "LOTUSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7983732",
+		"lat": "56.8478697",
+		"number": "146",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7983099",
+		"lat": "56.8477687",
+		"number": "148",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7987614",
+		"lat": "56.8482131",
+		"number": "111",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7985114",
+		"lat": "56.8480934",
+		"number": "142",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7984398",
+		"lat": "56.8479717",
+		"number": "144",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7987925",
+		"lat": "56.8480201",
+		"number": "141",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.798726",
+		"lat": "56.8479158",
+		"number": "143",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7986608",
+		"lat": "56.8478125",
+		"number": "145",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7991544",
+		"lat": "56.8477211",
+		"number": "130",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7992162",
+		"lat": "56.8478239",
+		"number": "128",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7992823",
+		"lat": "56.8479259",
+		"number": "126",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8034031",
+		"lat": "56.848148",
+		"number": "3",
+		"street": "LJUNGVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8032656",
+		"lat": "56.8479472",
+		"number": "1",
+		"street": "LJUNGVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8045926",
+		"lat": "56.8481502",
+		"number": "5",
+		"street": "LIGUSTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8044643",
+		"lat": "56.8479591",
+		"number": "3",
+		"street": "LIGUSTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8043474",
+		"lat": "56.8478062",
+		"number": "1",
+		"street": "LIGUSTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.803697",
+		"lat": "56.8479219",
+		"number": "2",
+		"street": "LJUNGVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8038862",
+		"lat": "56.8481048",
+		"number": "4",
+		"street": "LJUNGVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8049285",
+		"lat": "56.8480533",
+		"number": "4",
+		"street": "LIGUSTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8047258",
+		"lat": "56.8477649",
+		"number": "2",
+		"street": "LIGUSTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8060992",
+		"lat": "56.8479134",
+		"number": "5",
+		"street": "LINNÉAVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8060172",
+		"lat": "56.8482408",
+		"number": "9",
+		"street": "LINNÉAVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8060674",
+		"lat": "56.8480755",
+		"number": "7",
+		"street": "LINNÉAVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7989502",
+		"lat": "56.848519",
+		"number": "117",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7988918",
+		"lat": "56.8484183",
+		"number": "115",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7988262",
+		"lat": "56.8483166",
+		"number": "113",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7989704",
+		"lat": "56.8488173",
+		"number": "121",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7995843",
+		"lat": "56.8483304",
+		"number": "101",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7988912",
+		"lat": "56.8487141",
+		"number": "119",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7991952",
+		"lat": "56.8486593",
+		"number": "120",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8001675",
+		"lat": "56.8488161",
+		"number": "108",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8001032",
+		"lat": "56.8487152",
+		"number": "106",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8000411",
+		"lat": "56.8486116",
+		"number": "104",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7999762",
+		"lat": "56.8485114",
+		"number": "102",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7996886",
+		"lat": "56.8485676",
+		"number": "103",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7997507",
+		"lat": "56.8486696",
+		"number": "105",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7998156",
+		"lat": "56.8487672",
+		"number": "107",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8010803",
+		"lat": "56.8479687",
+		"number": "9",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8014775",
+		"lat": "56.8481287",
+		"number": "4",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8007176",
+		"lat": "56.8484168",
+		"number": "27",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8016198",
+		"lat": "56.8478896",
+		"number": "1",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8015151",
+		"lat": "56.8481918",
+		"number": "6",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8011992",
+		"lat": "56.8479473",
+		"number": "7",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8014351",
+		"lat": "56.8480661",
+		"number": "2",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8008459",
+		"lat": "56.8480113",
+		"number": "13",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8005664",
+		"lat": "56.848088",
+		"number": "17",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8006086",
+		"lat": "56.8482248",
+		"number": "21",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8015004",
+		"lat": "56.8479119",
+		"number": "3",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8006863",
+		"lat": "56.8483532",
+		"number": "25",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8007545",
+		"lat": "56.8484828",
+		"number": "29",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8009654",
+		"lat": "56.8479889",
+		"number": "11",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8013857",
+		"lat": "56.8479362",
+		"number": "5",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8004514",
+		"lat": "56.8481122",
+		"number": "19",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8006464",
+		"lat": "56.8482892",
+		"number": "23",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8008612",
+		"lat": "56.8486463",
+		"number": "33",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8010389",
+		"lat": "56.8488962",
+		"number": "41",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8009474",
+		"lat": "56.8487731",
+		"number": "37",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8015479",
+		"lat": "56.8484442",
+		"number": "36",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8010899",
+		"lat": "56.8485024",
+		"number": "30",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8016634",
+		"lat": "56.8484221",
+		"number": "38",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8015467",
+		"lat": "56.848829",
+		"number": "43",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8012077",
+		"lat": "56.8484803",
+		"number": "32",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.801324",
+		"lat": "56.8484585",
+		"number": "34",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.80178",
+		"lat": "56.8483994",
+		"number": "40",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8018974",
+		"lat": "56.8483794",
+		"number": "42",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8006852",
+		"lat": "56.8480664",
+		"number": "15",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8021377",
+		"lat": "56.8485054",
+		"number": "44",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8021736",
+		"lat": "56.8485717",
+		"number": "46",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8022155",
+		"lat": "56.8486338",
+		"number": "48",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8008157",
+		"lat": "56.8485841",
+		"number": "31",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8009908",
+		"lat": "56.8488359",
+		"number": "39",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8009075",
+		"lat": "56.8487101",
+		"number": "35",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8036981",
+		"lat": "56.8485768",
+		"number": "7",
+		"street": "LJUNGVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8035594",
+		"lat": "56.8483771",
+		"number": "5",
+		"street": "LJUNGVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8047626",
+		"lat": "56.8483934",
+		"number": "7",
+		"street": "LIGUSTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8040285",
+		"lat": "56.8483404",
+		"number": "6",
+		"street": "LJUNGVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8041455",
+		"lat": "56.8485539",
+		"number": "8",
+		"street": "LJUNGVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8051701",
+		"lat": "56.8483192",
+		"number": "6",
+		"street": "LIGUSTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8053788",
+		"lat": "56.8486754",
+		"number": "7",
+		"street": "BOLMÖRTSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7993608",
+		"lat": "56.8494155",
+		"number": "190",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7990312",
+		"lat": "56.8489207",
+		"number": "123",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7993217",
+		"lat": "56.8488638",
+		"number": "124",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8003632",
+		"lat": "56.8494367",
+		"number": "170",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8003005",
+		"lat": "56.8493423",
+		"number": "172",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7997329",
+		"lat": "56.8494483",
+		"number": "187",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7996807",
+		"lat": "56.8493538",
+		"number": "189",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7998784",
+		"lat": "56.848871",
+		"number": "109",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8002283",
+		"lat": "56.8489183",
+		"number": "110",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.800745",
+		"lat": "56.8494705",
+		"number": "167",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.800681",
+		"lat": "56.849376",
+		"number": "169",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8025783",
+		"lat": "56.849224",
+		"number": "65",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8028902",
+		"lat": "56.8495603",
+		"number": "53",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8021326",
+		"lat": "56.84922",
+		"number": "71",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8028095",
+		"lat": "56.8494328",
+		"number": "57",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8025992",
+		"lat": "56.8494732",
+		"number": "58",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8027686",
+		"lat": "56.8493686",
+		"number": "59",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8028507",
+		"lat": "56.8494974",
+		"number": "55",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8028211",
+		"lat": "56.8492162",
+		"number": "61",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8018065",
+		"lat": "56.8495453",
+		"number": "89",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8022584",
+		"lat": "56.8492238",
+		"number": "69",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8029291",
+		"lat": "56.849625",
+		"number": "51",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8025586",
+		"lat": "56.8494098",
+		"number": "60",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.801688",
+		"lat": "56.8493564",
+		"number": "83",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.801927",
+		"lat": "56.8497425",
+		"number": "93",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8013418",
+		"lat": "56.8492607",
+		"number": "81",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8015745",
+		"lat": "56.8492163",
+		"number": "77",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.802453",
+		"lat": "56.8492261",
+		"number": "67",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8014611",
+		"lat": "56.8492359",
+		"number": "79",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8017296",
+		"lat": "56.8494187",
+		"number": "85",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8017675",
+		"lat": "56.8494832",
+		"number": "87",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8020129",
+		"lat": "56.8492191",
+		"number": "73",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.801892",
+		"lat": "56.8496794",
+		"number": "91",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8025164",
+		"lat": "56.8493464",
+		"number": "62",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8019722",
+		"lat": "56.849805",
+		"number": "95",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8018897",
+		"lat": "56.8492154",
+		"number": "75",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8043588",
+		"lat": "56.8489736",
+		"number": "7",
+		"street": "BLÅELDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8044654",
+		"lat": "56.8491904",
+		"number": "5",
+		"street": "BLÅELDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8045678",
+		"lat": "56.8493949",
+		"number": "3",
+		"street": "BLÅELDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8041003",
+		"lat": "56.8492734",
+		"number": "6",
+		"street": "BLÅELDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8038624",
+		"lat": "56.8490519",
+		"number": "8",
+		"street": "BLÅELDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8052419",
+		"lat": "56.8492344",
+		"number": "4",
+		"street": "BOLMÖRTSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8051304",
+		"lat": "56.8490289",
+		"number": "6",
+		"street": "BOLMÖRTSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8050053",
+		"lat": "56.8487861",
+		"number": "8",
+		"street": "BOLMÖRTSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8056837",
+		"lat": "56.8492144",
+		"number": "3",
+		"street": "BOLMÖRTSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8055198",
+		"lat": "56.8489365",
+		"number": "5",
+		"street": "BOLMÖRTSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7995728",
+		"lat": "56.8499712",
+		"number": "180",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7995913",
+		"lat": "56.849792",
+		"number": "182",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7995333",
+		"lat": "56.8496975",
+		"number": "184",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7994809",
+		"lat": "56.8496034",
+		"number": "186",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7994187",
+		"lat": "56.8495099",
+		"number": "188",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8029508",
+		"lat": "56.8382574",
+		"number": "11",
+		"street": "TIMOTEJVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8041312",
+		"lat": "56.8382338",
+		"number": "12",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8037425",
+		"lat": "56.8382345",
+		"number": "10",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8054871",
+		"lat": "56.8379719",
+		"number": "18",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8050644",
+		"lat": "56.8380522",
+		"number": "16",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8046552",
+		"lat": "56.8381335",
+		"number": "14",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8008069",
+		"lat": "56.8386736",
+		"number": "11",
+		"street": "HAVREVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8008546",
+		"lat": "56.8388718",
+		"number": "9",
+		"street": "HAVREVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8003071",
+		"lat": "56.8387722",
+		"number": "12",
+		"street": "HAVREVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8018675",
+		"lat": "56.8384634",
+		"number": "11",
+		"street": "VETEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8019353",
+		"lat": "56.8386319",
+		"number": "9",
+		"street": "VETEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8020217",
+		"lat": "56.8388555",
+		"number": "7",
+		"street": "VETEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8015552",
+		"lat": "56.838716",
+		"number": "10",
+		"street": "VETEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8013894",
+		"lat": "56.8385611",
+		"number": "12",
+		"street": "VETEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8028142",
+		"lat": "56.8386908",
+		"number": "8",
+		"street": "TIMOTEJVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8026242",
+		"lat": "56.838499",
+		"number": "10",
+		"street": "TIMOTEJVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8025068",
+		"lat": "56.838342",
+		"number": "12",
+		"street": "TIMOTEJVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8030278",
+		"lat": "56.8384061",
+		"number": "9",
+		"street": "TIMOTEJVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8031233",
+		"lat": "56.8386569",
+		"number": "7",
+		"street": "TIMOTEJVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8044294",
+		"lat": "56.8384467",
+		"number": "5",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8040412",
+		"lat": "56.8386976",
+		"number": "6",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8039298",
+		"lat": "56.8385143",
+		"number": "8",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8045482",
+		"lat": "56.8388183",
+		"number": "19",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8049687",
+		"lat": "56.8387387",
+		"number": "17",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8053612",
+		"lat": "56.8386627",
+		"number": "15",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8052021",
+		"lat": "56.8382614",
+		"number": "9",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8048255",
+		"lat": "56.838345",
+		"number": "7",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8055991",
+		"lat": "56.8381705",
+		"number": "11",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7964347",
+		"lat": "56.8396023",
+		"number": "142A",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7964707",
+		"lat": "56.8396602",
+		"number": "136B",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7973756",
+		"lat": "56.8395926",
+		"number": "124",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.797536",
+		"lat": "56.8393335",
+		"number": "110",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7975532",
+		"lat": "56.8393633",
+		"number": "112",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7975689",
+		"lat": "56.8393899",
+		"number": "114",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8005709",
+		"lat": "56.8499913",
+		"number": "160",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7999471",
+		"lat": "56.850005",
+		"number": "177",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8005108",
+		"lat": "56.8498968",
+		"number": "162",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.800455",
+		"lat": "56.8498036",
+		"number": "164",
+		"street": "BONDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7985225",
+		"lat": "56.8401263",
+		"number": "87",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7991584",
+		"lat": "56.8399481",
+		"number": "47",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7983417",
+		"lat": "56.8401649",
+		"number": "91",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7999701",
+		"lat": "56.8402249",
+		"number": "19",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7990475",
+		"lat": "56.8399964",
+		"number": "49",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7963479",
+		"lat": "56.8405293",
+		"number": "173",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7981034",
+		"lat": "56.8404232",
+		"number": "97",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7980925",
+		"lat": "56.8404562",
+		"number": "99",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7983007",
+		"lat": "56.8404515",
+		"number": "101",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.798292",
+		"lat": "56.8404766",
+		"number": "103",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7984766",
+		"lat": "56.84048",
+		"number": "105",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7984701",
+		"lat": "56.8405024",
+		"number": "107",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7970642",
+		"lat": "56.8407707",
+		"number": "111",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7970768",
+		"lat": "56.8406697",
+		"number": "113",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.797061",
+		"lat": "56.8402886",
+		"number": "123",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7970849",
+		"lat": "56.8405304",
+		"number": "117",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7963328",
+		"lat": "56.8400644",
+		"number": "145",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7970814",
+		"lat": "56.8403268",
+		"number": "121",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7996554",
+		"lat": "56.8398444",
+		"number": "37",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7970041",
+		"lat": "56.8402022",
+		"number": "125",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.797064",
+		"lat": "56.8401877",
+		"number": "127",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7969743",
+		"lat": "56.840159",
+		"number": "129",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7970341",
+		"lat": "56.8401445",
+		"number": "131",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.79692",
+		"lat": "56.8400586",
+		"number": "133",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.796975",
+		"lat": "56.8400493",
+		"number": "135",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7965833",
+		"lat": "56.8400156",
+		"number": "137",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7965682",
+		"lat": "56.8399934",
+		"number": "139",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7970932",
+		"lat": "56.8404919",
+		"number": "119",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7970788",
+		"lat": "56.8406349",
+		"number": "115",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7962043",
+		"lat": "56.8403131",
+		"number": "157",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7964486",
+		"lat": "56.8400162",
+		"number": "143",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7965249",
+		"lat": "56.8404942",
+		"number": "169",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7963126",
+		"lat": "56.8400298",
+		"number": "147",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7962095",
+		"lat": "56.840083",
+		"number": "149",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7961869",
+		"lat": "56.8400536",
+		"number": "151",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7961199",
+		"lat": "56.8402528",
+		"number": "155",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.796151",
+		"lat": "56.8403205",
+		"number": "159",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.796248",
+		"lat": "56.8403823",
+		"number": "161",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7961944",
+		"lat": "56.8403906",
+		"number": "163",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7967119",
+		"lat": "56.8404561",
+		"number": "165",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7964696",
+		"lat": "56.8408463",
+		"number": "191",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7964168",
+		"lat": "56.8407824",
+		"number": "187",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7961701",
+		"lat": "56.8402462",
+		"number": "153",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7965139",
+		"lat": "56.8408389",
+		"number": "189",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.798161",
+		"lat": "56.8402061",
+		"number": "95",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7964735",
+		"lat": "56.8407697",
+		"number": "185",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7963891",
+		"lat": "56.8407148",
+		"number": "183",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7964461",
+		"lat": "56.8407056",
+		"number": "181",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7963393",
+		"lat": "56.8406491",
+		"number": "179",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7964057",
+		"lat": "56.8406363",
+		"number": "177",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7963217",
+		"lat": "56.8404979",
+		"number": "175",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7964557",
+		"lat": "56.840037",
+		"number": "141",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.796694",
+		"lat": "56.8404319",
+		"number": "167",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8013959",
+		"lat": "56.8403688",
+		"number": "5",
+		"street": "VICKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8012189",
+		"lat": "56.8401865",
+		"number": "3",
+		"street": "VICKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8014502",
+		"lat": "56.8405222",
+		"number": "7",
+		"street": "VICKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8015295",
+		"lat": "56.8401332",
+		"number": "1",
+		"street": "VICKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8021818",
+		"lat": "56.8401093",
+		"number": "4",
+		"street": "VICKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8022649",
+		"lat": "56.8402581",
+		"number": "6",
+		"street": "VICKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8023709",
+		"lat": "56.8404086",
+		"number": "8",
+		"street": "VICKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8024627",
+		"lat": "56.8405529",
+		"number": "10",
+		"street": "VICKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8030961",
+		"lat": "56.8406209",
+		"number": "11",
+		"street": "ÄRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8030495",
+		"lat": "56.8404656",
+		"number": "9",
+		"street": "ÄRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.802907",
+		"lat": "56.8403243",
+		"number": "7",
+		"street": "ÄRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8028527",
+		"lat": "56.8401678",
+		"number": "5",
+		"street": "ÄRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8038016",
+		"lat": "56.8401358",
+		"number": "10",
+		"street": "ÄRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8038723",
+		"lat": "56.840268",
+		"number": "12",
+		"street": "ÄRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8039568",
+		"lat": "56.8403916",
+		"number": "14",
+		"street": "ÄRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.804043",
+		"lat": "56.8405195",
+		"number": "16",
+		"street": "ÄRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8045338",
+		"lat": "56.8401615",
+		"number": "7",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8036976",
+		"lat": "56.8400163",
+		"number": "8",
+		"street": "ÄRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8050985",
+		"lat": "56.8403002",
+		"number": "11",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8054964",
+		"lat": "56.8402296",
+		"number": "13",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8047188",
+		"lat": "56.8404435",
+		"number": "9",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8017722",
+		"lat": "56.8409557",
+		"number": "13",
+		"street": "VICKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8016375",
+		"lat": "56.8408167",
+		"number": "11",
+		"street": "VICKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8015851",
+		"lat": "56.8406558",
+		"number": "9",
+		"street": "VICKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8022154",
+		"lat": "56.8409637",
+		"number": "16",
+		"street": "VICKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8025496",
+		"lat": "56.8407042",
+		"number": "12",
+		"street": "VICKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8025209",
+		"lat": "56.8409018",
+		"number": "14",
+		"street": "VICKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8031955",
+		"lat": "56.8407725",
+		"number": "13",
+		"street": "ÄRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8041179",
+		"lat": "56.8412679",
+		"number": "1",
+		"street": "STARTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8034799",
+		"lat": "56.8407127",
+		"number": "15",
+		"street": "ÄRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8047116",
+		"lat": "56.8412753",
+		"number": "2",
+		"street": "LÖPARVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.80515",
+		"lat": "56.8411895",
+		"number": "4",
+		"street": "LÖPARVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8055367",
+		"lat": "56.8411143",
+		"number": "6",
+		"street": "LÖPARVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8061068",
+		"lat": "56.838234",
+		"number": "24",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8060038",
+		"lat": "56.8380554",
+		"number": "22",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8059463",
+		"lat": "56.8378739",
+		"number": "20",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8089451",
+		"lat": "56.8381668",
+		"number": "19",
+		"street": "SKOTTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8090543",
+		"lat": "56.8379838",
+		"number": "17",
+		"street": "SKOTTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.809332",
+		"lat": "56.8380374",
+		"number": "15",
+		"street": "SKOTTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8096654",
+		"lat": "56.8380922",
+		"number": "13",
+		"street": "SKOTTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8110693",
+		"lat": "56.8380776",
+		"number": "44",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8129441",
+		"lat": "56.8380434",
+		"number": "27",
+		"street": "STAMVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8128103",
+		"lat": "56.8378562",
+		"number": "25",
+		"street": "STAMVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8118774",
+		"lat": "56.8378866",
+		"number": "33",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8141667",
+		"lat": "56.8381441",
+		"number": "2",
+		"street": "KVISTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8130516",
+		"lat": "56.837847",
+		"number": "23",
+		"street": "STAMVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8134035",
+		"lat": "56.8378463",
+		"number": "21",
+		"street": "STAMVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8136601",
+		"lat": "56.8378552",
+		"number": "19",
+		"street": "STAMVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8136516",
+		"lat": "56.838049",
+		"number": "17",
+		"street": "STAMVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8144275",
+		"lat": "56.8381352",
+		"number": "4",
+		"street": "KVISTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.814684",
+		"lat": "56.8381261",
+		"number": "6",
+		"street": "KVISTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8149417",
+		"lat": "56.838121",
+		"number": "8",
+		"street": "KVISTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8152696",
+		"lat": "56.8380931",
+		"number": "10",
+		"street": "KVISTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8156206",
+		"lat": "56.8380805",
+		"number": "12",
+		"street": "KVISTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8158913",
+		"lat": "56.8380921",
+		"number": "14",
+		"street": "KVISTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8061339",
+		"lat": "56.8387404",
+		"number": "30",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8064264",
+		"lat": "56.8387079",
+		"number": "28",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.806243",
+		"lat": "56.8384454",
+		"number": "26",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8057438",
+		"lat": "56.8386067",
+		"number": "13",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.809902",
+		"lat": "56.8386091",
+		"number": "12",
+		"street": "SKOTTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8095756",
+		"lat": "56.8385351",
+		"number": "14",
+		"street": "SKOTTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8092668",
+		"lat": "56.838466",
+		"number": "16",
+		"street": "SKOTTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8090015",
+		"lat": "56.8384074",
+		"number": "18",
+		"street": "SKOTTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8094706",
+		"lat": "56.8382949",
+		"number": "11",
+		"street": "SKOTTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8101422",
+		"lat": "56.8386666",
+		"number": "10",
+		"street": "SKOTTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8098647",
+		"lat": "56.8384453",
+		"number": "9",
+		"street": "SKOTTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8100982",
+		"lat": "56.8385037",
+		"number": "7",
+		"street": "SKOTTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8103404",
+		"lat": "56.8385575",
+		"number": "5",
+		"street": "SKOTTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8105327",
+		"lat": "56.8386033",
+		"number": "3",
+		"street": "SKOTTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8117198",
+		"lat": "56.8387384",
+		"number": "23",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8115533",
+		"lat": "56.8385782",
+		"number": "25",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8110637",
+		"lat": "56.8384796",
+		"number": "40",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8110446",
+		"lat": "56.8382933",
+		"number": "42",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8115347",
+		"lat": "56.8382645",
+		"number": "27",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8118608",
+		"lat": "56.8382591",
+		"number": "29",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8130947",
+		"lat": "56.8381968",
+		"number": "14",
+		"street": "STAMVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8138535",
+		"lat": "56.8385606",
+		"number": "8",
+		"street": "STAMVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8138723",
+		"lat": "56.838383",
+		"number": "10",
+		"street": "STAMVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8133944",
+		"lat": "56.8382459",
+		"number": "12",
+		"street": "STAMVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8142257",
+		"lat": "56.8386516",
+		"number": "11",
+		"street": "STAMVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8150402",
+		"lat": "56.838501",
+		"number": "5",
+		"street": "KVISTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8150657",
+		"lat": "56.8383057",
+		"number": "3",
+		"street": "KVISTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8143466",
+		"lat": "56.8383168",
+		"number": "15",
+		"street": "STAMVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8142391",
+		"lat": "56.8385106",
+		"number": "13",
+		"street": "STAMVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8158532",
+		"lat": "56.8382868",
+		"number": "16",
+		"street": "KVISTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8158761",
+		"lat": "56.8384663",
+		"number": "18",
+		"street": "KVISTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8154175",
+		"lat": "56.838474",
+		"number": "7",
+		"street": "KVISTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8063067",
+		"lat": "56.8391469",
+		"number": "33",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8058912",
+		"lat": "56.8392269",
+		"number": "35",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8068898",
+		"lat": "56.8394392",
+		"number": "27",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8067622",
+		"lat": "56.8392411",
+		"number": "29",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8066067",
+		"lat": "56.8389903",
+		"number": "31",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8008988",
+		"lat": "56.8470984",
+		"number": "67",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8007854",
+		"lat": "56.8471241",
+		"number": "69",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8006685",
+		"lat": "56.8471435",
+		"number": "71",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8003333",
+		"lat": "56.8461272",
+		"number": "6",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8002781",
+		"lat": "56.8458578",
+		"number": "3",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.801201",
+		"lat": "56.8473249",
+		"number": "54",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7998261",
+		"lat": "56.8462783",
+		"number": "23",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8002537",
+		"lat": "56.8460014",
+		"number": "2",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8003916",
+		"lat": "56.8458359",
+		"number": "1",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8004799",
+		"lat": "56.8476846",
+		"number": "89",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8004497",
+		"lat": "56.847552",
+		"number": "85",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8004373",
+		"lat": "56.8474847",
+		"number": "83",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8535571",
+		"lat": "56.9066976",
+		"number": "27",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8535282",
+		"lat": "56.9069181",
+		"number": "25",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8534931",
+		"lat": "56.9071349",
+		"number": "23",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8530925",
+		"lat": "56.9071182",
+		"number": "24",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8531409",
+		"lat": "56.9069031",
+		"number": "26",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8543155",
+		"lat": "56.9071589",
+		"number": "24",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8543655",
+		"lat": "56.9069422",
+		"number": "26",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8544094",
+		"lat": "56.9067343",
+		"number": "28",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.854727",
+		"lat": "56.90718",
+		"number": "23",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8555301",
+		"lat": "56.9072002",
+		"number": "40",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8555651",
+		"lat": "56.9069863",
+		"number": "42",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.855584",
+		"lat": "56.9067721",
+		"number": "44",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8548007",
+		"lat": "56.9067431",
+		"number": "27",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8547637",
+		"lat": "56.9069619",
+		"number": "25",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.856892",
+		"lat": "56.9070234",
+		"number": "10",
+		"street": "ÅSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8569198",
+		"lat": "56.9068132",
+		"number": "12",
+		"street": "ÅSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8559657",
+		"lat": "56.9067842",
+		"number": "29",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8559516",
+		"lat": "56.9069973",
+		"number": "27",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8559338",
+		"lat": "56.9072185",
+		"number": "25",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8582017",
+		"lat": "56.9070701",
+		"number": "10",
+		"street": "HEDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8572952",
+		"lat": "56.90682",
+		"number": "11",
+		"street": "ÅSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8572715",
+		"lat": "56.9070413",
+		"number": "9",
+		"street": "ÅSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8582324",
+		"lat": "56.9068549",
+		"number": "12",
+		"street": "HEDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8586298",
+		"lat": "56.9068698",
+		"number": "11",
+		"street": "HEDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8586015",
+		"lat": "56.9070802",
+		"number": "9",
+		"street": "HEDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8595522",
+		"lat": "56.9071001",
+		"number": "6",
+		"street": "MOVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8595767",
+		"lat": "56.9068844",
+		"number": "8",
+		"street": "MOVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8517793",
+		"lat": "56.907731",
+		"number": "18",
+		"street": "MADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8518155",
+		"lat": "56.907514",
+		"number": "20",
+		"street": "MADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8529715",
+		"lat": "56.907763",
+		"number": "18",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8522132",
+		"lat": "56.9075225",
+		"number": "19",
+		"street": "MADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8521748",
+		"lat": "56.9077404",
+		"number": "17",
+		"street": "MADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8534616",
+		"lat": "56.9073446",
+		"number": "21",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.853412",
+		"lat": "56.9075605",
+		"number": "19",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8533643",
+		"lat": "56.9077713",
+		"number": "17",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8530104",
+		"lat": "56.9075455",
+		"number": "20",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8542079",
+		"lat": "56.9078013",
+		"number": "18",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8542482",
+		"lat": "56.9075841",
+		"number": "20",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8542866",
+		"lat": "56.9073737",
+		"number": "22",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8546955",
+		"lat": "56.9073895",
+		"number": "21",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8546383",
+		"lat": "56.9076071",
+		"number": "19",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8546002",
+		"lat": "56.9078149",
+		"number": "17",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8554598",
+		"lat": "56.9078473",
+		"number": "34",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8554891",
+		"lat": "56.9076324",
+		"number": "36",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.85551",
+		"lat": "56.907418",
+		"number": "38",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8558988",
+		"lat": "56.9074258",
+		"number": "23",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8558756",
+		"lat": "56.9076435",
+		"number": "21",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8568186",
+		"lat": "56.9076714",
+		"number": "4",
+		"street": "ÅSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8568335",
+		"lat": "56.9074575",
+		"number": "6",
+		"street": "ÅSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8568636",
+		"lat": "56.9072424",
+		"number": "8",
+		"street": "ÅSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8572295",
+		"lat": "56.9074762",
+		"number": "5",
+		"street": "ÅSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8571988",
+		"lat": "56.9076865",
+		"number": "3",
+		"street": "ÅSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.858152",
+		"lat": "56.9077167",
+		"number": "4",
+		"street": "HEDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8581747",
+		"lat": "56.9075016",
+		"number": "6",
+		"street": "HEDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8581921",
+		"lat": "56.9072909",
+		"number": "8",
+		"street": "HEDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8572566",
+		"lat": "56.9072595",
+		"number": "7",
+		"street": "ÅSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8585552",
+		"lat": "56.907519",
+		"number": "5",
+		"street": "HEDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8585324",
+		"lat": "56.9077257",
+		"number": "3",
+		"street": "HEDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8585821",
+		"lat": "56.9072999",
+		"number": "7",
+		"street": "HEDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8594984",
+		"lat": "56.9075341",
+		"number": "2",
+		"street": "MOVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8595212",
+		"lat": "56.9073122",
+		"number": "4",
+		"street": "MOVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8516555",
+		"lat": "56.9083845",
+		"number": "14",
+		"street": "MADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8517014",
+		"lat": "56.9081528",
+		"number": "16",
+		"street": "MADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8520544",
+		"lat": "56.9083972",
+		"number": "13",
+		"street": "MADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8528606",
+		"lat": "56.9084032",
+		"number": "14",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8528969",
+		"lat": "56.908176",
+		"number": "16",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8520962",
+		"lat": "56.9081712",
+		"number": "15",
+		"street": "MADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8533494",
+		"lat": "56.9084306",
+		"number": "13",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8540193",
+		"lat": "56.9084492",
+		"number": "14",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8533861",
+		"lat": "56.9082008",
+		"number": "15",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8545218",
+		"lat": "56.9082506",
+		"number": "15",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8562481",
+		"lat": "56.9130317",
+		"number": "7",
+		"street": "LYCKEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8581946",
+		"lat": "56.9135628",
+		"number": "12",
+		"street": "FYLLERYDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8582688",
+		"lat": "56.9133611",
+		"number": "14",
+		"street": "FYLLERYDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8583391",
+		"lat": "56.913159",
+		"number": "16",
+		"street": "FYLLERYDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8536743",
+		"lat": "56.9136848",
+		"number": "10",
+		"street": "FURUMOVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8544751",
+		"lat": "56.9137689",
+		"number": "8",
+		"street": "FURUMOVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8552029",
+		"lat": "56.9140422",
+		"number": "6",
+		"street": "FURUMOVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.855699",
+		"lat": "56.913745",
+		"number": "1",
+		"street": "LYCKEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8560918",
+		"lat": "56.9138768",
+		"number": "3",
+		"street": "FURUMOVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8555578",
+		"lat": "56.9142113",
+		"number": "4",
+		"street": "FURUMOVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8581065",
+		"lat": "56.9137607",
+		"number": "10",
+		"street": "FYLLERYDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.857711",
+		"lat": "56.9142793",
+		"number": "6",
+		"street": "FYLLERYDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8579481",
+		"lat": "56.9140562",
+		"number": "8",
+		"street": "FYLLERYDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8586937",
+		"lat": "56.9136405",
+		"number": "15",
+		"street": "FYLLERYDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8480278",
+		"lat": "56.9145498",
+		"number": "1",
+		"street": "LILLA SANDSBROVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.84862",
+		"lat": "56.9145247",
+		"number": "2",
+		"street": "LILLA SANDSBROVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8481487",
+		"lat": "56.9147636",
+		"number": "3",
+		"street": "LILLA SANDSBROVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8570718",
+		"lat": "56.9145777",
+		"number": "2",
+		"street": "FYLLERYDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.848943",
+		"lat": "56.9152919",
+		"number": "6",
+		"street": "LILLA SANDSBROVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8479941",
+		"lat": "56.9156443",
+		"number": "7",
+		"street": "LILLA SANDSBROVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8490296",
+		"lat": "56.9156239",
+		"number": "8",
+		"street": "LILLA SANDSBROVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8492402",
+		"lat": "56.9159789",
+		"number": "10",
+		"street": "LILLA SANDSBROVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8583281",
+		"lat": "56.9157559",
+		"number": "2",
+		"street": "LUNDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.859259",
+		"lat": "56.9155833",
+		"number": "3",
+		"street": "LUNDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8129826",
+		"lat": "56.8415033",
+		"number": "7",
+		"street": "GALEASVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.812478",
+		"lat": "56.8417102",
+		"number": "9",
+		"street": "GALEASVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8143076",
+		"lat": "56.8414957",
+		"number": "5",
+		"street": "SLUPVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8135292",
+		"lat": "56.8413421",
+		"number": "6",
+		"street": "GALEASVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8134641",
+		"lat": "56.8415796",
+		"number": "8",
+		"street": "GALEASVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8143694",
+		"lat": "56.841303",
+		"number": "3",
+		"street": "SLUPVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8146187",
+		"lat": "56.8415506",
+		"number": "6",
+		"street": "SLUPVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8146904",
+		"lat": "56.8413111",
+		"number": "4",
+		"street": "SLUPVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.816152",
+		"lat": "56.8416931",
+		"number": "6",
+		"street": "ANKAREVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8163486",
+		"lat": "56.8413375",
+		"number": "4",
+		"street": "ANKAREVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8157686",
+		"lat": "56.8414781",
+		"number": "9",
+		"street": "ANKAREVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8158868",
+		"lat": "56.8412354",
+		"number": "7",
+		"street": "ANKAREVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8165481",
+		"lat": "56.8416588",
+		"number": "8",
+		"street": "ANKAREVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8170027",
+		"lat": "56.8416152",
+		"number": "10",
+		"street": "ANKAREVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8169262",
+		"lat": "56.8413331",
+		"number": "2",
+		"street": "ANKAREVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8061481",
+		"lat": "56.8418733",
+		"number": "30",
+		"street": "LÖPARVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8058742",
+		"lat": "56.8423265",
+		"number": "4",
+		"street": "STAFETTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.806305",
+		"lat": "56.8422394",
+		"number": "6",
+		"street": "STAFETTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8066223",
+		"lat": "56.8421791",
+		"number": "8",
+		"street": "STAFETTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8064998",
+		"lat": "56.8418284",
+		"number": "28",
+		"street": "LÖPARVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.807719",
+		"lat": "56.8422603",
+		"number": "2",
+		"street": "TRESTEGSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.807391",
+		"lat": "56.8423377",
+		"number": "1",
+		"street": "TRESTEGSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8070391",
+		"lat": "56.8420996",
+		"number": "10",
+		"street": "STAFETTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8074294",
+		"lat": "56.8420225",
+		"number": "12",
+		"street": "STAFETTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8068934",
+		"lat": "56.8417371",
+		"number": "26",
+		"street": "LÖPARVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8083196",
+		"lat": "56.8423179",
+		"number": "10",
+		"street": "TRESTEGSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8082265",
+		"lat": "56.8421776",
+		"number": "12",
+		"street": "TRESTEGSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8082408",
+		"lat": "56.8418621",
+		"number": "14",
+		"street": "STAFETTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8087238",
+		"lat": "56.8423397",
+		"number": "19",
+		"street": "TRESTEGSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8085876",
+		"lat": "56.8392721",
+		"number": "24",
+		"street": "BLADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8087833",
+		"lat": "56.8390691",
+		"number": "21",
+		"street": "BLADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8089192",
+		"lat": "56.8393495",
+		"number": "22",
+		"street": "BLADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8088282",
+		"lat": "56.8389251",
+		"number": "19",
+		"street": "BLADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8091533",
+		"lat": "56.8389818",
+		"number": "17",
+		"street": "BLADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8094307",
+		"lat": "56.8390441",
+		"number": "15",
+		"street": "BLADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8098281",
+		"lat": "56.8391194",
+		"number": "13",
+		"street": "BLADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8093354",
+		"lat": "56.8392939",
+		"number": "20",
+		"street": "BLADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.810837",
+		"lat": "56.8387913",
+		"number": "4",
+		"street": "SKOTTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8105357",
+		"lat": "56.8388147",
+		"number": "6",
+		"street": "SKOTTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8103768",
+		"lat": "56.8387216",
+		"number": "8",
+		"street": "SKOTTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8101035",
+		"lat": "56.8391829",
+		"number": "11",
+		"street": "BLADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8103982",
+		"lat": "56.839237",
+		"number": "9",
+		"street": "BLADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8107035",
+		"lat": "56.8392814",
+		"number": "7",
+		"street": "BLADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8118614",
+		"lat": "56.8392168",
+		"number": "34",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8113462",
+		"lat": "56.8392016",
+		"number": "3",
+		"street": "BLADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.811556",
+		"lat": "56.8390572",
+		"number": "1",
+		"street": "BLADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8112871",
+		"lat": "56.8387525",
+		"number": "38",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8110296",
+		"lat": "56.8392569",
+		"number": "5",
+		"street": "BLADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8119122",
+		"lat": "56.8389085",
+		"number": "21",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.81221",
+		"lat": "56.8391077",
+		"number": "19",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8125781",
+		"lat": "56.8392041",
+		"number": "17",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8138741",
+		"lat": "56.8390651",
+		"number": "5",
+		"street": "STAMVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8137485",
+		"lat": "56.839179",
+		"number": "3",
+		"street": "STAMVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8136425",
+		"lat": "56.8393093",
+		"number": "1",
+		"street": "STAMVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8133894",
+		"lat": "56.8391416",
+		"number": "2",
+		"street": "STAMVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8135512",
+		"lat": "56.8389939",
+		"number": "4",
+		"street": "STAMVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8137104",
+		"lat": "56.838848",
+		"number": "6",
+		"street": "STAMVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8148062",
+		"lat": "56.8392486",
+		"number": "9",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8149578",
+		"lat": "56.839021",
+		"number": "7",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8139993",
+		"lat": "56.8389461",
+		"number": "7",
+		"street": "STAMVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8143643",
+		"lat": "56.838794",
+		"number": "9",
+		"street": "STAMVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8148685",
+		"lat": "56.8388674",
+		"number": "5",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8151886",
+		"lat": "56.8388717",
+		"number": "3",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8153249",
+		"lat": "56.8392078",
+		"number": "6",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8156707",
+		"lat": "56.8391849",
+		"number": "4",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.815731",
+		"lat": "56.8390474",
+		"number": "2",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8155548",
+		"lat": "56.8388649",
+		"number": "1",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8061473",
+		"lat": "56.8398477",
+		"number": "10",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8065284",
+		"lat": "56.8397741",
+		"number": "12",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.806355",
+		"lat": "56.8393594",
+		"number": "14",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8059852",
+		"lat": "56.8394636",
+		"number": "16",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.807359",
+		"lat": "56.8397925",
+		"number": "23",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8070241",
+		"lat": "56.8396376",
+		"number": "25",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8098219",
+		"lat": "56.839334",
+		"number": "18",
+		"street": "BLADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8105944",
+		"lat": "56.8394981",
+		"number": "12",
+		"street": "BLADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8109084",
+		"lat": "56.8394902",
+		"number": "10",
+		"street": "BLADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.810005",
+		"lat": "56.8393992",
+		"number": "16",
+		"street": "BLADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8102404",
+		"lat": "56.839453",
+		"number": "14",
+		"street": "BLADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8111698",
+		"lat": "56.839488",
+		"number": "8",
+		"street": "BLADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8114144",
+		"lat": "56.8394643",
+		"number": "6",
+		"street": "BLADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8115984",
+		"lat": "56.8393653",
+		"number": "4",
+		"street": "BLADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8121716",
+		"lat": "56.8393025",
+		"number": "32",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8123573",
+		"lat": "56.8393984",
+		"number": "30",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8126019",
+		"lat": "56.8394366",
+		"number": "28",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8132335",
+		"lat": "56.8394886",
+		"number": "26",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8136269",
+		"lat": "56.8395268",
+		"number": "24",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8138333",
+		"lat": "56.8396172",
+		"number": "22",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8140537",
+		"lat": "56.8396906",
+		"number": "20",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8142961",
+		"lat": "56.8397492",
+		"number": "18",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.814409",
+		"lat": "56.839559",
+		"number": "13",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8146327",
+		"lat": "56.8394068",
+		"number": "11",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.814512",
+		"lat": "56.8398772",
+		"number": "16",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8146091",
+		"lat": "56.8397492",
+		"number": "14",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8147436",
+		"lat": "56.8396325",
+		"number": "12",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8148731",
+		"lat": "56.8395124",
+		"number": "10",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8150007",
+		"lat": "56.8393961",
+		"number": "8",
+		"street": "TRÄDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8058642",
+		"lat": "56.8401392",
+		"number": "15",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8062021",
+		"lat": "56.840073",
+		"number": "17",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8065764",
+		"lat": "56.8399996",
+		"number": "19",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8068865",
+		"lat": "56.8398944",
+		"number": "21",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8090604",
+		"lat": "56.8404774",
+		"number": "29",
+		"street": "SKEPPSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8095242",
+		"lat": "56.8404387",
+		"number": "27",
+		"street": "SKEPPSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.809918",
+		"lat": "56.8404119",
+		"number": "25",
+		"street": "SKEPPSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8103124",
+		"lat": "56.8403996",
+		"number": "23",
+		"street": "SKEPPSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8107235",
+		"lat": "56.8403817",
+		"number": "21",
+		"street": "SKEPPSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8111078",
+		"lat": "56.8403848",
+		"number": "19",
+		"street": "SKEPPSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8115219",
+		"lat": "56.8403929",
+		"number": "17",
+		"street": "SKEPPSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8121848",
+		"lat": "56.8404258",
+		"number": "15",
+		"street": "SKEPPSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8125668",
+		"lat": "56.8404584",
+		"number": "13",
+		"street": "SKEPPSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.812952",
+		"lat": "56.8404986",
+		"number": "11",
+		"street": "SKEPPSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.813412",
+		"lat": "56.8405541",
+		"number": "9",
+		"street": "SKEPPSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8137771",
+		"lat": "56.8406083",
+		"number": "7",
+		"street": "SKEPPSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8065598",
+		"lat": "56.8411754",
+		"number": "7",
+		"street": "LÖPARVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8059315",
+		"lat": "56.8410367",
+		"number": "8",
+		"street": "LÖPARVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8062797",
+		"lat": "56.8409709",
+		"number": "10",
+		"street": "LÖPARVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8072812",
+		"lat": "56.8410335",
+		"number": "11",
+		"street": "LÖPARVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8069209",
+		"lat": "56.84111",
+		"number": "9",
+		"street": "LÖPARVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8066888",
+		"lat": "56.8408909",
+		"number": "12",
+		"street": "LÖPARVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8070819",
+		"lat": "56.8408131",
+		"number": "14",
+		"street": "LÖPARVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8079173",
+		"lat": "56.8410944",
+		"number": "18",
+		"street": "LÖPARVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8077575",
+		"lat": "56.8409029",
+		"number": "16",
+		"street": "LÖPARVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8093696",
+		"lat": "56.84094",
+		"number": "3",
+		"street": "BARKASSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8092168",
+		"lat": "56.8406826",
+		"number": "1",
+		"street": "BARKASSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8096584",
+		"lat": "56.8407266",
+		"number": "2",
+		"street": "BARKASSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8097147",
+		"lat": "56.8409659",
+		"number": "4",
+		"street": "BARKASSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8108071",
+		"lat": "56.8408788",
+		"number": "4",
+		"street": "BRIGGVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8106762",
+		"lat": "56.8406628",
+		"number": "2",
+		"street": "BRIGGVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8105792",
+		"lat": "56.841107",
+		"number": "5",
+		"street": "BRIGGVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8104702",
+		"lat": "56.8408726",
+		"number": "3",
+		"street": "BRIGGVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8103343",
+		"lat": "56.8406475",
+		"number": "1",
+		"street": "BRIGGVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8123664",
+		"lat": "56.8406999",
+		"number": "16",
+		"street": "SKEPPSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8108911",
+		"lat": "56.8410694",
+		"number": "6",
+		"street": "BRIGGVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8133476",
+		"lat": "56.8408001",
+		"number": "1",
+		"street": "GALEASVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8132916",
+		"lat": "56.8409901",
+		"number": "3",
+		"street": "GALEASVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.813649",
+		"lat": "56.8408534",
+		"number": "2",
+		"street": "GALEASVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8135829",
+		"lat": "56.8411023",
+		"number": "4",
+		"street": "GALEASVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8143757",
+		"lat": "56.8409893",
+		"number": "1",
+		"street": "SLUPVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8148056",
+		"lat": "56.8410501",
+		"number": "2",
+		"street": "SLUPVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8141418",
+		"lat": "56.8406725",
+		"number": "5",
+		"street": "SKEPPSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8145485",
+		"lat": "56.8407447",
+		"number": "3",
+		"street": "SKEPPSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.815003",
+		"lat": "56.8408242",
+		"number": "1",
+		"street": "SKEPPSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.816191",
+		"lat": "56.8410781",
+		"number": "5",
+		"street": "ANKAREVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8166454",
+		"lat": "56.841114",
+		"number": "3",
+		"street": "ANKAREVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8095327",
+		"lat": "56.8411895",
+		"number": "5",
+		"street": "BARKASSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8098222",
+		"lat": "56.8411994",
+		"number": "6",
+		"street": "BARKASSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.800059",
+		"lat": "56.8383521",
+		"number": "11",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7981549",
+		"lat": "56.8419091",
+		"number": "74",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8000685",
+		"lat": "56.8410087",
+		"number": "8",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8001108",
+		"lat": "56.8412286",
+		"number": "16",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8001948",
+		"lat": "56.8417121",
+		"number": "36",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8001964",
+		"lat": "56.8412084",
+		"number": "18",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8003642",
+		"lat": "56.8472154",
+		"number": "77",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8003891",
+		"lat": "56.8472821",
+		"number": "79",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.800412",
+		"lat": "56.8473498",
+		"number": "81",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8001592",
+		"lat": "56.845879",
+		"number": "5",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8004645",
+		"lat": "56.8476183",
+		"number": "87",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8003243",
+		"lat": "56.8470832",
+		"number": "73",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8002953",
+		"lat": "56.846063",
+		"number": "4",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8001967",
+		"lat": "56.8463911",
+		"number": "28",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.801401",
+		"lat": "56.8473585",
+		"number": "51",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7999499",
+		"lat": "56.845897",
+		"number": "7",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8000479",
+		"lat": "56.8465669",
+		"number": "31",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7999373",
+		"lat": "56.8464011",
+		"number": "27",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8000886",
+		"lat": "56.8466265",
+		"number": "33",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8005455",
+		"lat": "56.8463277",
+		"number": "34",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8001327",
+		"lat": "56.8466926",
+		"number": "35",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8006628",
+		"lat": "56.8463043",
+		"number": "36",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8013187",
+		"lat": "56.8472315",
+		"number": "55",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8008737",
+		"lat": "56.8463863",
+		"number": "38",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7998808",
+		"lat": "56.8463399",
+		"number": "25",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8002559",
+		"lat": "56.8468858",
+		"number": "39",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8009137",
+		"lat": "56.8464512",
+		"number": "40",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8009548",
+		"lat": "56.8465122",
+		"number": "42",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8009841",
+		"lat": "56.8466124",
+		"number": "44",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8010241",
+		"lat": "56.8466743",
+		"number": "46",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.801064",
+		"lat": "56.8467385",
+		"number": "48",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.801107",
+		"lat": "56.8468018",
+		"number": "50",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8003157",
+		"lat": "56.8463679",
+		"number": "30",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8011625",
+		"lat": "56.8472609",
+		"number": "56",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8013614",
+		"lat": "56.8472958",
+		"number": "53",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8000091",
+		"lat": "56.8465014",
+		"number": "29",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8001728",
+		"lat": "56.8467571",
+		"number": "37",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7977629",
+		"lat": "56.846611",
+		"number": "127",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7981486",
+		"lat": "56.846563",
+		"number": "128",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.798506",
+		"lat": "56.8466701",
+		"number": "112",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.798987",
+		"lat": "56.846572",
+		"number": "105",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7993784",
+		"lat": "56.8466198",
+		"number": "108",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8059527",
+		"lat": "56.8465608",
+		"number": "14",
+		"street": "LOTUSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7978951",
+		"lat": "56.8470055",
+		"number": "133",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7978245",
+		"lat": "56.8469022",
+		"number": "131",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7977626",
+		"lat": "56.8468017",
+		"number": "129",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7983809",
+		"lat": "56.8470247",
+		"number": "117",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7992557",
+		"lat": "56.8487577",
+		"number": "122",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7983171",
+		"lat": "56.8469225",
+		"number": "115",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7982526",
+		"lat": "56.8468207",
+		"number": "113",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7981937",
+		"lat": "56.8467218",
+		"number": "111",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7987004",
+		"lat": "56.8469738",
+		"number": "118",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7986354",
+		"lat": "56.8468767",
+		"number": "116",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7985723",
+		"lat": "56.8467759",
+		"number": "114",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7990517",
+		"lat": "56.8466706",
+		"number": "107",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7991143",
+		"lat": "56.8467724",
+		"number": "109",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7995946",
+		"lat": "56.8470428",
+		"number": "139",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7994593",
+		"lat": "56.8467193",
+		"number": "110",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7997702",
+		"lat": "56.8462186",
+		"number": "21",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8004303",
+		"lat": "56.8463477",
+		"number": "32",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7998318",
+		"lat": "56.8459178",
+		"number": "9",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7997116",
+		"lat": "56.8459399",
+		"number": "11",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7995989",
+		"lat": "56.8459619",
+		"number": "13",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7994846",
+		"lat": "56.8459821",
+		"number": "15",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7996553",
+		"lat": "56.8460971",
+		"number": "17",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7997193",
+		"lat": "56.846159",
+		"number": "19",
+		"street": "SLÅTTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8003458",
+		"lat": "56.8471508",
+		"number": "75",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8012806",
+		"lat": "56.847167",
+		"number": "57",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8011224",
+		"lat": "56.8471987",
+		"number": "58",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8014647",
+		"lat": "56.8469939",
+		"number": "59",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8013479",
+		"lat": "56.8470152",
+		"number": "61",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8012292",
+		"lat": "56.847036",
+		"number": "63",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8010173",
+		"lat": "56.8470787",
+		"number": "65",
+		"street": "SKÖRDEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8540696",
+		"lat": "56.9082288",
+		"number": "16",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8553891",
+		"lat": "56.9082616",
+		"number": "32",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8558548",
+		"lat": "56.9078577",
+		"number": "19",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8567918",
+		"lat": "56.9078871",
+		"number": "2",
+		"street": "ÅSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8581333",
+		"lat": "56.9079358",
+		"number": "2",
+		"street": "HEDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8571894",
+		"lat": "56.9078979",
+		"number": "1",
+		"street": "ÅSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8594721",
+		"lat": "56.9079826",
+		"number": "52",
+		"street": "FYLLERYDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8585062",
+		"lat": "56.9079519",
+		"number": "1",
+		"street": "HEDVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8600648",
+		"lat": "56.9082962",
+		"number": "8",
+		"street": "GÄRDESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8600924",
+		"lat": "56.9081738",
+		"number": "10",
+		"street": "GÄRDESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8601797",
+		"lat": "56.9079271",
+		"number": "12",
+		"street": "GÄRDESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8594973",
+		"lat": "56.9077701",
+		"number": "54",
+		"street": "FYLLERYDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8515369",
+		"lat": "56.9090582",
+		"number": "8",
+		"street": "MADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8515776",
+		"lat": "56.9088334",
+		"number": "10",
+		"street": "MADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8516151",
+		"lat": "56.9086037",
+		"number": "12",
+		"street": "MADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8520155",
+		"lat": "56.9086248",
+		"number": "11",
+		"street": "MADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8519701",
+		"lat": "56.9088507",
+		"number": "9",
+		"street": "MADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8519333",
+		"lat": "56.9090783",
+		"number": "7",
+		"street": "MADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8527275",
+		"lat": "56.9091035",
+		"number": "8",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8527831",
+		"lat": "56.9088548",
+		"number": "10",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8528174",
+		"lat": "56.9086425",
+		"number": "12",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8532978",
+		"lat": "56.9086593",
+		"number": "11",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8532106",
+		"lat": "56.9088867",
+		"number": "9",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8539491",
+		"lat": "56.9088869",
+		"number": "10",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8539854",
+		"lat": "56.9086679",
+		"number": "12",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8544797",
+		"lat": "56.908472",
+		"number": "13",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8544353",
+		"lat": "56.9087068",
+		"number": "11",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8543974",
+		"lat": "56.9089258",
+		"number": "9",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8552113",
+		"lat": "56.9089329",
+		"number": "26",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8552625",
+		"lat": "56.9087097",
+		"number": "28",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8553113",
+		"lat": "56.9084918",
+		"number": "30",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8588378",
+		"lat": "56.9090728",
+		"number": "42B",
+		"street": "FYLLERYDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.858851",
+		"lat": "56.9089419",
+		"number": "42C",
+		"street": "FYLLERYDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.858484",
+		"lat": "56.9091282",
+		"number": "44A",
+		"street": "FYLLERYDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8585034",
+		"lat": "56.9088595",
+		"number": "44C",
+		"street": "FYLLERYDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8585167",
+		"lat": "56.9087154",
+		"number": "44D",
+		"street": "FYLLERYDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8564016",
+		"lat": "56.9087329",
+		"number": "13D",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8559933",
+		"lat": "56.9092131",
+		"number": "11A",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8560072",
+		"lat": "56.9090794",
+		"number": "11B",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8588156",
+		"lat": "56.9092239",
+		"number": "42A",
+		"street": "FYLLERYDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.857168",
+		"lat": "56.9084052",
+		"number": "15C",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8560422",
+		"lat": "56.9087932",
+		"number": "11D",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8575231",
+		"lat": "56.9084216",
+		"number": "17C",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8574952",
+		"lat": "56.9086697",
+		"number": "17A",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8571509",
+		"lat": "56.9085413",
+		"number": "15B",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8571256",
+		"lat": "56.9086536",
+		"number": "15A",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8563667",
+		"lat": "56.9090073",
+		"number": "13B",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8563851",
+		"lat": "56.9088929",
+		"number": "13C",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8563527",
+		"lat": "56.9091273",
+		"number": "13A",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8575093",
+		"lat": "56.9085516",
+		"number": "17B",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8588628",
+		"lat": "56.9088054",
+		"number": "42D",
+		"street": "FYLLERYDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8584865",
+		"lat": "56.9090038",
+		"number": "44B",
+		"street": "FYLLERYDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8560203",
+		"lat": "56.9089311",
+		"number": "11C",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.859341",
+		"lat": "56.9084161",
+		"number": "50",
+		"street": "FYLLERYDSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8599528",
+		"lat": "56.9086447",
+		"number": "2",
+		"street": "GÄRDESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.859983",
+		"lat": "56.9085185",
+		"number": "4",
+		"street": "GÄRDESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8600299",
+		"lat": "56.9084199",
+		"number": "6",
+		"street": "GÄRDESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8514125",
+		"lat": "56.9097427",
+		"number": "2",
+		"street": "MADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8514475",
+		"lat": "56.9095162",
+		"number": "4",
+		"street": "MADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8514888",
+		"lat": "56.9092824",
+		"number": "6",
+		"street": "MADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8518853",
+		"lat": "56.9093041",
+		"number": "5",
+		"street": "MADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8518453",
+		"lat": "56.9095285",
+		"number": "3",
+		"street": "MADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8526448",
+		"lat": "56.9095351",
+		"number": "4",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8526886",
+		"lat": "56.9093146",
+		"number": "6",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.853221",
+		"lat": "56.9091162",
+		"number": "7",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8531745",
+		"lat": "56.909323",
+		"number": "5",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8531334",
+		"lat": "56.9095528",
+		"number": "3",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8538182",
+		"lat": "56.9095818",
+		"number": "4",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8538524",
+		"lat": "56.909364",
+		"number": "6",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8538912",
+		"lat": "56.9091547",
+		"number": "8",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8543574",
+		"lat": "56.9091554",
+		"number": "7",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8543153",
+		"lat": "56.9093864",
+		"number": "5",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8542772",
+		"lat": "56.9096117",
+		"number": "3",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8550852",
+		"lat": "56.9093945",
+		"number": "22",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8551338",
+		"lat": "56.9091685",
+		"number": "24",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8599561",
+		"lat": "56.9089037",
+		"number": "1",
+		"street": "TUNVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.852603",
+		"lat": "56.9097748",
+		"number": "2",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.851791",
+		"lat": "56.9097412",
+		"number": "1",
+		"street": "MADVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8537727",
+		"lat": "56.9098119",
+		"number": "2",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8530977",
+		"lat": "56.909794",
+		"number": "1",
+		"street": "BRINKVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8549561",
+		"lat": "56.9098656",
+		"number": "18",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8542295",
+		"lat": "56.9098412",
+		"number": "1",
+		"street": "RÖSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8550197",
+		"lat": "56.9096336",
+		"number": "20",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8556189",
+		"lat": "56.9097941",
+		"number": "16",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8560441",
+		"lat": "56.9098069",
+		"number": "14",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8565103",
+		"lat": "56.9098204",
+		"number": "12",
+		"street": "ÅKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7976429",
+		"lat": "56.839518",
+		"number": "118",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7974494",
+		"lat": "56.8395776",
+		"number": "122",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7974758",
+		"lat": "56.8392553",
+		"number": "108",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7972095",
+		"lat": "56.8396228",
+		"number": "126",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7971405",
+		"lat": "56.8396352",
+		"number": "128",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.79697",
+		"lat": "56.8396649",
+		"number": "130",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7965703",
+		"lat": "56.8397266",
+		"number": "134",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7965188",
+		"lat": "56.839651",
+		"number": "138",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7964899",
+		"lat": "56.8395964",
+		"number": "140",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7976164",
+		"lat": "56.8394667",
+		"number": "116",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7970464",
+		"lat": "56.8392353",
+		"number": "178A",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7974561",
+		"lat": "56.8392159",
+		"number": "106",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7968889",
+		"lat": "56.8396824",
+		"number": "132",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7959795",
+		"lat": "56.8390997",
+		"number": "158",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7964426",
+		"lat": "56.8395173",
+		"number": "144",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7959606",
+		"lat": "56.839075",
+		"number": "160",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7975929",
+		"lat": "56.8395795",
+		"number": "120",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7960821",
+		"lat": "56.8392067",
+		"number": "156",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7960714",
+		"lat": "56.8392875",
+		"number": "154A",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.796123",
+		"lat": "56.8392808",
+		"number": "152",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7960968",
+		"lat": "56.839079",
+		"number": "162",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7961642",
+		"lat": "56.8394187",
+		"number": "148A",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7962094",
+		"lat": "56.8394147",
+		"number": "146",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7960863",
+		"lat": "56.8390518",
+		"number": "164",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.796228",
+		"lat": "56.8390539",
+		"number": "166",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7962117",
+		"lat": "56.8390318",
+		"number": "168",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7967936",
+		"lat": "56.8392779",
+		"number": "172A",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.797053",
+		"lat": "56.8392635",
+		"number": "176",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7971747",
+		"lat": "56.8392414",
+		"number": "180",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7969175",
+		"lat": "56.8392881",
+		"number": "174",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7968085",
+		"lat": "56.8393074",
+		"number": "170",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7961645",
+		"lat": "56.8393411",
+		"number": "150",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7993134",
+		"lat": "56.8391877",
+		"number": "18",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7994502",
+		"lat": "56.8394546",
+		"number": "30",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7993765",
+		"lat": "56.8394741",
+		"number": "28",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7993955",
+		"lat": "56.8393243",
+		"number": "26",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7993472",
+		"lat": "56.8393369",
+		"number": "24",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.798598",
+		"lat": "56.8397564",
+		"number": "58",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7992885",
+		"lat": "56.8392421",
+		"number": "20",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7994089",
+		"lat": "56.8395178",
+		"number": "32",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7992353",
+		"lat": "56.8391122",
+		"number": "14",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7992561",
+		"lat": "56.8392038",
+		"number": "16",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.799349",
+		"lat": "56.839233",
+		"number": "22",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7994694",
+		"lat": "56.8395018",
+		"number": "34",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7987909",
+		"lat": "56.8397219",
+		"number": "54",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7995216",
+		"lat": "56.8395707",
+		"number": "38",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7991694",
+		"lat": "56.839648",
+		"number": "42",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7990333",
+		"lat": "56.8396715",
+		"number": "46",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7989382",
+		"lat": "56.8396566",
+		"number": "48",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7989516",
+		"lat": "56.8396827",
+		"number": "50",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7987611",
+		"lat": "56.8396918",
+		"number": "52",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.798621",
+		"lat": "56.8397275",
+		"number": "56",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7991856",
+		"lat": "56.8391057",
+		"number": "12",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7992119",
+		"lat": "56.8396415",
+		"number": "40",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7994575",
+		"lat": "56.8395813",
+		"number": "36",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.798262",
+		"lat": "56.8393509",
+		"number": "74",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7986657",
+		"lat": "56.83923",
+		"number": "88",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7982042",
+		"lat": "56.8393619",
+		"number": "76",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.798279",
+		"lat": "56.8394547",
+		"number": "72",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7983719",
+		"lat": "56.8396931",
+		"number": "64",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7978275",
+		"lat": "56.8397926",
+		"number": "68",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7981468",
+		"lat": "56.8392601",
+		"number": "80",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7990034",
+		"lat": "56.8396434",
+		"number": "44",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7987917",
+		"lat": "56.8392032",
+		"number": "92",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7983491",
+		"lat": "56.8397198",
+		"number": "66",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7984694",
+		"lat": "56.8397409",
+		"number": "62",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7983239",
+		"lat": "56.839449",
+		"number": "70",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7980094",
+		"lat": "56.8390056",
+		"number": "100",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7982008",
+		"lat": "56.8392511",
+		"number": "78",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7985592",
+		"lat": "56.8392836",
+		"number": "82",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7980057",
+		"lat": "56.838897",
+		"number": "102",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7980644",
+		"lat": "56.8389965",
+		"number": "98",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7980798",
+		"lat": "56.8391",
+		"number": "96",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7981239",
+		"lat": "56.8390944",
+		"number": "94",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.798493",
+		"lat": "56.8397117",
+		"number": "60",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7988114",
+		"lat": "56.8392351",
+		"number": "90",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7979284",
+		"lat": "56.8389302",
+		"number": "104",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7986826",
+		"lat": "56.8392586",
+		"number": "86",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7985429",
+		"lat": "56.8392583",
+		"number": "84",
+		"street": "ALLMOGEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8011885",
+		"lat": "56.8392968",
+		"number": "5",
+		"street": "HAVREVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8009465",
+		"lat": "56.8390811",
+		"number": "7",
+		"street": "HAVREVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8007818",
+		"lat": "56.8393352",
+		"number": "6",
+		"street": "HAVREVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8006448",
+		"lat": "56.8391267",
+		"number": "8",
+		"street": "HAVREVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8004537",
+		"lat": "56.838907",
+		"number": "10",
+		"street": "HAVREVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8021622",
+		"lat": "56.8390715",
+		"number": "5",
+		"street": "VETEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.802025",
+		"lat": "56.8393506",
+		"number": "4",
+		"street": "VETEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8018646",
+		"lat": "56.8391119",
+		"number": "6",
+		"street": "VETEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8017278",
+		"lat": "56.8389024",
+		"number": "8",
+		"street": "VETEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8032148",
+		"lat": "56.8393206",
+		"number": "2",
+		"street": "TIMOTEJVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8023046",
+		"lat": "56.8392855",
+		"number": "3",
+		"street": "VETEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8030972",
+		"lat": "56.8391229",
+		"number": "4",
+		"street": "TIMOTEJVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8029623",
+		"lat": "56.8389123",
+		"number": "6",
+		"street": "TIMOTEJVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8043301",
+		"lat": "56.839134",
+		"number": "2",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8033728",
+		"lat": "56.8390573",
+		"number": "3",
+		"street": "TIMOTEJVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8035243",
+		"lat": "56.8392739",
+		"number": "1",
+		"street": "TIMOTEJVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.804187",
+		"lat": "56.838915",
+		"number": "4",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.803262",
+		"lat": "56.8388676",
+		"number": "5",
+		"street": "TIMOTEJVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8052618",
+		"lat": "56.8389173",
+		"number": "34",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8054694",
+		"lat": "56.8393128",
+		"number": "37",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.804938",
+		"lat": "56.8394216",
+		"number": "39",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8047987",
+		"lat": "56.8390293",
+		"number": "36",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8056936",
+		"lat": "56.8388163",
+		"number": "32",
+		"street": "SÄTERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8010504",
+		"lat": "56.8397526",
+		"number": "2",
+		"street": "HAVREVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8009279",
+		"lat": "56.8395567",
+		"number": "4",
+		"street": "HAVREVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8020608",
+		"lat": "56.8399401",
+		"number": "2",
+		"street": "VICKERVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.802151",
+		"lat": "56.839559",
+		"number": "2",
+		"street": "VETEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.801203",
+		"lat": "56.839482",
+		"number": "3",
+		"street": "HAVREVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8013556",
+		"lat": "56.8397188",
+		"number": "1",
+		"street": "HAVREVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8023969",
+		"lat": "56.8394862",
+		"number": "1",
+		"street": "VETEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8030919",
+		"lat": "56.8398296",
+		"number": "2",
+		"street": "ÄRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.802712",
+		"lat": "56.8400287",
+		"number": "3",
+		"street": "ÄRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8026021",
+		"lat": "56.8398244",
+		"number": "1",
+		"street": "ÄRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8044052",
+		"lat": "56.8399643",
+		"number": "5",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8042666",
+		"lat": "56.8397471",
+		"number": "3",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8041302",
+		"lat": "56.8395383",
+		"number": "1",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8035157",
+		"lat": "56.8397606",
+		"number": "4",
+		"street": "ÄRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8036387",
+		"lat": "56.8398832",
+		"number": "6",
+		"street": "ÄRTVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.804956",
+		"lat": "56.8400852",
+		"number": "4",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8047432",
+		"lat": "56.8396532",
+		"number": "22",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8052934",
+		"lat": "56.8400131",
+		"number": "6",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8055353",
+		"lat": "56.8394916",
+		"number": "18",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8051146",
+		"lat": "56.8395747",
+		"number": "20",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8057625",
+		"lat": "56.8399248",
+		"number": "8",
+		"street": "FÄBODVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8000514",
+		"lat": "56.840291",
+		"number": "15",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7981734",
+		"lat": "56.8402262",
+		"number": "93",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.796505",
+		"lat": "56.8404668",
+		"number": "171",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7999155",
+		"lat": "56.84053",
+		"number": "1",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7999666",
+		"lat": "56.8405558",
+		"number": "3",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8000147",
+		"lat": "56.840487",
+		"number": "5",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8000539",
+		"lat": "56.8405102",
+		"number": "7",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8000833",
+		"lat": "56.8404587",
+		"number": "9",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.800127",
+		"lat": "56.840478",
+		"number": "11",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7999657",
+		"lat": "56.840309",
+		"number": "13",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7999244",
+		"lat": "56.8402359",
+		"number": "17",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7999569",
+		"lat": "56.8401896",
+		"number": "23",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.799781",
+		"lat": "56.840085",
+		"number": "25",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7991763",
+		"lat": "56.839978",
+		"number": "45",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7997082",
+		"lat": "56.8399872",
+		"number": "29",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7997685",
+		"lat": "56.8399763",
+		"number": "31",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7996947",
+		"lat": "56.8399419",
+		"number": "33",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7998381",
+		"lat": "56.8400739",
+		"number": "27",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7996808",
+		"lat": "56.8398724",
+		"number": "39",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7991137",
+		"lat": "56.840404",
+		"number": "79",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7992751",
+		"lat": "56.8399233",
+		"number": "43",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7997399",
+		"lat": "56.8399304",
+		"number": "35",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.799347",
+		"lat": "56.8403624",
+		"number": "71",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7989373",
+		"lat": "56.8401756",
+		"number": "61",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7993268",
+		"lat": "56.8403284",
+		"number": "69",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7994712",
+		"lat": "56.8403191",
+		"number": "67",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7995095",
+		"lat": "56.8403117",
+		"number": "65",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7988878",
+		"lat": "56.8401848",
+		"number": "63",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7988159",
+		"lat": "56.8400919",
+		"number": "59",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.798871",
+		"lat": "56.840079",
+		"number": "57",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7987524",
+		"lat": "56.8399844",
+		"number": "55",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7988032",
+		"lat": "56.8399735",
+		"number": "53",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7990209",
+		"lat": "56.8404247",
+		"number": "83",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7990273",
+		"lat": "56.8399678",
+		"number": "51",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7983545",
+		"lat": "56.8401937",
+		"number": "89",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.799241",
+		"lat": "56.8403437",
+		"number": "73",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7992564",
+		"lat": "56.8403738",
+		"number": "75",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7990887",
+		"lat": "56.8403767",
+		"number": "77",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7993041",
+		"lat": "56.839949",
+		"number": "41",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.799003",
+		"lat": "56.8403907",
+		"number": "81",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7999071",
+		"lat": "56.8402019",
+		"number": "21",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.7985425",
+		"lat": "56.840155",
+		"number": "85",
+		"street": "SKIFTESVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8154947",
+		"lat": "56.8466655",
+		"number": "19",
+		"street": "KLANGENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.815134",
+		"lat": "56.8468117",
+		"number": "25",
+		"street": "KLANGENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8151295",
+		"lat": "56.8467169",
+		"number": "23",
+		"street": "KLANGENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8152991",
+		"lat": "56.8463967",
+		"number": "6",
+		"street": "KULAS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8154137",
+		"lat": "56.8468481",
+		"number": "27",
+		"street": "KLANGENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8149024",
+		"lat": "56.8463482",
+		"number": "10",
+		"street": "KULAS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8148861",
+		"lat": "56.846284",
+		"number": "12",
+		"street": "KULAS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8148837",
+		"lat": "56.8461822",
+		"number": "14",
+		"street": "KULAS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.814974",
+		"lat": "56.8461314",
+		"number": "16",
+		"street": "KULAS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8151183",
+		"lat": "56.8461088",
+		"number": "18",
+		"street": "KULAS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8153442",
+		"lat": "56.8460927",
+		"number": "20",
+		"street": "KULAS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8151304",
+		"lat": "56.8463932",
+		"number": "8",
+		"street": "KULAS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8190397",
+		"lat": "56.8464042",
+		"number": "12",
+		"street": "FERMENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8189103",
+		"lat": "56.8464514",
+		"number": "10",
+		"street": "FERMENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8061621",
+		"lat": "56.8469081",
+		"number": "5",
+		"street": "LOTUSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8061287",
+		"lat": "56.8470688",
+		"number": "3",
+		"street": "LOTUSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8067746",
+		"lat": "56.8470705",
+		"number": "6",
+		"street": "LOBELIAVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8067959",
+		"lat": "56.846963",
+		"number": "8",
+		"street": "LOBELIAVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8068257",
+		"lat": "56.8468509",
+		"number": "10",
+		"street": "LOBELIAVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8068533",
+		"lat": "56.8467389",
+		"number": "12",
+		"street": "LOBELIAVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8062057",
+		"lat": "56.8467432",
+		"number": "7",
+		"street": "LOTUSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8071106",
+		"lat": "56.8469675",
+		"number": "5",
+		"street": "LOBELIAVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8077069",
+		"lat": "56.8470248",
+		"number": "8",
+		"street": "LUZERNVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8077363",
+		"lat": "56.8469169",
+		"number": "10",
+		"street": "LUZERNVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8077555",
+		"lat": "56.8468038",
+		"number": "12",
+		"street": "LUZERNVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8077875",
+		"lat": "56.8466917",
+		"number": "14",
+		"street": "LUZERNVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8071751",
+		"lat": "56.8466537",
+		"number": "9",
+		"street": "LOBELIAVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8071461",
+		"lat": "56.846809",
+		"number": "7",
+		"street": "LOBELIAVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8080016",
+		"lat": "56.8470315",
+		"number": "5",
+		"street": "LUZERNVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8080354",
+		"lat": "56.8468742",
+		"number": "7",
+		"street": "LUZERNVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8080754",
+		"lat": "56.8467126",
+		"number": "9",
+		"street": "LUZERNVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8127939",
+		"lat": "56.8469496",
+		"number": "47",
+		"street": "KLANGENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8126357",
+		"lat": "56.8469733",
+		"number": "49",
+		"street": "KLANGENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8124987",
+		"lat": "56.8469924",
+		"number": "51",
+		"street": "KLANGENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8136785",
+		"lat": "56.8466536",
+		"number": "37",
+		"street": "KLANGENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8134212",
+		"lat": "56.8466164",
+		"number": "39",
+		"street": "KLANGENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8138709",
+		"lat": "56.8466633",
+		"number": "35",
+		"street": "KLANGENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8134948",
+		"lat": "56.8467074",
+		"number": "41",
+		"street": "KLANGENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8135505",
+		"lat": "56.8468266",
+		"number": "43",
+		"street": "KLANGENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8141031",
+		"lat": "56.8466479",
+		"number": "31",
+		"street": "KLANGENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8139702",
+		"lat": "56.8466579",
+		"number": "33",
+		"street": "KLANGENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8138437",
+		"lat": "56.8468473",
+		"number": "45",
+		"street": "KLANGENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8176908",
+		"lat": "56.8468268",
+		"number": "19",
+		"street": "BLIDENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8176842",
+		"lat": "56.8467415",
+		"number": "17",
+		"street": "BLIDENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.817678",
+		"lat": "56.8466686",
+		"number": "15",
+		"street": "BLIDENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.817713",
+		"lat": "56.8465348",
+		"number": "13",
+		"street": "BLIDENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8177641",
+		"lat": "56.8464259",
+		"number": "11",
+		"street": "BLIDENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.817953",
+		"lat": "56.8464067",
+		"number": "9",
+		"street": "BLIDENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8181712",
+		"lat": "56.8464065",
+		"number": "7",
+		"street": "BLIDENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8189074",
+		"lat": "56.8466803",
+		"number": "8",
+		"street": "FERMENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8189461",
+		"lat": "56.8467565",
+		"number": "6",
+		"street": "FERMENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8190342",
+		"lat": "56.8468011",
+		"number": "4",
+		"street": "FERMENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8190725",
+		"lat": "56.8468799",
+		"number": "2",
+		"street": "FERMENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8065569",
+		"lat": "56.8476107",
+		"number": "2",
+		"street": "LINNÉAVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8067247",
+		"lat": "56.8472839",
+		"number": "2",
+		"street": "LOBELIAVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8060905",
+		"lat": "56.8472271",
+		"number": "1",
+		"street": "LOTUSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8067466",
+		"lat": "56.8471785",
+		"number": "4",
+		"street": "LOBELIAVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8061801",
+		"lat": "56.8475829",
+		"number": "1",
+		"street": "LINNÉAVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8070948",
+		"lat": "56.8476489",
+		"number": "1",
+		"street": "LOMMEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8074948",
+		"lat": "56.8476758",
+		"number": "2",
+		"street": "LOMMEVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8076255",
+		"lat": "56.8473502",
+		"number": "2",
+		"street": "LUZERNVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8070765",
+		"lat": "56.8471292",
+		"number": "3",
+		"street": "LOBELIAVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8070314",
+		"lat": "56.8472853",
+		"number": "1",
+		"street": "LOBELIAVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8076495",
+		"lat": "56.8472402",
+		"number": "4",
+		"street": "LUZERNVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8076789",
+		"lat": "56.8471326",
+		"number": "6",
+		"street": "LUZERNVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8084537",
+		"lat": "56.8475774",
+		"number": "2",
+		"street": "LUNGÖRTSVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8079177",
+		"lat": "56.8473492",
+		"number": "1",
+		"street": "LUZERNVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8079646",
+		"lat": "56.847192",
+		"number": "3",
+		"street": "LUZERNVÄGEN",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8124434",
+		"lat": "56.8472213",
+		"number": "54",
+		"street": "KLANGENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8124628",
+		"lat": "56.8472876",
+		"number": "52",
+		"street": "KLANGENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8124767",
+		"lat": "56.8473559",
+		"number": "50",
+		"street": "KLANGENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8124976",
+		"lat": "56.8474232",
+		"number": "48",
+		"street": "KLANGENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8125373",
+		"lat": "56.847509",
+		"number": "46",
+		"street": "KLANGENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.81317",
+		"lat": "56.84749",
+		"number": "36",
+		"street": "KLANGENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	},
+	{
+		"lon": "14.8132016",
+		"lat": "56.8474221",
+		"number": "34",
+		"street": "KLANGENS VÄG",
+		"city": "VÄXJÖ",
+		"district": "",
+		"postcode": ""
+	}
+]

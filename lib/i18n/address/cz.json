@@ -1,0 +1,9002 @@
+[
+	{
+		"lon": "14.40381",
+		"lat": "50.091628",
+		"number": "9/10",
+		"street": "Jiřská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.403735",
+		"lat": "50.091712",
+		"number": "9/11",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.403888",
+		"lat": "50.091996",
+		"number": "22/20",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.399808",
+		"lat": "50.091024",
+		"number": "40/8",
+		"street": "Vikářská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.403333",
+		"lat": "50.091941",
+		"number": "28/32",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.403956",
+		"lat": "50.09201",
+		"number": "21/18",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.40094",
+		"lat": "50.09131",
+		"number": "37/2",
+		"street": "Vikářská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.402753",
+		"lat": "50.091541",
+		"number": "33/5",
+		"street": "náměstí U svatého Jiří",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.40005",
+		"lat": "50.090432",
+		"number": "48/2",
+		"street": "Hrad III. nádvoří",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.404073",
+		"lat": "50.092035",
+		"number": "19/14",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.400583",
+		"lat": "50.091224",
+		"number": "38/4",
+		"street": "Vikářská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.404369",
+		"lat": "50.092091",
+		"number": "16/8",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.404486",
+		"lat": "50.092109",
+		"number": "15/6",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.399801",
+		"lat": "50.091129",
+		"number": "198",
+		"street": "Hrad II. nádvoří",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.403632",
+		"lat": "50.091945",
+		"number": "25/26",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.403499",
+		"lat": "50.091917",
+		"number": "27/30",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.404274",
+		"lat": "50.092075",
+		"number": "17/10",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.404015",
+		"lat": "50.092021",
+		"number": "20/16",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.40416",
+		"lat": "50.091704",
+		"number": "7/6",
+		"street": "Jiřská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.404117",
+		"lat": "50.091972",
+		"number": "7/5",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.403566",
+		"lat": "50.09193",
+		"number": "26/28",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.404144",
+		"lat": "50.092048",
+		"number": "18/12",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.403916",
+		"lat": "50.091892",
+		"number": "11/7",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.404788",
+		"lat": "50.092159",
+		"number": "12/1",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.401904",
+		"lat": "50.09136",
+		"number": "34/4",
+		"street": "náměstí U svatého Jiří",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.403705",
+		"lat": "50.091591",
+		"number": "10/12",
+		"street": "Jiřská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.403577",
+		"lat": "50.091661",
+		"number": "10/13",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.400235",
+		"lat": "50.091164",
+		"number": "39/6",
+		"street": "Vikářská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.406851",
+		"lat": "50.08732",
+		"number": "57",
+		"street": "Malá Strana",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "15000"
+	},
+	{
+		"lon": "14.40833",
+		"lat": "50.09016",
+		"number": "121/8",
+		"street": "Letenská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.391239",
+		"lat": "50.09246",
+		"number": "91/7a",
+		"street": "Jelení",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40585",
+		"lat": "50.084802",
+		"number": "460/3",
+		"street": "Pelclova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405708",
+		"lat": "50.084744",
+		"number": "460/6",
+		"street": "Nebovidská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.391577",
+		"lat": "50.09088",
+		"number": "81/11",
+		"street": "Nový Svět",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400045",
+		"lat": "50.087096",
+		"number": "361/5",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404234",
+		"lat": "50.084114",
+		"number": "394/39",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403951",
+		"lat": "50.084252",
+		"number": "394/7",
+		"street": "Hellichova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403753",
+		"lat": "50.084253",
+		"number": "395/9",
+		"street": "Hellichova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40353",
+		"lat": "50.084242",
+		"number": "395/11",
+		"street": "Hellichova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405632",
+		"lat": "50.082183",
+		"number": "487/3",
+		"street": "Besední",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403947",
+		"lat": "50.087318",
+		"number": "269/28",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405099",
+		"lat": "50.086662",
+		"number": "292/10",
+		"street": "Maltézské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.401131",
+		"lat": "50.088717",
+		"number": "210/12",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405515",
+		"lat": "50.084854",
+		"number": "459/3",
+		"street": "Nebovidská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405607",
+		"lat": "50.084553",
+		"number": "459/1",
+		"street": "Nebovidská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405112",
+		"lat": "50.084428",
+		"number": "459/8",
+		"street": "Hellichova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404739",
+		"lat": "50.086564",
+		"number": "293/2",
+		"street": "Prokopská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404938",
+		"lat": "50.086491",
+		"number": "293/9",
+		"street": "Maltézské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405658",
+		"lat": "50.089463",
+		"number": "19/6",
+		"street": "Valdštejnské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40519",
+		"lat": "50.083989",
+		"number": "457/3",
+		"street": "Hellichova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408352",
+		"lat": "50.086251",
+		"number": "453/5",
+		"street": "Na Kampě",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40905",
+		"lat": "50.087647",
+		"number": "95/16",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40552",
+		"lat": "50.081932",
+		"number": "441/8",
+		"street": "Říční",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405641",
+		"lat": "50.08196",
+		"number": "441/1",
+		"street": "Besední",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406318",
+		"lat": "50.081584",
+		"number": "565/8",
+		"street": "Šeříková",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403659",
+		"lat": "50.084784",
+		"number": "552/1a",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403744",
+		"lat": "50.084607",
+		"number": "553/18",
+		"street": "Hellichova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403625",
+		"lat": "50.087847",
+		"number": "556/29",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399672",
+		"lat": "50.088385",
+		"number": "248/17",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403976",
+		"lat": "50.084519",
+		"number": "397/14",
+		"street": "Hellichova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404439",
+		"lat": "50.088951",
+		"number": "7/3",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404306",
+		"lat": "50.088586",
+		"number": "7/19",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405927",
+		"lat": "50.087277",
+		"number": "281/7",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405941",
+		"lat": "50.087079",
+		"number": "281/17",
+		"street": "Lázeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399706",
+		"lat": "50.087139",
+		"number": "631/11a",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.396507",
+		"lat": "50.088511",
+		"number": "171/2",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.396608",
+		"lat": "50.088565",
+		"number": "171/48",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.396476",
+		"lat": "50.088653",
+		"number": "171/1",
+		"street": "Radnické schody",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395193",
+		"lat": "50.088419",
+		"number": "162/20",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404542",
+		"lat": "50.092121",
+		"number": "14/4",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.399531",
+		"lat": "50.090342",
+		"number": "1",
+		"street": "Hrad I. nádvoří",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.404363",
+		"lat": "50.092033",
+		"number": "6/3",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.404366",
+		"lat": "50.092009",
+		"number": "6/4",
+		"street": "Jiřská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.404601",
+		"lat": "50.092015",
+		"number": "6/2",
+		"street": "Jiřská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.403322",
+		"lat": "50.09173",
+		"number": "32/42",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.403362",
+		"lat": "50.091806",
+		"number": "32/34",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.4013",
+		"lat": "50.091411",
+		"number": "36/2",
+		"street": "náměstí U svatého Jiří",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.40387",
+		"lat": "50.091742",
+		"number": "8/9",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.40393",
+		"lat": "50.091656",
+		"number": "8/8",
+		"street": "Jiřská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.397564",
+		"lat": "50.090701",
+		"number": "320",
+		"street": "zahrada Na baště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.403244",
+		"lat": "50.091632",
+		"number": "222/44",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.403302",
+		"lat": "50.091428",
+		"number": "222/14",
+		"street": "Jiřská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.402312",
+		"lat": "50.090931",
+		"number": "2/1",
+		"street": "náměstí U svatého Jiří",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.403392",
+		"lat": "50.091336",
+		"number": "2/3",
+		"street": "Jiřská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.403443",
+		"lat": "50.091822",
+		"number": "31/36",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.403605",
+		"lat": "50.091791",
+		"number": "31/40",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.403779",
+		"lat": "50.091973",
+		"number": "23/22",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.403722",
+		"lat": "50.091877",
+		"number": "30/38",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.404677",
+		"lat": "50.092174",
+		"number": "13/2",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.4015",
+		"lat": "50.091451",
+		"number": "35/3",
+		"street": "náměstí U svatého Jiří",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.405682",
+		"lat": "50.092039",
+		"number": "192/8",
+		"street": "Na Opyši",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.403698",
+		"lat": "50.091959",
+		"number": "24/24",
+		"street": "Zlatá ulička u Daliborky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.405059",
+		"lat": "50.091708",
+		"number": "3/1",
+		"street": "Jiřská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11900"
+	},
+	{
+		"lon": "14.410032",
+		"lat": "50.088658",
+		"number": "110/5",
+		"street": "Cihelná",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408426",
+		"lat": "50.087359",
+		"number": "87/4",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400941",
+		"lat": "50.0887",
+		"number": "212/16",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402009",
+		"lat": "50.088772",
+		"number": "205/1",
+		"street": "Zámecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.401957",
+		"lat": "50.088686",
+		"number": "205/2",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404327",
+		"lat": "50.08614",
+		"number": "380/16",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.410063",
+		"lat": "50.09161",
+		"number": "131/1",
+		"street": "nábřeží Edvarda Beneše",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409785",
+		"lat": "50.091722",
+		"number": "131/3",
+		"street": "Klárov",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.394945",
+		"lat": "50.089663",
+		"number": "65/6",
+		"street": "Hradčanské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400602",
+		"lat": "50.088406",
+		"number": "255/7",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398108",
+		"lat": "50.087597",
+		"number": "333/30",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399541",
+		"lat": "50.087319",
+		"number": "352/16",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399513",
+		"lat": "50.087516",
+		"number": "352/15",
+		"street": "Břetislavova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398358",
+		"lat": "50.087624",
+		"number": "331/26",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395693",
+		"lat": "50.08658",
+		"number": "337/38",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40006",
+		"lat": "50.08683",
+		"number": "355/9",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398868",
+		"lat": "50.087171",
+		"number": "348/17",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402778",
+		"lat": "50.087288",
+		"number": "262/12",
+		"street": "Tržiště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40289",
+		"lat": "50.087689",
+		"number": "262/9",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409514",
+		"lat": "50.088433",
+		"number": "106/32",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409159",
+		"lat": "50.087709",
+		"number": "97/18",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.410221",
+		"lat": "50.095268",
+		"number": "230/7",
+		"street": "Na baště sv. Tomáše",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402042",
+		"lat": "50.087199",
+		"number": "366/13",
+		"street": "Tržiště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399624",
+		"lat": "50.08766",
+		"number": "308/12",
+		"street": "Břetislavova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.39043",
+		"lat": "50.09104",
+		"number": "86/21",
+		"street": "Nový Svět",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.4081",
+		"lat": "50.085691",
+		"number": "499/8",
+		"street": "U Sovových mlýnů",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408343",
+		"lat": "50.085876",
+		"number": "499/2",
+		"street": "Na Kampě",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408007",
+		"lat": "50.085864",
+		"number": "499/2",
+		"street": "Hroznová",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.401484",
+		"lat": "50.088738",
+		"number": "208/8",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406237",
+		"lat": "50.087459",
+		"number": "49/12",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.391864",
+		"lat": "50.083519",
+		"number": "203",
+		"street": "Strahovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403807",
+		"lat": "50.085525",
+		"number": "385/9",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406657",
+		"lat": "50.081824",
+		"number": "445/5",
+		"street": "Říční",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406839",
+		"lat": "50.081767",
+		"number": "445/5",
+		"street": "Všehrdova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406866",
+		"lat": "50.085349",
+		"number": "470/8",
+		"street": "Nosticova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407781",
+		"lat": "50.086321",
+		"number": "636/3a",
+		"street": "Hroznová",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.411971",
+		"lat": "50.092033",
+		"number": "128/4",
+		"street": "nábřeží Edvarda Beneše",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.412232",
+		"lat": "50.092525",
+		"number": "128/6",
+		"street": "nábřeží Edvarda Beneše",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408199",
+		"lat": "50.083766",
+		"number": "527",
+		"street": "U Sovových mlýnů",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398694",
+		"lat": "50.088404",
+		"number": "242/29",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402246",
+		"lat": "50.08873",
+		"number": "204/15",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407046",
+		"lat": "50.08428",
+		"number": "634/2a",
+		"street": "Nosticova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.387105",
+		"lat": "50.085917",
+		"number": "322",
+		"street": "Strahovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408274",
+		"lat": "50.092586",
+		"number": "251/3",
+		"street": "Na Opyši",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40835",
+		"lat": "50.092493",
+		"number": "251/6",
+		"street": "Staré zámecké schody",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408977",
+		"lat": "50.086427",
+		"number": "512/11",
+		"street": "Na Kampě",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397769",
+		"lat": "50.088151",
+		"number": "238/4",
+		"street": "Jánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397819",
+		"lat": "50.088446",
+		"number": "238/37",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407699",
+		"lat": "50.092025",
+		"number": "113/3a",
+		"street": "Staré zámecké schody",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405031",
+		"lat": "50.085677",
+		"number": "474/3",
+		"street": "Maltézské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.411168",
+		"lat": "50.090865",
+		"number": "592/8",
+		"street": "U železné lávky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389544",
+		"lat": "50.087203",
+		"number": "134/13",
+		"street": "Strahovské nádvoří",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404998",
+		"lat": "50.088828",
+		"number": "26/4",
+		"street": "Tomášská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407625",
+		"lat": "50.087985",
+		"number": "63/7",
+		"street": "Dražického náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403654",
+		"lat": "50.0888",
+		"number": "6/2",
+		"street": "Sněmovní",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403971",
+		"lat": "50.088964",
+		"number": "6/5",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403879",
+		"lat": "50.088602",
+		"number": "6/18",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395003",
+		"lat": "50.083718",
+		"number": "633",
+		"street": "Petřínské sady",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405787",
+		"lat": "50.085733",
+		"number": "472/16",
+		"street": "Maltézské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398427",
+		"lat": "50.092188",
+		"number": "53/7",
+		"street": "U Prašného mostu",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406436",
+		"lat": "50.08424",
+		"number": "464/2",
+		"street": "Hellichova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399295",
+		"lat": "50.087656",
+		"number": "517/16",
+		"street": "Břetislavova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.393235",
+		"lat": "50.089171",
+		"number": "314/6a",
+		"street": "Loretánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.393032",
+		"lat": "50.082682",
+		"number": "207/7",
+		"street": "Strahovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.410862",
+		"lat": "50.092226",
+		"number": "627/1",
+		"street": "U Bruských kasáren",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.410777",
+		"lat": "50.0919",
+		"number": "627/3",
+		"street": "nábřeží Edvarda Beneše",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409057",
+		"lat": "50.092946",
+		"number": "144/7",
+		"street": "Pod Bruskou",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408949",
+		"lat": "50.092927",
+		"number": "144/2",
+		"street": "Chotkova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389993",
+		"lat": "50.087475",
+		"number": "151/4",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400291",
+		"lat": "50.087581",
+		"number": "304/4",
+		"street": "Břetislavova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406466",
+		"lat": "50.084765",
+		"number": "468/4",
+		"street": "Nosticova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397384",
+		"lat": "50.088498",
+		"number": "234/45",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397354",
+		"lat": "50.088178",
+		"number": "234/10",
+		"street": "Jánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405767",
+		"lat": "50.086912",
+		"number": "285/11",
+		"street": "Lázeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405767",
+		"lat": "50.086912",
+		"number": "285/13",
+		"street": "Lázeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404694",
+		"lat": "50.089224",
+		"number": "11/7",
+		"street": "Tomášská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402974",
+		"lat": "50.086033",
+		"number": "545/11",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405592",
+		"lat": "50.083033",
+		"number": "547/19",
+		"street": "Všehrdova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407076",
+		"lat": "50.081516",
+		"number": "560/2",
+		"street": "Všehrdova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407223",
+		"lat": "50.08142",
+		"number": "560/6",
+		"street": "Vítězná",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400915",
+		"lat": "50.088426",
+		"number": "256/5",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405459",
+		"lat": "50.090532",
+		"number": "159/16",
+		"street": "Valdštejnská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405097",
+		"lat": "50.0897",
+		"number": "20/8",
+		"street": "Valdštejnské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404966",
+		"lat": "50.089588",
+		"number": "20/16",
+		"street": "Tomášská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405341",
+		"lat": "50.090492",
+		"number": "160/18",
+		"street": "Valdštejnská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403877",
+		"lat": "50.090283",
+		"number": "171/13",
+		"street": "Sněmovní",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.401668",
+		"lat": "50.088983",
+		"number": "199/13",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.388994",
+		"lat": "50.086921",
+		"number": "135/12",
+		"street": "Strahovské nádvoří",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397805",
+		"lat": "50.087982",
+		"number": "318/4",
+		"street": "Šporkova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397828",
+		"lat": "50.088074",
+		"number": "318/1",
+		"street": "Jánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407589",
+		"lat": "50.081952",
+		"number": "563/1",
+		"street": "Říční",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407825",
+		"lat": "50.081836",
+		"number": "563/3",
+		"street": "Malostranské nábřeží",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389938",
+		"lat": "50.091073",
+		"number": "74/4",
+		"street": "Černínská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40009",
+		"lat": "50.087585",
+		"number": "305/6",
+		"street": "Břetislavova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397134",
+		"lat": "50.092627",
+		"number": "55/3",
+		"street": "U Prašného mostu",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399942",
+		"lat": "50.087491",
+		"number": "357/9",
+		"street": "Břetislavova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399961",
+		"lat": "50.087338",
+		"number": "357/10",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404205",
+		"lat": "50.086689",
+		"number": "376/5",
+		"street": "Prokopská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40407",
+		"lat": "50.086595",
+		"number": "376/20",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409379",
+		"lat": "50.090293",
+		"number": "123/4",
+		"street": "Letenská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.390617",
+		"lat": "50.085328",
+		"number": "133/3",
+		"street": "Strahovské nádvoří",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397436",
+		"lat": "50.087994",
+		"number": "319/8",
+		"street": "Šporkova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397456",
+		"lat": "50.088096",
+		"number": "319/3",
+		"street": "Jánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.396598",
+		"lat": "50.088106",
+		"number": "317/7",
+		"street": "Jánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.390305",
+		"lat": "50.091113",
+		"number": "88/23",
+		"street": "Nový Svět",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389818",
+		"lat": "50.090912",
+		"number": "97/5",
+		"street": "Černínská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404141",
+		"lat": "50.084794",
+		"number": "389/45",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.390241",
+		"lat": "50.087515",
+		"number": "153/2",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405329",
+		"lat": "50.087896",
+		"number": "37/3",
+		"street": "Josefská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404712",
+		"lat": "50.087877",
+		"number": "37/23",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406441",
+		"lat": "50.087419",
+		"number": "52/6",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.38814",
+		"lat": "50.085904",
+		"number": "131/5",
+		"street": "Strahovské nádvoří",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.392794",
+		"lat": "50.09069",
+		"number": "77/3",
+		"street": "Nový Svět",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402819",
+		"lat": "50.084061",
+		"number": "300/13",
+		"street": "Hellichova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40412",
+		"lat": "50.083256",
+		"number": "405/25",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404188",
+		"lat": "50.083638",
+		"number": "402/33",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404496",
+		"lat": "50.090197",
+		"number": "163/2",
+		"street": "Valdštejnské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402832",
+		"lat": "50.089688",
+		"number": "180/14",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389473",
+		"lat": "50.087387",
+		"number": "147/8",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408744",
+		"lat": "50.085936",
+		"number": "508/15",
+		"street": "Na Kampě",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.393927",
+		"lat": "50.090342",
+		"number": "69/3",
+		"street": "Kanovnická",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.393837",
+		"lat": "50.090171",
+		"number": "69/4",
+		"street": "U kasáren",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.394743",
+		"lat": "50.08585",
+		"number": "344/25",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405193",
+		"lat": "50.081345",
+		"number": "534/16",
+		"street": "Vítězná",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403659",
+		"lat": "50.084784",
+		"number": "552/18",
+		"street": "Hellichova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395067",
+		"lat": "50.08842",
+		"number": "161/22",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405756",
+		"lat": "50.087552",
+		"number": "45/20",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409693",
+		"lat": "50.088727",
+		"number": "110/40",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406146",
+		"lat": "50.08599",
+		"number": "484/3",
+		"street": "Velkopřevorské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406047",
+		"lat": "50.085663",
+		"number": "484/17",
+		"street": "Maltézské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404167",
+		"lat": "50.085152",
+		"number": "528/3",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40418",
+		"lat": "50.085026",
+		"number": "528/1",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405069",
+		"lat": "50.08576",
+		"number": "537/4",
+		"street": "Maltézské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389687",
+		"lat": "50.091527",
+		"number": "93/10",
+		"street": "Černínská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405395",
+		"lat": "50.085941",
+		"number": "476/14",
+		"street": "Maltézské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405833",
+		"lat": "50.086134",
+		"number": "476/1",
+		"street": "Lázeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.38744",
+		"lat": "50.086546",
+		"number": "125/19",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403818",
+		"lat": "50.089998",
+		"number": "172/11",
+		"street": "Sněmovní",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404711",
+		"lat": "50.081297",
+		"number": "420/14",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404898",
+		"lat": "50.081277",
+		"number": "420/18",
+		"street": "Vítězná",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408133",
+		"lat": "50.0864",
+		"number": "492/8",
+		"street": "Hroznová",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.394413",
+		"lat": "50.088569",
+		"number": "176/7",
+		"street": "Loretánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.388501",
+		"lat": "50.086882",
+		"number": "301/10",
+		"street": "Strahovské nádvoří",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403656",
+		"lat": "50.086709",
+		"number": "375/21",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.388409",
+		"lat": "50.088576",
+		"number": "216/12",
+		"street": "Keplerova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.392963",
+		"lat": "50.092599",
+		"number": "323",
+		"street": "Jelení",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398341",
+		"lat": "50.088247",
+		"number": "240/15",
+		"street": "Jánský vršek",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398233",
+		"lat": "50.088092",
+		"number": "240/2",
+		"street": "Šporkova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398154",
+		"lat": "50.088383",
+		"number": "240/33",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.391393",
+		"lat": "50.090896",
+		"number": "82/13",
+		"street": "Nový Svět",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.388773",
+		"lat": "50.086115",
+		"number": "132/1",
+		"street": "Strahovské nádvoří",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.38844",
+		"lat": "50.087043",
+		"number": "302/11",
+		"street": "Strahovské nádvoří",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406237",
+		"lat": "50.091047",
+		"number": "155/12",
+		"street": "Valdštejnská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408894",
+		"lat": "50.087152",
+		"number": "515/8",
+		"street": "Na Kampě",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40719",
+		"lat": "50.08915",
+		"number": "525/15",
+		"street": "Letenská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407433",
+		"lat": "50.089335",
+		"number": "525/13",
+		"street": "Letenská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405005",
+		"lat": "50.08923",
+		"number": "23/10",
+		"street": "Tomášská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395963",
+		"lat": "50.087053",
+		"number": "336/36",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40764",
+		"lat": "50.089497",
+		"number": "594/11",
+		"street": "Letenská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.39113",
+		"lat": "50.09263",
+		"number": "193/13",
+		"street": "Jelení",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.394126",
+		"lat": "50.089089",
+		"number": "181/2",
+		"street": "U kasáren",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.394405",
+		"lat": "50.088969",
+		"number": "181/4",
+		"street": "Loretánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.414925",
+		"lat": "50.0931",
+		"number": "337/1",
+		"street": "U plovárny",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40438",
+		"lat": "50.08678",
+		"number": "296/8",
+		"street": "Prokopská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397958",
+		"lat": "50.088619",
+		"number": "223/40",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397026",
+		"lat": "50.088457",
+		"number": "232/49",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.396997",
+		"lat": "50.0882",
+		"number": "232/14",
+		"street": "Jánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400521",
+		"lat": "50.089316",
+		"number": "190/10",
+		"street": "Zámecké schody",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.41069",
+		"lat": "50.091252",
+		"number": "610/14",
+		"street": "U železné lávky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395541",
+		"lat": "50.08907",
+		"number": "183/4",
+		"street": "Hradčanské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408468",
+		"lat": "50.084032",
+		"number": "503/2",
+		"street": "U Sovových mlýnů",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404983",
+		"lat": "50.083019",
+		"number": "431/25",
+		"street": "Všehrdova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409783",
+		"lat": "50.090188",
+		"number": "526/2",
+		"street": "Letenská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.392327",
+		"lat": "50.088267",
+		"number": "104/19",
+		"street": "Loretánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.392238",
+		"lat": "50.087959",
+		"number": "104/36",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.388801",
+		"lat": "50.087285",
+		"number": "144/11",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409805",
+		"lat": "50.095253",
+		"number": "229/9",
+		"street": "Na baště sv. Tomáše",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404788",
+		"lat": "50.0891",
+		"number": "10/5",
+		"street": "Tomášská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404578",
+		"lat": "50.089027",
+		"number": "10/2",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402447",
+		"lat": "50.089171",
+		"number": "181/16",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406799",
+		"lat": "50.082663",
+		"number": "449/14",
+		"street": "Všehrdova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395085",
+		"lat": "50.088803",
+		"number": "174/3",
+		"street": "Loretánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.394741",
+		"lat": "50.088331",
+		"number": "160/24",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406211",
+		"lat": "50.086939",
+		"number": "286/5",
+		"street": "Saská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406011",
+		"lat": "50.086885",
+		"number": "286/6",
+		"street": "Lázeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406748",
+		"lat": "50.081608",
+		"number": "444/3",
+		"street": "Všehrdova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.391854",
+		"lat": "50.088141",
+		"number": "107/1",
+		"street": "Loretánské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40493",
+		"lat": "50.088441",
+		"number": "35/27",
+		"street": "Letenská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404771",
+		"lat": "50.088327",
+		"number": "35/21",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.394922",
+		"lat": "50.090113",
+		"number": "67/2",
+		"street": "Kanovnická",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395158",
+		"lat": "50.089934",
+		"number": "67/8",
+		"street": "Hradčanské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405263",
+		"lat": "50.085503",
+		"number": "386/2",
+		"street": "Maltézské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404444",
+		"lat": "50.085439",
+		"number": "386/8",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404629",
+		"lat": "50.085301",
+		"number": "386/2",
+		"street": "Harantova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404102",
+		"lat": "50.082822",
+		"number": "409/2",
+		"street": "U lanové dráhy",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404317",
+		"lat": "50.083005",
+		"number": "409/19",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.391571",
+		"lat": "50.088173",
+		"number": "108/2",
+		"street": "Loretánské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404526",
+		"lat": "50.084203",
+		"number": "455/48",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.391781",
+		"lat": "50.090847",
+		"number": "80/9",
+		"street": "Nový Svět",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.401039",
+		"lat": "50.088708",
+		"number": "211/14",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.392757",
+		"lat": "50.090422",
+		"number": "73/7",
+		"street": "Kanovnická",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404014",
+		"lat": "50.08679",
+		"number": "298/12",
+		"street": "Prokopská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403969",
+		"lat": "50.086868",
+		"number": "298/22",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.391741",
+		"lat": "50.087843",
+		"number": "108/40",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.390497",
+		"lat": "50.087787",
+		"number": "110/26",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.390805",
+		"lat": "50.087732",
+		"number": "110/44",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.390973",
+		"lat": "50.088001",
+		"number": "110/4",
+		"street": "Loretánské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.387546",
+		"lat": "50.08651",
+		"number": "126/8",
+		"street": "Strahovské nádvoří",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.391185",
+		"lat": "50.090904",
+		"number": "83/15",
+		"street": "Nový Svět",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398736",
+		"lat": "50.087879",
+		"number": "311/6",
+		"street": "Jánský vršek",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397825",
+		"lat": "50.087626",
+		"number": "521/5",
+		"street": "Šporkova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40931",
+		"lat": "50.087421",
+		"number": "523/8b",
+		"street": "Na Kampě",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40361",
+		"lat": "50.085384",
+		"number": "529/7",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403619",
+		"lat": "50.085275",
+		"number": "529/5",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399516",
+		"lat": "50.08713",
+		"number": "591/13",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404712",
+		"lat": "50.084256",
+		"number": "455/5",
+		"street": "Hellichova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404272",
+		"lat": "50.087531",
+		"number": "271/2",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405439",
+		"lat": "50.087306",
+		"number": "277/15",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403647",
+		"lat": "50.089226",
+		"number": "177/3",
+		"street": "Sněmovní",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403514",
+		"lat": "50.089124",
+		"number": "177/8",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402995",
+		"lat": "50.089279",
+		"number": "179/12",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.4043",
+		"lat": "50.090681",
+		"number": "168/2",
+		"street": "U Zlaté studně",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40411",
+		"lat": "50.08904",
+		"number": "176/6",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403931",
+		"lat": "50.089478",
+		"number": "176/6",
+		"street": "Sněmovní",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403945",
+		"lat": "50.089153",
+		"number": "176/4",
+		"street": "Sněmovní",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.401859",
+		"lat": "50.089013",
+		"number": "200/11",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.401947",
+		"lat": "50.088994",
+		"number": "200/5",
+		"street": "Zámecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407455",
+		"lat": "50.086288",
+		"number": "629/7",
+		"street": "Velkopřevorské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40787",
+		"lat": "50.08764",
+		"number": "73/5",
+		"street": "Míšeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407737",
+		"lat": "50.087581",
+		"number": "73/7",
+		"street": "Míšeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399285",
+		"lat": "50.088598",
+		"number": "215/24",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.39825",
+		"lat": "50.088575",
+		"number": "221/36",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398542",
+		"lat": "50.088428",
+		"number": "241/31",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398488",
+		"lat": "50.088351",
+		"number": "241/14",
+		"street": "Jánský vršek",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405719",
+		"lat": "50.08724",
+		"number": "279/11",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40562",
+		"lat": "50.08726",
+		"number": "278/13",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.393087",
+		"lat": "50.090718",
+		"number": "76/1",
+		"street": "Nový Svět",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405906",
+		"lat": "50.087531",
+		"number": "46/18",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.396445",
+		"lat": "50.089936",
+		"number": "60/12",
+		"street": "Hradčanské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407424",
+		"lat": "50.086412",
+		"number": "489/6",
+		"street": "Velkopřevorské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407524",
+		"lat": "50.086275",
+		"number": "489/3",
+		"street": "Hroznová",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40886",
+		"lat": "50.086608",
+		"number": "514/9",
+		"street": "Na Kampě",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405397",
+		"lat": "50.086286",
+		"number": "481/12",
+		"street": "Maltézské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408421",
+		"lat": "50.086564",
+		"number": "493/7",
+		"street": "Na Kampě",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408306",
+		"lat": "50.086508",
+		"number": "493/5",
+		"street": "Hroznová",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407442",
+		"lat": "50.087711",
+		"number": "66/2",
+		"street": "Dražického",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407524",
+		"lat": "50.087655",
+		"number": "66/12",
+		"street": "Míšeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40551",
+		"lat": "50.088629",
+		"number": "28/22",
+		"street": "Letenská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405172",
+		"lat": "50.088826",
+		"number": "28/8",
+		"street": "Josefská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.401511",
+		"lat": "50.089197",
+		"number": "184/20",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400988",
+		"lat": "50.089231",
+		"number": "187/4",
+		"street": "Zámecké schody",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395916",
+		"lat": "50.088767",
+		"number": "184/2",
+		"street": "Radnické schody",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395836",
+		"lat": "50.089141",
+		"number": "184/3",
+		"street": "Hradčanské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.393916",
+		"lat": "50.090513",
+		"number": "70/4",
+		"street": "Kanovnická",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.393844",
+		"lat": "50.088192",
+		"number": "158/30",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409284",
+		"lat": "50.092861",
+		"number": "135/4",
+		"street": "Pod Bruskou",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398847",
+		"lat": "50.087769",
+		"number": "310/4",
+		"street": "Jánský vršek",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389896",
+		"lat": "50.090456",
+		"number": "98/2",
+		"street": "Na náspu",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389913",
+		"lat": "50.090512",
+		"number": "98/3",
+		"street": "Černínská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.386011",
+		"lat": "50.086208",
+		"number": "294/1",
+		"street": "Dlabačov",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.385659",
+		"lat": "50.086077",
+		"number": "294/1",
+		"street": "Diskařská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389913",
+		"lat": "50.090326",
+		"number": "187",
+		"street": "Na náspu",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.388353",
+		"lat": "50.088737",
+		"number": "215/14",
+		"street": "Keplerova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.394889",
+		"lat": "50.089938",
+		"number": "68/1",
+		"street": "Kanovnická",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.394916",
+		"lat": "50.089876",
+		"number": "68/7",
+		"street": "Hradčanské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.393232",
+		"lat": "50.087949",
+		"number": "157/11",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.390502",
+		"lat": "50.091173",
+		"number": "87/2",
+		"street": "Nový Svět",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403397",
+		"lat": "50.084602",
+		"number": "392/20",
+		"street": "Hellichova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404558",
+		"lat": "50.083789",
+		"number": "452/42",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404541",
+		"lat": "50.083932",
+		"number": "452/44",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.391077",
+		"lat": "50.089991",
+		"number": "99/6",
+		"street": "Loretánské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.390344",
+		"lat": "50.090015",
+		"number": "99/2",
+		"street": "Černínská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.391799",
+		"lat": "50.089872",
+		"number": "99/1",
+		"street": "Kapucínská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.4077",
+		"lat": "50.081435",
+		"number": "558/2",
+		"street": "Vítězná",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407835",
+		"lat": "50.081592",
+		"number": "558/1",
+		"street": "Malostranské nábřeží",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404517",
+		"lat": "50.085688",
+		"number": "384/10",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399771",
+		"lat": "50.093284",
+		"number": "321",
+		"street": "U Prašného mostu",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.390113",
+		"lat": "50.087495",
+		"number": "152/3",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398476",
+		"lat": "50.08378",
+		"number": "393",
+		"street": "Petřínské sady",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406785",
+		"lat": "50.084584",
+		"number": "465/2",
+		"street": "Nosticova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403098",
+		"lat": "50.087244",
+		"number": "264/8",
+		"street": "Tržiště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40319",
+		"lat": "50.08767",
+		"number": "264/7",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.396189",
+		"lat": "50.088345",
+		"number": "228/5",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406006",
+		"lat": "50.081439",
+		"number": "443/5",
+		"street": "Šeříková",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405851",
+		"lat": "50.081307",
+		"number": "443/12",
+		"street": "Vítězná",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404737",
+		"lat": "50.089507",
+		"number": "14/13",
+		"street": "Tomášská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.391314",
+		"lat": "50.087796",
+		"number": "109/42",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.391159",
+		"lat": "50.088054",
+		"number": "109/3",
+		"street": "Loretánské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.387785",
+		"lat": "50.086429",
+		"number": "127/7",
+		"street": "Strahovské nádvoří",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400024",
+		"lat": "50.08816",
+		"number": "250/25",
+		"street": "Tržiště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400149",
+		"lat": "50.088435",
+		"number": "250/13",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405765",
+		"lat": "50.091919",
+		"number": "192/8",
+		"street": "Staré zámecké schody",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40638",
+		"lat": "50.081799",
+		"number": "566/7",
+		"street": "Říční",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406243",
+		"lat": "50.081714",
+		"number": "566/10",
+		"street": "Šeříková",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405926",
+		"lat": "50.08416",
+		"number": "458/1",
+		"street": "Hellichova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407244",
+		"lat": "50.084684",
+		"number": "469/6",
+		"street": "Nosticova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407274",
+		"lat": "50.087769",
+		"number": "64/3",
+		"street": "Dražického",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407051",
+		"lat": "50.087758",
+		"number": "64/9",
+		"street": "Dražického náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407026",
+		"lat": "50.087874",
+		"number": "533/8",
+		"street": "Dražického náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407123",
+		"lat": "50.087882",
+		"number": "533/4",
+		"street": "Dražického",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40478",
+		"lat": "50.086665",
+		"number": "294/4",
+		"street": "Prokopská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.38884",
+		"lat": "50.087954",
+		"number": "113/23",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.391712",
+		"lat": "50.088702",
+		"number": "102/8",
+		"street": "Loretánské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.392026",
+		"lat": "50.088422",
+		"number": "102/8",
+		"street": "Loretánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389582",
+		"lat": "50.087413",
+		"number": "148/7",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398864",
+		"lat": "50.087322",
+		"number": "328/22",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399096",
+		"lat": "50.087425",
+		"number": "328/3",
+		"street": "Jánský vršek",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405147",
+		"lat": "50.085877",
+		"number": "475/5",
+		"street": "Maltézské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404722",
+		"lat": "50.089302",
+		"number": "12/9",
+		"street": "Tomášská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404691",
+		"lat": "50.08252",
+		"number": "427/28",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404147",
+		"lat": "50.083949",
+		"number": "400/37",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406089",
+		"lat": "50.082436",
+		"number": "439/5",
+		"street": "Besední",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406176",
+		"lat": "50.082489",
+		"number": "439/11",
+		"street": "Všehrdova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395997",
+		"lat": "50.090017",
+		"number": "61/11",
+		"street": "Hradčanské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403062",
+		"lat": "50.087677",
+		"number": "263/8",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402982",
+		"lat": "50.087261",
+		"number": "263/10",
+		"street": "Tržiště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403347",
+		"lat": "50.087203",
+		"number": "266/4",
+		"street": "Tržiště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403518",
+		"lat": "50.087654",
+		"number": "266/5",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403333",
+		"lat": "50.087664",
+		"number": "265/6",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404151",
+		"lat": "50.086826",
+		"number": "297/10",
+		"street": "Prokopská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397566",
+		"lat": "50.088425",
+		"number": "236/41",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398842",
+		"lat": "50.09223",
+		"number": "49/2",
+		"street": "U Prašného mostu",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397682",
+		"lat": "50.088161",
+		"number": "237/6",
+		"street": "Jánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397718",
+		"lat": "50.088455",
+		"number": "237/39",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398864",
+		"lat": "50.088413",
+		"number": "243/27",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408394",
+		"lat": "50.086425",
+		"number": "494/10",
+		"street": "Hroznová",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408423",
+		"lat": "50.086355",
+		"number": "494/6",
+		"street": "Na Kampě",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.390139",
+		"lat": "50.091143",
+		"number": "90/25",
+		"street": "Nový Svět",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409505",
+		"lat": "50.089736",
+		"number": "119/21",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409258",
+		"lat": "50.089969",
+		"number": "119/3",
+		"street": "Letenská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.411713",
+		"lat": "50.090656",
+		"number": "129/3",
+		"street": "Kosárkovo nábřeží",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406505",
+		"lat": "50.090607",
+		"number": "154/10",
+		"street": "Valdštejnská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405921",
+		"lat": "50.0828",
+		"number": "437/15",
+		"street": "Všehrdova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398123",
+		"lat": "50.088573",
+		"number": "222/38",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405997",
+		"lat": "50.081747",
+		"number": "540/9",
+		"street": "Šeříková",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405813",
+		"lat": "50.081812",
+		"number": "540/9",
+		"street": "Říční",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.411332",
+		"lat": "50.090721",
+		"number": "557/6",
+		"street": "U železné lávky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405413",
+		"lat": "50.08958",
+		"number": "522/7",
+		"street": "Valdštejnské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395891",
+		"lat": "50.0883",
+		"number": "542/7",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406852",
+		"lat": "50.081442",
+		"number": "550/1",
+		"street": "Všehrdova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406748",
+		"lat": "50.081333",
+		"number": "550/8",
+		"street": "Vítězná",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389813",
+		"lat": "50.091154",
+		"number": "96/6",
+		"street": "Černínská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408403",
+		"lat": "50.087025",
+		"number": "507/8a",
+		"street": "Na Kampě",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397867",
+		"lat": "50.081306",
+		"number": "205",
+		"street": "Strahovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399557",
+		"lat": "50.089353",
+		"number": "192/5",
+		"street": "Zámecké schody",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399706",
+		"lat": "50.089185",
+		"number": "192/27",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404678",
+		"lat": "50.08173",
+		"number": "423/20",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406558",
+		"lat": "50.087402",
+		"number": "53/4",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398618",
+		"lat": "50.087658",
+		"number": "325/9",
+		"street": "Jánský vršek",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.39881",
+		"lat": "50.087622",
+		"number": "326/7",
+		"street": "Jánský vršek",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403614",
+		"lat": "50.086816",
+		"number": "374/23",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408153",
+		"lat": "50.091831",
+		"number": "151/6a",
+		"street": "Valdštejnská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40802",
+		"lat": "50.091992",
+		"number": "151/3",
+		"street": "Staré zámecké schody",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404737",
+		"lat": "50.089889",
+		"number": "16/1",
+		"street": "Valdštejnské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.391565",
+		"lat": "50.092702",
+		"number": "197/7",
+		"street": "Jelení",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406495",
+		"lat": "50.089061",
+		"number": "33/12",
+		"street": "Letenská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402892",
+		"lat": "50.085724",
+		"number": "628/9a",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.4001",
+		"lat": "50.087477",
+		"number": "359/7",
+		"street": "Břetislavova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397258",
+		"lat": "50.088496",
+		"number": "233/47",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397168",
+		"lat": "50.088188",
+		"number": "233/12",
+		"street": "Jánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408851",
+		"lat": "50.086091",
+		"number": "509/14",
+		"street": "Na Kampě",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403592",
+		"lat": "50.083338",
+		"number": "404/29",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40471",
+		"lat": "50.081611",
+		"number": "422/18",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408932",
+		"lat": "50.086501",
+		"number": "513/10",
+		"street": "Na Kampě",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405016",
+		"lat": "50.086014",
+		"number": "477/6",
+		"street": "Maltézské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40804",
+		"lat": "50.08762",
+		"number": "71/3",
+		"street": "Míšeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406709",
+		"lat": "50.087771",
+		"number": "62/6",
+		"street": "Dražického náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.401288",
+		"lat": "50.088983",
+		"number": "196/19",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.401286",
+		"lat": "50.088721",
+		"number": "209/10",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402171",
+		"lat": "50.088939",
+		"number": "202/4",
+		"street": "Zámecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407778",
+		"lat": "50.089617",
+		"number": "593/9",
+		"street": "Letenská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397981",
+		"lat": "50.087586",
+		"number": "334/32",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395213",
+		"lat": "50.086825",
+		"number": "338/40",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.410507",
+		"lat": "50.09145",
+		"number": "130/2",
+		"street": "nábřeží Edvarda Beneše",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.410476",
+		"lat": "50.091329",
+		"number": "130/16",
+		"street": "U železné lávky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408885",
+		"lat": "50.091515",
+		"number": "150/4",
+		"street": "Valdštejnská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.396647",
+		"lat": "50.090603",
+		"number": "57/15",
+		"street": "Hradčanské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405223",
+		"lat": "50.087345",
+		"number": "276/17",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406338",
+		"lat": "50.085553",
+		"number": "486/10",
+		"street": "Nosticova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406302",
+		"lat": "50.085922",
+		"number": "486/2",
+		"street": "Velkopřevorské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40478",
+		"lat": "50.081506",
+		"number": "421/16",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407392",
+		"lat": "50.087261",
+		"number": "78/5",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404574",
+		"lat": "50.09084",
+		"number": "166/4",
+		"street": "U Zlaté studně",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406197",
+		"lat": "50.084639",
+		"number": "466/5",
+		"street": "Nosticova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405576",
+		"lat": "50.08574",
+		"number": "473/15",
+		"street": "Maltézské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409911",
+		"lat": "50.089881",
+		"number": "118/23",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409754",
+		"lat": "50.089958",
+		"number": "118/1",
+		"street": "Letenská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40491",
+		"lat": "50.088666",
+		"number": "27/2",
+		"street": "Tomášská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404978",
+		"lat": "50.088609",
+		"number": "27/24",
+		"street": "Letenská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.396092",
+		"lat": "50.088474",
+		"number": "169/6",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.396026",
+		"lat": "50.08865",
+		"number": "169/5",
+		"street": "Radnické schody",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404975",
+		"lat": "50.090206",
+		"number": "162/3",
+		"street": "Valdštejnské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.390668",
+		"lat": "50.087445",
+		"number": "155/15",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409364",
+		"lat": "50.093075",
+		"number": "137/8",
+		"street": "Pod Bruskou",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.39531",
+		"lat": "50.088469",
+		"number": "163/18",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406771",
+		"lat": "50.087575",
+		"number": "60/4",
+		"street": "Dražického náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408343",
+		"lat": "50.08601",
+		"number": "497/3",
+		"street": "Na Kampě",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407299",
+		"lat": "50.087653",
+		"number": "65/1",
+		"street": "Dražického",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407198",
+		"lat": "50.087599",
+		"number": "65/14",
+		"street": "Míšeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407064",
+		"lat": "50.087632",
+		"number": "65/10",
+		"street": "Dražického náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406087",
+		"lat": "50.091272",
+		"number": "156/12a",
+		"street": "Valdštejnská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398573",
+		"lat": "50.088159",
+		"number": "313/10",
+		"street": "Jánský vršek",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.388722",
+		"lat": "50.087711",
+		"number": "114/22",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.388608",
+		"lat": "50.087782",
+		"number": "114/2",
+		"street": "Keplerova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408337",
+		"lat": "50.08729",
+		"number": "85/2",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405702",
+		"lat": "50.086247",
+		"number": "483/3",
+		"street": "Lázeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.392048",
+		"lat": "50.088194",
+		"number": "106/23",
+		"street": "Loretánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.410999",
+		"lat": "50.090998",
+		"number": "568/10",
+		"street": "U železné lávky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.387766",
+		"lat": "50.086803",
+		"number": "138/17",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.394191",
+		"lat": "50.088236",
+		"number": "296/28",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.391289",
+		"lat": "50.092673",
+		"number": "194/11",
+		"street": "Jelení",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.393663",
+		"lat": "50.090128",
+		"number": "72/5",
+		"street": "Kanovnická",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404584",
+		"lat": "50.082085",
+		"number": "425/24",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404829",
+		"lat": "50.081997",
+		"number": "425/12",
+		"street": "Říční",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395795",
+		"lat": "50.088668",
+		"number": "172/7",
+		"street": "Radnické schody",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.393998",
+		"lat": "50.088476",
+		"number": "177/9",
+		"street": "Loretánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409471",
+		"lat": "50.090838",
+		"number": "51",
+		"street": "Klárov",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.393411",
+		"lat": "50.091854",
+		"number": "318/3",
+		"street": "U Brusnice",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.387766",
+		"lat": "50.08568",
+		"number": "319/18",
+		"street": "Strahovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40442",
+		"lat": "50.09062",
+		"number": "162/5",
+		"street": "U Zlaté studně",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404054",
+		"lat": "50.088021",
+		"number": "5/28",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406152",
+		"lat": "50.087481",
+		"number": "48/14",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408113",
+		"lat": "50.086121",
+		"number": "491/4",
+		"street": "Hroznová",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405822",
+		"lat": "50.085462",
+		"number": "471/1",
+		"street": "Maltézské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405912",
+		"lat": "50.084907",
+		"number": "471/2",
+		"street": "Pelclova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406245",
+		"lat": "50.085263",
+		"number": "471/9",
+		"street": "Nosticova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405539",
+		"lat": "50.085137",
+		"number": "471/8",
+		"street": "Nebovidská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404651",
+		"lat": "50.088952",
+		"number": "8/1",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404759",
+		"lat": "50.088907",
+		"number": "8/3",
+		"street": "Tomášská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.39887",
+		"lat": "50.088636",
+		"number": "217/28",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404868",
+		"lat": "50.087423",
+		"number": "273/21",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406233",
+		"lat": "50.084464",
+		"number": "462/3",
+		"street": "Nosticova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405782",
+		"lat": "50.08446",
+		"number": "462/2",
+		"street": "Nebovidská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405886",
+		"lat": "50.084306",
+		"number": "462/6",
+		"street": "Hellichova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404975",
+		"lat": "50.086187",
+		"number": "479/7",
+		"street": "Maltézské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389741",
+		"lat": "50.091314",
+		"number": "191/8",
+		"street": "Černínská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389869",
+		"lat": "50.091307",
+		"number": "191/6",
+		"street": "Nový Svět",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.390952",
+		"lat": "50.087498",
+		"number": "156/13",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404144",
+		"lat": "50.090637",
+		"number": "169/1",
+		"street": "U Zlaté studně",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400013",
+		"lat": "50.089297",
+		"number": "191/3",
+		"street": "Zámecké schody",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408739",
+		"lat": "50.092287",
+		"number": "148/4",
+		"street": "Staré zámecké schody",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403465",
+		"lat": "50.089382",
+		"number": "175/5",
+		"street": "Sněmovní",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404527",
+		"lat": "50.086511",
+		"number": "625/3",
+		"street": "Prokopská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398972",
+		"lat": "50.087528",
+		"number": "327/5",
+		"street": "Jánský vršek",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.396919",
+		"lat": "50.089895",
+		"number": "58/14",
+		"street": "Hradčanské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399881",
+		"lat": "50.088381",
+		"number": "249/15",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395829",
+		"lat": "50.0902",
+		"number": "62/10",
+		"street": "Hradčanské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.392177",
+		"lat": "50.090741",
+		"number": "79/7",
+		"street": "Nový Svět",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.392005",
+		"lat": "50.090753",
+		"number": "79/3",
+		"street": "Kapucínská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403784",
+		"lat": "50.086501",
+		"number": "377/19",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398541",
+		"lat": "50.088237",
+		"number": "314/12",
+		"street": "Jánský vršek",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398228",
+		"lat": "50.087611",
+		"number": "332/28",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399204",
+		"lat": "50.087202",
+		"number": "349/15",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400502",
+		"lat": "50.087377",
+		"number": "363/4",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400497",
+		"lat": "50.087467",
+		"number": "363/3",
+		"street": "Břetislavova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404623",
+		"lat": "50.086737",
+		"number": "295/6",
+		"street": "Prokopská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.387653",
+		"lat": "50.086736",
+		"number": "137/18",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.38861",
+		"lat": "50.087215",
+		"number": "143/12",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405682",
+		"lat": "50.0818",
+		"number": "532/11",
+		"street": "Říční",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407221",
+		"lat": "50.081892",
+		"number": "562/3",
+		"street": "Říční",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40706",
+		"lat": "50.081787",
+		"number": "562/6",
+		"street": "Všehrdova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403586",
+		"lat": "50.087347",
+		"number": "516/31",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403225",
+		"lat": "50.086153",
+		"number": "546/13",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407102",
+		"lat": "50.089009",
+		"number": "605/17",
+		"street": "Letenská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40723",
+		"lat": "50.091005",
+		"number": "153/5",
+		"street": "Staré zámecké schody",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399327",
+		"lat": "50.0874",
+		"number": "350/2",
+		"street": "Jánský vršek",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399431",
+		"lat": "50.087309",
+		"number": "350/18",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399331",
+		"lat": "50.087509",
+		"number": "350/17",
+		"street": "Břetislavova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405501",
+		"lat": "50.086558",
+		"number": "290/7",
+		"street": "Lázeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409614",
+		"lat": "50.088572",
+		"number": "108/36",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409285",
+		"lat": "50.087762",
+		"number": "98/20",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409377",
+		"lat": "50.087807",
+		"number": "99/22",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.401481",
+		"lat": "50.08898",
+		"number": "197/17",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407947",
+		"lat": "50.082933",
+		"number": "134/1",
+		"street": "U Sovových mlýnů",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403217",
+		"lat": "50.089208",
+		"number": "178/10",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406975",
+		"lat": "50.088884",
+		"number": "606/19",
+		"street": "Letenská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402891",
+		"lat": "50.084754",
+		"number": "535/22",
+		"street": "Hellichova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408122",
+		"lat": "50.087438",
+		"number": "86/11",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40382",
+		"lat": "50.083102",
+		"number": "407/23",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404163",
+		"lat": "50.084676",
+		"number": "390/43",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.391954",
+		"lat": "50.087929",
+		"number": "4/38",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404729",
+		"lat": "50.086481",
+		"number": "480/1",
+		"street": "Prokopská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404886",
+		"lat": "50.086341",
+		"number": "480/8",
+		"street": "Maltézské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405591",
+		"lat": "50.086342",
+		"number": "482/5",
+		"street": "Lázeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.401371",
+		"lat": "50.088293",
+		"number": "257/3",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.390892",
+		"lat": "50.092566",
+		"number": "196/15",
+		"street": "Jelení",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400127",
+		"lat": "50.087353",
+		"number": "359/8",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402402",
+		"lat": "50.087151",
+		"number": "367/11",
+		"street": "Tržiště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399457",
+		"lat": "50.080739",
+		"number": "206",
+		"street": "Strahovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405499",
+		"lat": "50.090047",
+		"number": "17/3",
+		"street": "Valdštejnská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405351",
+		"lat": "50.090031",
+		"number": "17/4",
+		"street": "Valdštejnské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409082",
+		"lat": "50.085499",
+		"number": "506/4",
+		"street": "U Sovových mlýnů",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406345",
+		"lat": "50.087441",
+		"number": "50/10",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405928",
+		"lat": "50.089401",
+		"number": "18/5",
+		"street": "Valdštejnské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405271",
+		"lat": "50.082024",
+		"number": "456/10",
+		"street": "Říční",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.394801",
+		"lat": "50.088652",
+		"number": "175/5",
+		"street": "Loretánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408635",
+		"lat": "50.087455",
+		"number": "89/8",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406511",
+		"lat": "50.082357",
+		"number": "447/10",
+		"street": "Všehrdova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405796",
+		"lat": "50.084616",
+		"number": "461/4",
+		"street": "Nebovidská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404618",
+		"lat": "50.084086",
+		"number": "454/46",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403705",
+		"lat": "50.089662",
+		"number": "174/7",
+		"street": "Sněmovní",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40678",
+		"lat": "50.087494",
+		"number": "59/3",
+		"street": "Dražického náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406651",
+		"lat": "50.087659",
+		"number": "61/5",
+		"street": "Dražického náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408941",
+		"lat": "50.087603",
+		"number": "94/14",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.393745",
+		"lat": "50.090008",
+		"number": "72/3",
+		"street": "U kasáren",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.393139",
+		"lat": "50.091579",
+		"number": "188/1",
+		"street": "U Brusnice",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404719",
+		"lat": "50.082682",
+		"number": "428/34",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409198",
+		"lat": "50.093312",
+		"number": "141/13",
+		"street": "Pod Bruskou",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399937",
+		"lat": "50.087618",
+		"number": "306/8",
+		"street": "Břetislavova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409487",
+		"lat": "50.088343",
+		"number": "105/30",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395417",
+		"lat": "50.085693",
+		"number": "339/23a",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.410149",
+		"lat": "50.089551",
+		"number": "114/46",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403496",
+		"lat": "50.088813",
+		"number": "1/1",
+		"street": "Sněmovní",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402688",
+		"lat": "50.088633",
+		"number": "1/16",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40293",
+		"lat": "50.089081",
+		"number": "1/7",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403172",
+		"lat": "50.088676",
+		"number": "1/17",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.410732",
+		"lat": "50.089383",
+		"number": "111/42",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.387895",
+		"lat": "50.086873",
+		"number": "139/16",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.388452",
+		"lat": "50.088439",
+		"number": "217/10",
+		"street": "Keplerova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389726",
+		"lat": "50.087452",
+		"number": "149/6",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407664",
+		"lat": "50.087748",
+		"number": "67/10",
+		"street": "Míšeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405431",
+		"lat": "50.086716",
+		"number": "289/9",
+		"street": "Lázeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.410283",
+		"lat": "50.094904",
+		"number": "226/4",
+		"street": "Gogolova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404242",
+		"lat": "50.086304",
+		"number": "379/18",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408269",
+		"lat": "50.087811",
+		"number": "70/4",
+		"street": "Míšeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398592",
+		"lat": "50.092904",
+		"number": "51/6",
+		"street": "U Prašného mostu",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400051",
+		"lat": "50.081378",
+		"number": "417",
+		"street": "Petřínské sady",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406048",
+		"lat": "50.087504",
+		"number": "47/16",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.390248",
+		"lat": "50.091245",
+		"number": "89/4",
+		"street": "Nový Svět",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407791",
+		"lat": "50.085928",
+		"number": "500/1",
+		"street": "Hroznová",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403742",
+		"lat": "50.089849",
+		"number": "173/9",
+		"street": "Sněmovní",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398619",
+		"lat": "50.087772",
+		"number": "324/11",
+		"street": "Jánský vršek",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403751",
+		"lat": "50.088105",
+		"number": "3/26",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408802",
+		"lat": "50.090156",
+		"number": "122/6",
+		"street": "Letenská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405736",
+		"lat": "50.082956",
+		"number": "436/17",
+		"street": "Všehrdova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405815",
+		"lat": "50.087235",
+		"number": "280/9",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400126",
+		"lat": "50.087967",
+		"number": "555/23",
+		"street": "Tržiště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403647",
+		"lat": "50.087647",
+		"number": "267/4",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403638",
+		"lat": "50.087492",
+		"number": "267/33",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40462",
+		"lat": "50.08442",
+		"number": "388/10",
+		"street": "Hellichova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404405",
+		"lat": "50.084701",
+		"number": "388/50",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404763",
+		"lat": "50.085005",
+		"number": "388/4",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404535",
+		"lat": "50.084948",
+		"number": "388/2",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400847",
+		"lat": "50.089245",
+		"number": "188/6",
+		"street": "Zámecké schody",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.391029",
+		"lat": "50.090906",
+		"number": "84/17",
+		"street": "Nový Svět",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.392596",
+		"lat": "50.090696",
+		"number": "78/5",
+		"street": "Nový Svět",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.392433",
+		"lat": "50.0906",
+		"number": "78/4",
+		"street": "Kapucínská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.4021",
+		"lat": "50.089007",
+		"number": "182/6",
+		"street": "Zámecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402232",
+		"lat": "50.089046",
+		"number": "182/9",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399347",
+		"lat": "50.088413",
+		"number": "246/21",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409901",
+		"lat": "50.087989",
+		"number": "102/2",
+		"street": "Cihelná",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409665",
+		"lat": "50.087904",
+		"number": "101/26",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397706",
+		"lat": "50.089173",
+		"number": "186/1",
+		"street": "Hradčanské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407171",
+		"lat": "50.08168",
+		"number": "561/4",
+		"street": "Všehrdova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405793",
+		"lat": "50.087045",
+		"number": "283/15",
+		"street": "Lázeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408747",
+		"lat": "50.091486",
+		"number": "288/4a",
+		"street": "Valdštejnská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389696",
+		"lat": "50.091065",
+		"number": "95/7",
+		"street": "Černínská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389925",
+		"lat": "50.087875",
+		"number": "111/25",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405972",
+		"lat": "50.082655",
+		"number": "438/13",
+		"street": "Všehrdova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.387962",
+		"lat": "50.085206",
+		"number": "123/16",
+		"street": "Strahovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402906",
+		"lat": "50.08707",
+		"number": "370/5",
+		"street": "Tržiště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404378",
+		"lat": "50.085974",
+		"number": "382/14",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406488",
+		"lat": "50.08828",
+		"number": "43/17",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406714",
+		"lat": "50.088672",
+		"number": "43/21",
+		"street": "Letenská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405601",
+		"lat": "50.088074",
+		"number": "43/4",
+		"street": "Josefská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405804",
+		"lat": "50.088573",
+		"number": "34/23",
+		"street": "Letenská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405595",
+		"lat": "50.088428",
+		"number": "34/6",
+		"street": "Josefská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40036",
+		"lat": "50.088397",
+		"number": "253/11",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406031",
+		"lat": "50.08725",
+		"number": "282/5",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405993",
+		"lat": "50.087165",
+		"number": "282/19",
+		"street": "Lázeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399536",
+		"lat": "50.088428",
+		"number": "247/19",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402459",
+		"lat": "50.087333",
+		"number": "260/16",
+		"street": "Tržiště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402528",
+		"lat": "50.087666",
+		"number": "260/11",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398784",
+		"lat": "50.081993",
+		"number": "411",
+		"street": "Petřínské sady",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408025",
+		"lat": "50.085403",
+		"number": "501/7",
+		"street": "U Sovových mlýnů",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.396297",
+		"lat": "50.088501",
+		"number": "170/4",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.396263",
+		"lat": "50.088662",
+		"number": "170/3",
+		"street": "Radnické schody",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.410639",
+		"lat": "50.094783",
+		"number": "225/2",
+		"street": "Gogolova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.410804",
+		"lat": "50.094871",
+		"number": "225/1",
+		"street": "Na baště sv. Tomáše",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407207",
+		"lat": "50.087291",
+		"number": "76/1",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40713",
+		"lat": "50.08732",
+		"number": "76/12",
+		"street": "Dražického náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399452",
+		"lat": "50.087645",
+		"number": "309/14",
+		"street": "Břetislavova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389236",
+		"lat": "50.087406",
+		"number": "146/9",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.387702",
+		"lat": "50.086684",
+		"number": "136/9",
+		"street": "Strahovské nádvoří",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400726",
+		"lat": "50.087388",
+		"number": "364/2",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400916",
+		"lat": "50.087423",
+		"number": "364/17",
+		"street": "Tržiště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400784",
+		"lat": "50.087447",
+		"number": "364/1",
+		"street": "Břetislavova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407619",
+		"lat": "50.084432",
+		"number": "418/5",
+		"street": "U Sovových mlýnů",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400963",
+		"lat": "50.088954",
+		"number": "194/23",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.401765",
+		"lat": "50.088757",
+		"number": "206/4",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.391549",
+		"lat": "50.089263",
+		"number": "100/7",
+		"street": "Loretánské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.388448",
+		"lat": "50.087143",
+		"number": "142/13",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407197",
+		"lat": "50.086519",
+		"number": "488/5",
+		"street": "Velkopřevorské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402617",
+		"lat": "50.087319",
+		"number": "261/14",
+		"street": "Tržiště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402706",
+		"lat": "50.08769",
+		"number": "261/10",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408114",
+		"lat": "50.086296",
+		"number": "495/6",
+		"street": "Hroznová",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405047",
+		"lat": "50.081894",
+		"number": "544/13",
+		"street": "Říční",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403977",
+		"lat": "50.087069",
+		"number": "299/24",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406704",
+		"lat": "50.087401",
+		"number": "58/2",
+		"street": "Dražického náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406676",
+		"lat": "50.087335",
+		"number": "58/2",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409538",
+		"lat": "50.087853",
+		"number": "100/24",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.388922",
+		"lat": "50.085699",
+		"number": "130/2",
+		"street": "Strahovské nádvoří",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400453",
+		"lat": "50.089188",
+		"number": "193/1",
+		"street": "Zámecké schody",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40044",
+		"lat": "50.089114",
+		"number": "193/25",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.396598",
+		"lat": "50.088393",
+		"number": "230/1",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.39968",
+		"lat": "50.087331",
+		"number": "353/14",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399657",
+		"lat": "50.087502",
+		"number": "353/13",
+		"street": "Břetislavova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400335",
+		"lat": "50.087723",
+		"number": "611/21",
+		"street": "Tržiště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404374",
+		"lat": "50.090741",
+		"number": "167/3",
+		"street": "U Zlaté studně",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.401891",
+		"lat": "50.088916",
+		"number": "201/3",
+		"street": "Zámecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408998",
+		"lat": "50.086307",
+		"number": "511/12",
+		"street": "Na Kampě",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404738",
+		"lat": "50.089629",
+		"number": "15/15",
+		"street": "Tomášská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389456",
+		"lat": "50.090434",
+		"number": "306/2",
+		"street": "Na náspu",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.392921",
+		"lat": "50.085584",
+		"number": "211/44",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406956",
+		"lat": "50.090572",
+		"number": "153/8",
+		"street": "Valdštejnská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389344",
+		"lat": "50.090271",
+		"number": "101/1",
+		"street": "Na náspu",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.39071",
+		"lat": "50.088768",
+		"number": "101/5",
+		"street": "Loretánské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.388377",
+		"lat": "50.08965",
+		"number": "101/16",
+		"street": "Keplerova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.390225",
+		"lat": "50.089977",
+		"number": "101/1",
+		"street": "Černínská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403057",
+		"lat": "50.087031",
+		"number": "371/3",
+		"street": "Tržiště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40739",
+		"lat": "50.086147",
+		"number": "490/1",
+		"street": "Velkopřevorské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.390075",
+		"lat": "50.091004",
+		"number": "308/2a",
+		"street": "Černínská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399194",
+		"lat": "50.088416",
+		"number": "245/23",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409846",
+		"lat": "50.092426",
+		"number": "132/3",
+		"street": "U Bruských kasáren",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40953",
+		"lat": "50.092452",
+		"number": "132/2",
+		"street": "Pod Bruskou",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408024",
+		"lat": "50.087328",
+		"number": "83/9",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40453",
+		"lat": "50.0875",
+		"number": "272/1",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.392771",
+		"lat": "50.088234",
+		"number": "103/34",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.392756",
+		"lat": "50.088305",
+		"number": "103/17",
+		"street": "Loretánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405054",
+		"lat": "50.089444",
+		"number": "21/14",
+		"street": "Tomášská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.4103",
+		"lat": "50.088125",
+		"number": "635/12",
+		"street": "Cihelná",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.4103",
+		"lat": "50.088125",
+		"number": "635/2a",
+		"street": "Cihelná",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395682",
+		"lat": "50.088507",
+		"number": "166/12",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402795",
+		"lat": "50.087084",
+		"number": "369/7",
+		"street": "Tržiště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399833",
+		"lat": "50.092523",
+		"number": "310",
+		"street": "Hradčany",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.39561",
+		"lat": "50.09012",
+		"number": "63/9",
+		"street": "Hradčanské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.391711",
+		"lat": "50.092709",
+		"number": "199/5",
+		"street": "Jelení",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403751",
+		"lat": "50.09051",
+		"number": "170/15",
+		"street": "Sněmovní",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405415",
+		"lat": "50.083147",
+		"number": "450/16",
+		"street": "Všehrdova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404896",
+		"lat": "50.08346",
+		"number": "450/40",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405937",
+		"lat": "50.08164",
+		"number": "541/7",
+		"street": "Šeříková",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398741",
+		"lat": "50.088626",
+		"number": "218/30",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395583",
+		"lat": "50.088503",
+		"number": "165/14",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.410121",
+		"lat": "50.094948",
+		"number": "227/6",
+		"street": "Gogolova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406251",
+		"lat": "50.081416",
+		"number": "564/6",
+		"street": "Šeříková",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406385",
+		"lat": "50.081318",
+		"number": "564/10",
+		"street": "Vítězná",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397536",
+		"lat": "50.088225",
+		"number": "316/8",
+		"street": "Jánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404157",
+		"lat": "50.083786",
+		"number": "401/35",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405369",
+		"lat": "50.088235",
+		"number": "626/7",
+		"street": "Josefská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405357",
+		"lat": "50.088025",
+		"number": "626/5",
+		"street": "Josefská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403325",
+		"lat": "50.08689",
+		"number": "373/25",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404172",
+		"lat": "50.084471",
+		"number": "391/12",
+		"street": "Hellichova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404232",
+		"lat": "50.084522",
+		"number": "391/41",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404748",
+		"lat": "50.088697",
+		"number": "518/1",
+		"street": "Tomášská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404634",
+		"lat": "50.088569",
+		"number": "518/20",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40332",
+		"lat": "50.087064",
+		"number": "372/1",
+		"street": "Tržiště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403413",
+		"lat": "50.087027",
+		"number": "372/27",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407813",
+		"lat": "50.08573",
+		"number": "543/9",
+		"street": "U Sovových mlýnů",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405612",
+		"lat": "50.087494",
+		"number": "44/22",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405558",
+		"lat": "50.08768",
+		"number": "44/2",
+		"street": "Josefská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404616",
+		"lat": "50.08187",
+		"number": "424/22",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40469",
+		"lat": "50.081921",
+		"number": "424/15",
+		"street": "Říční",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400438",
+		"lat": "50.087243",
+		"number": "362/3",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406281",
+		"lat": "50.088715",
+		"number": "29/20",
+		"street": "Letenská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406375",
+		"lat": "50.088742",
+		"number": "29/18",
+		"street": "Letenská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.393831",
+		"lat": "50.088426",
+		"number": "178/11",
+		"street": "Loretánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409604",
+		"lat": "50.095136",
+		"number": "228/11",
+		"street": "Na baště sv. Tomáše",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409653",
+		"lat": "50.095041",
+		"number": "228/8",
+		"street": "Gogolova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405418",
+		"lat": "50.087677",
+		"number": "42/1",
+		"street": "Josefská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400293",
+		"lat": "50.087367",
+		"number": "360/6",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400284",
+		"lat": "50.087476",
+		"number": "360/5",
+		"street": "Břetislavova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.411978",
+		"lat": "50.09031",
+		"number": "554/2",
+		"street": "U železné lávky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.411884",
+		"lat": "50.090419",
+		"number": "554/2",
+		"street": "Kosárkovo nábřeží",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405415",
+		"lat": "50.082568",
+		"number": "434/32",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405394",
+		"lat": "50.083053",
+		"number": "435/21",
+		"street": "Všehrdova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397672",
+		"lat": "50.088835",
+		"number": "225/44",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407447",
+		"lat": "50.08737",
+		"number": "77/3",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40956",
+		"lat": "50.0885",
+		"number": "107/34",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405049",
+		"lat": "50.089329",
+		"number": "22/12",
+		"street": "Tomášská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400407",
+		"lat": "50.08803",
+		"number": "519/22",
+		"street": "Tržiště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40498",
+		"lat": "50.082543",
+		"number": "432/30",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405504",
+		"lat": "50.081361",
+		"number": "442/14",
+		"street": "Vítězná",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.396436",
+		"lat": "50.088374",
+		"number": "229/3",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389916",
+		"lat": "50.09122",
+		"number": "92/27",
+		"street": "Nový Svět",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40386",
+		"lat": "50.086262",
+		"number": "378/17",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397761",
+		"lat": "50.088653",
+		"number": "224/42",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407452",
+		"lat": "50.081522",
+		"number": "559/4",
+		"street": "Vítězná",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.401316",
+		"lat": "50.087331",
+		"number": "365/15",
+		"street": "Tržiště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40066",
+		"lat": "50.0873",
+		"number": "365/1",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408395",
+		"lat": "50.087541",
+		"number": "90/13",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408311",
+		"lat": "50.08767",
+		"number": "90/1",
+		"street": "Míšeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398297",
+		"lat": "50.092705",
+		"number": "54/5",
+		"street": "U Prašného mostu",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403752",
+		"lat": "50.084531",
+		"number": "396/16",
+		"street": "Hellichova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.410438",
+		"lat": "50.093367",
+		"number": "212/1",
+		"street": "Gogolova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397081",
+		"lat": "50.086585",
+		"number": "341/21a",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398593",
+		"lat": "50.08749",
+		"number": "330/24",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389793",
+		"lat": "50.091201",
+		"number": "92/6",
+		"street": "Černínská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400708",
+		"lat": "50.089268",
+		"number": "189/8",
+		"street": "Zámecké schody",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.388294",
+		"lat": "50.08708",
+		"number": "141/14",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400942",
+		"lat": "50.087561",
+		"number": "303/19",
+		"street": "Tržiště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400598",
+		"lat": "50.087522",
+		"number": "303/2",
+		"street": "Břetislavova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407827",
+		"lat": "50.087777",
+		"number": "68/8",
+		"street": "Míšeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40704",
+		"lat": "50.082306",
+		"number": "539/2",
+		"street": "Říční",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.411468",
+		"lat": "50.090518",
+		"number": "127/4",
+		"street": "U železné lávky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.411633",
+		"lat": "50.09047",
+		"number": "127/1",
+		"street": "Kosárkovo nábřeží",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395513",
+		"lat": "50.088804",
+		"number": "173/9",
+		"street": "Radnické schody",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395231",
+		"lat": "50.08887",
+		"number": "173/1",
+		"street": "Loretánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407605",
+		"lat": "50.087516",
+		"number": "74/9",
+		"street": "Míšeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397249",
+		"lat": "50.08786",
+		"number": "321/12",
+		"street": "Šporkova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.39236",
+		"lat": "50.092717",
+		"number": "71/4",
+		"street": "U Brusnice",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.392382",
+		"lat": "50.09281",
+		"number": "71/1",
+		"street": "Jelení",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.393839",
+		"lat": "50.091537",
+		"number": "316/5",
+		"street": "U Brusnice",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406234",
+		"lat": "50.084327",
+		"number": "463/1",
+		"street": "Nosticova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406131",
+		"lat": "50.084282",
+		"number": "463/4",
+		"street": "Hellichova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.391845",
+		"lat": "50.092721",
+		"number": "200/3",
+		"street": "Jelení",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398385",
+		"lat": "50.088587",
+		"number": "220/34",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.396345",
+		"lat": "50.082954",
+		"number": "204/15",
+		"street": "Strahovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395763",
+		"lat": "50.088518",
+		"number": "167/10",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404815",
+		"lat": "50.088074",
+		"number": "36/22",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405334",
+		"lat": "50.09372",
+		"number": "52/1",
+		"street": "Mariánské hradby",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400395",
+		"lat": "50.088692",
+		"number": "214/20",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.39689",
+		"lat": "50.089067",
+		"number": "185/2",
+		"street": "Hradčanské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408319",
+		"lat": "50.086126",
+		"number": "496/4",
+		"street": "Na Kampě",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.401094",
+		"lat": "50.088995",
+		"number": "195/21",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.396255",
+		"lat": "50.083032",
+		"number": "342",
+		"street": "Petřínské sady",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403886",
+		"lat": "50.083039",
+		"number": "408/21",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403799",
+		"lat": "50.082786",
+		"number": "408/4",
+		"street": "U lanové dráhy",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397096",
+		"lat": "50.088",
+		"number": "320/10",
+		"street": "Šporkova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397014",
+		"lat": "50.08812",
+		"number": "320/5",
+		"street": "Jánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406274",
+		"lat": "50.086183",
+		"number": "485/4",
+		"street": "Velkopřevorské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405976",
+		"lat": "50.086256",
+		"number": "485/2",
+		"street": "Lázeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399042",
+		"lat": "50.088421",
+		"number": "244/25",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.391411",
+		"lat": "50.092675",
+		"number": "195/9",
+		"street": "Jelení",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404704",
+		"lat": "50.082811",
+		"number": "429/36",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408835",
+		"lat": "50.087562",
+		"number": "93/12",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406111",
+		"lat": "50.084834",
+		"number": "467/1",
+		"street": "Pelclova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406235",
+		"lat": "50.084781",
+		"number": "467/7",
+		"street": "Nosticova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403779",
+		"lat": "50.087855",
+		"number": "4/27",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389012",
+		"lat": "50.087343",
+		"number": "145/10",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407177",
+		"lat": "50.087428",
+		"number": "75/11",
+		"street": "Dražického náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.390393",
+		"lat": "50.087562",
+		"number": "154/1",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.390235",
+		"lat": "50.092237",
+		"number": "315/17",
+		"street": "Jelení",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408328",
+		"lat": "50.085747",
+		"number": "498/1",
+		"street": "Na Kampě",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408284",
+		"lat": "50.085689",
+		"number": "498/6",
+		"street": "U Sovových mlýnů",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.390741",
+		"lat": "50.090928",
+		"number": "85/19",
+		"street": "Nový Svět",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404322",
+		"lat": "50.082588",
+		"number": "412/17",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404007",
+		"lat": "50.082741",
+		"number": "412/1",
+		"street": "U lanové dráhy",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.401568",
+		"lat": "50.088984",
+		"number": "198/15",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403495",
+		"lat": "50.08717",
+		"number": "301/2",
+		"street": "Tržiště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403529",
+		"lat": "50.08721",
+		"number": "301/29",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403934",
+		"lat": "50.087189",
+		"number": "268/26",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389535",
+		"lat": "50.087883",
+		"number": "112/24",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409846",
+		"lat": "50.089293",
+		"number": "112/19",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406832",
+		"lat": "50.086806",
+		"number": "637/5",
+		"street": "Saská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.401243",
+		"lat": "50.08761",
+		"number": "302/20",
+		"street": "Tržiště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402637",
+		"lat": "50.087124",
+		"number": "368/9",
+		"street": "Tržiště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399038",
+		"lat": "50.088641",
+		"number": "216/26",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409695",
+		"lat": "50.088659",
+		"number": "109/38",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409291",
+		"lat": "50.09296",
+		"number": "136/6",
+		"street": "Pod Bruskou",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40473",
+		"lat": "50.089403",
+		"number": "13/11",
+		"street": "Tomášská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.410773",
+		"lat": "50.095247",
+		"number": "232/3",
+		"street": "Na baště sv. Tomáše",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397305",
+		"lat": "50.088732",
+		"number": "226/46",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.39703",
+		"lat": "50.086947",
+		"number": "346/21",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.401898",
+		"lat": "50.087446",
+		"number": "259/18",
+		"street": "Tržiště",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402315",
+		"lat": "50.087674",
+		"number": "259/12",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399782",
+		"lat": "50.08762",
+		"number": "307/10",
+		"street": "Břetislavova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404113",
+		"lat": "50.090475",
+		"number": "165/6",
+		"street": "U Zlaté studně",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404041",
+		"lat": "50.09035",
+		"number": "165/10",
+		"street": "Sněmovní",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405327",
+		"lat": "50.082824",
+		"number": "433/23",
+		"street": "Všehrdova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404673",
+		"lat": "50.085097",
+		"number": "387/6",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404759",
+		"lat": "50.085222",
+		"number": "387/1",
+		"street": "Harantova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405441",
+		"lat": "50.086114",
+		"number": "478/13",
+		"street": "Maltézské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407246",
+		"lat": "50.086817",
+		"number": "520/3",
+		"street": "Saská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397912",
+		"lat": "50.088396",
+		"number": "239/35",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406487",
+		"lat": "50.087227",
+		"number": "55/3",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406393",
+		"lat": "50.08701",
+		"number": "55/4",
+		"street": "Saská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406127",
+		"lat": "50.087132",
+		"number": "55/8",
+		"street": "Lázeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409584",
+		"lat": "50.088182",
+		"number": "104/28",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409854",
+		"lat": "50.088106",
+		"number": "104/1",
+		"street": "Cihelná",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.388608",
+		"lat": "50.088032",
+		"number": "219/4",
+		"street": "Keplerova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408661",
+		"lat": "50.092493",
+		"number": "147/1",
+		"street": "Na Opyši",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408872",
+		"lat": "50.09243",
+		"number": "147/3",
+		"street": "Pod Bruskou",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408902",
+		"lat": "50.092288",
+		"number": "147/2",
+		"street": "Staré zámecké schody",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408565",
+		"lat": "50.091442",
+		"number": "152/6",
+		"street": "Valdštejnská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406032",
+		"lat": "50.08674",
+		"number": "287/4",
+		"street": "Lázeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409015",
+		"lat": "50.089983",
+		"number": "120/5",
+		"street": "Letenská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408829",
+		"lat": "50.089994",
+		"number": "120/7",
+		"street": "Letenská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.410288",
+		"lat": "50.088604",
+		"number": "548/4",
+		"street": "Cihelná",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407543",
+		"lat": "50.086978",
+		"number": "80/1",
+		"street": "Saská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.410392",
+		"lat": "50.095261",
+		"number": "231/5",
+		"street": "Na baště sv. Tomáše",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40163",
+		"lat": "50.088751",
+		"number": "207/6",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.39748",
+		"lat": "50.088432",
+		"number": "235/43",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403202",
+		"lat": "50.088345",
+		"number": "2/25",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398572",
+		"lat": "50.088604",
+		"number": "219/32",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404613",
+		"lat": "50.08294",
+		"number": "430/38",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404704",
+		"lat": "50.083039",
+		"number": "430/27",
+		"street": "Všehrdova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403539",
+		"lat": "50.083846",
+		"number": "632/11a",
+		"street": "Hellichova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403305",
+		"lat": "50.083734",
+		"number": "632/11b",
+		"street": "Hellichova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395443",
+		"lat": "50.088472",
+		"number": "164/16",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.393271",
+		"lat": "50.085323",
+		"number": "343/27",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406588",
+		"lat": "50.088899",
+		"number": "32/14",
+		"street": "Letenská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.410832",
+		"lat": "50.09114",
+		"number": "567/12",
+		"street": "U železné lávky",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405355",
+		"lat": "50.086535",
+		"number": "291/11",
+		"street": "Maltézské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397801",
+		"lat": "50.08741",
+		"number": "335/34",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397619",
+		"lat": "50.087602",
+		"number": "335/14",
+		"street": "Šporkova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406398",
+		"lat": "50.082485",
+		"number": "448/12",
+		"street": "Všehrdova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.39546",
+		"lat": "50.088238",
+		"number": "227/9",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.388052",
+		"lat": "50.086964",
+		"number": "140/15",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404107",
+		"lat": "50.087606",
+		"number": "270/3",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40392",
+		"lat": "50.08749",
+		"number": "270/30",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.392117",
+		"lat": "50.089909",
+		"number": "214/2",
+		"street": "Kapucínská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395573",
+		"lat": "50.086202",
+		"number": "345/23",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404202",
+		"lat": "50.083496",
+		"number": "403/31",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.394019",
+		"lat": "50.089062",
+		"number": "180/1",
+		"street": "U kasáren",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.393654",
+		"lat": "50.088593",
+		"number": "180/6",
+		"street": "Loretánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.401768",
+		"lat": "50.088515",
+		"number": "258/1",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402123",
+		"lat": "50.088174",
+		"number": "258/13",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404916",
+		"lat": "50.08587",
+		"number": "383/12",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407515",
+		"lat": "50.086539",
+		"number": "608/5a",
+		"street": "Velkopřevorské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397506",
+		"lat": "50.089941",
+		"number": "56/16",
+		"street": "Hradčanské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389701",
+		"lat": "50.09194",
+		"number": "94/12",
+		"street": "Černínská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404732",
+		"lat": "50.082321",
+		"number": "426/26",
+		"street": "Újezd",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.403349",
+		"lat": "50.082015",
+		"number": "609/3",
+		"street": "U lanové dráhy",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.401118",
+		"lat": "50.089228",
+		"number": "186/2",
+		"street": "Zámecké schody",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404219",
+		"lat": "50.09029",
+		"number": "164/8",
+		"street": "Sněmovní",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405342",
+		"lat": "50.08757",
+		"number": "42/24",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.396745",
+		"lat": "50.089917",
+		"number": "59/13",
+		"street": "Hradčanské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406974",
+		"lat": "50.086998",
+		"number": "56/2",
+		"street": "Saská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407028",
+		"lat": "50.087139",
+		"number": "56/1",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405695",
+		"lat": "50.090629",
+		"number": "158/14",
+		"street": "Valdštejnská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.417022",
+		"lat": "50.090034",
+		"number": "243/3a",
+		"street": "U starého hřbitova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11000"
+	},
+	{
+		"lon": "14.426609",
+		"lat": "50.080062",
+		"number": "624/40",
+		"street": "Štěpánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11000"
+	},
+	{
+		"lon": "14.429651",
+		"lat": "50.092579",
+		"number": "1234/7",
+		"street": "Novomlýnská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11000"
+	},
+	{
+		"lon": "14.421435",
+		"lat": "50.084549",
+		"number": "967/17",
+		"street": "Rytířská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11000"
+	},
+	{
+		"lon": "14.399808",
+		"lat": "50.087324",
+		"number": "356/12",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399814",
+		"lat": "50.087497",
+		"number": "356/11",
+		"street": "Břetislavova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406425",
+		"lat": "50.082184",
+		"number": "440/9",
+		"street": "Všehrdova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406194",
+		"lat": "50.081946",
+		"number": "440/7",
+		"street": "Všehrdova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406079",
+		"lat": "50.08189",
+		"number": "440/6",
+		"street": "Říční",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.406037",
+		"lat": "50.082086",
+		"number": "440/2",
+		"street": "Besední",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402174",
+		"lat": "50.08866",
+		"number": "203/14",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.402122",
+		"lat": "50.088773",
+		"number": "203/2",
+		"street": "Zámecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404801",
+		"lat": "50.087658",
+		"number": "38/28",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404685",
+		"lat": "50.087739",
+		"number": "38/24",
+		"street": "Malostranské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.401291",
+		"lat": "50.089216",
+		"number": "185/22",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404381",
+		"lat": "50.08909",
+		"number": "9/4",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395868",
+		"lat": "50.088515",
+		"number": "168/8",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40396",
+		"lat": "50.08599",
+		"number": "381/15",
+		"street": "Karmelitská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.394486",
+		"lat": "50.088297",
+		"number": "159/26",
+		"street": "Úvoz",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408058",
+		"lat": "50.08779",
+		"number": "69/6",
+		"street": "Míšeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408874",
+		"lat": "50.086188",
+		"number": "510/13",
+		"street": "Na Kampě",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.407745",
+		"lat": "50.087299",
+		"number": "82/7",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399955",
+		"lat": "50.087201",
+		"number": "358/7",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408523",
+		"lat": "50.087412",
+		"number": "88/6",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399063",
+		"lat": "50.087313",
+		"number": "329/20",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.39913",
+		"lat": "50.087328",
+		"number": "329/1",
+		"street": "Jánský vršek",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.387433",
+		"lat": "50.086226",
+		"number": "128/20",
+		"street": "Strahovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.388022",
+		"lat": "50.086369",
+		"number": "128/6",
+		"street": "Strahovské nádvoří",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398661",
+		"lat": "50.088057",
+		"number": "312/8",
+		"street": "Jánský vršek",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389894",
+		"lat": "50.08746",
+		"number": "150/5",
+		"street": "Pohořelec",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.39915",
+		"lat": "50.092498",
+		"number": "50/4",
+		"street": "U Prašného mostu",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395343",
+		"lat": "50.089333",
+		"number": "182/5",
+		"street": "Hradčanské náměstí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.395135",
+		"lat": "50.089052",
+		"number": "182/2",
+		"street": "Loretánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.389883",
+		"lat": "50.090643",
+		"number": "309/3a",
+		"street": "Černínská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397764",
+		"lat": "50.087881",
+		"number": "322/3",
+		"street": "Šporkova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.397981",
+		"lat": "50.088171",
+		"number": "315/2",
+		"street": "Jánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405006",
+		"lat": "50.088992",
+		"number": "25/6",
+		"street": "Tomášská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.404992",
+		"lat": "50.089108",
+		"number": "24/8",
+		"street": "Tomášská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.393852",
+		"lat": "50.086211",
+		"number": "340/42",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408734",
+		"lat": "50.087497",
+		"number": "91/10",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.388433",
+		"lat": "50.088283",
+		"number": "218/8",
+		"street": "Keplerova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.38847",
+		"lat": "50.08816",
+		"number": "218/6",
+		"street": "Keplerova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405097",
+		"lat": "50.08736",
+		"number": "275/19",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.41015",
+		"lat": "50.089748",
+		"number": "116/48",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.392185",
+		"lat": "50.088227",
+		"number": "105/21",
+		"street": "Loretánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.399635",
+		"lat": "50.086735",
+		"number": "351/11",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398337",
+		"lat": "50.088002",
+		"number": "323/1",
+		"street": "Šporkova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.398496",
+		"lat": "50.087916",
+		"number": "323/13",
+		"street": "Jánský vršek",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.409979",
+		"lat": "50.088491",
+		"number": "103/3",
+		"street": "Cihelná",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.401918",
+		"lat": "50.089227",
+		"number": "183/18",
+		"street": "Thunovská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.40865",
+		"lat": "50.087736",
+		"number": "92/15",
+		"street": "U lužického semináře",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.408519",
+		"lat": "50.087689",
+		"number": "92/2",
+		"street": "Míšeňská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.4051",
+		"lat": "50.087667",
+		"number": "40/26",
+		"street": "Mostecká",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.393108",
+		"lat": "50.088309",
+		"number": "179/15",
+		"street": "Loretánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.393526",
+		"lat": "50.088401",
+		"number": "179/13",
+		"street": "Loretánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.396789",
+		"lat": "50.088445",
+		"number": "231/51",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.396898",
+		"lat": "50.088201",
+		"number": "231/16",
+		"street": "Jánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.396578",
+		"lat": "50.092074",
+		"number": "312",
+		"street": "Hradčany",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.39805",
+		"lat": "50.087188",
+		"number": "347/19",
+		"street": "Vlašská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400499",
+		"lat": "50.088409",
+		"number": "254/9",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.400822",
+		"lat": "50.088696",
+		"number": "213/18",
+		"street": "Nerudova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.405196",
+		"lat": "50.090505",
+		"number": "161/20",
+		"street": "Valdštejnská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11800"
+	},
+	{
+		"lon": "14.421114",
+		"lat": "50.084729",
+		"number": "518/12",
+		"street": "Havelská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11000"
+	},
+	{
+		"lon": "14.422525",
+		"lat": "50.089202",
+		"number": "616/12",
+		"street": "Dlouhá",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11000"
+	},
+	{
+		"lon": "14.423245",
+		"lat": "50.088492",
+		"number": "624/13",
+		"street": "Týnská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11000"
+	},
+	{
+		"lon": "14.42013",
+		"lat": "50.089247",
+		"number": "121/3",
+		"street": "Kostečná",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11000"
+	},
+	{
+		"lon": "14.421939",
+		"lat": "50.091818",
+		"number": "852/12",
+		"street": "U milosrdných",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11000"
+	},
+	{
+		"lon": "14.422055",
+		"lat": "50.091738",
+		"number": "852/21",
+		"street": "Kozí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11000"
+	},
+	{
+		"lon": "14.436643",
+		"lat": "50.090224",
+		"number": "1054/48",
+		"street": "Na poříčí",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11000"
+	},
+	{
+		"lon": "14.425756",
+		"lat": "50.080344",
+		"number": "2124/55",
+		"street": "Štěpánská",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11000"
+	},
+	{
+		"lon": "14.43209",
+		"lat": "50.088242",
+		"number": "1462/10",
+		"street": "V celnici",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11000"
+	},
+	{
+		"lon": "14.432308",
+		"lat": "50.088146",
+		"number": "1462/7",
+		"street": "Havlíčkova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11000"
+	},
+	{
+		"lon": "14.415951",
+		"lat": "50.079535",
+		"number": "193/26",
+		"street": "Pštrossova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11000"
+	},
+	{
+		"lon": "14.432054",
+		"lat": "50.088173",
+		"number": "1027/5",
+		"street": "V celnici",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11000"
+	},
+	{
+		"lon": "14.433996",
+		"lat": "50.088425",
+		"number": "1016/2",
+		"street": "Na Florenci",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11000"
+	},
+	{
+		"lon": "14.424966",
+		"lat": "50.080955",
+		"number": "700/32",
+		"street": "Vodičkova",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11000"
+	},
+	{
+		"lon": "14.426097",
+		"lat": "50.089994",
+		"number": "693/20",
+		"street": "Rybná",
+		"city": "Praha 1",
+		"district": "",
+		"postcode": "11000"
+	}
+]
