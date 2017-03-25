@@ -69,10 +69,7 @@ Please read [/CONTRIBUTING.md](CONTRIBUTING.md) for details.
 In generall it contains a simple node module. Methods prefixed with `_` are private. Unprefixed funtions are available in the public `render` method and will be scanned while the module unit tests.
 
 
-Each unprefixed function have to return an object with the property `value` and a `function` called `text`.
-
-
-`.value` should hold the native JavaScript value (if possible). `.text()` should process given parms and render text representation of `.value`.
+Each unprefixed function have to return an object with the ***property*** `value` and a ***function*** called `text`. `.value` should hold the native JavaScript value (if possible). `.text()` should process given parms and render a text representation of `.value`.
 
 ### Nice to have
 
