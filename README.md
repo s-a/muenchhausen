@@ -66,18 +66,18 @@ Please read [/CONTRIBUTING.md](CONTRIBUTING.md) for details.
 [fake/random](https://github.com/s-a/muenchhausen/blob/master/lib/fake/random/index.js) is a pretty simple starting point to see how a muenchhausen extension works.
 
 
-In generall it contains a simple node module. Methods prefixed with `_` are private. Unprefixed funtions are available in the public `render` method and will be scanned while the module unit tests.
+In generall it contains a simple node module. Methods prefixed with `_` are private. Unprefixed funtions are available in the public `render` method and will be scanned while the module unit tests. Each unprefixed function have to return an object with the ***property*** `value` and a ***function*** called `text`.
 
-
-Each unprefixed function have to return an object with the ***property*** `value` and a ***function*** called `text`. `.value` should hold the native JavaScript value (if possible). `.text()` should process given parms and render a text representation of `.value`.
+- [x] `.text()` should optionaly process given parms and render a text representation of `.value`.
+- [x] `.value` should hold the native JavaScript value (if possible).
 
 ### Nice to have
 
-- [x] new [test(s)](/test/).
-  - [ ] write tests and run `npm test` or `mocha` for faster results.
+- [x] new [unit test(s)](/test/).
+  - [ ] write unit tests and run `npm test` or `mocha` for faster results.
 - [x] new [benchmark(s)](/scripts/benchmark.js).
-  - [ ] write benchmark and run `npm run benchmark` which will update [BENCHMARK.md](/docs/BENCHMARK.md).
-- [x] new [doc(s)](/docs/).
+  - [ ] write a benchmark or more and run `npm run benchmark` which will update [BENCHMARK.md](/docs/BENCHMARK.md).
+- [x] new doc(s).
   - [ ] Add jsdox descptions to your public function headers and `npm run docs` will update [/docs](/docs/) folder.
 
 ## License
