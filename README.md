@@ -1,4 +1,4 @@
-# MUENCHHAUSEN [![Muenchhausen Logo](/resources/logo-sm.png)](/)
+# MUENCHHAUSEN [![Muenchhausen Logo](/resources/logo-sm.png)](/README.md) 
 
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url] [![Codacy Badge](https://api.codacy.com/project/badge/Grade/504801d3fc0d4d259a9160cc6b8cf492)](https://www.codacy.com/app/stephanahlf/muenchhausen?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=s-a/muenchhausen&amp;utm_campaign=Badge_Grade)
 > Make your test data look real.
@@ -68,6 +68,14 @@ In generall it contains a simple node module. methods prefixed with `_` are priv
 Each unprefixed function have to return an object with the property `value` and a `function` called `text`.  
 `.value` should hold the native JavaScript value (if possible). `.text()` should process given parms and render text representation of `.value`.
 
+### Nice to have
+
+- [x] new [test(s)](/test/).
+  - [ ] write tests and run `npm test` or `mocha` for faster results.
+- [x] new [benchmark(s)](/scripts/benchmark.js).
+  - [ ] write benchmark and run `npm run benchmark` which will update [BENCHMARK.md](/docs/BENCHMARK.md).
+- [x] new [doc(s)](/docs/).
+  - [ ] Add jsdox descptions to your public function headers and `npm run docs` will update [/docs](/docs/) folder.
 
 ## License
 
