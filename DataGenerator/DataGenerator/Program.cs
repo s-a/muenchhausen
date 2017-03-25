@@ -325,8 +325,8 @@ namespace DataGenerator
         CultureInfo cu = new CultureInfo("ja-JP");
         System.Threading.Thread.CurrentThread.CurrentCulture = cu;
         CultureInfo.DefaultThreadCurrentCulture = cu;
-         CultureInfo.DefaultThreadCurrentUICulture = cu;
-         SetDefaultCulture(cu);
+        CultureInfo.DefaultThreadCurrentUICulture = cu;
+        SetDefaultCulture(cu);
         Dictionary<string, string> ifile = new Dictionary<string, string>();
         var regex = new System.Text.RegularExpressions.Regex(@"([\w+\s*\.*]+\))");
         foreach (var item in CultureInfo.GetCultures(CultureTypes.FrameworkCultures))

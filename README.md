@@ -1,7 +1,7 @@
 # MUENCHHAUSEN [![Muenchhausen Logo](/resources/logo-sm.png)](/)
 
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url] [![Codacy Badge](https://api.codacy.com/project/badge/Grade/504801d3fc0d4d259a9160cc6b8cf492)](https://www.codacy.com/app/stephanahlf/muenchhausen?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=s-a/muenchhausen&amp;utm_campaign=Badge_Grade)
-> fake data
+> Make your test data look real.
 
 ## Installation
 
@@ -59,7 +59,12 @@ A shell client is avialable at [muenchhausen-client](https://github.com/s-a/muen
 
 ## Contribute
 
-[/CONTRIBUTING.md](CONTRIBUTING.md)
+Please read [/CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+## Write your own extension
+
+[fake/random](https://github.com/s-a/muenchhausen/blob/master/lib/fake/random/index.js) is a pretty simple starting point to see how a muenchhausen extesion works. In generall it contains a simple node module. methods prefixed with `_` are private. Other funtion are available on the public `render` method. Each public function have to return an object with the property `value` and a `function` called `text`. `.value` should hold the native JavaScript value (if possible). `.text` should process given parms and render text reprentation of `.value`.
+
 
 ## License
 
