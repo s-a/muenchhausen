@@ -63,9 +63,15 @@ Please read [/CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## Write your own extension
 
-[fake/random](https://github.com/s-a/muenchhausen/blob/master/lib/fake/random/index.js) is a pretty simple starting point to see how a muenchhausen extension works.  
-In generall it contains a simple node module. methods prefixed with `_` are private. Unprefixed funtions are available on the public `render` method and will be scanned while the modeule unit tests. 
-Each unprefixed function have to return an object with the property `value` and a `function` called `text`.  
+[fake/random](https://github.com/s-a/muenchhausen/blob/master/lib/fake/random/index.js) is a pretty simple starting point to see how a muenchhausen extension works.
+
+
+In generall it contains a simple node module. Methods prefixed with `_` are private. Unprefixed funtions are available in the public `render` method and will be scanned while the module unit tests.
+
+
+Each unprefixed function have to return an object with the property `value` and a `function` called `text`.
+
+
 `.value` should hold the native JavaScript value (if possible). `.text()` should process given parms and render text representation of `.value`.
 
 ### Nice to have
