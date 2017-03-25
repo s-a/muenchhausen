@@ -49,7 +49,7 @@ systeminfo(function(){
 		},
 		name2 : "faker.name.lastName",
 		f2 : function() {
-			 faker.name.lastName();
+			faker.name.lastName();
 		}
 	});  
 

@@ -1,7 +1,7 @@
 "use strict";
 var glob = require("glob");
 var path = require("path");
-var should = require("should");
+/*var should = */require("should");
 
 
 var jsonIsValid = function jsonIsValid(filename) {
@@ -22,7 +22,7 @@ before(function before(done) {
 });
 
 describe("i18n-json-files", function() {
-	this.timeout(10*1000);
+	this.timeout(10 * 1000);
 	it("should contain valid JSON (Array) in ", function() {
 		for (var i = jsonFiles.length - 1; i >= 0; i--) {
 			var f = path.resolve(jsonFiles[i]);

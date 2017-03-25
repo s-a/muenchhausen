@@ -20,7 +20,7 @@ function per(max, current){
   return ((current / max) * 100).toFixed(2);
 }
 
-var parse = function(items){
+var parse = function(items){ // eslint-disable-line no-unused-vars
 	console.log("parse");
 	var result = [];
 	var i = 0;
@@ -31,7 +31,7 @@ var parse = function(items){
 			if (adr){
 				if (adr.district !== "" && adr.lat !== "" && adr.lon !== "" && adr.city !== "" && adr.number !== "" && adr.street !== "" && adr.postcode !== ""){
 					result.push(adr);
-					if (result.length > 2000){
+					if (result.length > 2000){ // eslint-disable-line max-depth
 						break;
 					}
 				}
