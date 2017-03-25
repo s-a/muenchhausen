@@ -3,24 +3,7 @@ var Muenchhausen = require("./../lib");
 var muenchhausen = new Muenchhausen("en-GB");
 var faker = require("faker");
 faker.locale = "en"; 
-
-function systeminfo(done){
-	var os = require("os");
-	var m = new Muenchhausen("en-GB");
-	var si = require("systeminformation");
-	si.cpu().then(function(cpu){
-		si.versions().then(function(version){
-			console.log("# Benchmark");
-			console.log("");
-			console.log("Tested at " + m.render("$(date.now format:{ datetime: full })"));
-			console.log(" with node " + "v" + version.node + " on " + os.platform() + " " + os.arch() + " v" + os.release() + " with " + os.totalmem() + " total memory and");
-			console.log(" " + cpu.manufacturer + " " + cpu.brand + " " + cpu.speed + " " + cpu.cores + " cores");
-			console.log("");
-			done();
-		}).catch(function(error){ console.error(error) });
-	}).catch(function(error){ console.error(error) });
-};
-
+ 
 function testSuite(functionBundle){
 
 	var suite1 = new Benchmark.Suite();
@@ -40,28 +23,70 @@ function testSuite(functionBundle){
 }
 
 
-systeminfo(function(){
 
+testSuite({
+	name1 : "muenchhausen.fake.address.street",
+	f1 : function() {
+		// var s = muenchhausen.fake.address.random({});
+		muenchhausen.fake.address.street({}); 
+	},
+	name2 : "faker.address.streetName",
+	f2 : function() {
+		faker.address.streetName();
+	}
+});  
+/*
 	testSuite({
-		name1 : "muenchhausen.fake.person.lastname",
+		name1 : "muenchhausen.fake.address.lon",
 		f1 : function() {
-			muenchhausen.fake.person.lastname({}); 
+			muenchhausen.fake.address.random({}); 
+			muenchhausen.fake.address.lon({}); 
 		},
-		name2 : "faker.name.lastName",
+		name2 : "faker.address.longitude",
 		f2 : function() {
-			faker.name.lastName();
+			faker.address.longitude();
 		}
 	});  
+ 
 
 	testSuite({
-		name1 : "muenchhausen.fake.person.firstname+muenchhausen.fake.person.lastname",
+		name1 : "muenchhausen.fake.address.lat",
 		f1 : function() {
-			muenchhausen.fake.person.firstname({}) + muenchhausen.fake.person.lastname({}); 
+			muenchhausen.fake.address.random({}); 
+			muenchhausen.fake.address.lat({}); 
 		},
-		name2 : "faker.name.findName",
+		name2 : "faker.address.latitude",
 		f2 : function() {
-			faker.name.findName();
+			faker.address.latitude();
 		}
 	});  
+ 
 	
-});
+
+	testSuite({
+		name1 : "muenchhausen.fake.address.postcode",
+		f1 : function() {
+			muenchhausen.fake.address.random({}); 
+			muenchhausen.fake.address.postcode({}); 
+		},
+		name2 : "faker.address.zipCode",
+		f2 : function() {
+			faker.address.zipCode();
+		}
+	});  
+ 
+	
+
+	testSuite({
+		name1 : "muenchhausen.fake.address.city",
+		f1 : function() {
+			muenchhausen.fake.address.random({}); 
+			muenchhausen.fake.address.city({}); 
+		},
+		name2 : "faker.address.city",
+		f2 : function() {
+			faker.address.city();
+		}
+	});  
+ */
+	
