@@ -24,18 +24,18 @@ function testSuite(functionBundle){
 
 
 
-testSuite({
-	name1 : "muenchhausen.fake.address.street",
-	f1 : function() {
-		// var s = muenchhausen.fake.address.random({});
-		muenchhausen.fake.address.street({}); 
-	},
-	name2 : "faker.address.streetName",
-	f2 : function() {
-		faker.address.streetName();
-	}
-});  
-/*
+	testSuite({
+		name1 : "muenchhausen.fake.address.street",
+		f1 : function() {
+			// var s = muenchhausen.fake.address.random({});
+			muenchhausen.fake.address.street({}); 
+		},
+		name2 : "faker.address.streetName",
+		f2 : function() {
+			faker.address.streetName();
+		}
+	});  
+	 
 	testSuite({
 		name1 : "muenchhausen.fake.address.lon",
 		f1 : function() {
@@ -88,5 +88,3 @@ testSuite({
 			faker.address.city();
 		}
 	});  
- */
-	
