@@ -1,70 +1,106 @@
-# Benchmark
+# Benchmarks
+Tested at 01/03/2017
   
-Tested at 25/02/2017
- with node v7.7.4 on win32 x64 v10.0.10586 with 12776148992 total memory and
- Intel® Core™ i5-6200U 2.3 4 cores.
+## Arena
+Node.js v7.7.4 on win32 x64 v10.0.10586 with 12776148992 total memory and
+Intel® Core™ i5-6200U 2.3 4 cores.
   
-## Versions
- - Muenchhausen 0.0.6
- - faker.js ^4.1.0
+## Gladiators
+ - Muenchhausen@0.0.8
+ - faker.js@4.1.0
+ - Chance.js@1.0.6
   
-:clock10: muenchhausen.fake.person.lastname x 20,677,061 ops/sec ±0.46% (91 runs sampled)  
-:clock1: faker.name.lastName x 3,643,470 ops/sec ±0.36% (94 runs sampled)  
+:clock1: muenchhausen.fake.person.lastname x 20,413,560 ops/sec ±0.66% (87 runs sampled)  
+:clock10: faker.name.lastName x 3,518,049 ops/sec ±0.64% (87 runs sampled)  
+:clock1030: chance.last x 984,067 ops/sec ±1.35% (87 runs sampled)  
 :+1: muenchhausen.fake.person.lastname  
 
-:clock10: muenchhausen.fake.person.firstname+muenchhausen.fake.person.lastname x 2,068,832 ops/sec ±1.09% (94 runs sampled)  
-:clock1: faker.name.findName x 810,842 ops/sec ±0.40% (92 runs sampled)  
+:clock1: muenchhausen.fake.person.firstname+muenchhausen.fake.person.lastname x 1,995,353 ops/sec ±0.81% (89 runs sampled)  
+:clock10: faker.name.findName x 963,399 ops/sec ±1.04% (91 runs sampled)  
+:clock1030: chance.name x 280,567 ops/sec ±0.97% (93 runs sampled)  
 :+1: muenchhausen.fake.person.firstname+muenchhausen.fake.person.lastname  
 
-:clock10: muenchhausen.fake.company.name x 28,261,074 ops/sec ±0.87% (93 runs sampled)  
-:clock1: faker.company.companyName x 58,587 ops/sec ±2.01% (91 runs sampled)  
+:clock1: muenchhausen.fake.company.name x 27,074,618 ops/sec ±0.68% (89 runs sampled)  
+:clock10: faker.company.companyName x 58,019 ops/sec ±2.36% (88 runs sampled)  
 :+1: muenchhausen.fake.company.name  
 
-:clock10: muenchhausen.fake.person.firstname x 20,717,909 ops/sec ±2.51% (91 runs sampled)  
-:clock1: faker.name.firstName x 2,766,545 ops/sec ±1.77% (93 runs sampled)  
+:clock1: muenchhausen.fake.person.firstname x 19,428,693 ops/sec ±1.53% (88 runs sampled)  
+:clock10: faker.name.firstName x 2,710,511 ops/sec ±1.92% (90 runs sampled)  
+:clock1030: chance.last x 1,013,678 ops/sec ±1.81% (93 runs sampled)  
 :+1: muenchhausen.fake.person.firstname  
 
-:clock10: muenchhausen.random.element (Object) x 22,121,119 ops/sec ±0.56% (91 runs sampled)  
-:clock1: faker.random.objectElement x 2,985,518 ops/sec ±1.27% (89 runs sampled)  
-:+1: muenchhausen.random.element (Object)  
+:clock1: muenchhausen.fake.random.element (Object) x 21,703,624 ops/sec ±0.50% (91 runs sampled)  
+:clock10: faker.random.objectElement x 2,950,342 ops/sec ±1.35% (91 runs sampled)  
+:+1: muenchhausen.fake.random.element (Object)  
 
-:clock10: muenchhausen.random.element (Array) x 22,666,347 ops/sec ±1.42% (92 runs sampled)  
-:clock1: faker.random.arrayElement x 6,170,193 ops/sec ±2.13% (89 runs sampled)  
-:+1: muenchhausen.random.element (Array)  
+:clock1: muenchhausen.fake.random.element (Array) x 21,383,936 ops/sec ±1.32% (86 runs sampled)  
+:clock10: faker.random.arrayElement x 6,487,682 ops/sec ±1.16% (88 runs sampled)  
+:clock1030: chance.pickone x 1,834,421 ops/sec ±0.52% (88 runs sampled)  
+:+1: muenchhausen.fake.random.element (Array)  
 
-:clock10: muenchhausen.boolean.random x 425,038 ops/sec ±2.13% (89 runs sampled)  
-:clock1: faker.random.boolean x 117,031 ops/sec ±3.61% (86 runs sampled)  
-:+1: muenchhausen.boolean.random  
+:clock1: muenchhausen.fake.boolean.random x 29,351,083 ops/sec ±1.21% (93 runs sampled)  
+:clock10: faker.random.boolean x 7,049,645 ops/sec ±1.52% (88 runs sampled)  
+:clock1030: chance.bool x 2,500,219 ops/sec ±0.62% (94 runs sampled)  
+:+1: muenchhausen.fake.boolean.random  
 
-:clock10: muenchhausen.decimal.random x 201,036 ops/sec ±2.46% (88 runs sampled)  
-:clock1: faker.finance.amount x 124,487 ops/sec ±2.58% (88 runs sampled)  
-:+1: muenchhausen.decimal.random  
+:clock1: muenchhausen.fake.decimal.random x 1,155,247 ops/sec ±2.93% (86 runs sampled)  
+:clock1030: chance.floating x 455,222 ops/sec ±2.03% (87 runs sampled)  
+:+1: muenchhausen.fake.decimal.random  
 
-:clock10: muenchhausen.number.random x 239,869 ops/sec ±5.27% (84 runs sampled)  
-:clock1: faker.random.number x 117,514 ops/sec ±3.57% (85 runs sampled)  
-:+1: muenchhausen.number.random  
+:clock1: muenchhausen.fake.number.random x 16,855,663 ops/sec ±0.58% (90 runs sampled)  
+:clock10: faker.random.number x 7,457,006 ops/sec ±0.68% (89 runs sampled)  
+:clock1030: chance.floating({fixed: 0}) x 476,143 ops/sec ±1.94% (90 runs sampled)  
+:+1: muenchhausen.fake.number.random  
 
-:clock10: muenchhausen.date.future x 109,633 ops/sec ±3.21% (85 runs sampled)  
-:clock1: faker.date.future x 83,667 ops/sec ±3.11% (89 runs sampled)  
-:+1: muenchhausen.date.future  
+:clock1: muenchhausen.fake.date.future x 124,310 ops/sec ±0.61% (91 runs sampled)  
+:clock10: faker.date.future x 84,120 ops/sec ±2.43% (89 runs sampled)  
+:+1: muenchhausen.fake.date.future  
 
-:clock10: muenchhausen.date.past x 111,379 ops/sec ±3.26% (84 runs sampled)  
-:clock1: faker.date.past x 81,275 ops/sec ±3.34% (87 runs sampled)  
-:+1: muenchhausen.date.past  
+:clock1: muenchhausen.fake.date.past x 122,446 ops/sec ±0.67% (89 runs sampled)  
+:clock10: faker.date.past x 86,178 ops/sec ±2.83% (90 runs sampled)  
+:+1: muenchhausen.fake.date.past  
 
-:clock10: muenchhausen.date.random x 144,197 ops/sec ±1.27% (88 runs sampled)  
-:clock1: faker.date.future x 82,825 ops/sec ±4.23% (85 runs sampled)  
-:+1: muenchhausen.date.random  
+:clock1: muenchhausen.fake.date.random:   
+:clock10: faker.date.future:   
+:clock1030: chance.date x 114,629 ops/sec ±0.49% (90 runs sampled)  
+:+1: chance.date  
 
-:clock10: muenchhausen.date.month x 469,297 ops/sec ±1.00% (92 runs sampled)  
-:clock1: faker.date.month x 125,867 ops/sec ±3.31% (90 runs sampled)  
-:+1: muenchhausen.date.month  
+:clock1: muenchhausen.fake.date.month x 21,723,874 ops/sec ±1.69% (91 runs sampled)  
+:clock10: faker.date.month:   
+:clock1030: chance.month x 755,588 ops/sec ±2.14% (91 runs sampled)  
+:+1: muenchhausen.fake.date.month  
 
-:clock10: muenchhausen.date.weekday x 374,754 ops/sec ±3.38% (89 runs sampled)  
-:clock1: faker.date.weekday x 121,781 ops/sec ±3.95% (89 runs sampled)  
-:+1: muenchhausen.date.weekday  
+:clock1: muenchhausen.fake.date.weekday x 388,899 ops/sec ±0.54% (90 runs sampled)  
+:clock10: faker.date.weekday x 125,061 ops/sec ±3.09% (89 runs sampled)  
+:+1: muenchhausen.fake.date.weekday  
 
-:clock10: muenchhausen.phone.international x 812,554 ops/sec ±3.48% (91 runs sampled)  
-:clock1: faker.phone x 266,971 ops/sec ±0.40% (94 runs sampled)  
-:+1: muenchhausen.phone.international  
+:clock1: muenchhausen.fake.phone.international x 802,422 ops/sec ±2.61% (88 runs sampled)  
+:clock10: faker.phone x 484,214 ops/sec ±0.53% (93 runs sampled)  
+:clock1030: chance.phone x 241,788 ops/sec ±0.82% (91 runs sampled)  
+:+1: muenchhausen.fake.phone.international  
+
+:clock1: muenchhausen.fake.address.street x 15,628,296 ops/sec ±0.71% (90 runs sampled)  
+:clock10: faker.address.streetName x 1,105,665 ops/sec ±1.10% (92 runs sampled)  
+:clock1030: chance.street x 174,026 ops/sec ±1.67% (93 runs sampled)  
+:+1: muenchhausen.fake.address.street  
+
+:clock1: muenchhausen.fake.address.lon x 9,219,743 ops/sec ±0.69% (91 runs sampled)  
+:clock10: faker.address.longitude x 1,894,111 ops/sec ±1.36% (90 runs sampled)  
+:clock1030: chance.latitude x 422,615 ops/sec ±2.75% (80 runs sampled)  
+:+1: muenchhausen.fake.address.lon  
+
+:clock1: muenchhausen.fake.address.lat x 9,051,195 ops/sec ±0.96% (91 runs sampled)  
+:clock10: faker.address.latitude x 2,009,639 ops/sec ±0.46% (90 runs sampled)  
+:clock1030: chance.latitude x 457,011 ops/sec ±1.53% (90 runs sampled)  
+:+1: muenchhausen.fake.address.lat  
+
+:clock1: muenchhausen.fake.address.postcode x 8,974,814 ops/sec ±0.53% (93 runs sampled)  
+:clock10: faker.address.zipCode x 990,506 ops/sec ±0.46% (91 runs sampled)  
+:clock1030: chance.zip x 158,249 ops/sec ±8.35% (63 runs sampled)  
+:+1: muenchhausen.fake.address.postcode  
+
+:clock1: muenchhausen.fake.address.city x 2,325,712 ops/sec ±14.07% (39 runs sampled)  
+:clock10: faker.address.city x 10,492 ops/sec ±7.29% (58 runs sampled)  
+:clock1030: chance.city x 41,057 ops/sec ±6.05% (58 runs sampled)  
+:+1: muenchhausen.fake.address.city  
 
