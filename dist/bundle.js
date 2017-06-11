@@ -63,239 +63,86 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 24);
+/******/ 	return __webpack_require__(__webpack_require__.s = 20);
 /******/ })
 /************************************************************************/
 /******/ ([
 /* 0 */
 /***/ (function(module, exports, __webpack_require__) {
 
-/* WEBPACK VAR INJECTION */(function(process) {// Copyright Joyent, Inc. and other Node contributors.
-//
-// Permission is hereby granted, free of charge, to any person obtaining a
-// copy of this software and associated documentation files (the
-// "Software"), to deal in the Software without restriction, including
-// without limitation the rights to use, copy, modify, merge, publish,
-// distribute, sublicense, and/or sell copies of the Software, and to permit
-// persons to whom the Software is furnished to do so, subject to the
-// following conditions:
-//
-// The above copyright notice and this permission notice shall be included
-// in all copies or substantial portions of the Software.
-//
-// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-// OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
-// NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
-// DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
-// OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
-// USE OR OTHER DEALINGS IN THE SOFTWARE.
+/* WEBPACK VAR INJECTION */(function(__dirname) { var fs = __webpack_require__(3);
+ var path = __webpack_require__(4);
 
-// resolves . and .. elements in a path array with directory names there
-// must be no slashes, empty elements, or device names (c:\) in the array
-// (so also no leading and trailing slashes - it does not distinguish
-// relative and absolute paths)
-function normalizeArray(parts, allowAboveRoot) {
-  // if the path tries to go above the root, `up` ends up > 0
-  var up = 0;
-  for (var i = parts.length - 1; i >= 0; i--) {
-    var last = parts[i];
-    if (last === '.') {
-      parts.splice(i, 1);
-    } else if (last === '..') {
-      parts.splice(i, 1);
-      up++;
-    } else if (up) {
-      parts.splice(i, 1);
-      up--;
-    }
-  }
+ function I18N(culture, i18nModuleName) {
+   this.culture = culture;
 
-  // if the path is allowed to go above the root, restore leading ..s
-  if (allowAboveRoot) {
-    for (; up--; up) {
-      parts.unshift('..');
-    }
-  }
-
-  return parts;
-}
-
-// Split a filename into [root, dir, basename, ext], unix version
-// 'root' is just a slash, or nothing.
-var splitPathRe =
-    /^(\/?|)([\s\S]*?)((?:\.{1,2}|[^\/]+?|)(\.[^.\/]*|))(?:[\/]*)$/;
-var splitPath = function(filename) {
-  return splitPathRe.exec(filename).slice(1);
-};
-
-// path.resolve([from ...], to)
-// posix version
-exports.resolve = function() {
-  var resolvedPath = '',
-      resolvedAbsolute = false;
-
-  for (var i = arguments.length - 1; i >= -1 && !resolvedAbsolute; i--) {
-    var path = (i >= 0) ? arguments[i] : process.cwd();
-
-    // Skip empty and invalid entries
-    if (typeof path !== 'string') {
-      throw new TypeError('Arguments to path.resolve must be strings');
-    } else if (!path) {
-      continue;
-    }
-
-    resolvedPath = path + '/' + resolvedPath;
-    resolvedAbsolute = path.charAt(0) === '/';
-  }
-
-  // At this point the path should be resolved to a full absolute path, but
-  // handle relative paths to be safe (might happen when process.cwd() fails)
-
-  // Normalize the path
-  resolvedPath = normalizeArray(filter(resolvedPath.split('/'), function(p) {
-    return !!p;
-  }), !resolvedAbsolute).join('/');
-
-  return ((resolvedAbsolute ? '/' : '') + resolvedPath) || '.';
-};
-
-// path.normalize(path)
-// posix version
-exports.normalize = function(path) {
-  var isAbsolute = exports.isAbsolute(path),
-      trailingSlash = substr(path, -1) === '/';
-
-  // Normalize the path
-  path = normalizeArray(filter(path.split('/'), function(p) {
-    return !!p;
-  }), !isAbsolute).join('/');
-
-  if (!path && !isAbsolute) {
-    path = '.';
-  }
-  if (path && trailingSlash) {
-    path += '/';
-  }
-
-  return (isAbsolute ? '/' : '') + path;
-};
-
-// posix version
-exports.isAbsolute = function(path) {
-  return path.charAt(0) === '/';
-};
-
-// posix version
-exports.join = function() {
-  var paths = Array.prototype.slice.call(arguments, 0);
-  return exports.normalize(filter(paths, function(p, index) {
-    if (typeof p !== 'string') {
-      throw new TypeError('Arguments to path.join must be strings');
-    }
-    return p;
-  }).join('/'));
-};
+   this.i18nModuleName = i18nModuleName;
+   if (typeof window !== "undefined") {
+     this._i18n = i18n; // i18n is a browser only upper scoped variable in bundled js file.
+   }
+   return this;
+ }
 
 
-// path.relative(from, to)
-// posix version
-exports.relative = function(from, to) {
-  from = exports.resolve(from).substr(1);
-  to = exports.resolve(to).substr(1);
+ I18N.prototype.try = function (culture) {
+   var dir = path.join(__dirname, "..", "..", "/lib/i18n", this.i18nModuleName);
+   var fn = path.join(dir, culture + ".json");
+   var result = null;
+   if (fs.existsSync(fn)) {
+     result = !(function webpackMissingModule() { var e = new Error("Cannot find module \".\""); e.code = 'MODULE_NOT_FOUND'; throw e; }());
+   }
+   return result;
+ }
 
-  function trim(arr) {
-    var start = 0;
-    for (; start < arr.length; start++) {
-      if (arr[start] !== '') break;
-    }
+ I18N.prototype.i18nFilename = function (culture) {
+   var result = path.join(__dirname, "..", "..", "/lib/i18n", this.i18nModuleName, culture + ".json");
+   return result;
+ }
 
-    var end = arr.length - 1;
-    for (; end >= 0; end--) {
-      if (arr[end] !== '') break;
-    }
+ I18N.prototype.jsonLoaderNode = function () {
+   var result = this.try(this.culture);
+   if (!result) {
+     result = this.try(this.culture.split("-")[0]);
+   }
+   if (!result) {
+     result = this.try("en-GB");
+   }
+   if (!result) {
+     result = this.try("en");
+   }
 
-    if (start > end) return [];
-    return arr.slice(start, end - start + 1);
-  }
+   if (!result) {
+     throw new Error("i18n module not found.");
+   }
+   return result;
+ };
 
-  var fromParts = trim(from.split('/'));
-  var toParts = trim(to.split('/'));
+ I18N.prototype.jsonLoaderBrowser = function () {
+   var result = this._i18n[this.i18nModuleName][this.culture];
+   if (!result) {
+     result = this._i18n[this.i18nModuleName][this.culture.split("-")[0]];
+   }
+   if (!result) {
+     result = this._i18n[this.i18nModuleName]["en-GB"];
+   }
+   return result;
+ };
 
-  var length = Math.min(fromParts.length, toParts.length);
-  var samePartsLength = length;
-  for (var i = 0; i < length; i++) {
-    if (fromParts[i] !== toParts[i]) {
-      samePartsLength = i;
-      break;
-    }
-  }
+ I18N.prototype.jsonLoader = function () {
+   var result = null;
 
-  var outputParts = [];
-  for (var i = samePartsLength; i < fromParts.length; i++) {
-    outputParts.push('..');
-  }
+   if (typeof window === "undefined") {
+     result = this.jsonLoaderNode();
+   } else { // webpack browser
+     result = this.jsonLoaderBrowser();
+   }
 
-  outputParts = outputParts.concat(toParts.slice(samePartsLength));
+   return result;
+ };
 
-  return outputParts.join('/');
-};
+ module.exports = I18N;
 
-exports.sep = '/';
-exports.delimiter = ':';
-
-exports.dirname = function(path) {
-  var result = splitPath(path),
-      root = result[0],
-      dir = result[1];
-
-  if (!root && !dir) {
-    // No dirname whatsoever
-    return '.';
-  }
-
-  if (dir) {
-    // It has a dirname, strip trailing slash
-    dir = dir.substr(0, dir.length - 1);
-  }
-
-  return root + dir;
-};
-
-
-exports.basename = function(path, ext) {
-  var f = splitPath(path)[2];
-  // TODO: make this comparison case-insensitive on windows?
-  if (ext && f.substr(-1 * ext.length) === ext) {
-    f = f.substr(0, f.length - ext.length);
-  }
-  return f;
-};
-
-
-exports.extname = function(path) {
-  return splitPath(path)[3];
-};
-
-function filter (xs, f) {
-    if (xs.filter) return xs.filter(f);
-    var res = [];
-    for (var i = 0; i < xs.length; i++) {
-        if (f(xs[i], i, xs)) res.push(xs[i]);
-    }
-    return res;
-}
-
-// String.prototype.substr - negative index don't work in IE8
-var substr = 'ab'.substr(-1) === 'b'
-    ? function (str, start, len) { return str.substr(start, len) }
-    : function (str, start, len) {
-        if (start < 0) start = str.length + start;
-        return str.substr(start, len);
-    }
-;
-
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(27)))
+/* WEBPACK VAR INJECTION */}.call(exports, "/"))
 
 /***/ }),
 /* 1 */
@@ -5235,27 +5082,246 @@ module.exports = exports["default"];
 
 /***/ }),
 /* 2 */
-/***/ (function(module, exports) {
+/***/ (function(module, exports, __webpack_require__) {
 
-function webpackEmptyContext(req) {
-	throw new Error("Cannot find module '" + req + "'.");
-}
-webpackEmptyContext.keys = function() { return []; };
-webpackEmptyContext.resolve = webpackEmptyContext;
-module.exports = webpackEmptyContext;
-webpackEmptyContext.id = 2;
+module.exports = __webpack_require__(22);
 
 /***/ }),
 /* 3 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__(26);
-
-/***/ }),
-/* 4 */
 /***/ (function(module, exports) {
 
 
+
+/***/ }),
+/* 4 */
+/***/ (function(module, exports, __webpack_require__) {
+
+/* WEBPACK VAR INJECTION */(function(process) {// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software and associated documentation files (the
+// "Software"), to deal in the Software without restriction, including
+// without limitation the rights to use, copy, modify, merge, publish,
+// distribute, sublicense, and/or sell copies of the Software, and to permit
+// persons to whom the Software is furnished to do so, subject to the
+// following conditions:
+//
+// The above copyright notice and this permission notice shall be included
+// in all copies or substantial portions of the Software.
+//
+// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+// OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
+// NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+// DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+// OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+// USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+// resolves . and .. elements in a path array with directory names there
+// must be no slashes, empty elements, or device names (c:\) in the array
+// (so also no leading and trailing slashes - it does not distinguish
+// relative and absolute paths)
+function normalizeArray(parts, allowAboveRoot) {
+  // if the path tries to go above the root, `up` ends up > 0
+  var up = 0;
+  for (var i = parts.length - 1; i >= 0; i--) {
+    var last = parts[i];
+    if (last === '.') {
+      parts.splice(i, 1);
+    } else if (last === '..') {
+      parts.splice(i, 1);
+      up++;
+    } else if (up) {
+      parts.splice(i, 1);
+      up--;
+    }
+  }
+
+  // if the path is allowed to go above the root, restore leading ..s
+  if (allowAboveRoot) {
+    for (; up--; up) {
+      parts.unshift('..');
+    }
+  }
+
+  return parts;
+}
+
+// Split a filename into [root, dir, basename, ext], unix version
+// 'root' is just a slash, or nothing.
+var splitPathRe =
+    /^(\/?|)([\s\S]*?)((?:\.{1,2}|[^\/]+?|)(\.[^.\/]*|))(?:[\/]*)$/;
+var splitPath = function(filename) {
+  return splitPathRe.exec(filename).slice(1);
+};
+
+// path.resolve([from ...], to)
+// posix version
+exports.resolve = function() {
+  var resolvedPath = '',
+      resolvedAbsolute = false;
+
+  for (var i = arguments.length - 1; i >= -1 && !resolvedAbsolute; i--) {
+    var path = (i >= 0) ? arguments[i] : process.cwd();
+
+    // Skip empty and invalid entries
+    if (typeof path !== 'string') {
+      throw new TypeError('Arguments to path.resolve must be strings');
+    } else if (!path) {
+      continue;
+    }
+
+    resolvedPath = path + '/' + resolvedPath;
+    resolvedAbsolute = path.charAt(0) === '/';
+  }
+
+  // At this point the path should be resolved to a full absolute path, but
+  // handle relative paths to be safe (might happen when process.cwd() fails)
+
+  // Normalize the path
+  resolvedPath = normalizeArray(filter(resolvedPath.split('/'), function(p) {
+    return !!p;
+  }), !resolvedAbsolute).join('/');
+
+  return ((resolvedAbsolute ? '/' : '') + resolvedPath) || '.';
+};
+
+// path.normalize(path)
+// posix version
+exports.normalize = function(path) {
+  var isAbsolute = exports.isAbsolute(path),
+      trailingSlash = substr(path, -1) === '/';
+
+  // Normalize the path
+  path = normalizeArray(filter(path.split('/'), function(p) {
+    return !!p;
+  }), !isAbsolute).join('/');
+
+  if (!path && !isAbsolute) {
+    path = '.';
+  }
+  if (path && trailingSlash) {
+    path += '/';
+  }
+
+  return (isAbsolute ? '/' : '') + path;
+};
+
+// posix version
+exports.isAbsolute = function(path) {
+  return path.charAt(0) === '/';
+};
+
+// posix version
+exports.join = function() {
+  var paths = Array.prototype.slice.call(arguments, 0);
+  return exports.normalize(filter(paths, function(p, index) {
+    if (typeof p !== 'string') {
+      throw new TypeError('Arguments to path.join must be strings');
+    }
+    return p;
+  }).join('/'));
+};
+
+
+// path.relative(from, to)
+// posix version
+exports.relative = function(from, to) {
+  from = exports.resolve(from).substr(1);
+  to = exports.resolve(to).substr(1);
+
+  function trim(arr) {
+    var start = 0;
+    for (; start < arr.length; start++) {
+      if (arr[start] !== '') break;
+    }
+
+    var end = arr.length - 1;
+    for (; end >= 0; end--) {
+      if (arr[end] !== '') break;
+    }
+
+    if (start > end) return [];
+    return arr.slice(start, end - start + 1);
+  }
+
+  var fromParts = trim(from.split('/'));
+  var toParts = trim(to.split('/'));
+
+  var length = Math.min(fromParts.length, toParts.length);
+  var samePartsLength = length;
+  for (var i = 0; i < length; i++) {
+    if (fromParts[i] !== toParts[i]) {
+      samePartsLength = i;
+      break;
+    }
+  }
+
+  var outputParts = [];
+  for (var i = samePartsLength; i < fromParts.length; i++) {
+    outputParts.push('..');
+  }
+
+  outputParts = outputParts.concat(toParts.slice(samePartsLength));
+
+  return outputParts.join('/');
+};
+
+exports.sep = '/';
+exports.delimiter = ':';
+
+exports.dirname = function(path) {
+  var result = splitPath(path),
+      root = result[0],
+      dir = result[1];
+
+  if (!root && !dir) {
+    // No dirname whatsoever
+    return '.';
+  }
+
+  if (dir) {
+    // It has a dirname, strip trailing slash
+    dir = dir.substr(0, dir.length - 1);
+  }
+
+  return root + dir;
+};
+
+
+exports.basename = function(path, ext) {
+  var f = splitPath(path)[2];
+  // TODO: make this comparison case-insensitive on windows?
+  if (ext && f.substr(-1 * ext.length) === ext) {
+    f = f.substr(0, f.length - ext.length);
+  }
+  return f;
+};
+
+
+exports.extname = function(path) {
+  return splitPath(path)[3];
+};
+
+function filter (xs, f) {
+    if (xs.filter) return xs.filter(f);
+    var res = [];
+    for (var i = 0; i < xs.length; i++) {
+        if (f(xs[i], i, xs)) res.push(xs[i]);
+    }
+    return res;
+}
+
+// String.prototype.substr - negative index don't work in IE8
+var substr = 'ab'.substr(-1) === 'b'
+    ? function (str, start, len) { return str.substr(start, len) }
+    : function (str, start, len) {
+        if (start < 0) start = str.length + start;
+        return str.substr(start, len);
+    }
+;
+
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(23)))
 
 /***/ }),
 /* 5 */
@@ -5269,25 +5335,25 @@ module.exports = __webpack_require__(26);
  * Constructor of the fake helper modules library.
  */
  var Fake = function(setup) {
-	this.Date = __webpack_require__(13);
+	this.Date = __webpack_require__(11);
 	this.date = new this.Date(setup);	
-	this.Emoji = __webpack_require__(16);
+	this.Emoji = __webpack_require__(13);
 	this.emoji = new this.Emoji(setup);
-	this.Number = __webpack_require__(18);
+	this.Number = __webpack_require__(14);
 	this.number = new this.Number(setup);
-	this.Phone = __webpack_require__(20);
+	this.Phone = __webpack_require__(16);
 	this.phone = new this.Phone(setup);
-	this.Time = __webpack_require__(23);
+	this.Time = __webpack_require__(18);
 	this.time = new this.Time(setup);	
-	this.Decimal = __webpack_require__(15);
+	this.Decimal = __webpack_require__(12);
 	this.decimal = new this.Decimal(setup);
 	this.Boolean = __webpack_require__(9);
 	this.boolean = new this.Boolean(setup);
-	this.Random = __webpack_require__(21);
+	this.Random = __webpack_require__(17);
 	this.random = new this.Random(setup);
-	this.Person = __webpack_require__(19);
+	this.Person = __webpack_require__(15);
 	this.person = new this.Person(setup);
-	this.Company = __webpack_require__(11);
+	this.Company = __webpack_require__(10);
 	this.company = new this.Company(setup);
 	this.Address = __webpack_require__(8);
 	this.address = new this.Address(setup);
@@ -5914,8 +5980,8 @@ webpackEmptyContext.id = 7;
 "use strict";
 /* WEBPACK VAR INJECTION */(function(__dirname) {
 
-var fs = __webpack_require__(4);
-var path = __webpack_require__(0);
+var fs = __webpack_require__(3);
+var path = __webpack_require__(4);
 
 
 function Address(context) { 
@@ -6133,36 +6199,21 @@ module.exports = Boolean;
 
 /***/ }),
 /* 10 */
-/***/ (function(module, exports) {
-
-function webpackEmptyContext(req) {
-	throw new Error("Cannot find module '" + req + "'.");
-}
-webpackEmptyContext.keys = function() { return []; };
-webpackEmptyContext.resolve = webpackEmptyContext;
-module.exports = webpackEmptyContext;
-webpackEmptyContext.id = 10;
-
-/***/ }),
-/* 11 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-/* WEBPACK VAR INJECTION */(function(__dirname) {
- 
-var path = __webpack_require__(0);
 
-var i18nFilename = function(){
-  return path.join(__dirname, "..", "..", "company.json");
+
+var I18n = __webpack_require__(0);
+
+
+function Company(context) {
+  this.culture = context.culture;
+  this.i18n = new I18n(this.culture, "company").jsonLoader();
+  return this;
 }
 
-
-function Company() { 
-    this.i18n = !(function webpackMissingModule() { var e = new Error("Cannot find module \".\""); e.code = 'MODULE_NOT_FOUND'; throw e; }());
-    return this; 
-}
-
-Company.prototype._randomName = function firstname() { 
+Company.prototype._randomName = function firstname() {
   var item = this.i18n[Math.floor(Math.random() * this.i18n.length)];
   return item;
 }
@@ -6172,37 +6223,25 @@ Company.prototype._randomName = function firstname() {
  * Returns a random company name.  
  * For example `rnd:$(company.name)`
  */
-Company.prototype.name = function firstname() { 
-  this.value = "❤️"; 
+Company.prototype.name = function firstname() {
+  this.value = "❤️";
   return {
-    value : this.value,
-    text : this._randomName.bind(this)
+    value: this.value,
+    text: this._randomName.bind(this)
   };
 };
 
 module.exports = Company;
-/* WEBPACK VAR INJECTION */}.call(exports, "/"))
+
 
 /***/ }),
-/* 12 */
-/***/ (function(module, exports) {
-
-function webpackEmptyContext(req) {
-	throw new Error("Cannot find module '" + req + "'.");
-}
-webpackEmptyContext.keys = function() { return []; };
-webpackEmptyContext.resolve = webpackEmptyContext;
-module.exports = webpackEmptyContext;
-webpackEmptyContext.id = 12;
-
-/***/ }),
-/* 13 */
+/* 11 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-/* WEBPACK VAR INJECTION */(function(__dirname) {
 
-var path = __webpack_require__(0);
+
+var I18n = __webpack_require__(0);
 
 function pad(num, size) {
   var s = num + "";
@@ -6210,29 +6249,12 @@ function pad(num, size) {
   return s;
 }
 
-var i18nFilename = function (culture) {
-  var result = path.join(__dirname, "..", "..", "i18n", "datetimeformat", culture + ".json");
-  return result;
-}
 
-MDate.prototype._jsonLoader = function () {
-  var fn = i18nFilename(this.culture);
-  var result = null;
-
-  try {
-    result = !(function webpackMissingModule() { var e = new Error("Cannot find module \".\""); e.code = 'MODULE_NOT_FOUND'; throw e; }());
-  } catch (e) { // webpack browser
-    debugger
-    result = i18n["datetimeformat"]["en-gb"];
-  }
-
-  return result;
-}
 
 function MDate(context) {
   this.culture = context.culture;
   this.value = new Date();
-  this.i18n = this._jsonLoader();
+  this.i18n = new I18n(this.culture, "datetimeformat").jsonLoader();
   return this;
 }
 
@@ -6421,99 +6443,84 @@ MDate.prototype.weekday = function weekday() {
 
 module.exports = MDate;
 
-/* WEBPACK VAR INJECTION */}.call(exports, "/"))
 
 /***/ }),
-/* 14 */
-/***/ (function(module, exports) {
-
-function webpackEmptyContext(req) {
-	throw new Error("Cannot find module '" + req + "'.");
-}
-webpackEmptyContext.keys = function() { return []; };
-webpackEmptyContext.resolve = webpackEmptyContext;
-module.exports = webpackEmptyContext;
-webpackEmptyContext.id = 14;
-
-/***/ }),
-/* 15 */
+/* 12 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-/* WEBPACK VAR INJECTION */(function(__dirname) {
 
-var path = __webpack_require__(0);
 
-var i18nFilename = function(culture){
-  var result = path.join(__dirname, "..", "..", "i18n", "numberformat", culture + ".json");
-  return result;
-}
 
-function Decimal(context) { 
-    this.culture = context.culture;
-    // Decimal.super_.apply(this, arguments);
-    this.i18n = !(function webpackMissingModule() { var e = new Error("Cannot find module \".\""); e.code = 'MODULE_NOT_FOUND'; throw e; }());
-    return this; 
+var I18n = __webpack_require__(0);
+
+
+function Decimal(context) {
+  this.culture = context.culture;
+  // Decimal.super_.apply(this, arguments);
+  this.i18n = new I18n(this.culture, "numberformat").jsonLoader();
+
+  return this;
 }
 
 // require("./../../extension/").extend(Decimal);
- 
+
 
 
 function generateRandomDecimal(min, max) {
-    var result = Math.random() * (max - min) + min;
-    var result2 = Math.random() * (99999999999) + 9999999;
-    result2 = result2 / 100000000000
-    result = result.toString() + result2;
-    return result;
+  var result = Math.random() * (max - min) + min;
+  var result2 = Math.random() * (99999999999) + 9999999;
+  result2 = result2 / 100000000000
+  result = result.toString() + result2;
+  return result;
 };
 
 
-function randomDecimal(setup){
-    var startDate;
-    var endDate;
-  
-    if (setup.min){
-      startDate = parseInt(setup.min.toString()) + 1;
-    } else {
-      startDate = Number.MIN_SAFE_INTEGER;
-    }
-    if (setup.max){
-      endDate =  parseInt(setup.max.toString()) - 1;
-    } else {
-      endDate =  Number.MAX_SAFE_INTEGER;
-    }
+function randomDecimal(setup) {
+  var startDate;
+  var endDate;
 
-    var result = generateRandomDecimal(startDate, endDate);
-    return result;
+  if (setup.min) {
+    startDate = parseInt(setup.min.toString()) + 1;
+  } else {
+    startDate = Number.MIN_SAFE_INTEGER;
+  }
+  if (setup.max) {
+    endDate = parseInt(setup.max.toString()) - 1;
+  } else {
+    endDate = Number.MAX_SAFE_INTEGER;
+  }
+
+  var result = generateRandomDecimal(startDate, endDate);
+  return result;
 }
 
 Decimal.prototype._text = function toString() {
-    var parts = this.value.toString().split(".")
-    parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, this.i18n.numberFormatInfo.NumberGroupSeparator);
-    var result = parts[0] + this.i18n.numberFormatInfo.NumberDecimalSeparator + parts[1].substring(0, this.format.decimalplaces);
-    return result;
+  var parts = this.value.toString().split(".")
+  parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, this.i18n.numberFormatInfo.NumberGroupSeparator);
+  var result = parts[0] + this.i18n.numberFormatInfo.NumberDecimalSeparator + parts[1].substring(0, this.format.decimalplaces);
+  return result;
 }
 
 /**
  * random decimal based on template using configuration options.  
  * For example `rnd:$(decimal.random) rnd:$(decimal.random min:1,max:111,decimalplaces:3)`
  */
-Decimal.prototype.random = function random(context) { 
+Decimal.prototype.random = function random(context) {
   this.format = context;
   this.culture = context.culture;
-  this.value = randomDecimal(this.format); 
+  this.value = randomDecimal(this.format);
   return {
-    value : this.value,
-    text : this._text.bind(this)
+    value: this.value,
+    text: this._text.bind(this)
   };
 };
 
 module.exports = Decimal;
-/* WEBPACK VAR INJECTION */}.call(exports, "/"))
+
 
 /***/ }),
-/* 16 */
+/* 13 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -6532,7 +6539,7 @@ function Emoji() {
  * @param {String} templateString a template string. For example `"emoji.random:$(emoji.random)"`
  */
 Emoji.prototype.random = function random() {
-  var emoji = __webpack_require__(3);
+  var emoji = __webpack_require__(2);
   var res = emoji.random();
   var result = {
     value : res.key,
@@ -6545,7 +6552,7 @@ Emoji.prototype.random = function random() {
  * returns an icon based on its name, e.g. `"emoji.icon:$(emoji.icon name:heart)"`
  */
 Emoji.prototype.icon = function icon(context) {
-  var emoji = __webpack_require__(3);
+  var emoji = __webpack_require__(2);
   var icon = context && context.name ? ":" + context.name + ":" : ":fast_forward:";
   var res = emoji.get(icon) 
   var result = {
@@ -6560,70 +6567,55 @@ Emoji.prototype.icon = function icon(context) {
 module.exports = Emoji;
 
 /***/ }),
-/* 17 */
-/***/ (function(module, exports) {
-
-function webpackEmptyContext(req) {
-	throw new Error("Cannot find module '" + req + "'.");
-}
-webpackEmptyContext.keys = function() { return []; };
-webpackEmptyContext.resolve = webpackEmptyContext;
-module.exports = webpackEmptyContext;
-webpackEmptyContext.id = 17;
-
-/***/ }),
-/* 18 */
+/* 14 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-/* WEBPACK VAR INJECTION */(function(__dirname) {
 
-var path = __webpack_require__(0);
 
-var i18nFilename = function(culture){
-  var result = path.join(__dirname, "..", "..", "i18n", "numberformat", culture + ".json");
-  return result;
-}
+var I18n = __webpack_require__(0);
 
-function MNumber(context) { 
-    this.culture = context.culture;
-    // MNumber.super_.apply(this, arguments);
-    this.i18n = !(function webpackMissingModule() { var e = new Error("Cannot find module \".\""); e.code = 'MODULE_NOT_FOUND'; throw e; }());
-    return this; 
+
+
+function MNumber(context) {
+  this.culture = context.culture;
+  // MNumber.super_.apply(this, arguments);
+  this.i18n = new I18n(this.culture, "numberformat").jsonLoader();
+  return this;
 }
 
 // require("./../../extension/").extend(MNumber);
- 
+
 
 
 function generateRandomNumber(min, max) {
-    var result = Math.random() * (max - min + 1) + min;
-    return result;
+  var result = Math.random() * (max - min + 1) + min;
+  return result;
 };
 
 
-function randomNumber(setup){
-    var startDate;
-    var endDate;
-  
-    if (setup.min){
-      startDate = parseInt(setup.min.toString()) + 1;
-    } else {
-      startDate = Number.MIN_SAFE_INTEGER;
-    }
-    if (setup.max){
-      endDate =  parseInt(setup.max.toString()) - 1;
-    } else {
-      endDate =  Number.MAX_SAFE_INTEGER;
-    }
+function randomNumber(setup) {
+  var startDate;
+  var endDate;
 
-    var result = generateRandomNumber(startDate, endDate);
-    return result;
+  if (setup.min) {
+    startDate = parseInt(setup.min.toString()) + 1;
+  } else {
+    startDate = Number.MIN_SAFE_INTEGER;
+  }
+  if (setup.max) {
+    endDate = parseInt(setup.max.toString()) - 1;
+  } else {
+    endDate = Number.MAX_SAFE_INTEGER;
+  }
+
+  var result = generateRandomNumber(startDate, endDate);
+  return result;
 }
 
 
 function numberWithCommas(x, delimiter) {
-    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, delimiter);
+  return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, delimiter);
 }
 
 MNumber.prototype._text = function toString() {
@@ -6634,92 +6626,58 @@ MNumber.prototype._text = function toString() {
  * random number based on template using configuration options.  
  * For example `rnd:$(date.random) rnd:$(date.random min : 1, max : 111)`
  */
-MNumber.prototype.random = function random(context) { 
+MNumber.prototype.random = function random(context) {
   this.format = context;
   this.culture = context.culture;
-  this.value = randomNumber(this.format); 
+  this.value = randomNumber(this.format);
   return {
-    value : this.value,
-    text : this._text.bind(this)
+    value: this.value,
+    text: this._text.bind(this)
   };
 };
 
 module.exports = MNumber;
-/* WEBPACK VAR INJECTION */}.call(exports, "/"))
+
 
 /***/ }),
-/* 19 */
+/* 15 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-/* WEBPACK VAR INJECTION */(function(__dirname) {
-
-var fs = __webpack_require__(4);
-var path = __webpack_require__(0);
 
 
-var randomGender = function(){
+var I18n = __webpack_require__(0);
+
+
+var randomGender = function () {
   var genders = ["male", "female"];
   var gender = Math.round(Math.random());
   return genders[gender];
 }
 
-var try18nFilename = function(shortCulture, gender){
-  var dir = path.join(__dirname, "..", "..", "i18n", "names", gender);
-  var fn = path.join(dir, shortCulture + ".json");
-  if (!fs.existsSync(fn)){
-    fn = false;
-  }
-  return fn;
+
+
+
+function Person(context) {
+  this.culture = context.culture;
+  var males = new I18n(this.culture, "names-male").jsonLoader();
+  var female = new I18n(this.culture, "names-female").jsonLoader();
+
+  this.i18n = {};
+  this.i18n.male = males;
+  this.i18n.female = female;
+  this.i18n.surnames = new I18n(this.culture, "surnames").jsonLoader();
+  return this;
 }
 
-var i18nFilename = function(setup){
-  var cultures = setup.culture.toLowerCase().split("-");
-  var shortCulture = cultures[0];
-  var fn = try18nFilename(shortCulture, setup.gender);
-  if (fn === false){
-    shortCulture = cultures[1];
-    fn = try18nFilename(shortCulture, setup.gender);
-    if (fn === false){
-      shortCulture = "en";
-      fn = try18nFilename(shortCulture, setup.gender);
-    }
-  }
-  return fn;
-}
-
-var getI18nSurnamesStorage = function getI18nSurnamesStorage(culture) {
-	var cu = culture.split("-")[0].toLowerCase();
-	var dir = path.join(__dirname, "..", "..", "i18n", "surnames");
-  var fn = path.join(dir, cu + ".json");
-  if (!fs.existsSync(fn)){
-    fn = path.join(__dirname, "..", "..", "i18n", "surnames", "en.json");
-  }
-  return fn;
-}
-
-
-function Person(context) { 
-    this.culture = context.culture;
-
-    var males = !(function webpackMissingModule() { var e = new Error("Cannot find module \".\""); e.code = 'MODULE_NOT_FOUND'; throw e; }());
-    var female = !(function webpackMissingModule() { var e = new Error("Cannot find module \".\""); e.code = 'MODULE_NOT_FOUND'; throw e; }());
-    
-    this.i18n = {};
-    this.i18n.male = males;
-    this.i18n.female = female;
-    this.i18n.surnames = !(function webpackMissingModule() { var e = new Error("Cannot find module \".\""); e.code = 'MODULE_NOT_FOUND'; throw e; }());
-    return this; 
-}
-
-Person.prototype._randomFirstname = function _randomFirstname() { 
+Person.prototype._randomFirstname = function _randomFirstname() {
   var gender = (this.context ? this.context.gender : null) || randomGender();
   var items = this.i18n[gender]
   var item = items[Math.floor(Math.random() * items.length)];
   return item;
 }
 
-Person.prototype._randomSurname = function _randomSurname() { 
+Person.prototype._randomSurname = function _randomSurname() {
   var items = this.i18n.surnames;
   var item = items[Math.floor(Math.random() * items.length)];
   return item;
@@ -6730,13 +6688,13 @@ Person.prototype._randomSurname = function _randomSurname() {
  * Returns a random person name based on template using configuration options.  
  * For example `rnd:$(person.firstname gender:female)`
  */
-Person.prototype.firstname = function firstname(context) { 
+Person.prototype.firstname = function firstname(context) {
   this.context = context;
   this.culture = context.culture;
-  this.value = "❤️"; 
+  this.value = "❤️";
   return {
-    value : this.value,
-    text : this._randomFirstname.bind(this)
+    value: this.value,
+    text: this._randomFirstname.bind(this)
   };
 };
 
@@ -6744,21 +6702,21 @@ Person.prototype.firstname = function firstname(context) {
  * Returns a random person surname.  
  * For example `rnd:$(person.lastname gender:female)`
  */
-Person.prototype.lastname = function lastname(context) { 
+Person.prototype.lastname = function lastname(context) {
   this.context = context;
   this.culture = context.culture;
-  this.value = "❤️"; 
+  this.value = "❤️";
   return {
-    value : this.value,
-    text : this._randomSurname.bind(this)
+    value: this.value,
+    text: this._randomSurname.bind(this)
   };
 };
 
 module.exports = Person;
-/* WEBPACK VAR INJECTION */}.call(exports, "/"))
+
 
 /***/ }),
-/* 20 */
+/* 16 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -6850,7 +6808,7 @@ Phone.prototype.e164 = function e164(options) {
 module.exports = Phone;
 
 /***/ }),
-/* 21 */
+/* 17 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -6896,43 +6854,29 @@ Random.prototype.element = function now(context) {
 module.exports = Random;
 
 /***/ }),
-/* 22 */
-/***/ (function(module, exports) {
-
-function webpackEmptyContext(req) {
-	throw new Error("Cannot find module '" + req + "'.");
-}
-webpackEmptyContext.keys = function() { return []; };
-webpackEmptyContext.resolve = webpackEmptyContext;
-module.exports = webpackEmptyContext;
-webpackEmptyContext.id = 22;
-
-/***/ }),
-/* 23 */
+/* 18 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-/* WEBPACK VAR INJECTION */(function(__dirname) {
 
-var path = __webpack_require__(0);
 
- function pad(num, size) {
-    var s = num + "";
-    while (s.length < size) s = "0" + s;
-    return s;
+
+var I18n = __webpack_require__(0);
+
+function pad(num, size) {
+  var s = num + "";
+  while (s.length < size) s = "0" + s;
+  return s;
 }
 
-var i18nFilename = function(culture){
-  var result = path.join(__dirname, "..", "..", "i18n", "datetimeformat", culture + ".json");
-  return result;
-}
 
-function Time(context) { 
-    this.culture = context.culture;
-    this.value = new Date();
-    this.i18n = !(function webpackMissingModule() { var e = new Error("Cannot find module \".\""); e.code = 'MODULE_NOT_FOUND'; throw e; }());
-    return this; 
-}  
+
+function Time(context) {
+  this.culture = context.culture;
+  this.value = new Date();
+  this.i18n = new I18n(this.culture, "datetimeformat").jsonLoader();
+  return this;
+}
 
 /**
  * current time formated based on current culture. A custom format is optional possible.
@@ -6942,57 +6886,57 @@ function Time(context) {
 Time.prototype.now = function now(context) {
   this.value = new Date();
   return {
-    value : this.value,
-    text : (function(){
+    value: this.value,
+    text: (function () {
       return dateFormater(this.value, context.format || this.i18n.longTimePattern)
     }).bind(this)
   };
 };
 
 
-function minTime(){
+function minTime() {
   return new Date(1, 0, 1).getTime();
 }
 
-function maxTime(){
+function maxTime() {
   return new Date(9999, 0, 1).getTime();
 }
 
-function parseMunchhauseDateTime(str){
-    var year = parseInt(str.substring(0, 4), 10);
-    var month = parseInt(str.substring(3, 2), 10) - 1;
-    var day = parseInt(str.substring(5, 2), 10);
-    var result = new Date(year, month, day).getTime();
-    return result;
+function parseMunchhauseDateTime(str) {
+  var year = parseInt(str.substring(0, 4), 10);
+  var month = parseInt(str.substring(3, 2), 10) - 1;
+  var day = parseInt(str.substring(5, 2), 10);
+  var result = new Date(year, month, day).getTime();
+  return result;
 }
 
-function renderMunchhauseDateTime(dt){
-    var year = dt.getFullYear().toString();
-    var month = pad((dt.getMonth() + 1).toString(), 2);
-    var day = pad(dt.getDate().toString(), 2);
-    var result = new Date(year, month, day).getTime();
-    return result;
+function renderMunchhauseDateTime(dt) {
+  var year = dt.getFullYear().toString();
+  var month = pad((dt.getMonth() + 1).toString(), 2);
+  var day = pad(dt.getDate().toString(), 2);
+  var result = new Date(year, month, day).getTime();
+  return result;
 }
 
-function randomTime(setup){
-    var startDate;
-    var endDate;
-  
-    if (setup.min){
-      startDate = parseMunchhauseDateTime(setup.min.toString());
-    } else {
-      startDate = minTime();
-    }
-    if (setup.max){
-      endDate =  parseMunchhauseDateTime(setup.max.toString());
-    } else {
-      endDate =  maxTime();
-    }
+function randomTime(setup) {
+  var startDate;
+  var endDate;
 
-   var spaces = (endDate - startDate);
-   var timestamp = Math.round(Math.random() * spaces);
-   timestamp += startDate;
-   return new Date(timestamp);
+  if (setup.min) {
+    startDate = parseMunchhauseDateTime(setup.min.toString());
+  } else {
+    startDate = minTime();
+  }
+  if (setup.max) {
+    endDate = parseMunchhauseDateTime(setup.max.toString());
+  } else {
+    endDate = maxTime();
+  }
+
+  var spaces = (endDate - startDate);
+  var timestamp = Math.round(Math.random() * spaces);
+  timestamp += startDate;
+  return new Date(timestamp);
 }
 
 /**
@@ -7000,11 +6944,11 @@ function randomTime(setup){
  * JavaScript example: time.random()
  * Template example: `"random:$(time.random)"`
  */
-Time.prototype.random = function random(context) { 
-  this.value = randomTime(context);  
+Time.prototype.random = function random(context) {
+  this.value = randomTime(context);
   return {
-    value : this.value,
-    text : (function(){
+    value: this.value,
+    text: (function () {
       return dateFormater(this.value, context.format || this.i18n.longTimePattern)
     }).bind(this)
   };
@@ -7017,19 +6961,19 @@ Time.prototype.random = function random(context) {
  * JavaScript example: time.future()
  * Template example: `"future:$(time.future)"`
  */
-Time.prototype.future = function future(context) { 
-  context.min = renderMunchhauseDateTime(new Date()); 
+Time.prototype.future = function future(context) {
+  context.min = renderMunchhauseDateTime(new Date());
   this.value = randomTime(context);
-  var now = new Date();  
-  if (this.value.getHours() <= now.getHours()){
+  var now = new Date();
+  if (this.value.getHours() <= now.getHours()) {
     var rest = 24 - now.getHours();
     var rnd = Math.floor(Math.random() * rest) + now.getHours()
     this.value.setHours(rnd);
   }
 
   return {
-    value : this.value,
-    text : (function(){
+    value: this.value,
+    text: (function () {
       return dateFormater(this.value, context.format || this.i18n.longTimePattern)
     }).bind(this)
   };
@@ -7043,42 +6987,42 @@ Time.prototype.future = function future(context) {
  */
 Time.prototype.past = function past(context) {
   context.max = renderMunchhauseDateTime(new Date());
-  this.value = randomTime(context);  
+  this.value = randomTime(context);
   return {
-    value : this.value,
-    text : (function(){
+    value: this.value,
+    text: (function () {
       return dateFormater(this.value, context.format || this.i18n.longTimePattern)
     }).bind(this)
   };
 };
- 
 
-var formatDatePart = function(fragment, text, value){
+
+var formatDatePart = function (fragment, text, value) {
   var x = fragment;
   /*eslint-disable */
   var result; // eslint-disable-line no-used-vars
   /*eslint-enable */
   var i = 0;
-  var reg = new RegExp(text, "g");   
-  while((result = reg.exec(fragment)) !== null) {
+  var reg = new RegExp(text, "g");
+  while ((result = reg.exec(fragment)) !== null) {
     x = x.replace(text, value[i]);
     i++;
   }
   return x;
 }
 
-var dateFormater = function(date, format){
+var dateFormater = function (date, format) {
   var x = format;
-/*  var year = date.getFullYear().toString();
-  var month = pad(date.getMonth().toString(), 2);
-  var day = pad(date.getDate().toString(), 2);*/
+  /*  var year = date.getFullYear().toString();
+    var month = pad(date.getMonth().toString(), 2);
+    var day = pad(date.getDate().toString(), 2);*/
   var hour = pad(date.getHours().toString(), 2);
   var minute = pad(date.getMinutes().toString(), 2);
   var second = pad(date.getSeconds().toString(), 2);
-   
-/*  x = formatDatePart(x, "y", year);
-  x = formatDatePart(x, "M", month);
-  x = formatDatePart(x, "d", day);*/
+
+  /*  x = formatDatePart(x, "y", year);
+    x = formatDatePart(x, "M", month);
+    x = formatDatePart(x, "d", day);*/
   x = formatDatePart(x, "H", hour);
   x = formatDatePart(x, "m", minute);
   x = formatDatePart(x, "s", second);
@@ -7086,15 +7030,27 @@ var dateFormater = function(date, format){
   return x;
 }
 
- 
- 
- 
+
+
+
 
 module.exports = Time;
-/* WEBPACK VAR INJECTION */}.call(exports, "/"))
+
 
 /***/ }),
-/* 24 */
+/* 19 */
+/***/ (function(module, exports) {
+
+function webpackEmptyContext(req) {
+	throw new Error("Cannot find module '" + req + "'.");
+}
+webpackEmptyContext.keys = function() { return []; };
+webpackEmptyContext.resolve = webpackEmptyContext;
+module.exports = webpackEmptyContext;
+webpackEmptyContext.id = 19;
+
+/***/ }),
+/* 20 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -7222,7 +7178,8 @@ module.exports = Time;
   if (true) {
     if (typeof module !== "undefined" && module.exports) {
       exports = module.exports = Muenchhausen;
-      if (window) window.Muenchhausen = Muenchhausen;
+      if (typeof window !== "undefined")
+        window.Muenchhausen = Muenchhausen
     }
     exports.Muenchhausen = Muenchhausen
   } else {
@@ -7233,7 +7190,7 @@ module.exports = Time;
 
 
 /***/ }),
-/* 25 */
+/* 21 */
 /***/ (function(module, exports) {
 
 module.exports = {
@@ -8581,11 +8538,11 @@ module.exports = {
 };
 
 /***/ }),
-/* 26 */
+/* 22 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /*jslint node: true*/
-__webpack_require__(28);
+__webpack_require__(24);
 
 "use strict";
 
@@ -8618,7 +8575,7 @@ var trim = function(str) {
  * Emoji namespace
  */
 var Emoji = module.exports = {
-  emoji: __webpack_require__(25)
+  emoji: __webpack_require__(21)
 };
 
 /**
@@ -8715,7 +8672,7 @@ Emoji.search = function search(str) {
 
 
 /***/ }),
-/* 27 */
+/* 23 */
 /***/ (function(module, exports) {
 
 // shim for using process in browser
@@ -8901,7 +8858,7 @@ process.umask = function() { return 0; };
 
 
 /***/ }),
-/* 28 */
+/* 24 */
 /***/ (function(module, exports) {
 
 /*! http://mths.be/codepointat v0.2.0 by @mathias */

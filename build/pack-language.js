@@ -30,7 +30,7 @@ glob(p, {}, function (er, files) {
   // er is an error object or null.
   var result = {};
   for (var i = 0; i < files.length; i++) {
-    var file = files[i].toLowerCase();
+    var file = files[i];
     var culture = path.basename(file, ".json");
     var folders = path.resolve(path.dirname(file)).split(path.sep);
     var moduleName = folders[folders.length - 1];
