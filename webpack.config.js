@@ -7,5 +7,11 @@ module.exports = {
   },
   "node": {
     "fs": "empty"
+  },
+  "module": {
+    "rules": [{
+      "test": /\.json$/,
+      "use": 'json-loader'
+    }]
   }
 }

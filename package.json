@@ -46,6 +46,7 @@
     "jsdox": "^0.4.10",
     "json-loader": "^0.5.4",
     "line-by-line": "^0.1.5",
+    "scandir": "^0.1.2",
     "should": "^11.2.1",
     "systeminformation": "^3.17.0",
     "webpack": "^2.6.1"
@@ -58,7 +59,7 @@
   },
   "repository": "s-a/muenchhausen",
   "scripts": {
-    "webpack": "node_modules/.bin/webpack --config webpack.config.js",
+    "webpack": "node_modules/.bin/webpack --config webpack.config.js && node build/pack-language.js",
     "prepublish": "gulp prepublish",
     "dev": "node index.js",
     "test": "gulp",
