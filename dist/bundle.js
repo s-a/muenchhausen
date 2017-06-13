@@ -63,15 +63,15 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 20);
+/******/ 	return __webpack_require__(__webpack_require__.s = 17);
 /******/ })
 /************************************************************************/
 /******/ ([
 /* 0 */
 /***/ (function(module, exports, __webpack_require__) {
 
-/* WEBPACK VAR INJECTION */(function(__dirname) { var fs = __webpack_require__(3);
- var path = __webpack_require__(4);
+/* WEBPACK VAR INJECTION */(function(__dirname) { var fs = __webpack_require__(20);
+ var path = __webpack_require__(21);
 
  function I18N(culture, i18nModuleName) {
    this.culture = culture;
@@ -85,6 +85,7 @@
 
 
  I18N.prototype.try = function (culture) {
+   this.triedculture = culture;
    var dir = path.join(__dirname, "..", "..", "/lib/i18n", this.i18nModuleName);
    var fn = path.join(dir, culture + ".json");
    var result = null;
@@ -113,8 +114,14 @@
      result = this.try("en");
    }
 
+
+   if (!result) { // addres fallback
+     result = this.try("us");
+   }
+
+
    if (!result) {
-     throw new Error("i18n module not found.");
+     throw new Error("i18n json file not found for " + this.culture + ". Last tried: ", this.triedculture);
    }
 
    return result;
@@ -131,7 +138,11 @@
    }
 
    if (!result) {
-     result = this.try("en");
+     result = this._i18n[this.i18nModuleName]["en"];
+   }
+
+   if (!result) { // address fallback
+     result = this._i18n[this.i18nModuleName]["us"];
    }
 
    return result;
@@ -5093,247 +5104,10 @@ module.exports = exports["default"];
 /* 2 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(22);
+module.exports = __webpack_require__(19);
 
 /***/ }),
 /* 3 */
-/***/ (function(module, exports) {
-
-
-
-/***/ }),
-/* 4 */
-/***/ (function(module, exports, __webpack_require__) {
-
-/* WEBPACK VAR INJECTION */(function(process) {// Copyright Joyent, Inc. and other Node contributors.
-//
-// Permission is hereby granted, free of charge, to any person obtaining a
-// copy of this software and associated documentation files (the
-// "Software"), to deal in the Software without restriction, including
-// without limitation the rights to use, copy, modify, merge, publish,
-// distribute, sublicense, and/or sell copies of the Software, and to permit
-// persons to whom the Software is furnished to do so, subject to the
-// following conditions:
-//
-// The above copyright notice and this permission notice shall be included
-// in all copies or substantial portions of the Software.
-//
-// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-// OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
-// NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
-// DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
-// OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
-// USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-// resolves . and .. elements in a path array with directory names there
-// must be no slashes, empty elements, or device names (c:\) in the array
-// (so also no leading and trailing slashes - it does not distinguish
-// relative and absolute paths)
-function normalizeArray(parts, allowAboveRoot) {
-  // if the path tries to go above the root, `up` ends up > 0
-  var up = 0;
-  for (var i = parts.length - 1; i >= 0; i--) {
-    var last = parts[i];
-    if (last === '.') {
-      parts.splice(i, 1);
-    } else if (last === '..') {
-      parts.splice(i, 1);
-      up++;
-    } else if (up) {
-      parts.splice(i, 1);
-      up--;
-    }
-  }
-
-  // if the path is allowed to go above the root, restore leading ..s
-  if (allowAboveRoot) {
-    for (; up--; up) {
-      parts.unshift('..');
-    }
-  }
-
-  return parts;
-}
-
-// Split a filename into [root, dir, basename, ext], unix version
-// 'root' is just a slash, or nothing.
-var splitPathRe =
-    /^(\/?|)([\s\S]*?)((?:\.{1,2}|[^\/]+?|)(\.[^.\/]*|))(?:[\/]*)$/;
-var splitPath = function(filename) {
-  return splitPathRe.exec(filename).slice(1);
-};
-
-// path.resolve([from ...], to)
-// posix version
-exports.resolve = function() {
-  var resolvedPath = '',
-      resolvedAbsolute = false;
-
-  for (var i = arguments.length - 1; i >= -1 && !resolvedAbsolute; i--) {
-    var path = (i >= 0) ? arguments[i] : process.cwd();
-
-    // Skip empty and invalid entries
-    if (typeof path !== 'string') {
-      throw new TypeError('Arguments to path.resolve must be strings');
-    } else if (!path) {
-      continue;
-    }
-
-    resolvedPath = path + '/' + resolvedPath;
-    resolvedAbsolute = path.charAt(0) === '/';
-  }
-
-  // At this point the path should be resolved to a full absolute path, but
-  // handle relative paths to be safe (might happen when process.cwd() fails)
-
-  // Normalize the path
-  resolvedPath = normalizeArray(filter(resolvedPath.split('/'), function(p) {
-    return !!p;
-  }), !resolvedAbsolute).join('/');
-
-  return ((resolvedAbsolute ? '/' : '') + resolvedPath) || '.';
-};
-
-// path.normalize(path)
-// posix version
-exports.normalize = function(path) {
-  var isAbsolute = exports.isAbsolute(path),
-      trailingSlash = substr(path, -1) === '/';
-
-  // Normalize the path
-  path = normalizeArray(filter(path.split('/'), function(p) {
-    return !!p;
-  }), !isAbsolute).join('/');
-
-  if (!path && !isAbsolute) {
-    path = '.';
-  }
-  if (path && trailingSlash) {
-    path += '/';
-  }
-
-  return (isAbsolute ? '/' : '') + path;
-};
-
-// posix version
-exports.isAbsolute = function(path) {
-  return path.charAt(0) === '/';
-};
-
-// posix version
-exports.join = function() {
-  var paths = Array.prototype.slice.call(arguments, 0);
-  return exports.normalize(filter(paths, function(p, index) {
-    if (typeof p !== 'string') {
-      throw new TypeError('Arguments to path.join must be strings');
-    }
-    return p;
-  }).join('/'));
-};
-
-
-// path.relative(from, to)
-// posix version
-exports.relative = function(from, to) {
-  from = exports.resolve(from).substr(1);
-  to = exports.resolve(to).substr(1);
-
-  function trim(arr) {
-    var start = 0;
-    for (; start < arr.length; start++) {
-      if (arr[start] !== '') break;
-    }
-
-    var end = arr.length - 1;
-    for (; end >= 0; end--) {
-      if (arr[end] !== '') break;
-    }
-
-    if (start > end) return [];
-    return arr.slice(start, end - start + 1);
-  }
-
-  var fromParts = trim(from.split('/'));
-  var toParts = trim(to.split('/'));
-
-  var length = Math.min(fromParts.length, toParts.length);
-  var samePartsLength = length;
-  for (var i = 0; i < length; i++) {
-    if (fromParts[i] !== toParts[i]) {
-      samePartsLength = i;
-      break;
-    }
-  }
-
-  var outputParts = [];
-  for (var i = samePartsLength; i < fromParts.length; i++) {
-    outputParts.push('..');
-  }
-
-  outputParts = outputParts.concat(toParts.slice(samePartsLength));
-
-  return outputParts.join('/');
-};
-
-exports.sep = '/';
-exports.delimiter = ':';
-
-exports.dirname = function(path) {
-  var result = splitPath(path),
-      root = result[0],
-      dir = result[1];
-
-  if (!root && !dir) {
-    // No dirname whatsoever
-    return '.';
-  }
-
-  if (dir) {
-    // It has a dirname, strip trailing slash
-    dir = dir.substr(0, dir.length - 1);
-  }
-
-  return root + dir;
-};
-
-
-exports.basename = function(path, ext) {
-  var f = splitPath(path)[2];
-  // TODO: make this comparison case-insensitive on windows?
-  if (ext && f.substr(-1 * ext.length) === ext) {
-    f = f.substr(0, f.length - ext.length);
-  }
-  return f;
-};
-
-
-exports.extname = function(path) {
-  return splitPath(path)[3];
-};
-
-function filter (xs, f) {
-    if (xs.filter) return xs.filter(f);
-    var res = [];
-    for (var i = 0; i < xs.length; i++) {
-        if (f(xs[i], i, xs)) res.push(xs[i]);
-    }
-    return res;
-}
-
-// String.prototype.substr - negative index don't work in IE8
-var substr = 'ab'.substr(-1) === 'b'
-    ? function (str, start, len) { return str.substr(start, len) }
-    : function (str, start, len) {
-        if (start < 0) start = str.length + start;
-        return str.substr(start, len);
-    }
-;
-
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(23)))
-
-/***/ }),
-/* 5 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -5344,27 +5118,27 @@ var substr = 'ab'.substr(-1) === 'b'
  * Constructor of the fake helper modules library.
  */
  var Fake = function(setup) {
-	this.Date = __webpack_require__(11);
+	this.Date = __webpack_require__(8);
 	this.date = new this.Date(setup);	
-	this.Emoji = __webpack_require__(13);
+	this.Emoji = __webpack_require__(10);
 	this.emoji = new this.Emoji(setup);
-	this.Number = __webpack_require__(14);
+	this.Number = __webpack_require__(11);
 	this.number = new this.Number(setup);
-	this.Phone = __webpack_require__(16);
+	this.Phone = __webpack_require__(13);
 	this.phone = new this.Phone(setup);
-	this.Time = __webpack_require__(18);
+	this.Time = __webpack_require__(15);
 	this.time = new this.Time(setup);	
-	this.Decimal = __webpack_require__(12);
+	this.Decimal = __webpack_require__(9);
 	this.decimal = new this.Decimal(setup);
-	this.Boolean = __webpack_require__(9);
+	this.Boolean = __webpack_require__(6);
 	this.boolean = new this.Boolean(setup);
-	this.Random = __webpack_require__(17);
+	this.Random = __webpack_require__(14);
 	this.random = new this.Random(setup);
-	this.Person = __webpack_require__(15);
+	this.Person = __webpack_require__(12);
 	this.person = new this.Person(setup);
-	this.Company = __webpack_require__(10);
+	this.Company = __webpack_require__(7);
 	this.company = new this.Company(setup);
-	this.Address = __webpack_require__(8);
+	this.Address = __webpack_require__(5);
 	this.address = new this.Address(setup);
 	return this;
 };
@@ -5375,7 +5149,7 @@ var substr = 'ab'.substr(-1) === 'b'
 module.exports = Fake;
 
 /***/ }),
-/* 6 */
+/* 4 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /*
@@ -5971,99 +5745,55 @@ module.exports = Fake;
 
 
 /***/ }),
-/* 7 */
-/***/ (function(module, exports) {
-
-function webpackEmptyContext(req) {
-	throw new Error("Cannot find module '" + req + "'.");
-}
-webpackEmptyContext.keys = function() { return []; };
-webpackEmptyContext.resolve = webpackEmptyContext;
-module.exports = webpackEmptyContext;
-webpackEmptyContext.id = 7;
-
-/***/ }),
-/* 8 */
+/* 5 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-/* WEBPACK VAR INJECTION */(function(__dirname) {
-
-var fs = __webpack_require__(3);
-var path = __webpack_require__(4);
 
 
-function Address(context) { 
-    this.culture = context.culture;
-    return this; 
-}
 
-var tryRequire = function(filename){
-  var result = null;
-  if (fs.existsSync(filename)){
-    result = !(function webpackMissingModule() { var e = new Error("Cannot find module \".\""); e.code = 'MODULE_NOT_FOUND'; throw e; }());
-  }
-  return result;
-}
+var I18n = __webpack_require__(0);
 
-var getI18nStorage = function(culture){
-  var cultureParts = culture.toLowerCase().split("-");
-  var dir = path.join(__dirname, "../../i18n/address");
-  var fn = cultureParts[0] + ".json";
-  var filename = path.join(dir, fn);
-  var storage = tryRequire(filename);
-  if (!storage){
-    fn = cultureParts[1] + ".json";
-    filename = path.join(dir, fn);
-    storage = tryRequire(filename);
-    if (!storage){
-      fn = "us.json";
-      filename = path.join(dir, fn);
-      storage = tryRequire(filename);
-/*      if (!storage){
-        console.log(culture, "nothing found");
-        process.exit(1)
-      }*/
-    }
-  }
-
-  return storage;
+function Address(context) {
+  this.culture = context.culture;
+  return this;
 }
 
 
-Address.prototype._random = function _random(items) { 
+
+Address.prototype._random = function _random(items) {
   var item = items[Math.floor(Math.random() * items.length)];
   return item;
 }
 
 
 
-Address.prototype.__random = function __random(context) {
-  this.value = ""; 
-  this.addressList = (this.addressList || getI18nStorage(context.culture || this.culture));
+Address.prototype.__random = function __random() {
+  this.value = "";
+  this.addressList = (this.addressList || new I18n(this.culture, "address").jsonLoader());
   this.currentAddress = this._random(this.addressList);
-  return ;
+  return;
 };
- 
+
 Address.prototype._rnd = function _rnd(context) {
-  if (!this.currentAddress){
+  if (!this.currentAddress) {
     this.__random(context);
   }
 }
- 
+
 Address.prototype._res = function _res(addressPart, context) {
   this._rnd(context);
-  if (addressPart === null){
+  if (addressPart === null) {
     return {
-      value : "",
-      text : function(){
+      value: "",
+      text: function () {
         return "";
       }
     }
   } else {
     return {
-      value : this.currentAddress[addressPart],
-      text : (function(){
+      value: this.currentAddress[addressPart],
+      text: (function () {
         return this.currentAddress[addressPart];
       }).bind(this)
     };
@@ -6160,7 +5890,7 @@ Address.prototype.district = function district(context) {
 Address.prototype.postcode = function postcode(context) {
   return this._res("postcode", context);
 };
- 
+
 /**
  * Returns a housenumber from current address.
  * JavaScript example: address.number()  
@@ -6173,12 +5903,12 @@ Address.prototype.postcode = function postcode(context) {
 Address.prototype.number = function number(context) {
   return this._res("number", context);
 };
- 
+
 module.exports = Address;
-/* WEBPACK VAR INJECTION */}.call(exports, "/"))
+
 
 /***/ }),
-/* 9 */
+/* 6 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -6207,7 +5937,7 @@ Boolean.prototype.random = function random() {
 module.exports = Boolean;
 
 /***/ }),
-/* 10 */
+/* 7 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -6244,7 +5974,7 @@ module.exports = Company;
 
 
 /***/ }),
-/* 11 */
+/* 8 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -6454,7 +6184,7 @@ module.exports = MDate;
 
 
 /***/ }),
-/* 12 */
+/* 9 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -6529,7 +6259,7 @@ module.exports = Decimal;
 
 
 /***/ }),
-/* 13 */
+/* 10 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -6576,7 +6306,7 @@ Emoji.prototype.icon = function icon(context) {
 module.exports = Emoji;
 
 /***/ }),
-/* 14 */
+/* 11 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -6649,7 +6379,7 @@ module.exports = MNumber;
 
 
 /***/ }),
-/* 15 */
+/* 12 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -6725,7 +6455,7 @@ module.exports = Person;
 
 
 /***/ }),
-/* 16 */
+/* 13 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -6817,7 +6547,7 @@ Phone.prototype.e164 = function e164(options) {
 module.exports = Phone;
 
 /***/ }),
-/* 17 */
+/* 14 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -6863,7 +6593,7 @@ Random.prototype.element = function now(context) {
 module.exports = Random;
 
 /***/ }),
-/* 18 */
+/* 15 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -7047,7 +6777,7 @@ module.exports = Time;
 
 
 /***/ }),
-/* 19 */
+/* 16 */
 /***/ (function(module, exports) {
 
 function webpackEmptyContext(req) {
@@ -7056,10 +6786,10 @@ function webpackEmptyContext(req) {
 webpackEmptyContext.keys = function() { return []; };
 webpackEmptyContext.resolve = webpackEmptyContext;
 module.exports = webpackEmptyContext;
-webpackEmptyContext.id = 19;
+webpackEmptyContext.id = 16;
 
 /***/ }),
-/* 20 */
+/* 17 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -7074,7 +6804,7 @@ webpackEmptyContext.id = 19;
       return string.charAt(0).toUpperCase() + string.slice(1);
   }
   */
-  var Fake = __webpack_require__(5);
+  var Fake = __webpack_require__(3);
 
   /**
    * Constructor of a fake library.
@@ -7118,7 +6848,7 @@ webpackEmptyContext.id = 19;
 
 
   function parse(str) {
-    var RJSON = __webpack_require__(6);
+    var RJSON = __webpack_require__(4);
     return RJSON.parse(str);
   }
 
@@ -7199,7 +6929,7 @@ webpackEmptyContext.id = 19;
 
 
 /***/ }),
-/* 21 */
+/* 18 */
 /***/ (function(module, exports) {
 
 module.exports = {
@@ -8547,11 +8277,11 @@ module.exports = {
 };
 
 /***/ }),
-/* 22 */
+/* 19 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /*jslint node: true*/
-__webpack_require__(24);
+__webpack_require__(23);
 
 "use strict";
 
@@ -8584,7 +8314,7 @@ var trim = function(str) {
  * Emoji namespace
  */
 var Emoji = module.exports = {
-  emoji: __webpack_require__(21)
+  emoji: __webpack_require__(18)
 };
 
 /**
@@ -8681,7 +8411,244 @@ Emoji.search = function search(str) {
 
 
 /***/ }),
-/* 23 */
+/* 20 */
+/***/ (function(module, exports) {
+
+
+
+/***/ }),
+/* 21 */
+/***/ (function(module, exports, __webpack_require__) {
+
+/* WEBPACK VAR INJECTION */(function(process) {// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software and associated documentation files (the
+// "Software"), to deal in the Software without restriction, including
+// without limitation the rights to use, copy, modify, merge, publish,
+// distribute, sublicense, and/or sell copies of the Software, and to permit
+// persons to whom the Software is furnished to do so, subject to the
+// following conditions:
+//
+// The above copyright notice and this permission notice shall be included
+// in all copies or substantial portions of the Software.
+//
+// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+// OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
+// NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+// DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+// OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+// USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+// resolves . and .. elements in a path array with directory names there
+// must be no slashes, empty elements, or device names (c:\) in the array
+// (so also no leading and trailing slashes - it does not distinguish
+// relative and absolute paths)
+function normalizeArray(parts, allowAboveRoot) {
+  // if the path tries to go above the root, `up` ends up > 0
+  var up = 0;
+  for (var i = parts.length - 1; i >= 0; i--) {
+    var last = parts[i];
+    if (last === '.') {
+      parts.splice(i, 1);
+    } else if (last === '..') {
+      parts.splice(i, 1);
+      up++;
+    } else if (up) {
+      parts.splice(i, 1);
+      up--;
+    }
+  }
+
+  // if the path is allowed to go above the root, restore leading ..s
+  if (allowAboveRoot) {
+    for (; up--; up) {
+      parts.unshift('..');
+    }
+  }
+
+  return parts;
+}
+
+// Split a filename into [root, dir, basename, ext], unix version
+// 'root' is just a slash, or nothing.
+var splitPathRe =
+    /^(\/?|)([\s\S]*?)((?:\.{1,2}|[^\/]+?|)(\.[^.\/]*|))(?:[\/]*)$/;
+var splitPath = function(filename) {
+  return splitPathRe.exec(filename).slice(1);
+};
+
+// path.resolve([from ...], to)
+// posix version
+exports.resolve = function() {
+  var resolvedPath = '',
+      resolvedAbsolute = false;
+
+  for (var i = arguments.length - 1; i >= -1 && !resolvedAbsolute; i--) {
+    var path = (i >= 0) ? arguments[i] : process.cwd();
+
+    // Skip empty and invalid entries
+    if (typeof path !== 'string') {
+      throw new TypeError('Arguments to path.resolve must be strings');
+    } else if (!path) {
+      continue;
+    }
+
+    resolvedPath = path + '/' + resolvedPath;
+    resolvedAbsolute = path.charAt(0) === '/';
+  }
+
+  // At this point the path should be resolved to a full absolute path, but
+  // handle relative paths to be safe (might happen when process.cwd() fails)
+
+  // Normalize the path
+  resolvedPath = normalizeArray(filter(resolvedPath.split('/'), function(p) {
+    return !!p;
+  }), !resolvedAbsolute).join('/');
+
+  return ((resolvedAbsolute ? '/' : '') + resolvedPath) || '.';
+};
+
+// path.normalize(path)
+// posix version
+exports.normalize = function(path) {
+  var isAbsolute = exports.isAbsolute(path),
+      trailingSlash = substr(path, -1) === '/';
+
+  // Normalize the path
+  path = normalizeArray(filter(path.split('/'), function(p) {
+    return !!p;
+  }), !isAbsolute).join('/');
+
+  if (!path && !isAbsolute) {
+    path = '.';
+  }
+  if (path && trailingSlash) {
+    path += '/';
+  }
+
+  return (isAbsolute ? '/' : '') + path;
+};
+
+// posix version
+exports.isAbsolute = function(path) {
+  return path.charAt(0) === '/';
+};
+
+// posix version
+exports.join = function() {
+  var paths = Array.prototype.slice.call(arguments, 0);
+  return exports.normalize(filter(paths, function(p, index) {
+    if (typeof p !== 'string') {
+      throw new TypeError('Arguments to path.join must be strings');
+    }
+    return p;
+  }).join('/'));
+};
+
+
+// path.relative(from, to)
+// posix version
+exports.relative = function(from, to) {
+  from = exports.resolve(from).substr(1);
+  to = exports.resolve(to).substr(1);
+
+  function trim(arr) {
+    var start = 0;
+    for (; start < arr.length; start++) {
+      if (arr[start] !== '') break;
+    }
+
+    var end = arr.length - 1;
+    for (; end >= 0; end--) {
+      if (arr[end] !== '') break;
+    }
+
+    if (start > end) return [];
+    return arr.slice(start, end - start + 1);
+  }
+
+  var fromParts = trim(from.split('/'));
+  var toParts = trim(to.split('/'));
+
+  var length = Math.min(fromParts.length, toParts.length);
+  var samePartsLength = length;
+  for (var i = 0; i < length; i++) {
+    if (fromParts[i] !== toParts[i]) {
+      samePartsLength = i;
+      break;
+    }
+  }
+
+  var outputParts = [];
+  for (var i = samePartsLength; i < fromParts.length; i++) {
+    outputParts.push('..');
+  }
+
+  outputParts = outputParts.concat(toParts.slice(samePartsLength));
+
+  return outputParts.join('/');
+};
+
+exports.sep = '/';
+exports.delimiter = ':';
+
+exports.dirname = function(path) {
+  var result = splitPath(path),
+      root = result[0],
+      dir = result[1];
+
+  if (!root && !dir) {
+    // No dirname whatsoever
+    return '.';
+  }
+
+  if (dir) {
+    // It has a dirname, strip trailing slash
+    dir = dir.substr(0, dir.length - 1);
+  }
+
+  return root + dir;
+};
+
+
+exports.basename = function(path, ext) {
+  var f = splitPath(path)[2];
+  // TODO: make this comparison case-insensitive on windows?
+  if (ext && f.substr(-1 * ext.length) === ext) {
+    f = f.substr(0, f.length - ext.length);
+  }
+  return f;
+};
+
+
+exports.extname = function(path) {
+  return splitPath(path)[3];
+};
+
+function filter (xs, f) {
+    if (xs.filter) return xs.filter(f);
+    var res = [];
+    for (var i = 0; i < xs.length; i++) {
+        if (f(xs[i], i, xs)) res.push(xs[i]);
+    }
+    return res;
+}
+
+// String.prototype.substr - negative index don't work in IE8
+var substr = 'ab'.substr(-1) === 'b'
+    ? function (str, start, len) { return str.substr(start, len) }
+    : function (str, start, len) {
+        if (start < 0) start = str.length + start;
+        return str.substr(start, len);
+    }
+;
+
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(22)))
+
+/***/ }),
+/* 22 */
 /***/ (function(module, exports) {
 
 // shim for using process in browser
@@ -8867,7 +8834,7 @@ process.umask = function() { return 0; };
 
 
 /***/ }),
-/* 24 */
+/* 23 */
 /***/ (function(module, exports) {
 
 /*! http://mths.be/codepointat v0.2.0 by @mathias */

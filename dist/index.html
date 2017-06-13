@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title></title>
+  <script type="text/javascript" src="muenchhausen-all-languages-min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/should.js/11.2.1/should.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mocha/3.4.2/mocha.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mocha/3.4.2/mocha.css" />
+</head>
+
+<body>
+
+  <div id="mocha">
+    <p><a href=".">Index</a></p>
+  </div>
+  <div id="messages"></div>
+  <div id="fixtures"></div>
+  <script src="cow.js"></script>
+  <script>
+    mocha.setup('bdd');
+    var muenchhausen = new Muenchhausen("en-GB");
+
+  </script>
+  <script>
+    describe("muenchhausen weekday name", function () {
+      it("should render a weeday in english!", function () {
+        var a = new Muenchhausen("en-GB");
+        var merchandiseTVSpotText = "$(date.weekday)";
+        var news = a.render(merchandiseTVSpotText);
+        news.should.be.equalOneOf("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
+      });
+
+      it("should render a weekday in german!", function () {
+        var b = new Muenchhausen("de-DE");
+        var merchandiseTVSpotText = "$(date.weekday)";
+        var news = b.render(merchandiseTVSpotText);
+        news.should.be.equalOneOf("Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag",
+          "Sonntag");
+      });
+    });
+
+    describe("muenchhausen month name", function () {
+      it("should render a month name in english!", function () {
+        var c = new Muenchhausen("en-GB");
+        var merchandiseTVSpotText = "$(date.month)";
+        var news = c.render(merchandiseTVSpotText);
+        news.should.be.equalOneOf("January", "February", "March", "April", "May", "June", "July", "August",
+          "September", "October", "November", "December");
+      });
+
+      it("should render a month name in german!", function () {
+        var d = new Muenchhausen("de-DE");
+        var merchandiseTVSpotText = "$(date.month)";
+        var news = d.render(merchandiseTVSpotText);
+        news.should.be.equalOneOf("Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August",
+          "September", "Oktober", "November", "Dezember");
+      });
+    });
+    describe("muenchhausen emojis", function () {
+      it("should render 3 fake emojis!", function () {
+        var merchandiseTVSpotText = "$(emoji.random)$(emoji.icon name:heart)$(emoji.icon)";
+        var news = muenchhausen.render(merchandiseTVSpotText);
+        news.length.should.above(3);
+      });
+      it("should render a heart!", function () {
+        var merchandiseTVSpotText = "$(emoji.icon name:heart)";
+        var news = muenchhausen.render(merchandiseTVSpotText);
+        news.should.equal("❤️");
+      });
+    });
+
+    describe("muenchhausen random", function () {
+      it("should render 3 random items!", function () {
+        var merchandiseTVSpotText =
+          "$(random.element of:[mh-1,mh-2,mh-3]) $(random.element) $(random.element of:{foo:5,unicorn:true,rainbow:blue})";
+        var news = muenchhausen.render(merchandiseTVSpotText);
+        news.length.should.above(3);
+      });
+    });
+
+    describe("muenchhausen person", function () {
+      it("should render with unknown culture string!", function () {
+        var muenchhausen = new Muenchhausen("zh-TW");
+        var merchandiseTVSpotText =
+          "$(date.now.text suffix:this)-$(date.random.value suffix:format,min:20200901)  $(date.random)";
+        var news = muenchhausen.render(merchandiseTVSpotText);
+        news.length.should.be.above(10);
+      });
+    });
+
+    describe("muenchhausen number", function () {
+      it("should render a number!", function () {
+        var merchandiseTVSpotText = "$(number.random)";
+        var news = muenchhausen.render(merchandiseTVSpotText);
+        news.length.should.above(0);
+      });
+      it("should render a number between 100 and 200!", function () {
+        var merchandiseTVSpotText = "$(number.random.value min:100,max:200)";
+        var news = muenchhausen.render(merchandiseTVSpotText);
+        var i = parseInt(news);
+        i.should.above(100);
+        i.should.below(200);
+      });
+    });
+
+
+
+    describe("muenchhausen main rendering", function () {
+      it("should render random data!", function () {
+        var merchandiseTVSpotText =
+          "$(date.now.text suffix:this)-$(date.random.value suffix:format,min:20200901)  $(date.random)";
+        var news = muenchhausen.render(merchandiseTVSpotText);
+        news.length.should.be.above(10);
+      });
+
+      it("should fail to render random data!", function () {
+        var trigger = function () {
+          var merchandiseTVSpotText = "$(date.now__OMG)";
+          /*var news = */
+          muenchhausen.render(merchandiseTVSpotText);
+        };
+        should.throws(trigger, "E_FAKE_METHOD_NOT_FOUND")
+      });
+    });
+
+
+
+    describe("muenchhausen decimal", function () {
+      it("should render a decimal!", function () {
+        var merchandiseTVSpotText = "$(decimal.random)";
+        var news = muenchhausen.render(merchandiseTVSpotText);
+        news.length.should.above(0);
+      });
+
+      it("should render a decimal between 100 and 200!", function () {
+        var merchandiseTVSpotText = "$(decimal.random.value min:100,max:200)";
+        var news = muenchhausen.render(merchandiseTVSpotText);
+        var i = parseFloat(news);
+        i.should.above(100);
+        i.should.below(200);
+      });
+
+      it("should render a decimal between 100 and 200 with 3 decimal places!", function () {
+        var merchandiseTVSpotText = "$(decimal.random min:100,max:200,decimalplaces:3)";
+        var news = muenchhausen.render(merchandiseTVSpotText);
+        var i = parseInt(news);
+        i.should.above(100);
+        i.should.below(200);
+        var s = news.split(muenchhausen.fake.decimal.i18n.numberFormatInfo.NumberDecimalSeparator);
+        s.length.should.equal(2);
+        var e = s[s.length - 1];
+        e.length.should.equal(3);
+      });
+    });
+
+
+
+    describe("Validate fake methods", function () {
+
+      function testExpectedFunction(name, fn, f) {
+        it(fn + " function should have function ." + name + "() which returns a string", function () {
+          var x = f({
+            culture: "en-GB"
+          });
+          var type = (typeof x[name]);
+          type.should.be.equal("function");
+          var test = x[name]({
+            culture: "en-GB"
+          });
+          var typeTestResult = (typeof test);
+          type.should.not.equal(undefined);
+          type.should.not.equal(null);
+          //test.should.not.equal("");
+          typeTestResult.should.be.equal("string");
+        });
+      }
+
+      function testExpectedProperty(name, fn, f) {
+        it(fn + " function should have property ." + name, function () {
+          var x = f({});
+          var type = (typeof x[name]);
+          type.should.be.equalOneOf("string", "object", "number", "boolean");
+        });
+      }
+
+      muenchhausen.eachModuleFunction(muenchhausen.fake, context, function (fn, f) {
+        describe(fn, function () {
+          testExpectedFunction("text", fn, f)
+          testExpectedProperty("value", fn, f)
+        });
+      });
+
+    });
+
+  </script>
+  <script>
+    mocha.run();
+
+  </script>
+
+</body>
+
+</html>

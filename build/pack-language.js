@@ -23,7 +23,7 @@ function bundle(languageFilter) {
     }
     var js = fs.readFileSync(path.join(__dirname, "..", "/dist/bundle.js")).toString()
     var js = "(function(){\nvar i18n = " + JSON.stringify(result, null, "  ", 4) + ";\n" + js + "\n})();";
-    fs.writeFileSync(path.join(__dirname, "..", "/dist/muenchhausen-" + languageFilter.replace("*", "all-languages") + ".js"), js)
+    fs.writeFileSync(path.join(__dirname, "..", "/dist/muenchhausen-" + languageFilter.replace("*", "all-languages").toLowerCase() + ".js"), js)
   });
 }
 
