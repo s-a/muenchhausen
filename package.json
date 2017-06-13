@@ -1,6 +1,6 @@
 {
   "name": "muenchhausen",
-  "version": "0.0.10",
+  "version": "1.0.0",
   "description": "Produce authentic mockup fake data",
   "homepage": "https://github.com/s-a/muenchhausen",
   "author": {
@@ -44,9 +44,14 @@
     "gulp-plumber": "^1.0.0",
     "handlebars": "^4.0.6",
     "jsdox": "^0.4.10",
+    "json-loader": "^0.5.4",
     "line-by-line": "^0.1.5",
+    "minimist": "^1.2.0",
+    "scandir": "^0.1.2",
     "should": "^11.2.1",
-    "systeminformation": "^3.17.0"
+    "systeminformation": "^3.17.0",
+    "uglify-js": "^3.0.15",
+    "webpack": "^2.6.1"
   },
   "eslintConfig": {
     "extends": "xo-space",
@@ -56,6 +61,11 @@
   },
   "repository": "s-a/muenchhausen",
   "scripts": {
+    "webpack": "node_modules/.bin/webpack --config webpack.config.js",
+    "bundle-all": "node build/pack-language.js --languagefilter * && uglifyjs --compress --mangle -- dist/muenchhausen-all-languages.js > dist\\muenchhausen-all-languages-min.js",
+    "bundle-de": "node build/pack-language.js --languagefilter de-DE && uglifyjs --compress --mangle -- dist/muenchhausen-de-de.js > dist\\muenchhausen-de-de-min.js",
+    "bundle-en": "node build/pack-language.js --languagefilter en-GB && uglifyjs --compress --mangle -- dist/muenchhausen-en-gb.js > dist\\muenchhausen-en-gb-min.js",
+    "bundle": "npm run webpack && npm run bundle-all && npm run bundle-de && npm run bundle-en",
     "prepublish": "gulp prepublish",
     "dev": "node index.js",
     "test": "gulp",
