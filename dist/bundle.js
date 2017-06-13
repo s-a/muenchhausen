@@ -104,9 +104,11 @@
    if (!result) {
      result = this.try(this.culture.split("-")[0]);
    }
+
    if (!result) {
      result = this.try("en-GB");
    }
+
    if (!result) {
      result = this.try("en");
    }
@@ -114,6 +116,7 @@
    if (!result) {
      throw new Error("i18n module not found.");
    }
+
    return result;
  };
 
@@ -122,9 +125,15 @@
    if (!result) {
      result = this._i18n[this.i18nModuleName][this.culture.split("-")[0]];
    }
+
    if (!result) {
      result = this._i18n[this.i18nModuleName]["en-GB"];
    }
+
+   if (!result) {
+     result = this.try("en");
+   }
+
    return result;
  };
 
