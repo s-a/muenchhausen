@@ -100,8 +100,4 @@ MIT © [s-a](https://github.com/s-a)
 [coveralls-image]: https://coveralls.io/repos/github/s-a/muenchhausen/badge.svg?branch=master
 
 [coveralls-url]: https://coveralls.io/github/s-a/muenchhausen?branch=master
-<<<<<<< .mine
-[coveralls-url]: https://coveralls.io/github/s-a/muenchhausen?branch=master
-=======
-
->>>>>>> .theirs
+  
