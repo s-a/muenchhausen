@@ -2,3 +2,4 @@ node_modules
 coverage
 /DataGenerator/wiki-download-names/BasicCompanyDataAsOneFile-2017-03-06.csv
 /scripts/*.log
+/dist
