@@ -66,15 +66,16 @@
     "bundle-de": "node build/pack-language.js --languagefilter de-DE && uglifyjs --compress --mangle -- dist/muenchhausen-de-de.js > dist\\muenchhausen-de-de-min.js",
     "bundle-en": "node build/pack-language.js --languagefilter en-GB && uglifyjs --compress --mangle -- dist/muenchhausen-en-gb.js > dist\\muenchhausen-en-gb-min.js",
     "bundle": "npm run webpack && npm run bundle-all && npm run bundle-de && npm run bundle-en",
+    "tests": "npm run eslint && npm run coverage",
     "prepublish": "npm run tests",
     "dev": "node index.js",
-    "tests": "npm run eslint && npm run coverage",
-    "test": "node node_modules/mocha/bin/_mocha",
+    "mocha": "node node_modules/mocha/bin/_mocha",
+    "test": "npm run mocha",
     "docs": "node scripts/docs.js",
     "debug": "iron-node node_modules/mocha/bin/_mocha",
-    "bump": "node node_modules/mocha/bin/_mocha && npm version patch && git push && git push --tags && npm publish",
+    "bump": "npm run mocha && npm version patch && git push && git push --tags && npm publish",
     "benchmark": "node scripts/benchmark.js > docs/BENCHMARK.md",
-    "make": ""
+    "make": "npm run tests && npm run bundle"
   },
   "license": "MIT",
   "dependencies": {
