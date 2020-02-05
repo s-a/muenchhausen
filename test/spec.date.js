@@ -34,7 +34,7 @@ describe("muenchhausen month name", function () {
     news.should.be.equalOneOf("Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember");
   });
 
-  describe.only("muenchhausen date creation", function () {
+  describe("muenchhausen date creation", function () {
     it("should render a date within the specified range every time", function () {
       var c = new Muenchhausen("en-GB");
       var minDate = ["2020", "01", "01"]
