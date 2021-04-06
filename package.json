@@ -46,7 +46,7 @@
     "scandir": "^0.1.2",
     "should": "^13.2.3",
     "sigmund": "^1.0.1",
-    "systeminformation": "^4.21.1",
+    "systeminformation": "^5.6.4",
     "uglify-js": "^3.7.7",
     "webpack": "^4.41.5"
   },
